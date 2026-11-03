@@ -1,0 +1,474 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Emotional Intimacy and Trust",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Self-Reflection and Awareness",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Relationship Dynamics and Communication",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Personal Growth and Development",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Vulnerability and Openness",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 6": {
+      "Title": "Emotional Regulation and Empathy",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 7": {
+      "Title": "Self-Awareness and Introspection",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 8": {
+      "Title": "Interdependence and Mutual Support",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 9": {
+      "Title": "Emotional Expression and Validation",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 10": {
+      "Title": "Therapeutic Progress and Insight",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 11": {
+      "Title": "Self-Discovery and Exploration",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 12": {
+      "Title": "Relationship Satisfaction and Commitment",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 13": {
+      "Title": "Emotional Connection and Intimacy",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 14": {
+      "Title": "Personal Responsibility and Agency",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 15": {
+      "Title": "Emotional Awareness and Expression",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 16": {
+      "Title": "Self-Reflection and Personal Growth",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 17": {
+      "Title": "Emotional Connection and Empathy",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 18": {
+      "Title": "Self-Awareness and Emotional Regulation",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 19": {
+      "Title": "Emotional Expression and Validation",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 20": {
+      "Title": "Self-Discovery and Exploration",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 21": {
+      "Title": "Emotional Awareness and Expression",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 22": {
+      "Title": "Self-Reflection and Personal Growth",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional intimacy and trust are closely linked to self-reflection and awareness."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection and awareness can help to mitigate relationship dynamics and communication issues."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Relationship dynamics and communication are closely linked to personal growth and development."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Personal growth and development can help to reduce vulnerability and openness issues."
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability and openness are closely linked to emotional regulation and empathy."
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 7"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional regulation and empathy can help to mitigate self-awareness and introspection issues."
+    },
+    {
+      "input_themes": [
+        "Theme 7",
+        "Theme 8"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and introspection are closely linked to interdependence and mutual support."
+    },
+    {
+      "input_themes": [
+        "Theme 8",
+        "Theme 9"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Interdependence and mutual support can help to reduce emotional expression and validation issues."
+    },
+    {
+      "input_themes": [
+        "Theme 9",
+        "Theme 10"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional expression and validation are closely linked to therapeutic progress and insight."
+    },
+    {
+      "input_themes": [
+        "Theme 10",
+        "Theme 11"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Therapeutic progress and insight can help to mitigate self-discovery and exploration issues."
+    },
+    {
+      "input_themes": [
+        "Theme 11",
+        "Theme 12"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-discovery and exploration are closely linked to relationship satisfaction and commitment."
+    },
+    {
+      "input_themes": [
+        "Theme 12",
+        "Theme 13"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Relationship satisfaction and commitment can help to reduce emotional connection and intimacy issues."
+    },
+    {
+      "input_themes": [
+        "Theme 13",
+        "Theme 14"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional connection and intimacy are closely linked to personal responsibility and agency."
+    },
+    {
+      "input_themes": [
+        "Theme 14",
+        "Theme 15"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Personal responsibility and agency can help to mitigate emotional awareness and expression issues."
+    },
+    {
+      "input_themes": [
+        "Theme 15",
+        "Theme 16"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional awareness and expression are closely linked to self-reflection and personal growth."
+    },
+    {
+      "input_themes": [
+        "Theme 16",
+        "Theme 17"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-reflection and personal growth can help to reduce emotional connection and empathy issues."
+    },
+    {
+      "input_themes": [
+        "Theme 17",
+        "Theme 18"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional connection and empathy are closely linked to self-awareness and emotional regulation."
+    },
+    {
+      "input_themes": [
+        "Theme 18",
+        "Theme 19"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and emotional regulation can help to mitigate emotional expression and validation issues."
+    },
+    {
+      "input_themes": [
+        "Theme 19",
+        "Theme 20"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional expression and validation are closely linked to self-discovery and exploration."
+    },
+    {
+      "input_themes": [
+        "Theme 20",
+        "Theme 21"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-discovery and exploration can help to reduce emotional awareness and expression issues."
+    },
+    {
+      "input_themes": [
+        "Theme 21",
+        "Theme 22"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional awareness and expression are closely linked to self-reflection and personal growth."
+    }
+  ]
+}

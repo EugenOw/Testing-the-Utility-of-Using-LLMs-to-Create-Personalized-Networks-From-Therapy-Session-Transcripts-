@@ -1,0 +1,110 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Exploring the impact of past experiences on current relationships",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Challenging negative thoughts and emotions",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Understanding the role of guilt and personalization in relationships",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Reframing thoughts to reduce anxiety and worry",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences influence current relationships, which can lead to negative thoughts and emotions."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging negative thoughts can help reduce the impact of past experiences on current relationships."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Guilt and personalization can be linked to past experiences and their impact on current relationships."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reframing thoughts can help reduce anxiety and worry, which can be triggered by negative thoughts and emotions."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing thoughts can help reduce guilt and personalization, leading to a more positive relationship dynamic."
+    }
+  ]
+}

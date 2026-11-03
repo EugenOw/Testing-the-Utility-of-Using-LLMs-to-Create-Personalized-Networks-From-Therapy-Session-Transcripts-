@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Process Network</title>
+    <script src="https://unpkg.com/cytoscape@3.21.1/dist/cytoscape.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #cy {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        .legend {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 14px;
+            z-index: 10;
+        }
+        .tooltip {
+            position: absolute;
+            background: #fefefe;
+            border: 1px solid #aaa;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 13px;
+            max-width: 300px;
+            z-index: 20;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            cursor: default;
+        }
+        .tooltip .close-btn {
+            float: right;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="cy"></div>
+    <div class="legend">
+        <b>Legend</b><br>
+        <span style="color:#e74c3c;">Red</span>: Inhibitory<br>
+        <span style="color:#3498db;">Blue</span>: Excitatory<br>
+        <hr style="border-top: 1px dashed #aaa; margin: 4px 0;">
+        Dashed line = Weak<br>
+        Solid thin = Moderate<br>
+        Solid thick = Strong<br>
+        <hr>
+        <b>Dimensions</b><br>
+        🔴 Cognition<br>
+        🟠 Attention<br>
+        🟡 Motivation<br>
+        🟢 (Overt) Behaviour<br>
+        🔵 Sense of Self<br>
+        🟣 Context/Moderators<br>
+        🟤 Affect<br>
+        ⚪ Sociocultural<br>
+        ⚫ Biophysiological
+    </div>
+    <script>
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            layout: { name: 'cose' },
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'text-wrap': 'wrap',
+                        'text-max-width': 100,
+                        'text-valign': 'center',
+                        'text-halign': 'center',
+                        'background-color': '#ffffff',
+                        'border-color': '#000000',
+                        'border-width': 1,
+                        'color': '#000',
+                        'font-size': 10,
+                        'width': 'label',
+                        'height': 'label',
+                        'padding': 10
+                    }
+                },
+                {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'target-arrow-shape': 'triangle',
+                        'arrow-scale': 1.2,
+                        'label': '',
+                        'font-size': 9,
+                        'text-rotation': 'autorotate',
+                        'text-margin-y': -10,
+                        'line-color': 'data(color)',
+                        'target-arrow-color': 'data(color)',
+                        'width': 'data(width)',
+                        'line-style': 'data(lineStyle)'
+                    }
+                }
+            ],
+            elements: [{"data": {"id": "Difficulty articulating thoughts and feelings due to cognitive overload", "label": "Difficulty articulating thoughts and feelings due to cognitive overload\n\ud83d\udfe2 \ud83d\udd34 \ud83d\udfe3\nFrequency: 3"}}, {"data": {"id": "Difficulty with focus and concentration due to information overload", "label": "Difficulty with focus and concentration due to information overload\n\ud83d\udd34\nFrequency: 1"}}, {"data": {"id": "Self-perception of being literal-minded and its implications on daily interactions", "label": "Self-perception of being literal-minded and its implications on daily interactions\n\ud83d\udd34 \ud83d\udd35\nFrequency: 2"}}, {"data": {"id": "Importance of structural parameters in understanding and navigating the environment", "label": "Importance of structural parameters in understanding and navigating the environment\n\ud83d\udd34\nFrequency: 1"}}, {"data": {"id": "Frustration with rigid systems and lack of control", "label": "Frustration with rigid systems and lack of control\n\ud83d\udfe2 \ud83d\udfe3\nFrequency: 1"}}, {"data": {"id": "Self-awareness of limitations and their emotional implications", "label": "Self-awareness of limitations and their emotional implications\n\ud83d\udd34 \ud83d\udd35\nFrequency: 1"}}, {"data": {"id": "Tendency to make mistakes and their impact on self-esteem", "label": "Tendency to make mistakes and their impact on self-esteem\n\ud83d\udfe2 \ud83d\udd34 \ud83d\udd35\nFrequency: 2"}}, {"data": {"id": "Impact of past experiences on current emotional regulation", "label": "Impact of past experiences on current emotional regulation\n\ud83d\udfe2 \ud83d\udd34\nFrequency: 1"}}, {"data": {"id": "Feeling ineffective when blocked and its relation to self-perception", "label": "Feeling ineffective when blocked and its relation to self-perception\n\ud83d\udfe4\nFrequency: 1"}}, {"data": {"id": "Embarrassment and its relation to age and social expectations", "label": "Embarrassment and its relation to age and social expectations\n\ud83d\udfe4\nFrequency: 2"}}, {"data": {"id": "Struggling with technology and its emotional consequences", "label": "Struggling with technology and its emotional consequences\n\ud83d\udfe2 \ud83d\udd34\nFrequency: 1"}}, {"data": {"id": "Uncertainty about scheduling and its emotional impact", "label": "Uncertainty about scheduling and its emotional impact\n\ud83d\udd34 \ud83d\udfe3\nFrequency: 1"}}, {"data": {"id": "Difficulty articulating thoughts and feelings due to cognitive overload_Difficulty with focus and concentration due to information overload_1", "source": "Difficulty articulating thoughts and feelings due to cognitive overload", "target": "Difficulty with focus and concentration due to information overload", "pair_label": "1", "info": "<b>Pair:</b> 1<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive overload can exacerbate information overload.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-perception of being literal-minded and its implications on daily interactions_Importance of structural parameters in understanding and navigating the environment_95", "source": "Self-perception of being literal-minded and its implications on daily interactions", "target": "Importance of structural parameters in understanding and navigating the environment", "pair_label": "95", "info": "<b>Pair:</b> 95<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Literal-minded individuals often rely on clear structures\nfor communication and understanding, enhancing the\nimportance of structural parameters.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-perception of being literal-minded and its implications on daily interactions_Frustration with rigid systems and lack of control_93", "source": "Self-perception of being literal-minded and its implications on daily interactions", "target": "Frustration with rigid systems and lack of control", "pair_label": "93", "info": "<b>Pair:</b> 93<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Literal-mindedness can heighten sensitivity to rigidity and\nlack of control.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Importance of structural parameters in understanding and navigating the environment_Difficulty articulating thoughts and feelings due to cognitive overload_67", "source": "Importance of structural parameters in understanding and navigating the environment", "target": "Difficulty articulating thoughts and feelings due to cognitive overload", "pair_label": "67", "info": "<b>Pair:</b> 67<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Structural parameters can help organize cognitive load.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Importance of structural parameters in understanding and navigating the environment_Difficulty with focus and concentration due to information overload_68", "source": "Importance of structural parameters in understanding and navigating the environment", "target": "Difficulty with focus and concentration due to information overload", "pair_label": "68", "info": "<b>Pair:</b> 68<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Clarity of structural parameters can alleviate information\noverload.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Importance of structural parameters in understanding and navigating the environment_Self-awareness of limitations and their emotional implications_73", "source": "Importance of structural parameters in understanding and navigating the environment", "target": "Self-awareness of limitations and their emotional implications", "pair_label": "73", "info": "<b>Pair:</b> 73<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Awareness of environmental parameters enhances self-\nawareness of limitations.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tendency to make mistakes and their impact on self-esteem_Impact of past experiences on current emotional regulation_116", "source": "Tendency to make mistakes and their impact on self-esteem", "target": "Impact of past experiences on current emotional regulation", "pair_label": "116", "info": "<b>Pair:</b> 116<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past mistakes negatively reinforce self-doubt, impacting\nemotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tendency to make mistakes and their impact on self-esteem_Feeling ineffective when blocked and its relation to self-perception_114", "source": "Tendency to make mistakes and their impact on self-esteem", "target": "Feeling ineffective when blocked and its relation to self-perception", "pair_label": "114", "info": "<b>Pair:</b> 114<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mistakes can foster a sense of ineffectiveness.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Embarrassment and its relation to age and social expectations_Impact of past experiences on current emotional regulation_27", "source": "Embarrassment and its relation to age and social expectations", "target": "Impact of past experiences on current emotional regulation", "pair_label": "27", "info": "<b>Pair:</b> 27<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past experiences shape emotional responses to embarrassment.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of past experiences on current emotional regulation_Difficulty articulating thoughts and feelings due to cognitive overload_56", "source": "Impact of past experiences on current emotional regulation", "target": "Difficulty articulating thoughts and feelings due to cognitive overload", "pair_label": "56", "info": "<b>Pair:</b> 56<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past experiences can overwhelm cognitive resources, making\nit harder to articulate thoughts and feelings.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of past experiences on current emotional regulation_Self-awareness of limitations and their emotional implications_62", "source": "Impact of past experiences on current emotional regulation", "target": "Self-awareness of limitations and their emotional implications", "pair_label": "62", "info": "<b>Pair:</b> 62<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past experiences inform self-awareness", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling with technology and its emotional consequences_Difficulty articulating thoughts and feelings due to cognitive overload_100", "source": "Struggling with technology and its emotional consequences", "target": "Difficulty articulating thoughts and feelings due to cognitive overload", "pair_label": "100", "info": "<b>Pair:</b> 100<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased frustration", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling with technology and its emotional consequences_Tendency to make mistakes and their impact on self-esteem_109", "source": "Struggling with technology and its emotional consequences", "target": "Tendency to make mistakes and their impact on self-esteem", "pair_label": "109", "info": "<b>Pair:</b> 109<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Frustration with technology can amplify self-criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling with technology and its emotional consequences_Feeling ineffective when blocked and its relation to self-perception_103", "source": "Struggling with technology and its emotional consequences", "target": "Feeling ineffective when blocked and its relation to self-perception", "pair_label": "103", "info": "<b>Pair:</b> 103<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Frustration amplifies feelings of ineffectiveness.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling with technology and its emotional consequences_Difficulty with focus and concentration due to information overload_101", "source": "Struggling with technology and its emotional consequences", "target": "Difficulty with focus and concentration due to information overload", "pair_label": "101", "info": "<b>Pair:</b> 101<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased stress and frustration from struggling with\ntechnology can exacerbate difficulties with focus and\nconcentration.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling with technology and its emotional consequences_Frustration with rigid systems and lack of control_104", "source": "Struggling with technology and its emotional consequences", "target": "Frustration with rigid systems and lack of control", "pair_label": "104", "info": "<b>Pair:</b> 104<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Frustration with technology can amplify feelings of\nfrustration with rigid systems.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Feeling ineffective when blocked and its relation to self-perception_Tendency to make mistakes and their impact on self-esteem_43", "source": "Feeling ineffective when blocked and its relation to self-perception", "target": "Tendency to make mistakes and their impact on self-esteem", "pair_label": "43", "info": "<b>Pair:</b> 43<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reinforces negative self-image", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Feeling ineffective when blocked and its relation to self-perception_Frustration with rigid systems and lack of control_37", "source": "Feeling ineffective when blocked and its relation to self-perception", "target": "Frustration with rigid systems and lack of control", "pair_label": "37", "info": "<b>Pair:</b> 37<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Feeling ineffective fuels frustration", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Feeling ineffective when blocked and its relation to self-perception_Self-awareness of limitations and their emotional implications_40", "source": "Feeling ineffective when blocked and its relation to self-perception", "target": "Self-awareness of limitations and their emotional implications", "pair_label": "40", "info": "<b>Pair:</b> 40<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Recognizing one's limitations and their emotional impact can\namplify feelings of ineffectiveness when faced with\nobstacles.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty with focus and concentration due to information overload_Difficulty articulating thoughts and feelings due to cognitive overload_12", "source": "Difficulty with focus and concentration due to information overload", "target": "Difficulty articulating thoughts and feelings due to cognitive overload", "pair_label": "12", "info": "<b>Pair:</b> 12<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive overload exacerbates both.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty with focus and concentration due to information overload_Frustration with rigid systems and lack of control_15", "source": "Difficulty with focus and concentration due to information overload", "target": "Frustration with rigid systems and lack of control", "pair_label": "15", "info": "<b>Pair:</b> 15<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Overwhelming information and lack of control amplify\nfeelings of frustration.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Frustration with rigid systems and lack of control_Feeling ineffective when blocked and its relation to self-perception_48", "source": "Frustration with rigid systems and lack of control", "target": "Feeling ineffective when blocked and its relation to self-perception", "pair_label": "48", "info": "<b>Pair:</b> 48<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Frustration with rigid systems can exacerbate the feeling of\nineffectiveness, reinforcing negative self-perception.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Uncertainty about scheduling and its emotional impact_Difficulty with focus and concentration due to information overload_123", "source": "Uncertainty about scheduling and its emotional impact", "target": "Difficulty with focus and concentration due to information overload", "pair_label": "123", "info": "<b>Pair:</b> 123<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Anxiety from uncertain scheduling amplifies information\noverload.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Uncertainty about scheduling and its emotional impact_Frustration with rigid systems and lack of control_126", "source": "Uncertainty about scheduling and its emotional impact", "target": "Frustration with rigid systems and lack of control", "pair_label": "126", "info": "<b>Pair:</b> 126<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Uncertainty fuels frustration.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-awareness of limitations and their emotional implications_Embarrassment and its relation to age and social expectations_80", "source": "Self-awareness of limitations and their emotional implications", "target": "Embarrassment and its relation to age and social expectations", "pair_label": "80", "info": "<b>Pair:</b> 80<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Recognizing personal limitations can lead to feelings of\nembarrassment, especially when these limitations are\nperceived as inconsistent with age or social expectations.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-awareness of limitations and their emotional implications_Impact of past experiences on current emotional regulation_83", "source": "Self-awareness of limitations and their emotional implications", "target": "Impact of past experiences on current emotional regulation", "pair_label": "83", "info": "<b>Pair:</b> 83<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Recognizing personal limitations can trigger recall of past\nexperiences that shaped emotional responses, thereby\ninfluencing current emotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-awareness of limitations and their emotional implications_Feeling ineffective when blocked and its relation to self-perception_81", "source": "Self-awareness of limitations and their emotional implications", "target": "Feeling ineffective when blocked and its relation to self-perception", "pair_label": "81", "info": "<b>Pair:</b> 81<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Recognizing one's limitations can intensify feelings of\nineffectiveness.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-awareness of limitations and their emotional implications_Frustration with rigid systems and lack of control_82", "source": "Self-awareness of limitations and their emotional implications", "target": "Frustration with rigid systems and lack of control", "pair_label": "82", "info": "<b>Pair:</b> 82<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Awareness of one's limitations can amplify feelings of\nfrustration with systems perceived as rigid or controlling,\nas the individual recognizes their inability to change or\ncontrol these systems.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}]
+        });
+
+        let tooltipCounter = 0;
+
+        cy.on('tap', 'edge', function(evt) {
+            var edge = evt.target;
+            var pos = evt.renderedPosition;
+            var tooltipId = "tooltip-" + (++tooltipCounter);
+
+            var tooltip = document.createElement("div");
+            tooltip.className = "tooltip";
+            tooltip.id = tooltipId;
+            tooltip.style.left = (pos.x + 20) + "px";
+            tooltip.style.top = (pos.y + 20) + "px";
+
+            var closeBtn = document.createElement("span");
+            closeBtn.className = "close-btn";
+            closeBtn.innerHTML = "&times;";
+            closeBtn.onclick = function () {
+                tooltip.remove();
+            };
+
+            tooltip.innerHTML = "";
+            tooltip.appendChild(closeBtn);
+            var content = document.createElement("div");
+            content.innerHTML = edge.data("info");
+            tooltip.appendChild(content);
+
+            document.body.appendChild(tooltip);
+            makeDraggable(tooltip);
+        });
+
+        function makeDraggable(elmnt) {
+            let offset = { x: 0, y: 0 };
+            let isDragging = false;
+
+            elmnt.addEventListener("mousedown", function (e) {
+                if (e.target.classList.contains("close-btn")) return;
+                isDragging = true;
+                offset.x = e.clientX - elmnt.offsetLeft;
+                offset.y = e.clientY - elmnt.offsetTop;
+                elmnt.style.cursor = "move";
+                e.preventDefault();
+            });
+
+            document.addEventListener("mousemove", function (e) {
+                if (isDragging) {
+                    elmnt.style.left = (e.clientX - offset.x) + "px";
+                    elmnt.style.top = (e.clientY - offset.y) + "px";
+                }
+            });
+
+            document.addEventListener("mouseup", function () {
+                isDragging = false;
+                elmnt.style.cursor = "default";
+            });
+        }
+    </script>
+</body>
+</html>

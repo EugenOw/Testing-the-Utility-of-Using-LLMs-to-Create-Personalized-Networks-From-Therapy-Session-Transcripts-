@@ -1,0 +1,1867 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and frustration can amplify emotional dysregulation, making it harder to manage feelings during setbacks.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and frustration can lead to increased overthinking and rumination, as individuals may fixate on their perceived failures and mistakes.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and frustration can amplify the fear of incompetence, as individuals may feel more anxious about their abilities when faced with challenges.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and frustration can amplify perfectionistic tendencies, as individuals may feel compelled to meet high standards to counteract their insecurities.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and frustration can hinder effective prioritization and task management, as negative emotions may distract from focusing on tasks.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and frustration can lead to a lack of focus, making it easier to become sidetracked by new ideas and interests.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and frustration can undermine the focus and attention needed for precision and accuracy in work.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and frustration can amplify feelings of overwhelm and disorientation, particularly in unfamiliar contexts.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and frustration can undermine motivation and self-efficacy, making it harder to engage in self-care and establish routines.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Struggling with self-doubt and frustration when encountering digital issues",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead individuals to seek external validation as a way to alleviate their feelings of inadequacy.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in regulating emotions can lead to increased self-doubt and frustration, especially in challenging situations like digital issues.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Poor emotional regulation can lead to increased rumination, as individuals may dwell on their setbacks and mistakes.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in regulating emotions can amplify fears of incompetence, as emotional distress may lead to heightened sensitivity to perceived failures.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with emotional regulation can lead to heightened perfectionism as individuals may set unrealistically high standards to avoid perceived failures.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional dysregulation can lead to increased stress and distraction, making it harder to prioritize and manage tasks effectively.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in regulating emotions may lead to distraction by new ideas as a coping mechanism, but this relationship can vary based on individual circumstances.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in emotional regulation can lead to increased stress and distraction, which may hinder the ability to maintain precision and accuracy in professional tasks.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in regulating emotions can lead to increased feelings of overwhelm and disorientation when encountering new or unfamiliar situations.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in managing emotions can lead to neglecting self-care and routines, as emotional distress may reduce motivation and focus on personal well-being.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation when faced with minor setbacks",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with emotional regulation can lead individuals to seek external validation as a way to cope with their feelings of inadequacy.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination can amplify feelings of self-doubt and frustration, particularly in challenging situations like digital issues.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and rumination can amplify emotional distress, making it harder to regulate emotions during setbacks.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination can amplify fears of incompetence by reinforcing negative self-perceptions and increasing anxiety about performance.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and rumination often lead to heightened self-criticism, which can reinforce perfectionistic tendencies and the setting of excessively high standards.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and rumination can lead to indecision and distraction, making it difficult to prioritize tasks effectively.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can lead to a focus on past mistakes, which may inhibit the ability to engage with new ideas and interests.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination can lead to a heightened focus on precision and accuracy, as individuals may become preoccupied with avoiding mistakes.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can amplify feelings of overwhelm, especially in new situations where uncertainty is heightened.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination can lead to increased stress and anxiety, which may inhibit the ability to engage in self-care and establish routines.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on mistakes",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination can lead individuals to seek reassurance and validation from others to alleviate their self-doubt.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of incompetence can amplify self-doubt and frustration, especially in challenging situations like digital issues.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of incompetence can lead to heightened anxiety, which may impair emotional regulation during setbacks.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of incompetence can lead to increased rumination on mistakes as individuals obsessively analyze their performance to avoid future errors.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of incompetence can drive perfectionistic tendencies, as individuals strive to meet high standards to avoid perceived failure.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of incompetence can lead to avoidance of tasks, making prioritization and management more challenging.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of incompetence may inhibit focus on new ideas, as anxiety about knowledge gaps can distract from exploring interests.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of incompetence can drive individuals to prioritize precision and accuracy in their work to avoid negative evaluations.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of incompetence can amplify feelings of being overwhelmed in unfamiliar situations, as anxiety about performance can heighten disorientation.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of incompetence can lead to avoidance behaviors, which may hinder the establishment of self-care routines.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of incompetence can drive individuals to seek validation to alleviate their anxiety about their knowledge or abilities.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High standards can lead to self-doubt and frustration when expectations are not met, especially in challenging situations.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism often leads to heightened expectations, which can result in significant emotional distress and difficulty regulating emotions when those standards are not met, especially in minor setbacks.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High standards often lead to increased scrutiny of one's actions, resulting in overthinking and rumination on perceived mistakes.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism can drive individuals to fear incompetence, as they may feel that any lack of knowledge or mistakes contradicts their high standards.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism can lead to excessive focus on details, making it difficult to prioritize tasks effectively.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism may lead to a focus on specific goals, which can inhibit the tendency to explore new ideas and interests.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism often drives individuals to prioritize precision and accuracy, leading to a strong connection between high personal standards and professional expectations.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High standards can lead to increased pressure and anxiety, which may contribute to feelings of overwhelm in new situations.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High standards and perfectionism can lead to excessive self-criticism and unrealistic expectations, which may inhibit the ability to prioritize self-care and establish effective routines.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Perfectionism and high standards for self and others",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High standards often lead individuals to seek validation from others to affirm their self-worth.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenges in prioritization and task management can lead to increased self-doubt and frustration, especially when facing digital issues, as disorganization may amplify feelings of inadequacy.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with prioritization can lead to increased stress and frustration, which may hinder emotional regulation during minor setbacks.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with prioritization can lead to increased overthinking and rumination, as individuals may feel overwhelmed and fixate on their perceived failures.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with prioritization can lead to increased anxiety about competence, amplifying fears of inadequacy.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with prioritization can lead to perfectionism as individuals may feel compelled to meet high standards, but this can also inhibit effective task management.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with prioritization often leads to being easily distracted by new ideas, as the lack of focus on tasks makes it easier to deviate from planned activities.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with prioritization and task management can hinder the ability to maintain precision and accuracy in professional tasks.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggles with prioritization and task management can lead to increased feelings of overwhelm and disorientation, especially in new or unfamiliar contexts.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Challenges in prioritization and task management can significantly hinder the ability to establish and maintain self-care routines.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty with prioritization and task management",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with prioritization may lead individuals to seek external validation as a way to compensate for their perceived inadequacies in managing tasks.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Getting sidetracked by new ideas may lead to avoidance of confronting digital issues, which can exacerbate self-doubt and frustration.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Getting sidetracked can lead to a lack of focus on emotional processing, which may inhibit effective emotional regulation.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Getting sidetracked by new ideas may distract from overthinking and rumination, reducing the focus on mistakes.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tendency to get sidetracked may lead to a lack of focus on acquiring necessary knowledge, which can exacerbate the fear of appearing incompetent.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Getting sidetracked can undermine the focus required to meet high standards, leading to a conflict between exploration and perfectionism.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Getting sidetracked by new ideas often leads to challenges in prioritizing tasks, as attention is diverted away from important responsibilities.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Getting sidetracked by new ideas can detract from the focus needed for precision and accuracy in professional tasks.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Getting sidetracked can lead to a lack of focus, which may contribute to feelings of overwhelm and disorientation when faced with new situations.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Getting sidetracked by new ideas can disrupt the ability to maintain routines and self-care.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tendency to get sidetracked by new ideas and interests",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Getting sidetracked by new ideas can lead to seeking external validation as individuals may look for approval on their diverse interests.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The emphasis on precision and accuracy can lead to heightened self-doubt and frustration when faced with digital challenges, as individuals may feel their competence is being tested.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High standards for precision may lead to increased stress and emotional dysregulation when minor setbacks occur.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The emphasis on precision and accuracy can lead to increased self-monitoring, which may trigger overthinking and rumination about potential mistakes.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The emphasis on precision and accuracy can heighten the fear of incompetence, as individuals may feel increased pressure to avoid mistakes.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The emphasis on precision and accuracy often drives individuals to adopt perfectionistic standards, reinforcing the need for high quality in their work.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Striving for precision and accuracy can hinder effective prioritization and task management, as excessive focus on details may lead to procrastination or overwhelm.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The focus on precision and accuracy may suppress the tendency to get sidetracked, as attention to detail requires sustained concentration.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The need for precision can lead to increased stress and feelings of overwhelm in unfamiliar situations, as individuals may struggle to meet their own standards.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The emphasis on precision and accuracy may lead to neglect of self-care and routine establishment, as individuals prioritize work over personal well-being.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Importance of precision and accuracy in professional work",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A focus on precision and accuracy may reduce the need for external validation, as individuals become more self-reliant in their professional competence.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed in unfamiliar situations can amplify self-doubt and frustration, particularly when faced with complex digital issues.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed can heighten emotional responses, making it harder to regulate emotions during minor setbacks.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed can lead to increased anxiety, which may trigger overthinking and rumination as a coping mechanism.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed can amplify the fear of incompetence, as disorientation may lead to increased anxiety about one's abilities.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed can lead to avoidance of high standards, as individuals may feel incapable of meeting them in stressful situations.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feeling overwhelmed can impair cognitive clarity, leading to challenges in prioritizing tasks effectively.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed can lead to distraction, making one more susceptible to pursuing new ideas and interests as a coping mechanism.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed can hinder one's ability to focus on precision and accuracy, especially in unfamiliar contexts.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed can hinder the ability to maintain self-care and routines, as disorientation may lead to neglect of personal needs.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Feeling overwhelmed and disoriented in unfamiliar situations",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling overwhelmed can lead individuals to seek external validation as a coping mechanism to regain a sense of stability and reassurance.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in self-care and routines can lead to increased self-doubt and frustration, especially when facing challenges like digital issues.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenges in self-care can lead to increased stress and emotional dysregulation during minor setbacks.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in self-care can lead to increased cognitive load, prompting overthinking and rumination.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-care can lead to avoidance behaviors, which may exacerbate fears of incompetence by limiting opportunities to gain knowledge or practice skills.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism can lead to unrealistic expectations, which may inhibit the ability to engage in self-care and establish manageable routines.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with self-care often leads to challenges in prioritizing tasks, as both processes involve managing time and resources effectively.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in self-care and routines often leads to distraction by new ideas, as the lack of structure makes it easier to deviate from tasks.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in self-care and routines can lead to increased feelings of overwhelm and disorientation, especially in new environments.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggling with self-care and establishing routines",
+        "Tendency to seek external validation and recognition"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in self-care may lead individuals to seek validation from others to compensate for their perceived shortcomings.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Struggling with self-doubt and frustration when encountering digital issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The need for external validation can amplify feelings of self-doubt and frustration, especially in situations where digital issues hinder recognition.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Difficulty with emotional regulation when faced with minor setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The need for external validation can amplify emotional distress when setbacks occur, leading to difficulties in regulation.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Tendency to overthink and ruminate on mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The need for external validation can lead to overthinking and rumination, as individuals may dwell on perceived failures to gain approval.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Fear of appearing incompetent due to lack of knowledge or incorrect terminology"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for external validation can amplify the fear of incompetence, as individuals may become more anxious about how they are perceived by others.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Perfectionism and high standards for self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for external validation can amplify perfectionistic tendencies, as individuals may set high standards to gain approval from others.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Difficulty with prioritization and task management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The need for external validation can distract from effective prioritization and task management, leading to difficulties in focusing on personal goals.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Tendency to get sidetracked by new ideas and interests"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for external validation may lead to distraction from new ideas, as individuals prioritize recognition over exploration.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Importance of precision and accuracy in professional work"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for external validation may lead to prioritizing recognition over precision, potentially undermining the focus on accuracy in professional tasks.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Feeling overwhelmed and disoriented in unfamiliar situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The need for external validation can lead to increased anxiety and overwhelm in unfamiliar situations, as individuals may feel pressured to perform or conform.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Tendency to seek external validation and recognition",
+        "Struggling with self-care and establishing routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The need for external validation can detract from the focus on self-care and personal routines, leading to neglect of one's own needs.",
+      "pair_label": 107
+    }
+  ]
+}

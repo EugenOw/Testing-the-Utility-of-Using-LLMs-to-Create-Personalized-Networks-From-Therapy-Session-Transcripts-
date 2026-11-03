@@ -1,0 +1,1432 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to disengage from self-criticism and guilt",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and guilt can heighten emotional sensitivity.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Struggling to disengage from self-criticism and guilt",
+        "Using escapism as a coping mechanism for emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism may temporarily alleviate guilt and self-criticism.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Struggling to disengage from self-criticism and guilt",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism and guilt reinforce internalized critical voices, making it difficult to set boundaries.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Struggling to disengage from self-criticism and guilt",
+        "Awareness of emotional state and its impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and guilt can impede emotional awareness by creating mental preoccupation.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Struggling to disengage from self-criticism and guilt",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can heighten sensitivity to social disapproval, increasing tension between autonomy and social connection needs.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Struggling to disengage from self-criticism and guilt",
+        "Impact of fatigue on emotional regulation and cognitive functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue exacerbates self-criticism.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggling to disengage from self-criticism and guilt",
+        "Difficulty in distinguishing between internal thoughts and external stimuli"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and guilt can blur boundaries between internal thoughts and external stimuli.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Struggling to disengage from self-criticism and guilt",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism intensifies emotional turmoil.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Difficulty in regulating emotional responses to social interactions",
+        "Struggling to disengage from self-criticism and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social interactions can trigger intense emotional responses, which may lead to self-criticism and guilt.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Difficulty in regulating emotional responses to social interactions",
+        "Tendency to overanalyze and ruminate on thoughts and feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional dysregulation can lead to increased rumination.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty in regulating emotional responses to social interactions",
+        "Using escapism as a coping mechanism for emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Escapism often follows emotional dysregulation.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty in regulating emotional responses to social interactions",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional dysregulation can amplify self-criticism.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in regulating emotional responses to social interactions",
+        "Awareness of emotional state and its impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of emotional state can help regulate emotional responses to social interactions.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty in regulating emotional responses to social interactions",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased emotional dysregulation can amplify internal conflict between autonomy and social needs.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in regulating emotional responses to social interactions",
+        "Impact of fatigue on emotional regulation and cognitive functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue can exacerbate emotional dysregulation.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty in regulating emotional responses to social interactions",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intensifies emotional turmoil.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Struggling to disengage from self-criticism and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overanalysis can intensify self-criticism.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overanalysis can intensify emotional arousal.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Using escapism as a coping mechanism for emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism may be used to temporarily avoid the discomfort of overanalysis and rumination.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overanalysis and rumination can amplify internalized critical voices.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Awareness of emotional state and its impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-reflection",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination can exacerbate internal conflict.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Impact of fatigue on emotional regulation and cognitive functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exhaustion can reduce capacity for rumination.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Difficulty in distinguishing between internal thoughts and external stimuli"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overanalysis and rumination can intensify confusion between internal and external sources of information.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Tendency to overanalyze and ruminate on thoughts and feelings",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of rumination and frustration",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Using escapism as a coping mechanism for emotional overwhelm",
+        "Struggling to disengage from self-criticism and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism may temporarily alleviate emotional distress, but can also reinforce avoidance of underlying issues, including self-criticism and guilt.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Using escapism as a coping mechanism for emotional overwhelm",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can reinforce avoidance of emotional regulation.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Using escapism as a coping mechanism for emotional overwhelm",
+        "Tendency to overanalyze and ruminate on thoughts and feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can temporarily distract from rumination.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Using escapism as a coping mechanism for emotional overwhelm",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can reinforce avoidance of critical self-talk",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Using escapism as a coping mechanism for emotional overwhelm",
+        "Awareness of emotional state and its impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can distract from emotional awareness.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Using escapism as a coping mechanism for emotional overwhelm",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can temporarily mask tension, but may also reinforce avoidance of social connections, exacerbating autonomy vs. social connection conflict.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Using escapism as a coping mechanism for emotional overwhelm",
+        "Difficulty in distinguishing between internal thoughts and external stimuli"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can blur boundaries between internal and external realities.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Using escapism as a coping mechanism for emotional overwhelm",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism temporarily alleviates emotional overwhelm, but may lead to increased frustration with inability to manage thoughts and emotions in the long run.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Struggling to disengage from self-criticism and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Internalized critical voices can fuel self-criticism and guilt.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internalized critical voices can amplify emotional reactivity.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Tendency to overanalyze and ruminate on thoughts and feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internalized critical voices may lead to increased self-doubt, fueling rumination.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Using escapism as a coping mechanism for emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can be used to temporarily avoid the emotional pain caused by internalized critical voices.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Awareness of emotional state and its impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty in managing internal criticism can obscure awareness of emotional states.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internalized critical voices can amplify the tension between autonomy and social connection.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Impact of fatigue on emotional regulation and cognitive functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism can lead to heightened emotional arousal, exacerbating fatigue and impairing emotional regulation and cognitive functioning.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Difficulty in distinguishing between internal thoughts and external stimuli"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internalized critical voices can blur the lines between internal thoughts and external stimuli.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Challenges in setting boundaries with internalized critical voices",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internalized critical voices can intensify emotional turmoil.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Awareness of emotional state and its impact on behavior",
+        "Struggling to disengage from self-criticism and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can intensify self-criticism and guilt.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Awareness of emotional state and its impact on behavior",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of emotional state can help regulate emotional responses.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Awareness of emotional state and its impact on behavior",
+        "Tendency to overanalyze and ruminate on thoughts and feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can lead to deeper analysis of emotions.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Awareness of emotional state and its impact on behavior",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of emotional state can help mitigate internalized critical voices by recognizing their negative impact on behavior.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Awareness of emotional state and its impact on behavior",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness of emotional states can heighten sensitivity to social dynamics, thereby exacerbating the tension between autonomy and social connection.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Awareness of emotional state and its impact on behavior",
+        "Impact of fatigue on emotional regulation and cognitive functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue can impede self-awareness of emotional states.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Awareness of emotional state and its impact on behavior",
+        "Difficulty in distinguishing between internal thoughts and external stimuli"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of emotional state can help in identifying internal thoughts, thereby reducing confusion with external stimuli.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Awareness of emotional state and its impact on behavior",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can heighten frustration when control is perceived as lacking.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Tension between desire for autonomy and need for social connection",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension between autonomy and social needs can amplify emotional dysregulation in social contexts.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tension between desire for autonomy and need for social connection",
+        "Tendency to overanalyze and ruminate on thoughts and feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased introspection and self-doubt.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tension between desire for autonomy and need for social connection",
+        "Using escapism as a coping mechanism for emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can be an autonomy-driven response to emotional overwhelm stemming from conflicting desires.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tension between desire for autonomy and need for social connection",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension between autonomy and social connection can amplify internal critical voices, making it harder to set boundaries.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tension between desire for autonomy and need for social connection",
+        "Awareness of emotional state and its impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness of emotional states can heighten the tension between autonomy and social connection.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tension between desire for autonomy and need for social connection",
+        "Impact of fatigue on emotional regulation and cognitive functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased tension may exacerbate fatigue.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tension between desire for autonomy and need for social connection",
+        "Difficulty in distinguishing between internal thoughts and external stimuli"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension may lead to a breakdown in cognitive boundaries.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tension between desire for autonomy and need for social connection",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting desires for autonomy and social connection can lead to increased emotional turmoil, exacerbating frustration with inability to manage thoughts and emotions.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Struggling to disengage from self-criticism and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue can impair emotional regulation, making it harder to disengage from negative self-talk and guilt.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fatigue amplifies emotional dysregulation.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Tendency to overanalyze and ruminate on thoughts and feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue can impair emotional regulation, leading to increased rumination.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Using escapism as a coping mechanism for emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue can increase emotional overwhelm, leading to a greater reliance on escapism.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue can exacerbate emotional dysregulation, making it more difficult to set boundaries with internalized critical voices.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Awareness of emotional state and its impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue impairs awareness of emotional state.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fatigue can reduce emotional regulation, increasing tension between autonomy and social connection needs.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Difficulty in distinguishing between internal thoughts and external stimuli"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Impaired cognitive functioning due to fatigue can lead to confusion and decreased ability to differentiate between internal and external stimuli.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Impact of fatigue on emotional regulation and cognitive functioning",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fatigue exacerbates emotional dysregulation.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Difficulty in distinguishing between internal thoughts and external stimuli",
+        "Struggling to disengage from self-criticism and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Internal stimuli confusion exacerbates self-criticism.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in distinguishing between internal thoughts and external stimuli",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired cognitive boundaries can lead to heightened emotional reactivity.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in distinguishing between internal thoughts and external stimuli",
+        "Tendency to overanalyze and ruminate on thoughts and feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Blurred boundaries between internal and external stimuli can lead to increased rumination as the individual struggles to discern the source of their thoughts.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in distinguishing between internal thoughts and external stimuli",
+        "Using escapism as a coping mechanism for emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can become a coping strategy for individuals struggling to differentiate internal thoughts from external stimuli, as it provides a temporary mental escape from overwhelming internal experiences.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in distinguishing between internal thoughts and external stimuli",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared cognitive confusion and blurred lines between self and external influences",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in distinguishing between internal thoughts and external stimuli",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased confusion between internal and external stimuli can heighten the sense of uncertainty, leading to increased tension between autonomy and social connection needs as the individual struggles to define their boundaries.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in distinguishing between internal thoughts and external stimuli",
+        "Impact of fatigue on emotional regulation and cognitive functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased fatigue can exacerbate confusion between internal thoughts and external stimuli, leading to impaired emotional regulation and cognitive functioning.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty in distinguishing between internal thoughts and external stimuli",
+        "Frustration with inability to control or manage thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in distinguishing internal thoughts from external stimuli can lead to feelings of chaos and overwhelm, directly contributing to frustration with managing thoughts and emotions.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Struggling to disengage from self-criticism and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration fuels self-criticism.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Difficulty in regulating emotional responses to social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration amplifies emotional dysregulation",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Tendency to overanalyze and ruminate on thoughts and feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration fuels rumination.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Using escapism as a coping mechanism for emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Escapism is often used to temporarily avoid feelings of frustration.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Challenges in setting boundaries with internalized critical voices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration amplifies internalized criticism.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Awareness of emotional state and its impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing emotional state may reduce frustration.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Tension between desire for autonomy and need for social connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration with internal control can heighten awareness of conflicting desires.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Impact of fatigue on emotional regulation and cognitive functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration can exacerbate fatigue.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Frustration with inability to control or manage thoughts and emotions",
+        "Difficulty in distinguishing between internal thoughts and external stimuli"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration with inability to control thoughts and emotions can exacerbate confusion between internal and external stimuli.",
+      "pair_label": 39
+    }
+  ]
+}

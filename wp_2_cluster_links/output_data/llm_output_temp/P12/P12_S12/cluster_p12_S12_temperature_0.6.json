@@ -1,0 +1,1026 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-expectations and perceived expectations of others",
+        "Difficulty in acknowledging and expressing emotions due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape both self-expectations and the perceived expectations of others, influencing emotional expression.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between self-expectations and perceived expectations of others",
+        "Coping mechanisms for dealing with stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Tension triggers coping response",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tension between self-expectations and perceived expectations of others",
+        "Importance of setting boundaries for emotional and physical well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-expectations influenced by others often necessitate boundary setting for emotional and physical well-being.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tension between self-expectations and perceived expectations of others",
+        "Struggle to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened self-expectations conflict with others' expectations, increasing pressure and responsibilities, and making it challenging to balance self-care.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between self-expectations and perceived expectations of others",
+        "Importance of self-compassion and understanding in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mitigates Inner Conflict",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between self-expectations and perceived expectations of others",
+        "Navigating complex emotions and conflicting values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened emotional conflict.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Self-worth struggles with feelings of inadequacy and perfectionism",
+        "Tension between self-expectations and perceived expectations of others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-worth issues can amplify tensions between personal and external expectations.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Self-worth struggles with feelings of inadequacy and perfectionism",
+        "Difficulty in acknowledging and expressing emotions due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional experiences can contribute to a person's self-worth struggles, especially if they are suppressed or unacknowledged.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Self-worth struggles with feelings of inadequacy and perfectionism",
+        "Importance of setting boundaries for emotional and physical well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Establishing boundaries can help mitigate feelings of inadequacy.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Self-worth struggles with feelings of inadequacy and perfectionism",
+        "Fear of not meeting expectations and fear of failure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Self-worth struggles with feelings of inadequacy and perfectionism",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can reinforce negative self-perceptions.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Self-worth struggles with feelings of inadequacy and perfectionism",
+        "Struggle to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-worth struggles might exacerbate self-neglect.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Self-worth struggles with feelings of inadequacy and perfectionism",
+        "Importance of self-compassion and understanding in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inadequacy and perfectionism can be countered by self-compassion and understanding.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Self-worth struggles with feelings of inadequacy and perfectionism",
+        "Navigating complex emotions and conflicting values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional struggles intensify.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to past experiences",
+        "Tension between self-expectations and perceived expectations of others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension as unexpressed emotions contribute to self-doubt.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to past experiences",
+        "Coping mechanisms for dealing with stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional suppression can lead to maladaptive coping mechanisms",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to past experiences",
+        "Fear of not meeting expectations and fear of failure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unacknowledged emotions can fuel anxiety about meeting expectations and fear of failure by obscuring self-awareness and hindering adaptive coping.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to past experiences",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional suppression influences relationship dynamics and behavior patterns.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to past experiences",
+        "Struggle to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional suppression can exacerbate self-care challenges.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to past experiences",
+        "Importance of self-compassion and understanding in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional suppression hinders self-compassion",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to past experiences",
+        "Navigating complex emotions and conflicting values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences can intensify emotional complexity.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for dealing with stress and anxiety",
+        "Tension between self-expectations and perceived expectations of others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened self-expectations can exacerbate anxiety, creating a cycle of increased tension.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for dealing with stress and anxiety",
+        "Self-worth struggles with feelings of inadequacy and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Maladaptive coping mechanisms can reinforce negative self-talk and unrealistic standards",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for dealing with stress and anxiety",
+        "Importance of setting boundaries for emotional and physical well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Setting boundaries supports positive coping strategies.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for dealing with stress and anxiety",
+        "Fear of not meeting expectations and fear of failure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Coping mechanisms can potentially alleviate fears.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for dealing with stress and anxiety",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Influences perception of current experiences",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for dealing with stress and anxiety",
+        "Struggle to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping mechanisms can enhance self-care.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for dealing with stress and anxiety",
+        "Importance of self-compassion and understanding in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion enhances coping",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries for emotional and physical well-being",
+        "Tension between self-expectations and perceived expectations of others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundaries mitigate external pressure.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries for emotional and physical well-being",
+        "Self-worth struggles with feelings of inadequacy and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Establishing boundaries protects against the negative impacts of external pressures on self-worth.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries for emotional and physical well-being",
+        "Difficulty in acknowledging and expressing emotions due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past experiences may hinder boundary setting due to unresolved emotional processing.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries for emotional and physical well-being",
+        "Struggle to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances self-awareness",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries for emotional and physical well-being",
+        "Importance of self-compassion and understanding in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundaries support self-compassion.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries for emotional and physical well-being",
+        "Navigating complex emotions and conflicting values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundary setting can facilitate emotional clarity.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of failure",
+        "Tension between self-expectations and perceived expectations of others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies self-expectations",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of failure",
+        "Importance of setting boundaries for emotional and physical well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fearful motivations can enhance boundary-setting.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of failure",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences of not meeting expectations can lead to fear of failure which may inhibit forming close relationships.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of failure",
+        "Navigating complex emotions and conflicting values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both fear and emotional navigation are tightly linked as fear can overwhelm and complicate emotional regulation.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Self-worth struggles with feelings of inadequacy and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past negative experiences can reinforce self-doubt and perfectionism.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Difficulty in acknowledging and expressing emotions due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape emotional expression and behavior.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Coping mechanisms for dealing with stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape coping mechanisms.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Struggle to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past experiences can indirectly influence self-care habits by shaping one's perception of responsibilities and obligations.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Navigating complex emotions and conflicting values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong",
+        "strong"
+      ],
+      "explanation": "Past experiences shape emotional responses and inform values.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-care with responsibilities and obligations",
+        "Tension between self-expectations and perceived expectations of others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overcommitting to meet others' expectations exacerbates self-care imbalance.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-care with responsibilities and obligations",
+        "Self-worth struggles with feelings of inadequacy and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can exacerbate feelings of inadequacy and perfectionism as one may feel they are not doing enough or meeting their own expectations.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-care with responsibilities and obligations",
+        "Importance of setting boundaries for emotional and physical well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enables Prioritization",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-care with responsibilities and obligations",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved past experiences may exacerbate the struggle to balance self-care and responsibilities",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-care with responsibilities and obligations",
+        "Importance of self-compassion and understanding in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing self-compassion's role in personal growth motivates better self-care balance.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and understanding in personal growth",
+        "Tension between self-expectations and perceived expectations of others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High self-compassion buffers against tension from conflicting expectations.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and understanding in personal growth",
+        "Difficulty in acknowledging and expressing emotions due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional suppression can hinder self-compassion and growth.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and understanding in personal growth",
+        "Coping mechanisms for dealing with stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion enhances resilience.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and understanding in personal growth",
+        "Importance of setting boundaries for emotional and physical well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion enhances boundary setting.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and understanding in personal growth",
+        "Fear of not meeting expectations and fear of failure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion mitigates fear of not meeting expectations and failure.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and understanding in personal growth",
+        "Navigating complex emotions and conflicting values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters emotional resilience.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Navigating complex emotions and conflicting values",
+        "Self-worth struggles with feelings of inadequacy and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Introspection and self-evaluation",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Navigating complex emotions and conflicting values",
+        "Difficulty in acknowledging and expressing emotions due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences of emotional suppression can complicate the navigation of complex emotions.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Navigating complex emotions and conflicting values",
+        "Coping mechanisms for dealing with stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective navigation enhances coping.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Navigating complex emotions and conflicting values",
+        "Fear of not meeting expectations and fear of failure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear amplifies emotional conflict",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Navigating complex emotions and conflicting values",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape emotional responses and values, influencing current relationships and behaviors.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Navigating complex emotions and conflicting values",
+        "Struggle to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased emotional complexity can amplify struggles with balancing responsibilities.",
+      "pair_label": 62
+    }
+  ]
+}

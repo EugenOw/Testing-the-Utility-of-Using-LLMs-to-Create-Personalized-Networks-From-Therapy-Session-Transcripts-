@@ -1,0 +1,228 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Navigating Family Dynamics and Expectations",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Self-Expression and Validation",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Personal Growth and Self-Perception",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Relationship Dynamics and Insecurities",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Motivation and Procrastination",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating family dynamics affects self-expression and validation"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-expression and validation can be hindered by family dynamics"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Personal growth and self-perception are influenced by relationship dynamics and insecurities"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Relationship dynamics and insecurities can hinder personal growth and self-perception"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Motivation and procrastination can be influenced by family dynamics"
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Family dynamics can hinder motivation and procrastination"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-expression and validation can influence motivation and procrastination"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Motivation and procrastination can hinder self-expression and validation"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Personal growth and self-perception can influence motivation and procrastination"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Motivation and procrastination can hinder personal growth and self-perception"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Relationship dynamics and insecurities can influence motivation and procrastination"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Motivation and procrastination can hinder relationship dynamics and insecurities"
+    }
+  ]
+}

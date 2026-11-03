@@ -1,0 +1,180 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Difficulty with trust and reliability in relationships",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Challenges with goal-setting and planning",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Impact of relationships on emotional well-being",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Reflection and insight into personal growth",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with trust and reliability in relationships may contribute to challenges with goal-setting and planning."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Challenges with goal-setting and planning may hinder the development of trust and reliability in relationships."
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty with trust and reliability in relationships is closely linked to the impact of relationships on emotional well-being."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The impact of relationships on emotional well-being is closely linked to difficulty with trust and reliability in relationships."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 2"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 4"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 1"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 4"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 2"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The impact of relationships on emotional well-being may contribute to reflection and insight into personal growth."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflection and insight into personal growth may contribute to a deeper understanding of the impact of relationships on emotional well-being."
+    }
+  ]
+}

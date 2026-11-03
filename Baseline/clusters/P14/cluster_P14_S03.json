@@ -1,0 +1,110 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Anxiety and Self-Doubt in Social Situations",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Cognitive Distortions and Negative Thought Patterns",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Self-Reflection and Awareness of Thought Patterns",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Reframing Negative Thoughts and Developing Coping Strategies",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety and self-doubt can lead to cognitive distortions and negative thought patterns."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing cognitive distortions can help mitigate their impact."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection and awareness of thought patterns can facilitate reframing negative thoughts and developing coping strategies."
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Reframing negative thoughts can help alleviate anxiety and self-doubt."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative thoughts can help counteract cognitive distortions."
+    }
+  ]
+}

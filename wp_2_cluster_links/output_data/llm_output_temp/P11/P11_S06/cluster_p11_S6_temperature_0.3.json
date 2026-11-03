@@ -1,0 +1,939 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Courage in self-expression tied to personal values",
+        "Persistent effort in pursuit of goals despite anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of resilience and goal-oriented behavior",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Courage in self-expression tied to personal values",
+        "Vulnerability as a means of building trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Courage in self-expression tied to personal values can facilitate vulnerability.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Courage in self-expression tied to personal values",
+        "Self-doubt and reassurance-seeking in intimate relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Courage in self-expression can reduce self-doubt.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Courage in self-expression tied to personal values",
+        "Balancing self-protection with openness to emotional experience"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Courage in self-expression tied to personal values enables and reinforces the ability to balance self-protection with openness to emotional experience.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Courage in self-expression tied to personal values",
+        "Navigating the tension between confidence and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Courage in self-expression reinforces navigating the tension between confidence and self-doubt.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Courage in self-expression tied to personal values",
+        "The interplay between courage and vulnerability in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Courage in self-expression reinforces vulnerability in relationships.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Persistent effort in pursuit of goals despite anxiety",
+        "Courage in self-expression tied to personal values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowered self-expression",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Persistent effort in pursuit of goals despite anxiety",
+        "Vulnerability as a means of building trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Courage to pursue goals despite anxiety can foster openness to vulnerability.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Persistent effort in pursuit of goals despite anxiety",
+        "Self-doubt and reassurance-seeking in intimate relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can undermine motivation",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Persistent effort in pursuit of goals despite anxiety",
+        "Embracing uncertainty and ambiguity in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Facing uncertainty builds resilience.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Persistent effort in pursuit of goals despite anxiety",
+        "Balancing self-protection with openness to emotional experience"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embracing emotional experience fosters resilience.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Persistent effort in pursuit of goals despite anxiety",
+        "Navigating the tension between confidence and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Encourages resilience",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Persistent effort in pursuit of goals despite anxiety",
+        "The interplay between courage and vulnerability in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Courage in relationships can foster resilience in goal pursuit.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a means of building trust in relationships",
+        "Courage in self-expression tied to personal values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability fosters courage.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a means of building trust in relationships",
+        "Persistent effort in pursuit of goals despite anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can foster resilience by promoting self-awareness and emotional regulation, which in turn supports persistent effort in the face of anxiety.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a means of building trust in relationships",
+        "Self-doubt and reassurance-seeking in intimate relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can lead to self-doubt, prompting reassurance-seeking.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a means of building trust in relationships",
+        "Embracing uncertainty and ambiguity in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability fosters openness to uncertainty and ambiguity, driving personal growth.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a means of building trust in relationships",
+        "Balancing self-protection with openness to emotional experience"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a means of building trust in relationships",
+        "Navigating the tension between confidence and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can foster trust, which in turn can help navigate self-doubt by promoting open communication and reassurance.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a means of building trust in relationships",
+        "The interplay between courage and vulnerability in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Self-doubt and reassurance-seeking in intimate relationships",
+        "Courage in self-expression tied to personal values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt may hinder courage in self-expression.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Self-doubt and reassurance-seeking in intimate relationships",
+        "Persistent effort in pursuit of goals despite anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can undermine motivation and confidence to pursue goals.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Self-doubt and reassurance-seeking in intimate relationships",
+        "Vulnerability as a means of building trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mutual reinforcement through openness",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Self-doubt and reassurance-seeking in intimate relationships",
+        "Embracing uncertainty and ambiguity in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can hinder embracing uncertainty.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Self-doubt and reassurance-seeking in intimate relationships",
+        "Balancing self-protection with openness to emotional experience"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can hinder openness to emotional experience.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Self-doubt and reassurance-seeking in intimate relationships",
+        "Navigating the tension between confidence and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-doubt",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Self-doubt and reassurance-seeking in intimate relationships",
+        "The interplay between courage and vulnerability in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Courage to be vulnerable can alleviate self-doubt",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Embracing uncertainty and ambiguity in personal growth",
+        "Courage in self-expression tied to personal values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embracing uncertainty fosters courage.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Embracing uncertainty and ambiguity in personal growth",
+        "Persistent effort in pursuit of goals despite anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embracing uncertainty fosters resilience.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Embracing uncertainty and ambiguity in personal growth",
+        "Vulnerability as a means of building trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embracing uncertainty fosters openness to vulnerability.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Embracing uncertainty and ambiguity in personal growth",
+        "Self-doubt and reassurance-seeking in intimate relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embracing uncertainty can reduce self-doubt.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Embracing uncertainty and ambiguity in personal growth",
+        "Balancing self-protection with openness to emotional experience"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embracing uncertainty fosters openness to emotional experience.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Embracing uncertainty and ambiguity in personal growth",
+        "Navigating the tension between confidence and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embracing uncertainty fosters self-reflection and awareness, which in turn can help navigate the tension between confidence and self-doubt.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Embracing uncertainty and ambiguity in personal growth",
+        "The interplay between courage and vulnerability in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embracing uncertainty fosters courage and vulnerability.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Balancing self-protection with openness to emotional experience",
+        "Courage in self-expression tied to personal values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embracing emotional experience fosters authenticity.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Balancing self-protection with openness to emotional experience",
+        "Persistent effort in pursuit of goals despite anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional openness facilitates resilience.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Balancing self-protection with openness to emotional experience",
+        "Vulnerability as a means of building trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Balancing self-protection with openness to emotional experience",
+        "Self-doubt and reassurance-seeking in intimate relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-protection can hinder openness to emotional experience, leading to self-doubt and reassurance-seeking in intimate relationships.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Balancing self-protection with openness to emotional experience",
+        "Embracing uncertainty and ambiguity in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embracing uncertainty promotes openness to emotional experience.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Balancing self-protection with openness to emotional experience",
+        "Navigating the tension between confidence and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional openness can enhance self-awareness, influencing confidence and self-doubt.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Balancing self-protection with openness to emotional experience",
+        "The interplay between courage and vulnerability in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Navigating the tension between confidence and self-doubt",
+        "Courage in self-expression tied to personal values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Confidence and self-doubt influence courage in self-expression.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Navigating the tension between confidence and self-doubt",
+        "Persistent effort in pursuit of goals despite anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing confidence and self-doubt fuels resilience.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Navigating the tension between confidence and self-doubt",
+        "Vulnerability as a means of building trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embracing vulnerability",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Navigating the tension between confidence and self-doubt",
+        "Self-doubt and reassurance-seeking in intimate relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence and self-doubt tensions can fuel reassurance-seeking.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Navigating the tension between confidence and self-doubt",
+        "Embracing uncertainty and ambiguity in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating tension between confidence and self-doubt facilitates embracing uncertainty and ambiguity in personal growth.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Navigating the tension between confidence and self-doubt",
+        "Balancing self-protection with openness to emotional experience"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embracing self-doubt can facilitate openness to emotional experience.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Navigating the tension between confidence and self-doubt",
+        "The interplay between courage and vulnerability in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence and self-doubt can influence the expression of courage and vulnerability in relationships.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "The interplay between courage and vulnerability in relationships",
+        "Courage in self-expression tied to personal values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "The interplay between courage and vulnerability in relationships",
+        "Persistent effort in pursuit of goals despite anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Courage and vulnerability facilitate persistence",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "The interplay between courage and vulnerability in relationships",
+        "Vulnerability as a means of building trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement in relationship dynamics.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "The interplay between courage and vulnerability in relationships",
+        "Self-doubt and reassurance-seeking in intimate relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Courage and vulnerability can reduce self-doubt.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "The interplay between courage and vulnerability in relationships",
+        "Embracing uncertainty and ambiguity in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Courage and vulnerability facilitate embracing uncertainty and ambiguity.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "The interplay between courage and vulnerability in relationships",
+        "Balancing self-protection with openness to emotional experience"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Courage and vulnerability facilitate openness to emotional experience.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "The interplay between courage and vulnerability in relationships",
+        "Navigating the tension between confidence and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Courage and vulnerability can foster confidence by embracing uncertainty and self-doubt.",
+      "pair_label": 46
+    }
+  ]
+}

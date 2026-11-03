@@ -1,0 +1,269 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Coping mechanisms and self-compassion",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Avoidance and procrastination",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Self-awareness and personal growth",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Emotional regulation and expression",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Therapeutic progress and reflection",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms can reinforce avoidance behaviors"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance can hinder effective coping"
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion enhances self-awareness"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness promotes self-compassion"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can exacerbate emotional dysregulation"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Emotional regulation can reduce avoidance"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness improves emotional regulation"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional regulation enhances self-awareness"
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Therapeutic progress reinforces coping mechanisms"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms facilitate therapeutic progress"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 5"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Therapeutic progress promotes self-awareness"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances therapeutic progress"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Therapeutic progress improves emotional regulation"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional regulation facilitates therapeutic progress"
+    }
+  ]
+}

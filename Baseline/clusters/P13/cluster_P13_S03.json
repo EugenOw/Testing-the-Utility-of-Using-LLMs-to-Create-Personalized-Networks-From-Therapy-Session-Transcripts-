@@ -1,0 +1,135 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Guilt and Unfulfilled Expectations",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Uncertainty and Doubt in Relationships",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Self-Reflection and Personal Growth",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Cognitive Distortions and Negative Thought Patterns",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Guilt and unfulfilled expectations fuel uncertainty and doubt in relationships"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty and doubt can reduce feelings of guilt"
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Guilt and unfulfilled expectations can prompt self-reflection and personal growth"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-reflection and personal growth can alleviate guilt and unfulfilled expectations"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty and doubt can lead to cognitive distortions and negative thought patterns"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cognitive distortions and negative thought patterns can exacerbate uncertainty and doubt"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        0
+      ]
+    }
+  ]
+}

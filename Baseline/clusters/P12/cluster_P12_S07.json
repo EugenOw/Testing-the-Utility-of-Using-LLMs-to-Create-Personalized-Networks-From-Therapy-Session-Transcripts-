@@ -1,0 +1,160 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Exploring the Vortex through Sensory Experience",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Reframing Perception of the Vortex",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Embracing Curiosity and Non-Judgment",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Integrating Insights and Emotional Awareness",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Sensory exploration informs reframed perception"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Reframed perception tempers sensory experience"
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Curiosity enhances sensory exploration"
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Non-judgmental attitude reduces sensory overwhelm"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Reframed perception facilitates emotional awareness"
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Emotional awareness tempers reframed perception"
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Curiosity and non-judgment enhance emotional awareness"
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Emotional awareness reduces need for non-judgmental attitude"
+      }
+    ]
+  }
+}

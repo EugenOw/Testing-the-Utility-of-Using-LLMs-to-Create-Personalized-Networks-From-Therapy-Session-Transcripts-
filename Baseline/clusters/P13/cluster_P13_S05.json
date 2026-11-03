@@ -1,0 +1,222 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Self-blame and guilt related to work performance",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Imposter syndrome and self-doubt",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Coping mechanisms and self-soothing",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Self-compassion and acceptance",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt related to work performance can exacerbate imposter syndrome and self-doubt."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Imposter syndrome and self-doubt can lead to self-blame and guilt related to work performance."
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and guilt related to work performance can lead to the use of coping mechanisms and self-soothing."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Coping mechanisms and self-soothing can temporarily reduce self-blame and guilt related to work performance."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Imposter syndrome and self-doubt can lead to the use of coping mechanisms and self-soothing."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Coping mechanisms and self-soothing can temporarily reduce imposter syndrome and self-doubt."
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion and acceptance can reduce self-blame and guilt related to work performance."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt related to work performance can be addressed through self-compassion and acceptance."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion and acceptance can reduce imposter syndrome and self-doubt."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Imposter syndrome and self-doubt can be addressed through self-compassion and acceptance."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion and acceptance can reduce the need for coping mechanisms and self-soothing."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms and self-soothing can be replaced with self-compassion and acceptance."
+    }
+  ]
+}

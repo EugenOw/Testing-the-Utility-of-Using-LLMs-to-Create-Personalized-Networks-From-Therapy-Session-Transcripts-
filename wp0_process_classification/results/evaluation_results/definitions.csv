@@ -1,0 +1,13 @@
+column,definition
+scope,all = all valid examples; gt_positive = ground-truth is_process=True only.
+OVERALL_FEWSHOT,All few-shot k values pooled. Zero-shot excluded.
+OVERALL_ALL_AVAILABLE,Run 0 including zero-shot; not directly comparable to runs 1/2.
+*_mean_3runs,Arithmetic mean of the three run scores; zero-shot excluded.
+dimension_macro_kappa,Average Kappa across dimensions with defined Kappa values.
+precision_positive / recall_positive / f1_positive,Boolean evaluation for is_process=True.
+precision_micro / recall_micro / f1_micro,Micro-averaged metrics.
+precision_macro / recall_macro / f1_macro,Unweighted average across classes or active dimensions.
+exact_set_accuracy,"Predicted dimension sets exactly match ground truth, ignoring order."
+cohens_kappa,Chance-corrected agreement between ground truth and prediction.
+tp / fp / fn / tn,"True positives, false positives, false negatives and true negatives."
+Undefined metrics,Undefined precision/recall/F1 become zero; undefined Kappa is left empty.

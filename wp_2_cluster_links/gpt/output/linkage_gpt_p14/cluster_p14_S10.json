@@ -1,0 +1,1439 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and the ability to take breaks can help mitigate the effects of poor sleep regulation, reducing burnout.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and balance can help mitigate the extremes of all-or-nothing thinking, reducing anxiety and self-sabotage.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and balance can enhance the effectiveness of coping strategies and self-care, promoting better stress management.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and balance enhance the ability to recognize and adjust thought patterns, reducing all-or-nothing thinking.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and balance can enhance the effectiveness of a consistent wake time, leading to better sleep hygiene and productivity.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and balance can enhance time management and prioritization, helping to navigate conflicts between self-care and academic demands.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and balance can help mitigate panic and worry, promoting better mental health.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks.",
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and the ability to take breaks enhance the development of coping strategies, which in turn supports balance and reduces burnout.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor sleep regulation can lead to burnout, which diminishes self-awareness and the ability to maintain balance.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor sleep regulation can exacerbate all-or-nothing thinking, leading to increased anxiety and self-sabotage.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor sleep regulation can hinder the effectiveness of coping strategies, leading to increased stress and burnout.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Improving awareness and intentional action can help counteract the negative impact of poor sleep regulation on burnout and productivity.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Improving sleep hygiene through consistent wake times can alleviate burnout and enhance productivity.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Poor sleep regulation leads to burnout, which undermines the ability to prioritize self-care and manage academic responsibilities effectively.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Poor self-regulation of sleep is exacerbated by social obligations, leading to increased burnout and reduced productivity.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor sleep regulation can lead to increased stress and anxiety, which may exacerbate panic and overthinking, thus inhibiting mental health improvement.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity",
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor sleep regulation can exacerbate stress and anxiety, making it harder to develop effective coping strategies, thus contributing to burnout.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can hinder balanced self-awareness, leading to increased anxiety and self-sabotage, which counteracts the ability to take breaks and maintain focus.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased anxiety from all-or-nothing thinking can disrupt sleep regulation, leading to burnout.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "All-or-nothing thinking can hinder the adoption of effective coping strategies, leading to increased anxiety and self-sabotage, which negatively impacts well-being.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness and intentional action can counteract the negative impacts of rigid thinking, reducing anxiety and self-sabotage.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "All-or-nothing thinking exacerbates anxiety and self-sabotage, which directly hinders efforts to reduce panic and worry, thus creating a strong inhibitory relationship.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors.",
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "All-or-nothing thinking can exacerbate anxiety, making it more challenging to develop effective coping strategies, thus inhibiting stress management.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies and self-care practices enhance self-awareness and the ability to maintain balance, which in turn supports stress management.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies and self-care practices can help mitigate the negative impact of poor sleep regulation on well-being and productivity.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can help mitigate the negative effects of all-or-nothing thinking, reducing anxiety and self-sabotage.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can enhance awareness of thought patterns, leading to better management of cognitive distortions like all-or-nothing thinking.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can enhance sleep hygiene by reducing stress, which in turn supports better sleep and productivity.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies and self-care practices can help mitigate the stress caused by the conflict between self-care and academic demands, but the relationship is conditional on individual circumstances.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can help mitigate the negative impact of social obligations on sleep quality.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective coping strategies and self-care practices can significantly reduce panic, worry, and overthinking, thereby enhancing mental health and overall well-being.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being.",
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes emphasize the importance of effective coping strategies in managing stress, indicating a strong link between them.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness of thought patterns can enhance self-awareness, promoting balance and effective task management.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness and intentional action can help individuals manage their thought patterns, which may indirectly support better self-regulation of sleep, thereby reducing feelings of burnout.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased awareness and intentional action can effectively reduce the impact of all-or-nothing thinking, thereby decreasing anxiety and self-sabotage.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness of thought patterns can enhance the effectiveness of coping strategies, leading to better stress management.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness and intentional action can enhance time management and prioritization, helping to balance self-care and academic demands.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness and intentional action can help reduce negative thought patterns, thereby alleviating panic and worry.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking.",
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of thought patterns can enhance the development of coping strategies, as recognizing cognitive distortions aids in formulating effective responses to stress.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A consistent wake time can enhance sleep quality, leading to better focus and self-awareness, which supports balance in task management.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A consistent wake time enhances sleep hygiene, which directly counters difficulties in self-regulating sleep, thereby reducing burnout and improving productivity.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Consistent wake times can enhance sleep quality, which in turn supports better emotional regulation and resilience, facilitating effective coping and self-care.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A consistent wake time enhances sleep quality, which can improve overall well-being and facilitate better time management for self-care and academic responsibilities.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Nighttime preferences and social obligations can disrupt consistent wake times, thereby negatively impacting sleep hygiene and productivity.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A consistent wake time can enhance sleep quality, which in turn may reduce anxiety and overthinking, contributing to better mental health.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity.",
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Consistent wake times can enhance sleep quality, which in turn supports better emotional regulation and coping abilities, thereby reducing anxiety and stress.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "Being balanced"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care enhances self-awareness and the ability to take breaks, which supports a balanced approach to academics.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Academics",
+        "Being balanced"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The demands of academics can inhibit the ability to maintain balance, highlighting the need for self-awareness and breaks.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "Difficulty with self-regulation of sleep and wake times"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Poor self-regulation of sleep negatively impacts self-care, leading to burnout and reduced academic productivity.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "All-or-nothing thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can hinder effective self-care by creating unrealistic expectations, leading to anxiety and self-sabotage.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "Effective coping strategies"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can enhance self-care practices, leading to better stress management and well-being.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "Awareness of thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care can reduce the tendency for all-or-nothing thinking by promoting a balanced perspective.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "Establishing a consistent wake time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care may lead to inconsistent wake times, which can negatively impact sleep hygiene and productivity.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "Nighttime preferences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care can be hindered by nighttime preferences and social obligations, leading to compromised sleep quality.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "Reducing panic, worry, and overthinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care can help mitigate panic and worry, leading to improved mental health.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Self-care",
+        "Developing effective coping strategies for managing anxiety and stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective coping strategies enhance self-care practices, helping to manage stress and prevent burnout.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Disruptions in sleep quality from social obligations can exacerbate difficulties in regulating sleep, leading to increased burnout and reduced productivity.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor sleep quality can hinder the effectiveness of coping strategies and self-care practices, thereby increasing stress and negatively impacting well-being.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interference from nighttime preferences and social obligations can disrupt consistent wake times, negatively impacting sleep hygiene and productivity.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social obligations and nighttime preferences can detract from time available for self-care and academic responsibilities, leading to conflicts in prioritization.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor sleep quality can exacerbate anxiety and overthinking, while reducing anxiety can improve sleep quality.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality.",
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor sleep quality can exacerbate anxiety and stress, making it harder to develop effective coping strategies.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reducing anxiety and overthinking can enhance self-awareness and promote a balanced approach to tasks.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reducing anxiety and overthinking can enhance self-regulation, potentially improving sleep patterns and reducing burnout.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reducing panic and overthinking can counteract the rigid thinking patterns that contribute to anxiety.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective coping strategies and self-care practices can significantly reduce panic, worry, and overthinking, thereby enhancing mental health and overall well-being.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness of thought patterns can help reduce panic and overthinking, thereby improving mental health.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being.",
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reducing panic and worry enhances the effectiveness of coping strategies, leading to better management of anxiety and stress.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "Being balanced is tied to self-awareness of intentions and ability to take breaks and return to tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective coping strategies enhance self-awareness and the ability to take breaks, promoting balance.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "Difficulty with self-regulation of sleep and wake times contributes to feelings of burnout and decreased productivity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can help mitigate the impact of poor sleep regulation on burnout, suggesting an inhibitory relationship.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "All-or-nothing thinking patterns lead to increased anxiety and self-sabotaging behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can help counteract the negative effects of all-or-nothing thinking, reducing anxiety and preventing self-sabotage.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "Effective coping strategies and self-care practices are necessary for managing stress and improving overall well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes emphasize the importance of coping strategies in managing stress, indicating a strong link where effective strategies enhance overall well-being.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "Awareness of thought patterns and intentional action can help mitigate the negative effects of all-or-nothing thinking."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can enhance awareness of thought patterns, leading to better management of cognitive distortions like all-or-nothing thinking.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "Establishing a consistent wake time is crucial for improving sleep hygiene and increasing productivity."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "Self-care and academics are often in conflict, requiring intentional prioritization and time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective coping strategies can enhance self-care practices, helping individuals manage the conflict between self-care and academic demands.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "Nighttime preferences and social obligations can interfere with sleep schedules and overall sleep quality."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Developing effective coping strategies for managing anxiety and stress is critical for achieving balance and reducing burnout.",
+        "Reducing panic, worry, and overthinking is essential for improving mental health and well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective coping strategies directly help in reducing panic, worry, and overthinking, thereby enhancing overall mental health.",
+      "pair_label": 35
+    }
+  ]
+}

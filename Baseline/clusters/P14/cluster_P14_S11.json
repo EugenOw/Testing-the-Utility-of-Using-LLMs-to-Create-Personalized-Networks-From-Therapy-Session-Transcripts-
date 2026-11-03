@@ -1,0 +1,202 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Anxiety and Procrastination",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Balancing Expectations and Productivity",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Self-Reflection and Awareness",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Uncertainty and Dependence on External Factors",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Exploring Coping Mechanisms",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 6": {
+      "Title": "Contextualizing Emotional Experience",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety and procrastination can lead to an imbalance in expectations and productivity."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing expectations and productivity can help alleviate anxiety and procrastination."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-reflection and awareness can contribute to increased anxiety."
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety can hinder self-reflection and awareness."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty and dependence on external factors can impact balancing expectations and productivity."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Balancing expectations and productivity can help mitigate uncertainty and dependence on external factors."
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Exploring coping mechanisms can be triggered by anxiety and procrastination."
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety and procrastination can hinder exploring coping mechanisms."
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Contextualizing emotional experience can facilitate self-reflection and awareness."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-reflection and awareness can be hindered by contextualizing emotional experience."
+    }
+  ]
+}

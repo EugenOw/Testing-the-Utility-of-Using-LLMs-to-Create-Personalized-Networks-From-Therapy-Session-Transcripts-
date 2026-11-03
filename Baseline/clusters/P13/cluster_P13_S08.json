@@ -1,0 +1,182 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Observation and Reflection",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Emotional Understanding and Regulation",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Family Dynamics and Social Skills",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Personal Growth and Self-Awareness",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Coping Mechanisms and Emotional Expression",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 6": {
+      "Title": "Learning and Adapting",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 7": {
+      "Title": "Emotional Expression and Communication",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 8": {
+      "Title": "Self-Compassion and Emotional Acceptance",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Observation and reflection facilitate emotional understanding and regulation"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional understanding and regulation are influenced by family dynamics and social skills"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Family dynamics and social skills impact personal growth and self-awareness"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Personal growth and self-awareness can reduce the need for coping mechanisms and emotional expression"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Coping mechanisms and emotional expression are influenced by learning and adapting"
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 7"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Learning and adapting impact emotional expression and communication"
+    },
+    {
+      "input_themes": [
+        "Theme 7",
+        "Theme 8"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional expression and communication facilitate self-compassion and emotional acceptance"
+    },
+    {
+      "input_themes": [
+        "Theme 8",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion and emotional acceptance promote observation and reflection"
+    }
+  ]
+}

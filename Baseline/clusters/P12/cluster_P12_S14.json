@@ -1,0 +1,121 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Coping with feelings of powerlessness",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Reframing negative thoughts and emotions",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Building motivation and taking action",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Managing emotions and self-care",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Reframing negative thoughts can help cope with feelings of powerlessness"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Reframing negative thoughts can lead to increased motivation and action"
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Taking action and building motivation can lead to improved emotional management and self-care"
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Feelings of powerlessness can hinder emotional management and self-care"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Reframing negative thoughts can lead to improved emotional management and self-care"
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 3"
+        ],
+        "connection": [
+          0
+        ]
+      }
+    ]
+  }
+}

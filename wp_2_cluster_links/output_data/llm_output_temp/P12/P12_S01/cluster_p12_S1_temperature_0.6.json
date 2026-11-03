@@ -1,0 +1,1143 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to initiate tasks due to fear of not meeting expectations",
+        "Difficulty with self-regulation of attention and focus"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear amplifies cognitive load.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggling to initiate tasks due to fear of not meeting expectations",
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations can lead to avoidance of tasks, resulting in procrastination and prioritization of short-term avoidance",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggling to initiate tasks due to fear of not meeting expectations",
+        "Self-criticism and guilt related to perceived lack of productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations fuels self-criticism and guilt.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggling to initiate tasks due to fear of not meeting expectations",
+        "Impact of past trauma on current cognitive and emotional functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma can intensify fear of not meeting expectations, hindering task initiation.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggling to initiate tasks due to fear of not meeting expectations",
+        "Desire for external validation and support to overcome internal struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Amplifies need for reassurance",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggling to initiate tasks due to fear of not meeting expectations",
+        "Tension between creative aspirations and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fears of not meeting expectations can fuel self-doubt.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggling to initiate tasks due to fear of not meeting expectations",
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of failure and fear of rejection both stem from deep-seated insecurities, causing individuals to withdraw from tasks and relationships, further exacerbating their fears.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggling to initiate tasks due to fear of not meeting expectations",
+        "Sense of disconnection from others due to feelings of shame and inadequacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels social withdrawal.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of attention and focus",
+        "Impact of past trauma on current cognitive and emotional functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma disrupts normal cognitive processes.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of attention and focus",
+        "Desire for external validation and support to overcome internal struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with internal regulation can amplify the desire for external validation as a compensatory mechanism.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of attention and focus",
+        "Tension between creative aspirations and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with self-regulation of attention and focus can stifle the ability to fully engage in creative pursuits due to distraction, thereby increasing tension between creative aspirations and self-doubt.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of attention and focus",
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "May contribute to avoidance.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of attention and focus",
+        "Difficulty with emotional regulation and mood management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying cognitive mechanisms",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of attention and focus",
+        "Sense of disconnection from others due to feelings of shame and inadequacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with self-regulation of attention and focus can distract from social interactions, potentially exacerbating feelings of shame and inadequacy.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals",
+        "Difficulty with self-regulation of attention and focus"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination reinforces poor self-regulation of attention.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals",
+        "Impact of past trauma on current cognitive and emotional functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trauma can lead to avoidance behaviors.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals",
+        "Desire for external validation and support to overcome internal struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination can lead to self-doubt, making the individual more reliant on external validation to counteract feelings of inadequacy.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals",
+        "Tension between creative aspirations and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination hinders creative progress, increasing self-doubt.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals",
+        "Difficulty with emotional regulation and mood management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination can be a maladaptive coping mechanism for avoiding stress and negative emotions, thereby exacerbating difficulties with emotional regulation and mood management.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals",
+        "Sense of disconnection from others due to feelings of shame and inadequacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination can lead to increased feelings of inadequacy.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Self-criticism and guilt related to perceived lack of productivity",
+        "Struggling to initiate tasks due to fear of not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative self-talk and fear of failure.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Self-criticism and guilt related to perceived lack of productivity",
+        "Difficulty with self-regulation of attention and focus"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk and guilt can distract and preoccupy the individual, making it harder to concentrate.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Self-criticism and guilt related to perceived lack of productivity",
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism reinforces avoidance.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Self-criticism and guilt related to perceived lack of productivity",
+        "Impact of past trauma on current cognitive and emotional functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma can exacerbate self-criticism and guilt by introducing self-blame narratives, thereby hindering productivity.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Self-criticism and guilt related to perceived lack of productivity",
+        "Desire for external validation and support to overcome internal struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Self-criticism and guilt related to perceived lack of productivity",
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can increase fear of rejection.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Self-criticism and guilt related to perceived lack of productivity",
+        "Difficulty with emotional regulation and mood management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases stress and emotional intensity",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Self-criticism and guilt related to perceived lack of productivity",
+        "Sense of disconnection from others due to feelings of shame and inadequacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and guilt may exacerbate feelings of shame and inadequacy, potentially leading to increased disconnection from others.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on current cognitive and emotional functioning",
+        "Difficulty with self-regulation of attention and focus"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma often disrupts normal cognitive processes, leading to difficulties in self-regulation of attention and focus.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on current cognitive and emotional functioning",
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma may amplify avoidance behaviors as a coping mechanism, leading to procrastination and prioritizing short-term avoidance over long-term goals.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on current cognitive and emotional functioning",
+        "Self-criticism and guilt related to perceived lack of productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can intensify self-criticism.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on current cognitive and emotional functioning",
+        "Desire for external validation and support to overcome internal struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can intensify the desire for external validation to compensate for feelings of inadequacy and low self-worth.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on current cognitive and emotional functioning",
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can intensify fear of rejection or abandonment, leading to avoidance of emotional intimacy.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on current cognitive and emotional functioning",
+        "Difficulty with emotional regulation and mood management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can impair emotional regulation skills.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on current cognitive and emotional functioning",
+        "Sense of disconnection from others due to feelings of shame and inadequacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can lead to feelings of shame and inadequacy, causing individuals to disconnect from others.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Desire for external validation and support to overcome internal struggles",
+        "Struggling to initiate tasks due to fear of not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations amplifies the need for validation and support.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Desire for external validation and support to overcome internal struggles",
+        "Difficulty with self-regulation of attention and focus"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Seeking external validation can sometimes serve as a distraction from internal struggles, potentially leading to divided attention and decreased ability to focus.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Desire for external validation and support to overcome internal struggles",
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Seeking external validation can reinforce avoidance behaviors as it provides immediate emotional relief, distracting from the internal struggles and long-term goals.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Desire for external validation and support to overcome internal struggles",
+        "Impact of past trauma on current cognitive and emotional functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trauma can intensify the need for external validation",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Desire for external validation and support to overcome internal struggles",
+        "Tension between creative aspirations and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Validation sought to alleviate self-doubt",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Tension between creative aspirations and self-doubt",
+        "Difficulty with self-regulation of attention and focus"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases mental load.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between creative aspirations and self-doubt",
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt leads to fear of failure, which fuels avoidance.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between creative aspirations and self-doubt",
+        "Desire for external validation and support to overcome internal struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances motivation to seek validation.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between creative aspirations and self-doubt",
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection can exacerbate self-doubt.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment",
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection or abandonment can lead to avoidance behaviors in multiple areas of life.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment",
+        "Self-criticism and guilt related to perceived lack of productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance of emotional intimacy may indirectly reduce self-criticism by limiting opportunities for performance evaluation.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment",
+        "Impact of past trauma on current cognitive and emotional functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can intensify fear of rejection.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment",
+        "Tension between creative aspirations and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "intimacy fears can indirectly stifle creative expression",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment",
+        "Difficulty with emotional regulation and mood management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection or abandonment can lead to difficulties in emotional regulation and mood management.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment",
+        "Sense of disconnection from others due to feelings of shame and inadequacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance exacerbates disconnection.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation and mood management",
+        "Difficulty with self-regulation of attention and focus"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional dysregulation can exacerbate difficulties with attention and focus.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation and mood management",
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional discomfort.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation and mood management",
+        "Self-criticism and guilt related to perceived lack of productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism can exacerbate difficulties with emotional regulation by intensifying negative emotions.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation and mood management",
+        "Impact of past trauma on current cognitive and emotional functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can impair emotional regulation.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation and mood management",
+        "Desire for external validation and support to overcome internal struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased emotional dysregulation may trigger a desire for external support.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation and mood management",
+        "Tension between creative aspirations and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional turmoil fuels uncertainty.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation and mood management",
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional dysregulation can heighten fear and vulnerability.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation and mood management",
+        "Sense of disconnection from others due to feelings of shame and inadequacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty managing emotions often intensifies feelings of shame and inadequacy, leading to increased disconnection from others.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Struggling to initiate tasks due to fear of not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations amplifies feelings of shame and inadequacy",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Difficulty with self-regulation of attention and focus"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame and inadequacy can preoccupy an individual, thereby impairing attention and focus.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Tendency to procrastinate and prioritize short-term avoidance over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance of social interactions and long-term goals is a coping mechanism for feelings of shame and inadequacy.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Self-criticism and guilt related to perceived lack of productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-perceived inadequacy fuels further self-criticism.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Impact of past trauma on current cognitive and emotional functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can intensify feelings of shame and inadequacy, leading to or exacerbating disconnection from others.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Desire for external validation and support to overcome internal struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory seeking of validation",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Tension between creative aspirations and self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-perception fuels self-doubt.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Avoidance of emotional intimacy due to fear of rejection or abandonment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame and inadequacy fuel fear of rejection, driving avoidance.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to feelings of shame and inadequacy",
+        "Difficulty with emotional regulation and mood management"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame and inadequacy reinforce poor emotional regulation.",
+      "pair_label": 57
+    }
+  ]
+}

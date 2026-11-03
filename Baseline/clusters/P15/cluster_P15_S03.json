@@ -1,0 +1,145 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Navigating Professional Relationships and Expectations",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Seeking Guidance and Support in Professional Development",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Balancing Precision and Practicality in Documentation",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Self-Awareness and Processing Style",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Familiarity with Therapeutic Tools and Techniques",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating professional relationships influences seeking guidance and support."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking guidance and support affects balancing precision and practicality."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Balancing precision and practicality may be hindered by self-awareness and processing style."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and processing style facilitate familiarity with therapeutic tools and techniques."
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 3"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 4"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 5"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 1"
+      ],
+      "connection": [
+        0
+      ]
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 2"
+      ],
+      "connection": [
+        0
+      ]
+    }
+  ]
+}

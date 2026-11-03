@@ -1,0 +1,118 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Empowerment through self-awareness and intentional choice",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Navigating social interactions with assertiveness and boundaries",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Reflecting on past experiences and personal growth",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Managing emotions and self-compassion",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 5": {
+        "Title": "Letting go of negative thoughts and focusing on the present",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Empowerment through self-awareness enables assertive navigation of social interactions"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Assertiveness can be hindered by lack of self-awareness"
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Reflecting on past experiences can lead to emotional growth and self-compassion"
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 5"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Self-compassion enables letting go of negative thoughts and focusing on the present"
+      },
+      {
+        "input_themes": [
+          "Theme 5",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Focusing on the present can enhance empowerment through self-awareness"
+      }
+    ]
+  }
+}

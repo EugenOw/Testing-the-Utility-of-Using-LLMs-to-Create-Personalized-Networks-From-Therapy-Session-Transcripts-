@@ -1,0 +1,156 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Self-Discovery and Parental Influence",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Authenticity and Social Adaptation",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Relationship Insecurities and Trust Issues",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Self-Worth and Compliment Acceptance",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 5": {
+        "Title": "Productivity and Procrastination",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Self-discovery and authenticity are closely linked"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Authenticity and relationship insecurities are related"
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Relationship insecurities can hinder self-worth"
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 5"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Self-worth and productivity are related"
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 5"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 5"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 5"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 3"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 4"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 4"
+        ],
+        "connection": [
+          0
+        ]
+      }
+    ]
+  }
+}

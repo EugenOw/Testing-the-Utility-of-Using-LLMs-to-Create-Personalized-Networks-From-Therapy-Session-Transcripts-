@@ -1,0 +1,1514 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased pressure to be efficient can exacerbate the struggle to articulate complex ideas.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve conflicting demands and trade-offs, potentially amplifying feelings of inadequacy and stress.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Tension in note-taking may indirectly reduce uncertainty by encouraging clearer communication of boundaries.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Frustration with complex cases can amplify tension in balancing note-taking thoroughness and efficiency.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing thoroughness and efficiency in note-taking can prompt reflection on clinical decision-making.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tension between value of thoroughness and time efficiency in note-taking",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Efficient note-taking can enhance clarity in professional communication.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased difficulty in articulation can heighten tension between thoroughness and efficiency.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in articulating nuanced thoughts and feelings in writing may hinder the ability to effectively communicate specialized knowledge to a general audience, thereby indirectly affecting the struggle to balance specialty expertise with generalist expectations.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty articulating nuanced thoughts and feelings in writing can exacerbate challenges of navigating complex family dynamics in therapy by hindering effective communication and emotional expression.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compensatory behavior.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty in articulating nuanced thoughts and feelings in writing may lead to uncertainty about boundaries in interdisciplinary collaboration due to unclear communication.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration with training limitations can be amplified by difficulty articulating nuanced thoughts and feelings in writing.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty in articulating thoughts may hinder the ability to engage in self-reflection.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating nuanced thoughts and feelings in writing",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory drive for clarity",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased pressure to balance expertise with generalist expectations can lead to increased tension in note-taking between thoroughness and time efficiency.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased ambiguity and pressure to generalize may exacerbate difficulties in articulating nuanced thoughts.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Involving parents in adolescent treatment can complicate the balance between specialty expertise and generalist expectations.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased complexity in family dynamics may amplify the struggle to balance specialty expertise with generalist expectations.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Interdisciplinary collaboration can amplify the struggle to balance specialty expertise with generalist expectations.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration arises from the struggle to balance.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance expertise with generalist expectations prompts recognition of self-reflection needs.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggle to balance specialty expertise with generalist expectations",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Clarity in communication can alleviate the struggle.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Parental involvement supports adolescent emotional expression and development, potentially reducing writing difficulties.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Parental involvement may complicate treatment by adding generalist expectations.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Parental involvement can amplify challenges in navigating family dynamics.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Parental involvement can mitigate frustration by providing a more holistic approach.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Involvement of parents in adolescent treatment may prompt clinicians to reflect on their own biases and cultural sensitivity.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Importance of parental involvement in adolescent treatment",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Complex family dynamics can complicate note-taking, leading to tension between thoroughness and efficiency.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Complex family dynamics may overwhelm an individual, making it harder to articulate thoughts and feelings in writing.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Navigating complex family dynamics may distract from balancing specialty expertise with generalist expectations.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Parental involvement is crucial in navigating complex family dynamics.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased complexity in therapy may lead to a tendency to overdocument as a coping mechanism.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Therapist uncertainty about boundaries can exacerbate challenges in navigating family dynamics.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Complex family dynamics can be a source of frustration for therapists who feel their specialty training is insufficient.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating complex family dynamics often requires therapists to reflect on their own biases and reactions.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Challenges of navigating complex family dynamics in therapy",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating complex family dynamics can foster a desire for clear communication to avoid misunderstandings.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting to detail amplifies tension.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasizing detail may impede the expression of complex ideas.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overcommitting to detail can reinforce the struggle to balance specialty expertise with generalist expectations by creating an imbalance in focus.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overly detailed documentation can hinder therapeutic engagement with complex family dynamics by diverting focus away from relational dynamics.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overcommitting to detail can lead to confusion about boundaries in interdisciplinary collaboration, making it more difficult to determine responsibilities.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Excessive documentation detail can divert time from case complexity training.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overemphasis on detail may distract from introspection.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit to detail in documentation",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": " detail-oriented documentation enhances clarity and specificity in communication.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about boundaries can lead to over-preparation and inefficiency in note-taking.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about boundaries can hinder clear expression of thoughts and feelings.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interdisciplinary collaboration often requires balancing specialized knowledge with the need to understand and integrate other disciplines, leading to uncertainty about boundaries and roles.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overlapping boundary-setting challenges.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased uncertainty can lead to overcompensation.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about boundaries can lead to frustration with limitations.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about boundaries can prompt self-reflection.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Uncertainty about boundaries in interdisciplinary collaboration",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels desire for clarity.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased frustration may lead to a more superficial approach in note-taking.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration can motivate seeking alternative forms of expression.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration fuels the struggle.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Frustration with training limitations may reduce focus on parental involvement.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration with training limitations can heighten awareness of complex family dynamics.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Compensatory behavior",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration with limitations can lead to seeking collaboration, increasing uncertainty about boundaries.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration may prompt self-reflection.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Frustration with limitations of specialty training in addressing complex cases",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration with limitations can motivate seeking clarity.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may reduce tension by prioritizing essential information.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may hinder articulation of nuanced thoughts and feelings in writing due to increased self-scrutiny and critical thinking.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of need for self-reflection can heighten the struggle.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-reflection may reduce the influence of personal biases, including those related to family dynamics, thereby decreasing the emphasis on parental involvement.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of own biases",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-reflection may lead to more efficient documentation.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of personal biases can reduce boundary confusion.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of limitations",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Recognition of the need for self-reflection in clinical decision-making",
+        "Desire for clarity and specificity in communication with colleagues and clients"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection enhances communication clarity.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Tension between value of thoroughness and time efficiency in note-taking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Seeking clarity drives detailed note-taking.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Difficulty articulating nuanced thoughts and feelings in writing"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Clarity in communication can be hindered by difficulty articulating nuanced thoughts and feelings.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Struggle to balance specialty expertise with generalist expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Clarity in communication can be hindered by the struggle to balance specialty expertise with generalist expectations.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Importance of parental involvement in adolescent treatment"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Challenges of navigating complex family dynamics in therapy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Clear communication may be hindered by complex dynamics.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Tendency to overcommit to detail in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism in communication fuels excessive documentation.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Uncertainty about boundaries in interdisciplinary collaboration"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Clarity and specificity in communication can mitigate uncertainty about boundaries.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Frustration with limitations of specialty training in addressing complex cases"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for clear communication can exacerbate frustration when faced with limitations in training.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Desire for clarity and specificity in communication with colleagues and clients",
+        "Recognition of the need for self-reflection in clinical decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Promotes informed decision-making",
+      "pair_label": 14
+    }
+  ]
+}

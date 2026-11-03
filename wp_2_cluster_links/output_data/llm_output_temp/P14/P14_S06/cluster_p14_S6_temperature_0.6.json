@@ -1,0 +1,752 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Engaging with guilt and blame hinders the client's ability to distinguish between actions driven by genuine care versus obligation.",
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Blame reinforces guilt.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Engaging with guilt and blame hinders the client's ability to distinguish between actions driven by genuine care versus obligation.",
+        "Self-compassion is compromised when the client equates their actions with their self-worth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Guilt and blame intensify self-criticism, thereby undermining self-compassion.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Engaging with guilt and blame hinders the client's ability to distinguish between actions driven by genuine care versus obligation.",
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and blame reinforce avoidance.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Engaging with guilt and blame hinders the client's ability to distinguish between actions driven by genuine care versus obligation.",
+        "The client's emotional responses are shaped by their thoughts about others' perceptions and expectations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk linked with guilt and blame can distort perceptions, leading to biased thoughts about others' expectations.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation leads to self-justification and rationalization of actions.",
+        "Self-compassion is compromised when the client equates their actions with their self-worth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with emotional regulation may lead to self-justification and rationalization of actions that can compromise self-worth and, subsequently, self-compassion.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation leads to self-justification and rationalization of actions.",
+        "The client's sense of identity is closely tied to their actions and perceived responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforces sense of self through justification of actions.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt.",
+        "Difficulty with emotional regulation leads to self-justification and rationalization of actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perceived responsibilities can lead to guilt which in turn may motivate a person to regulate their emotions more effectively to avoid the feelings of guilt, thereby reducing the tendency to justify their actions.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt.",
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Guilt reinforces self-control.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt.",
+        "Self-compassion is compromised when the client equates their actions with their self-worth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt can undermine self-compassion by making the client more critical of themselves.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt.",
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Excessive guilt due to perceived expectations can cloud self-assessment.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt.",
+        "The client's sense of identity is closely tied to their actions and perceived responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces sense of self",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt.",
+        "The client's emotional responses are shaped by their thoughts about others' perceptions and expectations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared cognitive basis",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control.",
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and blame can reinforce self-blame for unintended outcomes",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control.",
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared need for control.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control.",
+        "The client's sense of identity is closely tied to their actions and perceived responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared responsibility and self-evaluation mechanisms",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Self-compassion is compromised when the client equates their actions with their self-worth.",
+        "Engaging with guilt and blame hinders the client's ability to distinguish between actions driven by genuine care versus obligation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inhibiting self-compassion amplifies guilt and blame.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Self-compassion is compromised when the client equates their actions with their self-worth.",
+        "Difficulty with emotional regulation leads to self-justification and rationalization of actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-compassion can increase emotional dysregulation.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Self-compassion is compromised when the client equates their actions with their self-worth.",
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compromised self-compassion can amplify self-blame and guilt.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Self-compassion is compromised when the client equates their actions with their self-worth.",
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Equating self-worth with actions may lead to self-criticism, undermining trust and openness in relationships, thus affecting emotional intimacy.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions.",
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Confusion in intentions and outcomes can amplify feelings of guilt and responsibility due to others' expectations.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions.",
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The client's struggle to differentiate between intentions and outcomes can amplify feelings of guilt and blame when actual outcomes do not align with their intentions.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions.",
+        "Self-compassion is compromised when the client equates their actions with their self-worth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intention-outcome discrepancy heightens self-criticism.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions.",
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased confusion about intentions and outcomes can heighten the need for control, thereby impacting the ability to form emotionally intimate relationships.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions.",
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame exacerbates.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations.",
+        "Difficulty with emotional regulation leads to self-justification and rationalization of actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inhibited emotional intimacy can stem from difficulty with emotional regulation, leading to an over-reliance on self-justification.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations.",
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared dependence on perception of others' expectations.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations.",
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes are related to the client's need for control and its impact on their interactions and emotions.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations.",
+        "Self-compassion is compromised when the client equates their actions with their self-worth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Limited self-compassion can inhibit emotional intimacy by increasing anxiety about meeting others' expectations.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations.",
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Need for control can hinder self-awareness of outcomes.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations.",
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and blame can hinder openness and trust.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies.",
+        "Difficulty with emotional regulation leads to self-justification and rationalization of actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Guilt-based thought patterns can exacerbate emotional dysregulation.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies.",
+        "The client's perception of others' expectations and needs can lead to feelings of responsibility and subsequent guilt."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing guilt and responsibility",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies.",
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared involvement with guilt and blame.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies.",
+        "The client struggles to differentiate between their intentions and the actual outcomes of their actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and blame patterns may reinforce self-doubt.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies.",
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance strategies can hinder emotional closeness as they stem from negative internal experiences.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies.",
+        "The client's sense of identity is closely tied to their actions and perceived responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Guilt and blame reinforce self-identification with negative actions.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "The client's sense of identity is closely tied to their actions and perceived responsibilities.",
+        "Engaging with guilt and blame hinders the client's ability to distinguish between actions driven by genuine care versus obligation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and blame obscure self-perception.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "The client's sense of identity is closely tied to their actions and perceived responsibilities.",
+        "Difficulty with emotional regulation leads to self-justification and rationalization of actions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Identity influences emotional regulation, justification strategies.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "The client's sense of identity is closely tied to their actions and perceived responsibilities.",
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Identity and responsibility perceptions amplify guilt and blame interactions through self-reflection.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "The client's sense of identity is closely tied to their actions and perceived responsibilities.",
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension between personal identity and control expectations.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "The client's emotional responses are shaped by their thoughts about others' perceptions and expectations.",
+        "Engaging with guilt and blame hinders the client's ability to distinguish between actions driven by genuine care versus obligation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Excessive concern with others' perceptions can fuel guilt and blame, leading to confusion between genuine care and obligation.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "The client's emotional responses are shaped by their thoughts about others' perceptions and expectations.",
+        "Interactions with guilt and blame are tied to the client's behaviors and sense of control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Thoughts about others' perceptions can lead to feelings of guilt and blame.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "The client's emotional responses are shaped by their thoughts about others' perceptions and expectations.",
+        "Emotional intimacy is influenced by the client's need for control and their perception of others' expectations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interconnected expectations.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "The client's emotional responses are shaped by their thoughts about others' perceptions and expectations.",
+        "Thought patterns of guilt and blame can be overwhelming and lead to avoidance strategies."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "One's thoughts about others can lead to self-blame and guilt.",
+      "pair_label": 63
+    }
+  ]
+}

@@ -1,0 +1,2744 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms can lead to undermining goal setting.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of consequences counteracts substance use",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Substance use as a coping mechanism often reflects a short-term desire for relief, conflicting with long-term goals of self-control and health.",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Promotes healthier alternatives.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened need for self-control can fuel desire for independence.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened anxiety from family dynamics can increase reliance on substances as a maladaptive coping strategy.",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression difficulties can heighten the struggle for self-control in the face of substance temptation.",
+      "pair_label": 198
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased tension from desire for self-control and temptation can heighten fear of failure.",
+      "pair_label": 202
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both tensions involve conflicting desires for autonomy and restraint, suggesting a common underlying struggle with self-regulation.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Coping mechanism",
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion counters temptation.",
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension between self-control and substance use can hinder the ability to seek help due to feelings of shame or guilt.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying executive functioning deficits.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fosters resilience building",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with goal-setting and planning can exacerbate the internal conflict between independence and accountability, as individuals may feel uncertain about how to manage their autonomy effectively.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional factors amplify avoidance.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Inability to plan and set realistic goals can indirectly exacerbate feelings of dread and anxiety in the context of family dynamics and upcoming events by creating uncertainty and lack of control.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Struggles with goal setting can indirectly lead to struggles with articulating feelings and needs due to lack of self-awareness.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Setting realistic goals enables prioritizing self-needs",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Paralyzing fear.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in setting realistic goals and following through with plans can create tension between desire for freedom and need for structure and routine as the inability to plan and follow through can make an individual feel restricted and uncertain.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and following through with plans",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Impulsivity and emotional dysregulation hinder goal-directed behavior.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame and fear amplify internal conflict.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame and fear can impede self-regulation.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative emotions fuel inner conflict.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being caught and shame may amplify the conflict between independence and accountability.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional distress",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Guilt and shame can deter boundary setting.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negative self-assessment",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Counterbalance of impulses",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and shame can heighten emotional arousal, making it more difficult to manage impulses.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-compassion can reduce shame.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Fear of being caught and shame associated with substance use",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can intensify avoidance behaviors.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compromised ability to set goals",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Desire management can reduce fear of consequences.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing struggle with balancing desires and goals promotes self-care as a coping mechanism.",
+      "pair_label": 147
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Involves weighing immediate gratification against future consequences, mirroring the tension between autonomy and accountability.",
+      "pair_label": 141
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination often stems from difficulty in prioritizing long-term goals over immediate gratifications.",
+      "pair_label": 152
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases stress.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 142
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing short-term desires with long-term goals often requires setting boundaries and prioritizing self-needs.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "One reinforces the other as fear of not meeting long-term goals can fuel short-term avoidance behaviors.",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both involve conflicting desires, fueling interdependent distress.",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Practicing self-compassion facilitates better goal management.",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term desires with long-term goals",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-regulation challenges hinder help-seeking.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and finding alternative coping mechanisms",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-care helps in regulating impulses.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and finding alternative coping mechanisms",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms may impact independence vs accountability",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and finding alternative coping mechanisms",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-care buffers dread and anxiety.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and finding alternative coping mechanisms",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing strategies for maintaining emotional well-being.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and finding alternative coping mechanisms",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Practicing self-care can mitigate fear of failure by enhancing resilience and confidence.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and finding alternative coping mechanisms",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-care and alternative coping mechanisms counteract the struggle to manage emotions and impulses.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and finding alternative coping mechanisms",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and finding alternative coping mechanisms",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-sufficiency",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Conflict and tension can be interlinked when independence and self-control are threatened.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Accountability may reduce the desire for substance use due to increased chance of detection and associated shame.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inner conflict sparks struggle for balance.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing the importance of self-care and finding alternative coping mechanisms can help in navigating the internal conflict between independence and accountability.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict can amplify feelings of being overwhelmed.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of stress and anxiety",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Indecisiveness over independence and accountability may hinder self-expression.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened self-awareness of the conflict may amplify anxiety about not meeting expectations.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Similar underlying desires and needs",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for independence and need for accountability",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing personal limitations fosters self-compassion, which can reconcile independence with accountability.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping mechanisms may lead to substance use as an escape.",
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination can lead to poor planning and goal setting due to avoidance and lack of progress.",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination often stems from prioritizing short-term emotional comfort over long-term goals.",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Engaging in self-care reduces overwhelm.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding tasks may exacerbate underlying independence vs. accountability conflict, as procrastination can lead to feelings of guilt and shame, increasing the desire for independence while simultaneously highlighting the need for accountability to overcome procrastination.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination can temporarily escape or avoid feelings of dread and anxiety.",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional overwhelm leads to difficulty in processing and articulating feelings",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Setting boundaries and prioritizing self-needs can help manage emotional overwhelm.",
+      "pair_label": 177
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of failure intensifies emotional overwhelm.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inconsistent decision-making and emotional overwhelm due to inner conflict between structure and freedom can amplify procrastination.",
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional overwhelm can trigger avoidance behaviors",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion enables emotional regulation.",
+      "pair_label": 176
+    },
+    {
+      "input_processes": [
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of tasks due to emotional overwhelm may also lead to avoidance of seeking help, fearing emotional exposure.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety from family dynamics and events may intensify the urge to seek substance use as an escape.",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety can indirectly impede goal-setting by preoccupying mental resources and decreasing motivation.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "the anxiety of family dynamics may motivate avoidance of substance use due to fear of discovery and associated shame.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety from family dynamics can amplify difficulties in decision-making and prioritization.",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reduces symptoms.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Interdependence anxiety fuels independence desires",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety interferes with self-expression.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Addressing anxiety through self-care.",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened anxiety about family dynamics can exacerbate fear of not meeting expectations.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict between freedom and routine can heighten anxiety.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion counters anxiety",
+      "pair_label": 134
+    },
+    {
+      "input_processes": [
+        "Sense of dread and anxiety related to family dynamics and upcoming events",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and anxiety can hinder the ability to seek help.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased reliance on substance use as maladaptive coping strategy",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express needs hinders goal-setting.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional expression to conceal substance use habits.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express feelings and needs impairs decision-making",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Addressing emotional expression facilitates self-care.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Communication struggles fuel tension.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in expressing feelings and needs can lead to neglect of self-needs and poor boundaries.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of failure may exacerbate difficulty in articulating feelings due to heightened anxiety.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inhibited emotional expression exacerbates internal conflict.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interconnected affective and cognitive processes.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased self-awareness.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased inability to express emotional needs hinders seeking help from others",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-care and boundary setting can mitigate goal-setting difficulties by reducing overwhelm and increasing focus.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually supportive habits",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Establishing personal boundaries can stimulate inner conflict about independence and accountability.",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Establishing boundaries protects against dread and anxiety.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Knowing boundaries is hindered by unclear expression.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundaries and prioritizing self-needs can mitigate fear of failure",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundaries support balancing freedom and structure.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundaries help regulate emotional responses.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually supportive",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Importance of setting boundaries and prioritizing self-needs",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Establishing self-boundaries can hinder the willingness to seek external help.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened anxiety from fear of failure can increase vulnerability to substance use as a maladaptive coping strategy.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Undermines confidence",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Substance use may serve as a coping mechanism for fear of failure, but also introduces a fear of being caught.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety over not meeting expectations can hinder prioritization of long-term goals over short-term desires.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prompts seeking of healthier alternatives",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases anxiety and self-doubt",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear fuels anxiety.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety from unmet expectations might limit emotional expression.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Fear of failure and not meeting expectations",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundaries protect against excessive demands and self-sacrifice",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Underlying desires and conflicts can escalate tensions across domains.",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict between desire for autonomy and need for order can hinder planning and goal attainment.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases anxiety and stress.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Finding balance between freedom and structure may lead to recognizing the need for self-care.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Similar underlying desires and needs create tension.",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict between desires and needs can lead to emotional paralysis, which may result in avoidance behaviors.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension can impede the expression of feelings.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundaries and prioritization facilitate balance between freedom and structure.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension between desires for freedom and structure can amplify emotional dysregulation and impulsivity in challenging situations.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Tension between desire for freedom and need for structure and routine",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing needs",
+      "pair_label": 190
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Escalating emotional struggles lead to increased reliance on substances for emotional regulation.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Difficulty in setting realistic goals and following through with plans"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional and impulse regulation directly affects planning and goal-oriented behavior.",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Impulsivity breeds short-sighted decision-making.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional regulation difficulties necessitate coping strategies.",
+      "pair_label": 161
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impulsive decisions may trigger inner conflict over independence and accountability.",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overwhelmed emotional regulation",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired emotional regulation can hinder clear expression.",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Establishing boundaries helps regulate emotional responses.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened emotional reactivity contributes to a greater fear of not meeting expectations.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Struggle to manage emotions and impulses in the face of challenging situations",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Practicing self-compassion and acknowledging limitations can help manage overwhelming emotions and impulses.",
+      "pair_label": 162
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion reduces the need for external coping mechanisms.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Fear of being caught and shame associated with substance use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can buffer against shame",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion helps in accepting the struggle, reducing stress and anxiety.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Importance of self-care and finding alternative coping mechanisms"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters holistic well-being",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Conflict between desire for independence and need for accountability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "moderately inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the conflict by acknowledging the need for accountability as a natural part of personal growth.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion reduces emotional overwhelm.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Practicing self-compassion can help alleviate dread and anxiety by acknowledging and accepting personal limitations.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Difficulty in articulating feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of limitations fosters self-compassion, which helps in overcoming difficulty in articulating feelings and needs.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Importance of setting boundaries and prioritizing self-needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes involve self-awareness and self-care.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion counters fear by promoting a kinder, more realistic self-view.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "acknowledging one's limitations can reduce inner conflict",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion helps individuals better regulate and manage their emotions and impulses.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion and acknowledging limitations",
+        "Difficulty in seeking help and support from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-compassion reduces resistance to seeking help.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Difficulty in seeking help and support from others",
+        "Tension between desire for self-control and temptation to use substances as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of help-seeking reinforces reliance on maladaptive substance use.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty in seeking help and support from others",
+        "Struggle to balance short-term desires with long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of seeking help can reinforce struggles in balancing short-term and long-term goals due to lack of guidance and support in decision-making processes.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty in seeking help and support from others",
+        "Tendency to procrastinate and avoid tasks due to emotional overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased avoidance due to lack of support.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty in seeking help and support from others",
+        "Sense of dread and anxiety related to family dynamics and upcoming events"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding help exacerbates anxiety",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty in seeking help and support from others",
+        "Fear of failure and not meeting expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fears of failure exacerbate self-reliance and reluctance to seek help, creating a reinforcing cycle.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Difficulty in seeking help and support from others",
+        "Tension between desire for freedom and need for structure and routine"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Structure and routine may help alleviate anxiety related to seeking help.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty in seeking help and support from others",
+        "Struggle to manage emotions and impulses in the face of challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased emotional load.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty in seeking help and support from others",
+        "Importance of self-compassion and acknowledging limitations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing one's own limitations fosters self-compassion that, in turn, encourages seeking help.",
+      "pair_label": 35
+    }
+  ]
+}

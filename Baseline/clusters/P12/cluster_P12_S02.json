@@ -1,0 +1,74 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Establishing a routine for personal growth",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Struggling with procrastination and motivation",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Managing time and prioritizing tasks",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Theme 1 and Theme 2 are related as the client's desire for personal growth and learning is hindered by their struggles with procrastination and motivation."
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Theme 2 and Theme 3 are related as the client's struggles with procrastination and motivation can be managed by prioritizing tasks and managing time effectively."
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Theme 1 and Theme 3 are related as the client's desire for personal growth and learning can be facilitated by effective time management and prioritization of tasks."
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Desire for a sense of home and belonging",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Loss of a sense of home and identity",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Difficulty in sharing past experiences with others",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Regret and longing for past opportunities",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Desire for a sense of home and belonging is closely tied to the loss of a sense of home and identity."
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Loss of a sense of home and identity can hinder the desire for a sense of home and belonging."
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Desire for a sense of home and belonging can lead to difficulty in sharing past experiences with others."
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Difficulty in sharing past experiences with others can make it harder to achieve a sense of home and belonging."
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Loss of a sense of home and identity can contribute to difficulty in sharing past experiences with others."
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Difficulty in sharing past experiences with others can exacerbate the loss of a sense of home and identity."
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Desire for a sense of home and belonging can lead to regret and longing for past opportunities."
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Regret and longing for past opportunities can make it harder to achieve a sense of home and belonging."
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Loss of a sense of home and identity can contribute to regret and longing for past opportunities."
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Regret and longing for past opportunities can exacerbate the loss of a sense of home and identity."
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Difficulty in sharing past experiences with others can lead to regret and longing for past opportunities."
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Regret and longing for past opportunities can make it harder to share past experiences with others."
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Process Network</title>
+    <script src="https://unpkg.com/cytoscape@3.21.1/dist/cytoscape.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #cy {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        .legend {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 14px;
+            z-index: 10;
+        }
+        .tooltip {
+            position: absolute;
+            background: #fefefe;
+            border: 1px solid #aaa;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 13px;
+            max-width: 300px;
+            z-index: 20;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            cursor: default;
+        }
+        .tooltip .close-btn {
+            float: right;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="cy"></div>
+    <div class="legend">
+        <b>Legend</b><br>
+        <span style="color:#e74c3c;">Red</span>: Inhibitory<br>
+        <span style="color:#3498db;">Blue</span>: Excitatory<br>
+        <hr style="border-top: 1px dashed #aaa; margin: 4px 0;">
+        Dashed line = Weak<br>
+        Solid thin = Moderate<br>
+        Solid thick = Strong<br>
+        <hr>
+        <b>Dimensions</b><br>
+        🔴 Cognition<br>
+        🟠 Attention<br>
+        🟡 Motivation<br>
+        🟢 (Overt) Behaviour<br>
+        🔵 Sense of Self<br>
+        🟣 Context/Moderators<br>
+        🟤 Affect<br>
+        ⚪ Sociocultural<br>
+        ⚫ Biophysiological
+    </div>
+    <script>
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            layout: { name: 'cose' },
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'text-wrap': 'wrap',
+                        'text-max-width': 100,
+                        'text-valign': 'center',
+                        'text-halign': 'center',
+                        'background-color': '#ffffff',
+                        'border-color': '#000000',
+                        'border-width': 1,
+                        'color': '#000',
+                        'font-size': 10,
+                        'width': 'label',
+                        'height': 'label',
+                        'padding': 10
+                    }
+                },
+                {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'target-arrow-shape': 'triangle',
+                        'arrow-scale': 1.2,
+                        'label': '',
+                        'font-size': 9,
+                        'text-rotation': 'autorotate',
+                        'text-margin-y': -10,
+                        'line-color': 'data(color)',
+                        'target-arrow-color': 'data(color)',
+                        'width': 'data(width)',
+                        'line-style': 'data(lineStyle)'
+                    }
+                }
+            ],
+            elements: [{"data": {"id": "Struggling to disengage from self-criticism and guilt", "label": "Struggling to disengage from self-criticism and guilt\n\ud83d\udfe4 \ud83d\udd34 \ud83d\udd35\nFrequency: 5"}}, {"data": {"id": "Difficulty in regulating emotional responses to social interactions", "label": "Difficulty in regulating emotional responses to social interactions\n\ud83d\udfe4 \ud83d\udfe0 \u26ab\nFrequency: 4"}}, {"data": {"id": "Tendency to overanalyze and ruminate on thoughts and feelings", "label": "Tendency to overanalyze and ruminate on thoughts and feelings\n\ud83d\udfe4 \ud83d\udfe0 \ud83d\udd34\nFrequency: 4"}}, {"data": {"id": "Challenges in setting boundaries with internalized critical voices", "label": "Challenges in setting boundaries with internalized critical voices\n\ud83d\udfe4 \ud83d\udfe0 \ud83d\udd34\nFrequency: 4"}}, {"data": {"id": "Frustration with inability to control or manage thoughts and emotions", "label": "Frustration with inability to control or manage thoughts and emotions\n\ud83d\udfe4 \ud83d\udfe0 \ud83d\udd34\nFrequency: 4"}}, {"data": {"id": "Using escapism as a coping mechanism for emotional overwhelm", "label": "Using escapism as a coping mechanism for emotional overwhelm\n\ud83d\udfe0 \u26ab \ud83d\udd34\nFrequency: 4"}}, {"data": {"id": "Difficulty in distinguishing between internal thoughts and external stimuli", "label": "Difficulty in distinguishing between internal thoughts and external stimuli\n\ud83d\udfe4 \ud83d\udd34 \ud83d\udd35\nFrequency: 4"}}, {"data": {"id": "Awareness of emotional state and its impact on behavior", "label": "Awareness of emotional state and its impact on behavior\n\ud83d\udfe0 \u26ab \ud83d\udd34\nFrequency: 4"}}, {"data": {"id": "Tension between desire for autonomy and need for social connection", "label": "Tension between desire for autonomy and need for social connection\n\ud83d\udfe4 \ud83d\udd34 \ud83d\udd35\nFrequency: 4"}}, {"data": {"id": "Impact of fatigue on emotional regulation and cognitive functioning", "label": "Impact of fatigue on emotional regulation and cognitive functioning\n\ud83d\udfe0 \u26ab \ud83d\udd34\nFrequency: 4"}}, {"data": {"id": "Struggling to disengage from self-criticism and guilt_Difficulty in regulating emotional responses to social interactions_58", "source": "Struggling to disengage from self-criticism and guilt", "target": "Difficulty in regulating emotional responses to social interactions", "pair_label": "58", "info": "<b>Pair:</b> 58<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-criticism fuels heightened emotional reactivity.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling to disengage from self-criticism and guilt_Tendency to overanalyze and ruminate on thoughts and feelings_61", "source": "Struggling to disengage from self-criticism and guilt", "target": "Tendency to overanalyze and ruminate on thoughts and feelings", "pair_label": "61", "info": "<b>Pair:</b> 61<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-criticism fuels rumination.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling to disengage from self-criticism and guilt_Challenges in setting boundaries with internalized critical voices_56", "source": "Struggling to disengage from self-criticism and guilt", "target": "Challenges in setting boundaries with internalized critical voices", "pair_label": "56", "info": "<b>Pair:</b> 56<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-criticism reinforces internalized critical voices.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling to disengage from self-criticism and guilt_Frustration with inability to control or manage thoughts and emotions_59", "source": "Struggling to disengage from self-criticism and guilt", "target": "Frustration with inability to control or manage thoughts and emotions", "pair_label": "59", "info": "<b>Pair:</b> 59<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-criticism intensifies emotional turmoil.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in regulating emotional responses to social interactions_Struggling to disengage from self-criticism and guilt_33", "source": "Difficulty in regulating emotional responses to social interactions", "target": "Struggling to disengage from self-criticism and guilt", "pair_label": "33", "info": "<b>Pair:</b> 33<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Social interactions can trigger intense emotional responses,\nwhich may lead to self-criticism and guilt.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in regulating emotional responses to social interactions_Using escapism as a coping mechanism for emotional overwhelm_36", "source": "Difficulty in regulating emotional responses to social interactions", "target": "Using escapism as a coping mechanism for emotional overwhelm", "pair_label": "36", "info": "<b>Pair:</b> 36<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional dysregulation fuels escapism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in regulating emotional responses to social interactions_Challenges in setting boundaries with internalized critical voices_29", "source": "Difficulty in regulating emotional responses to social interactions", "target": "Challenges in setting boundaries with internalized critical voices", "pair_label": "29", "info": "<b>Pair:</b> 29<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional dysregulation can amplify self-criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in regulating emotional responses to social interactions_Frustration with inability to control or manage thoughts and emotions_31", "source": "Difficulty in regulating emotional responses to social interactions", "target": "Frustration with inability to control or manage thoughts and emotions", "pair_label": "31", "info": "<b>Pair:</b> 31<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional dysregulation exacerbates feelings of frustration.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tendency to overanalyze and ruminate on thoughts and feelings_Struggling to disengage from self-criticism and guilt_70", "source": "Tendency to overanalyze and ruminate on thoughts and feelings", "target": "Struggling to disengage from self-criticism and guilt", "pair_label": "70", "info": "<b>Pair:</b> 70<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Overanalysis fuels self-criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tendency to overanalyze and ruminate on thoughts and feelings_Challenges in setting boundaries with internalized critical voices_65", "source": "Tendency to overanalyze and ruminate on thoughts and feelings", "target": "Challenges in setting boundaries with internalized critical voices", "pair_label": "65", "info": "<b>Pair:</b> 65<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Overanalysis and rumination can amplify internalized\ncritical voices.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tendency to overanalyze and ruminate on thoughts and feelings_Difficulty in distinguishing between internal thoughts and external stimuli_66", "source": "Tendency to overanalyze and ruminate on thoughts and feelings", "target": "Difficulty in distinguishing between internal thoughts and external stimuli", "pair_label": "66", "info": "<b>Pair:</b> 66<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Overanalysis can blur boundaries between internal and\nexternal stimuli.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tendency to overanalyze and ruminate on thoughts and feelings_Frustration with inability to control or manage thoughts and emotions_68", "source": "Tendency to overanalyze and ruminate on thoughts and feelings", "target": "Frustration with inability to control or manage thoughts and emotions", "pair_label": "68", "info": "<b>Pair:</b> 68<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reinforcing cycle of rumination and frustration", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Using escapism as a coping mechanism for emotional overwhelm_Struggling to disengage from self-criticism and guilt_88", "source": "Using escapism as a coping mechanism for emotional overwhelm", "target": "Struggling to disengage from self-criticism and guilt", "pair_label": "88", "info": "<b>Pair:</b> 88<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Escapism can reinforce avoidance of self-awareness and\nintrospection, exacerbating struggles with self-criticism\nand guilt.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Using escapism as a coping mechanism for emotional overwhelm_Challenges in setting boundaries with internalized critical voices_83", "source": "Using escapism as a coping mechanism for emotional overwhelm", "target": "Challenges in setting boundaries with internalized critical voices", "pair_label": "83", "info": "<b>Pair:</b> 83<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Escapism can reinforce avoidance of critical self-talk", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Challenges in setting boundaries with internalized critical voices_Struggling to disengage from self-criticism and guilt_15", "source": "Challenges in setting boundaries with internalized critical voices", "target": "Struggling to disengage from self-criticism and guilt", "pair_label": "15", "info": "<b>Pair:</b> 15<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Internalized voices fuel self-criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Challenges in setting boundaries with internalized critical voices_Tendency to overanalyze and ruminate on thoughts and feelings_16", "source": "Challenges in setting boundaries with internalized critical voices", "target": "Tendency to overanalyze and ruminate on thoughts and feelings", "pair_label": "16", "info": "<b>Pair:</b> 16<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Internalized critical voices may lead to increased self-\ndoubt, fueling rumination.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Challenges in setting boundaries with internalized critical voices_Using escapism as a coping mechanism for emotional overwhelm_18", "source": "Challenges in setting boundaries with internalized critical voices", "target": "Using escapism as a coping mechanism for emotional overwhelm", "pair_label": "18", "info": "<b>Pair:</b> 18<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Escapism may be used to avoid the emotional pain triggered\nby internalized critical voices.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Challenges in setting boundaries with internalized critical voices_Frustration with inability to control or manage thoughts and emotions_13", "source": "Challenges in setting boundaries with internalized critical voices", "target": "Frustration with inability to control or manage thoughts and emotions", "pair_label": "13", "info": "<b>Pair:</b> 13<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased internal criticism leads to increased emotional\ndysregulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Awareness of emotional state and its impact on behavior_Difficulty in regulating emotional responses to social interactions_3", "source": "Awareness of emotional state and its impact on behavior", "target": "Difficulty in regulating emotional responses to social interactions", "pair_label": "3", "info": "<b>Pair:</b> 3<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Awareness of emotional state can help regulate emotional\nresponses.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Awareness of emotional state and its impact on behavior_Tendency to overanalyze and ruminate on thoughts and feelings_7", "source": "Awareness of emotional state and its impact on behavior", "target": "Tendency to overanalyze and ruminate on thoughts and feelings", "pair_label": "7", "info": "<b>Pair:</b> 7<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased awareness of emotional state can lead to deeper\nreflection and analysis of thoughts and feelings.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Awareness of emotional state and its impact on behavior_Frustration with inability to control or manage thoughts and emotions_4", "source": "Awareness of emotional state and its impact on behavior", "target": "Frustration with inability to control or manage thoughts and emotions", "pair_label": "4", "info": "<b>Pair:</b> 4<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased awareness of emotional state can heighten\nfrustration when unable to manage emotions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tension between desire for autonomy and need for social connection_Difficulty in regulating emotional responses to social interactions_76", "source": "Tension between desire for autonomy and need for social connection", "target": "Difficulty in regulating emotional responses to social interactions", "pair_label": "76", "info": "<b>Pair:</b> 76<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased tension fuels emotional dysregulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tension between desire for autonomy and need for social connection_Frustration with inability to control or manage thoughts and emotions_77", "source": "Tension between desire for autonomy and need for social connection", "target": "Frustration with inability to control or manage thoughts and emotions", "pair_label": "77", "info": "<b>Pair:</b> 77<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Intrapsychic conflict amplifies emotional turmoil.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of fatigue on emotional regulation and cognitive functioning_Difficulty in regulating emotional responses to social interactions_49", "source": "Impact of fatigue on emotional regulation and cognitive functioning", "target": "Difficulty in regulating emotional responses to social interactions", "pair_label": "49", "info": "<b>Pair:</b> 49<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fatigue amplifies emotional dysregulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of fatigue on emotional regulation and cognitive functioning_Frustration with inability to control or manage thoughts and emotions_50", "source": "Impact of fatigue on emotional regulation and cognitive functioning", "target": "Frustration with inability to control or manage thoughts and emotions", "pair_label": "50", "info": "<b>Pair:</b> 50<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fatigue impairs emotional regulation, leading to increased\nfrustration.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in distinguishing between internal thoughts and external stimuli_Struggling to disengage from self-criticism and guilt_24", "source": "Difficulty in distinguishing between internal thoughts and external stimuli", "target": "Struggling to disengage from self-criticism and guilt", "pair_label": "24", "info": "<b>Pair:</b> 24<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Blurred boundaries between internal and external stimuli can\namplify self-criticism and guilt by making it difficult to\ndistinguish between self-generated negative thoughts and\nexternal criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in distinguishing between internal thoughts and external stimuli_Difficulty in regulating emotional responses to social interactions_21", "source": "Difficulty in distinguishing between internal thoughts and external stimuli", "target": "Difficulty in regulating emotional responses to social interactions", "pair_label": "21", "info": "<b>Pair:</b> 21<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Blurred boundaries between internal and external stimuli can\nintensify emotional dysregulation in social interactions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in distinguishing between internal thoughts and external stimuli_Tendency to overanalyze and ruminate on thoughts and feelings_25", "source": "Difficulty in distinguishing between internal thoughts and external stimuli", "target": "Tendency to overanalyze and ruminate on thoughts and feelings", "pair_label": "25", "info": "<b>Pair:</b> 25<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Blurred boundaries between internal and external stimuli can\nlead to increased self-reflection and rumination.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in distinguishing between internal thoughts and external stimuli_Challenges in setting boundaries with internalized critical voices_20", "source": "Difficulty in distinguishing between internal thoughts and external stimuli", "target": "Challenges in setting boundaries with internalized critical voices", "pair_label": "20", "info": "<b>Pair:</b> 20<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Shared cognitive confusion and blurred lines between self\nand external influences", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in distinguishing between internal thoughts and external stimuli_Frustration with inability to control or manage thoughts and emotions_22", "source": "Difficulty in distinguishing between internal thoughts and external stimuli", "target": "Frustration with inability to control or manage thoughts and emotions", "pair_label": "22", "info": "<b>Pair:</b> 22<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased confusion leads to heightened frustration.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Frustration with inability to control or manage thoughts and emotions_Struggling to disengage from self-criticism and guilt_42", "source": "Frustration with inability to control or manage thoughts and emotions", "target": "Struggling to disengage from self-criticism and guilt", "pair_label": "42", "info": "<b>Pair:</b> 42<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Frustration fuels self-criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Frustration with inability to control or manage thoughts and emotions_Difficulty in regulating emotional responses to social interactions_40", "source": "Frustration with inability to control or manage thoughts and emotions", "target": "Difficulty in regulating emotional responses to social interactions", "pair_label": "40", "info": "<b>Pair:</b> 40<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Frustration can amplify emotional dysregulation in social\ncontexts.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Frustration with inability to control or manage thoughts and emotions_Tendency to overanalyze and ruminate on thoughts and feelings_43", "source": "Frustration with inability to control or manage thoughts and emotions", "target": "Tendency to overanalyze and ruminate on thoughts and feelings", "pair_label": "43", "info": "<b>Pair:</b> 43<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Frustration fuels rumination.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Frustration with inability to control or manage thoughts and emotions_Using escapism as a coping mechanism for emotional overwhelm_45", "source": "Frustration with inability to control or manage thoughts and emotions", "target": "Using escapism as a coping mechanism for emotional overwhelm", "pair_label": "45", "info": "<b>Pair:</b> 45<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Escapism is often used to temporarily avoid feelings of\nfrustration.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Frustration with inability to control or manage thoughts and emotions_Challenges in setting boundaries with internalized critical voices_38", "source": "Frustration with inability to control or manage thoughts and emotions", "target": "Challenges in setting boundaries with internalized critical voices", "pair_label": "38", "info": "<b>Pair:</b> 38<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Frustration amplifies internalized criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}]
+        });
+
+        let tooltipCounter = 0;
+
+        cy.on('tap', 'edge', function(evt) {
+            var edge = evt.target;
+            var pos = evt.renderedPosition;
+            var tooltipId = "tooltip-" + (++tooltipCounter);
+
+            var tooltip = document.createElement("div");
+            tooltip.className = "tooltip";
+            tooltip.id = tooltipId;
+            tooltip.style.left = (pos.x + 20) + "px";
+            tooltip.style.top = (pos.y + 20) + "px";
+
+            var closeBtn = document.createElement("span");
+            closeBtn.className = "close-btn";
+            closeBtn.innerHTML = "&times;";
+            closeBtn.onclick = function () {
+                tooltip.remove();
+            };
+
+            tooltip.innerHTML = "";
+            tooltip.appendChild(closeBtn);
+            var content = document.createElement("div");
+            content.innerHTML = edge.data("info");
+            tooltip.appendChild(content);
+
+            document.body.appendChild(tooltip);
+            makeDraggable(tooltip);
+        });
+
+        function makeDraggable(elmnt) {
+            let offset = { x: 0, y: 0 };
+            let isDragging = false;
+
+            elmnt.addEventListener("mousedown", function (e) {
+                if (e.target.classList.contains("close-btn")) return;
+                isDragging = true;
+                offset.x = e.clientX - elmnt.offsetLeft;
+                offset.y = e.clientY - elmnt.offsetTop;
+                elmnt.style.cursor = "move";
+                e.preventDefault();
+            });
+
+            document.addEventListener("mousemove", function (e) {
+                if (isDragging) {
+                    elmnt.style.left = (e.clientX - offset.x) + "px";
+                    elmnt.style.top = (e.clientY - offset.y) + "px";
+                }
+            });
+
+            document.addEventListener("mouseup", function () {
+                isDragging = false;
+                elmnt.style.cursor = "default";
+            });
+        }
+    </script>
+</body>
+</html>

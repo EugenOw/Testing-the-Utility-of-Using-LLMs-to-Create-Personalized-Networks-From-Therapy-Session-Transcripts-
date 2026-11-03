@@ -1,0 +1,3552 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence in social interactions can enhance self-worth.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-perceived confidence undermines internal self-doubt.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence enhances self-reflection.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence in social interactions can enhance goal attainment",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Confidence facilitates exploration",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-perceived confidence enhances professional identity.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence reduces fear.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-perceived confidence can suppress the tendency to downplay personal achievements and qualities.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of emotional states enhances self-perceived confidence",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence in social interactions facilitates assertiveness.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-perceived confidence can be undermined",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence in social interactions can make it easier to be vulnerable and open with others.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Confidence in social interactions enhances overall sense of control.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Flexibility in social interactions tied to self-perceived confidence",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Confidence from accomplishments and social validation",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt undermines confidence in articulation.",
+      "pair_label": 141
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection and mindfulness can help detach self-worth from external validation.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Achieving goals reinforces self-worth.",
+      "pair_label": 152
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tendency to reduce",
+      "pair_label": 147
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Accomplishments and social connections shape professional identity.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces anxiety.",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-worth is undermined",
+      "pair_label": 154
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of emotional states can enhance self-worth by recognizing accomplishments and social connections.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Low self-worth can hinder assertiveness.",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-evaluation",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-worth tied to external validation can hinder openness to emotional intimacy.",
+      "pair_label": 142
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Accomplishments enhance sense of control.",
+      "pair_label": 151
+    },
+    {
+      "input_processes": [
+        "Self-worth linked to accomplishments and social connections",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internal self-doubt can limit self-perceived confidence.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can fuel a need for external validation.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection and mindfulness can mitigate self-doubt.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-doubt may hinder confidence in expressing thoughts, which indirectly affects the perception of accomplishment.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can limit openness.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internal self-doubt can undermine professional identity.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels fear.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can lead to minimizing accomplishments.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can impede emotional awareness by making individuals uncertain about their emotional experiences.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels hesitation in asserting oneself.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt reinforces perfectionism.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead to fear of emotional rejection.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can undermine confidence in decision-making.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation can amplify self-doubt.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Enhanced self-awareness",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may decrease the need to tie self-worth to external sources.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection and mindfulness can reduce self-doubt.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindful self-reflection enhances goal-directed behavior, leading to increased pride and accomplishment.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances flexibility",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Enhanced emotional regulation can foster a more stable and confident professional identity.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection and mindfulness can help mitigate fear by increasing self-awareness and reducing anxiety.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and mindfulness can help recognize and challenge self-deprecating thoughts.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and mindfulness can help recognize and manage emotions, thereby reducing anxiety about asserting oneself.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Counteracts excessive self-criticism.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection and mindfulness can help individuals better understand and manage their emotions, making it easier to form intimate connections with others.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-regulation enhances sense of control.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection and mindfulness",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Regulation of emotions through self-reflection and mindfulness can mitigate the negative impact of sleep deprivation on mood.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Confidence boost.",
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-worth",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Achieving goals enhances self-awareness.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Achieving goals may lead to a sense of complacency, reducing the need to adapt.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances professional self-image.",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Achieving goals reduces fear",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Achieving goals enhances emotional awareness.",
+      "pair_label": 177
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Accomplishment pride can hinder assertiveness by increasing self-doubt or fear of appearing vulnerable when expressing needs.",
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Achieving goals may reduce self-criticism.",
+      "pair_label": 176
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Achieving goals may reinforce self-reliance, making emotional intimacy more challenging.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Achieving goals reinforces sense of control.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Sense of pride and accomplishment from achieving goals",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Sleep deprivation can reduce motivation and satisfaction from achievements.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Confidence boosts openness to new social interactions.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adaptability can reduce reliance on external validation for self-worth.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Open-mindedness and adaptability can reduce self-doubt.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Facilitates",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fosters resilience and confidence.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexibility fosters professional growth.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reduces anxiety.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Facilitates emotional regulation",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty tolerance can hinder assertiveness.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty tolerance can mitigate self-criticism.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Open-mindedness and adaptability can help mitigate difficulties with emotional intimacy and vulnerability by fostering a more receptive and resilient mindset.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases perceived control",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Open-mindedness and adaptability in the face of uncertainty",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Sleep deprivation can impair cognitive flexibility and mood regulation, making it harder to be open-minded and adaptable.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual Reinforcement",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt undermines professional identity",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Professional identity influences emotional regulation.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Achieving goals reinforces professional identity.",
+      "pair_label": 138
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Professional identity influences adaptability.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-perceived identity as a professional can amplify fear of not meeting expectations.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Identity as a professional may suppress tendency to downplay achievements due to increased confidence.",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhanced self-awareness.",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Professional identity can suppress assertiveness and expressing needs due to fear of being seen as unprofessional.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-perceived identity as a professional can amplify perfectionism and self-criticism.",
+      "pair_label": 134
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Professional identity may mask vulnerability.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies confidence and decision-making",
+      "pair_label": 137
+    },
+    {
+      "input_processes": [
+        "Self-perceived identity as a professional and its impact on relationships",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "high fear inhibits flexibility",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-evaluation.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels fear.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection and mindfulness can mitigate fear by promoting realistic self-assessment and acceptance.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reduces fear of failure.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear can limit openness to new ideas and adaptability.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-image",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-protection mechanism",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of emotional states can help manage fear of not meeting expectations.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations can lead to difficulty asserting oneself and expressing needs due to fear of rejection or disappointing others.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of high standards.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fears of not meeting expectations can lead to guardedness and a reluctance to be vulnerable, making emotional intimacy challenging.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear undermines control.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations in personal and professional settings",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases anxiety.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying achievements undermines confidence.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying personal achievements may reduce self-worth based on accomplishments.",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead to downplaying achievements.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying personal achievements may hinder self-reflection by minimizing self-awareness of strengths.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Downplaying personal achievements may limit openness to new experiences.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying personal achievements can undermine professional identity.",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying personal achievements can temporarily reduce fear of not meeting expectations by lowering perceived standards.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying achievements may limit self-awareness of emotional states.",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-diminishment reinforces difficulty in asserting oneself.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying achievements can counteract perfectionism by reducing self-expectations.",
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying personal achievements and qualities may lead to difficulty in forming close relationships due to fear of being seen as vulnerable or imperfect.",
+      "pair_label": 198
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Downplaying personal achievements can undermine self-efficacy.",
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Tendency to downplay personal achievements and qualities",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 202
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional awareness enhances social adaptability.",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness of emotional states can enhance self-worth by recognizing accomplishments and positive social connections.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness mitigates internal self-doubt.",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of emotional states facilitates regulation through self-reflection and mindfulness.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing emotional states can enhance goal-directed behavior, leading to increased pride and accomplishment.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of emotional states can facilitate openness to new experiences and perspectives.",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional awareness influences professional identity",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of emotional states can help manage fear of not meeting expectations.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of emotions may help recognize and counteract self-deprecating tendencies.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can help recognize and manage emotions, thereby improving assertiveness and reducing struggles in expressing needs.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness may mitigate perfectionism and self-criticism by promoting realistic self-expectations.",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness may limit difficulties with emotional intimacy by allowing for better emotional regulation.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of emotional states enhances control over behavior.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Self-awareness of emotional states and their impact on behavior",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation can impair self-awareness of emotional states.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of assertiveness restricts social flexibility.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty asserting needs can hinder forming meaningful connections, thereby impacting self-worth.",
+      "pair_label": 193
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can exacerbate assertiveness struggles.",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection and mindfulness can help manage emotions that arise from unexpressed needs.",
+      "pair_label": 185
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with assertiveness can limit goal achievement.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Professional identity may suppress assertiveness in personal relationships.",
+      "pair_label": 192
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations can hinder assertiveness.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of rejection",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can enhance assertiveness.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt from perfectionism can silence assertiveness",
+      "pair_label": 190
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Assertiveness and expressing needs facilitate emotional intimacy and vulnerability.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Assertiveness struggles hinder control and agency.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Struggle with assertiveness and expressing needs in relationships",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can limit flexibility by increasing anxiety and fear of making mistakes in social interactions.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-worth contingency",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt from perfectionism can impede clear articulation of thoughts.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection and mindfulness can help mitigate the negative effects of perfectionism and self-criticism.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism undermines pride.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can limit open-mindedness by promoting rigid thinking.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces professional identity",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Directly fuels.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fosters undervaluing accomplishments.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can impede self-awareness by creating a defensive barrier to exploring and acknowledging emotional states.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can lead to fear of rejection or criticism from others, making it harder to express needs assertively.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism can lead to fear of emotional exposure.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism and self-criticism can undermine sense of control and agency by fostering self-doubt and fear of failure.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in personal and professional contexts",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Sleep deprivation can exacerbate self-criticism",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with emotional intimacy can limit self-expression in social interactions, making one less flexible.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection and low self-worth.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection and judgment",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional regulation through self-reflection and mindfulness can help manage vulnerability.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance of intimacy may prevent self-disclosure about achievements.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Closed off emotions can limit the ability to be open-minded and adaptable.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Professional identity may suppress emotional intimacy",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional intimacy can stem from a deep-seated fear of not meeting the expectations of others.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-protection mechanism",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with emotional intimacy and vulnerability can limit self-awareness of emotional states and their impact on behavior.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked through fear of rejection and abandonment.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fears of rejection and inadequacy drive perfectionism.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of intimacy restricts scope of influence.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy and vulnerability",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Sleep deprivation can exacerbate existing difficulties with emotional intimacy and vulnerability.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased sense of control enhances confidence, leading to greater flexibility in social interactions.",
+      "pair_label": 159
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances feelings of self-worth",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt undermines confidence",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances self-awareness",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Achieving goals fosters pride and accomplishment.",
+      "pair_label": 166
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Enhances resilience",
+      "pair_label": 161
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces professional self-concept.",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Having a strong sense of control and agency can reduce fear.",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High sense of control can reduce the need to downplay achievements.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Having a sense of control fosters recognition of emotional states.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of assertiveness can undermine sense of control.",
+      "pair_label": 167
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High sense of control can mitigate self-criticism.",
+      "pair_label": 162
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sense of control can hinder emotional intimacy by creating emotional distance.",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Sense of control and agency in personal and professional life",
+        "Impact of sleep deprivation on cognitive functioning and mood"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation can erode sense of control.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Flexibility in social interactions tied to self-perceived confidence"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired cognitive functioning and mood due to sleep deprivation can reduce self-perceived confidence, thereby limiting flexibility in social interactions.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Self-worth linked to accomplishments and social connections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation negatively impacts cognitive functioning and mood, which in turn can affect self-perceived accomplishments and social connections, potentially diminishing self-worth.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Difficulty articulating thoughts as a manifestation of internal self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation can exacerbate self-doubt, leading to increased difficulty articulating thoughts.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Emotional regulation through self-reflection and mindfulness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation can impair self-reflection and mindfulness, making emotional regulation more challenging.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Sense of pride and accomplishment from achieving goals"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Impaired cognitive functioning and negative mood states can indirectly hinder goal achievement.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Open-mindedness and adaptability in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired cognitive functioning due to sleep deprivation can limit flexibility in thinking and reduce openness to new ideas.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Self-perceived identity as a professional and its impact on relationships"
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Fear of not meeting expectations in personal and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation can impair cognitive functioning, leading to decreased performance and increased fear of not meeting expectations.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Tendency to downplay personal achievements and qualities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Sleep deprivation negatively impacts self-perception.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Self-awareness of emotional states and their impact on behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired cognitive functioning and mood negatively affect self-awareness",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Struggle with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Impaired cognitive functioning and mood disturbances due to sleep deprivation can indirectly hinder assertiveness and expression of needs in relationships.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Perfectionism and self-criticism in personal and professional contexts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation may temporarily reduce self-criticism by impairing cognitive processes.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Difficulty with emotional intimacy and vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired cognitive functioning and mood dysregulation can reduce emotional awareness and regulation, making emotional intimacy and vulnerability more challenging.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Impact of sleep deprivation on cognitive functioning and mood",
+        "Sense of control and agency in personal and professional life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep deprivation can impair cognitive functioning, leading to decreased sense of control and agency.",
+      "pair_label": 81
+    }
+  ]
+}

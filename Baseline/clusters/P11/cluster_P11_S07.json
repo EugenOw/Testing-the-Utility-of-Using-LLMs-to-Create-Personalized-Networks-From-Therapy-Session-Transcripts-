@@ -1,0 +1,198 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Emotional Regulation and Expectations",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Communication and Misunderstandings",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Self-Reflection and Awareness",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Relationship Dynamics and Trust",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 5": {
+        "Title": "Personal Growth and Progress",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Emotional Regulation and Expectations",
+          "Communication and Misunderstandings"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Unmet expectations lead to emotional dysregulation"
+      },
+      {
+        "input_themes": [
+          "Communication and Misunderstandings",
+          "Emotional Regulation and Expectations"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Effective communication can reduce emotional dysregulation"
+      },
+      {
+        "input_themes": [
+          "Emotional Regulation and Expectations",
+          "Self-Reflection and Awareness"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Self-reflection enhances emotional regulation"
+      },
+      {
+        "input_themes": [
+          "Self-Reflection and Awareness",
+          "Emotional Regulation and Expectations"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Self-reflection can reduce emotional dysregulation"
+      },
+      {
+        "input_themes": [
+          "Relationship Dynamics and Trust",
+          "Communication and Misunderstandings"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Effective communication is crucial for trust"
+      },
+      {
+        "input_themes": [
+          "Communication and Misunderstandings",
+          "Relationship Dynamics and Trust"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Miscommunication can erode trust"
+      },
+      {
+        "input_themes": [
+          "Personal Growth and Progress",
+          "Emotional Regulation and Expectations"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Emotional regulation is essential for personal growth"
+      },
+      {
+        "input_themes": [
+          "Emotional Regulation and Expectations",
+          "Personal Growth and Progress"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Personal growth can reduce emotional dysregulation"
+      },
+      {
+        "input_themes": [
+          "Personal Growth and Progress",
+          "Self-Reflection and Awareness"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Self-reflection is necessary for personal growth"
+      },
+      {
+        "input_themes": [
+          "Self-Reflection and Awareness",
+          "Personal Growth and Progress"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Personal growth can enhance self-reflection"
+      }
+    ]
+  }
+}

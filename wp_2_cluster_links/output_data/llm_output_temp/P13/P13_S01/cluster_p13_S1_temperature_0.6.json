@@ -1,0 +1,1284 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Self-doubt and lack of confidence in others' commitments",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": 1,
+      "relationship_type": "excitatory",
+      "strength_of_relationship": "strong",
+      "explanation": "Distrust and uncertainty",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Self-doubt and lack of confidence in others' commitments",
+        "Emotional regulation challenges in response to significant life changes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty fuels distress",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Self-doubt and lack of confidence in others' commitments",
+        "Impact of social support on emotional well-being and stress levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Doubts undermine support's benefits.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Self-doubt and lack of confidence in others' commitments",
+        "Fear of loss and adjustment to new life circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can amplify fear.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Self-doubt and lack of confidence in others' commitments",
+        "Tension between desire for control and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mutual reinforcement of anxiety and uncertainty.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Self-doubt and lack of confidence in others' commitments",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty breeds uncertainty.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Self-doubt and lack of confidence in others' commitments",
+        "Cognitive dissonance between current and future self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Doubts about others' commitments can lead to conflicting self-perceptions.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Avoidance of structured planning due to perceived inflexibility",
+        "Self-doubt and lack of confidence in others' commitments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perceived inflexibility in planning may lead to mistrust in others' commitments, as rigid plans can be perceived as unyielding or unresponsive to change, reflecting on one's own lack of confidence.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Avoidance of structured planning due to perceived inflexibility",
+        "Emotional regulation challenges in response to significant life changes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding planning can exacerbate emotional regulation challenges.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Avoidance of structured planning due to perceived inflexibility",
+        "Emotional reactivity to changes in relationships and living situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inflexibility fears reduce adaptability.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Avoidance of structured planning due to perceived inflexibility",
+        "Tension between desire for control and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intrinsic link.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Avoidance of structured planning due to perceived inflexibility",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perceived inflexibility in planning leads to a heightened sense of uncertainty.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Avoidance of structured planning due to perceived inflexibility",
+        "Cognitive dissonance between current and future self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of planning may temporarily reduce dissonance.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Avoidance of structured planning due to perceived inflexibility",
+        "Challenges with adapting to new roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance of planning due to perceived inflexibility can severely limit an individual's ability to adapt to new roles, as they are less likely to prepare for and navigate the demands of the new responsibilities.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Emotional regulation challenges in response to significant life changes",
+        "Self-doubt and lack of confidence in others' commitments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened emotional reactivity can lead individuals to question their decision-making and the reliability of others.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Emotional regulation challenges in response to significant life changes",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance as a coping mechanism",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Emotional regulation challenges in response to significant life changes",
+        "Impact of social support on emotional well-being and stress levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support amplifies emotional regulation by providing coping resources.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Emotional regulation challenges in response to significant life changes",
+        "Emotional reactivity to changes in relationships and living situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Challenges in regulating emotions during significant life changes can amplify reactivity to changes in relationships and living situations.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Emotional regulation challenges in response to significant life changes",
+        "Tension between desire for control and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty amplifies regulation challenges.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Emotional regulation challenges in response to significant life changes",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty about the future hampers ability to regulate emotional responses to change.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Impact of social support on emotional well-being and stress levels",
+        "Self-doubt and lack of confidence in others' commitments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social support reduces self-doubt.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Impact of social support on emotional well-being and stress levels",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Social support may buffer avoidance tendencies by fostering coping skills and flexibility.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Impact of social support on emotional well-being and stress levels",
+        "Emotional regulation challenges in response to significant life changes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support buffers stress and promotes well-being, thereby mitigating challenges in emotional regulation during significant life changes.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Impact of social support on emotional well-being and stress levels",
+        "Emotional reactivity to changes in relationships and living situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social support buffers emotional reactivity.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Impact of social support on emotional well-being and stress levels",
+        "Tension between desire for control and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support can mitigate feelings of uncertainty about the future, thereby reducing tension between the desire for control and uncertainty.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Impact of social support on emotional well-being and stress levels",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Impact of social support on emotional well-being and stress levels",
+        "Cognitive dissonance between current and future self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Social support can alleviate stress and improve well-being, thereby reducing dissonance.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Impact of social support on emotional well-being and stress levels",
+        "Challenges with adapting to new roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support can buffer stress, making role adaptation easier.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Fear of loss and adjustment to new life circumstances",
+        "Self-doubt and lack of confidence in others' commitments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear can amplify self-doubt.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Fear of loss and adjustment to new life circumstances",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of loss and adjustment to new life circumstances can lead to uncertainty, causing avoidance of structured planning due to the perceived inflexibility of plans in the face of uncertainty.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Fear of loss and adjustment to new life circumstances",
+        "Emotional regulation challenges in response to significant life changes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear triggers regulation challenges.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Fear of loss and adjustment to new life circumstances",
+        "Impact of social support on emotional well-being and stress levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "moderately excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support helps mitigate fear of loss by providing emotional comfort and practical assistance, thereby enhancing emotional well-being.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Fear of loss and adjustment to new life circumstances",
+        "Tension between desire for control and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of loss and adjustment to new life circumstances can amplify tension between desire for control and uncertainty about the future.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Fear of loss and adjustment to new life circumstances",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of loss and adjustment to new life circumstances can inhibit the ability to set realistic goals due to uncertainty about the future by promoting overly cautious or risk-averse goal-setting.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Fear of loss and adjustment to new life circumstances",
+        "Cognitive dissonance between current and future self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adjusting to new life circumstances can increase self-reflection and awareness of personal growth, leading to increased dissonance between current and future self.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Fear of loss and adjustment to new life circumstances",
+        "Challenges with adapting to new roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of loss often drives resistance to change.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Emotional reactivity to changes in relationships and living situations",
+        "Self-doubt and lack of confidence in others' commitments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened emotional reactivity can fuel self-doubt.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Emotional reactivity to changes in relationships and living situations",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional turmoil can lead to an increased sense of uncertainty, making structured planning seem too rigid.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Emotional reactivity to changes in relationships and living situations",
+        "Emotional regulation challenges in response to significant life changes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened emotional reactivity can overwhelm regulation.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Emotional reactivity to changes in relationships and living situations",
+        "Impact of social support on emotional well-being and stress levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social support buffers emotional reactivity to changes.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Emotional reactivity to changes in relationships and living situations",
+        "Fear of loss and adjustment to new life circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies fear",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Emotional reactivity to changes in relationships and living situations",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional turmoil from changes can intensify uncertainty about the future.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Emotional reactivity to changes in relationships and living situations",
+        "Cognitive dissonance between current and future self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reactivity can amplify dissonance",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Emotional reactivity to changes in relationships and living situations",
+        "Challenges with adapting to new roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased emotional reactivity can amplify difficulties adapting to new roles and responsibilities.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Self-doubt and lack of confidence in others' commitments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels self-doubt.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of inflexibility fuels the tension",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Emotional regulation challenges in response to significant life changes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels emotional dysregulation",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Impact of social support on emotional well-being and stress levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support buffers uncertainty.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Fear of loss and adjustment to new life circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels fear.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Emotional reactivity to changes in relationships and living situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels emotional reactivity.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty impacts goal setting",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Cognitive dissonance between current and future self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels dissonance.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and uncertainty about the future",
+        "Challenges with adapting to new roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about the future can hinder adaptation to new roles and responsibilities.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Difficulty with setting realistic goals due to uncertainty about the future",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty about the future fuels the perception of inflexibility in structured planning.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty with setting realistic goals due to uncertainty about the future",
+        "Emotional regulation challenges in response to significant life changes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty undermines planning and goal setting, intensifying emotional regulation challenges in response to significant life changes.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty with setting realistic goals due to uncertainty about the future",
+        "Impact of social support on emotional well-being and stress levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Uncertainty about the future can hinder goal-setting, but social support can potentially mitigate this effect by providing reassurance and guidance.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty with setting realistic goals due to uncertainty about the future",
+        "Fear of loss and adjustment to new life circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty fuels anxiety.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Difficulty with setting realistic goals due to uncertainty about the future",
+        "Emotional reactivity to changes in relationships and living situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty in future affects emotional stability",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty with setting realistic goals due to uncertainty about the future",
+        "Cognitive dissonance between current and future self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty fuels dissonance",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty with setting realistic goals due to uncertainty about the future",
+        "Challenges with adapting to new roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about the future hinders goal setting, which in turn affects adaptation to new roles.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Cognitive dissonance between current and future self",
+        "Self-doubt and lack of confidence in others' commitments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened self-doubt and uncertainty about others' commitments.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Cognitive dissonance between current and future self",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive dissonance may motivate avoidance of structured planning to reduce discomfort.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Cognitive dissonance between current and future self",
+        "Impact of social support on emotional well-being and stress levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support may reduce dissonance by fostering a sense of alignment between current and future self.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Cognitive dissonance between current and future self",
+        "Fear of loss and adjustment to new life circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anticipation of change",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Cognitive dissonance between current and future self",
+        "Tension between desire for control and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflict about self-concept.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Cognitive dissonance between current and future self",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels dissonance",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Cognitive dissonance between current and future self",
+        "Challenges with adapting to new roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Discomfort from dissonance undermines readiness for new roles.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Self-doubt and lack of confidence in others' commitments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to new roles can trigger self-doubt and reassessments of others' reliability.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Avoidance of structured planning due to perceived inflexibility"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The anxiety and uncertainty associated with adapting to new roles can lead to a perception that structured planning is overly rigid, causing individuals to avoid such planning.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Emotional regulation challenges in response to significant life changes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased stress and uncertainty",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Impact of social support on emotional well-being and stress levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support can mitigate challenges",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Fear of loss and adjustment to new life circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "fear of change",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Emotional reactivity to changes in relationships and living situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress and uncertainty",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Tension between desire for control and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased uncertainty about the future can amplify difficulties in adapting to new roles and responsibilities, as individuals may feel a stronger need to exert control in response to perceived threats to their control, but struggle to do so effectively.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Difficulty with setting realistic goals due to uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty fuels adaptation challenges",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Challenges with adapting to new roles and responsibilities",
+        "Cognitive dissonance between current and future self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness",
+      "pair_label": 11
+    }
+  ]
+}

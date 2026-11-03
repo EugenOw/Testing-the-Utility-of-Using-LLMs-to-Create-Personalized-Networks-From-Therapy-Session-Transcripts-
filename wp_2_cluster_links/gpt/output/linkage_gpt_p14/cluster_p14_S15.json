@@ -1,0 +1,1534 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acceptance of complex identity can reduce the need to suppress emotional pain, as it promotes healthier emotional processing.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acceptance of a complex identity can help mitigate the fear of being defined by traumatic experiences, as it promotes a more nuanced self-view that reduces the impact of trauma on self-identity.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acceptance of a complex identity can help mitigate the tension experienced between cultural heritage and personal identity, promoting emotional regulation.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acceptance of a complex identity can reduce the fear of judgment, thereby facilitating emotional articulation.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acceptance of a complex identity can help mitigate the struggle to reconcile past experiences, as it fosters emotional regulation and a more cohesive sense of self.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acceptance of a complex identity can enhance the desire for authenticity, as individuals who regulate their emotions effectively may feel more empowered to express their cultural identity genuinely.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acceptance of one's complex identity can reduce the fear of judgment by fostering self-acceptance and resilience.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acceptance of complex identity can help reduce internal conflict by promoting a more integrated self-view, which may lessen the tendency to avoid painful memories.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Acceptance of complex identity tied to emotional regulation",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Acceptance of a complex identity enhances self-acceptance, which in turn reduces anxiety and fosters comfort with one's identity.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppressing emotional pain can hinder the acceptance of a complex identity, as it may prevent individuals from fully engaging with their emotions and experiences.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppressing emotional pain can lead to a fear of being defined by trauma, as avoidance may prevent processing and integration of those experiences.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppressing emotional pain may inhibit the exploration and acceptance of cultural heritage, leading to tension in personal identity.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Suppressing emotional pain can lead to a reduced ability to express emotions, as fear of judgment reinforces the avoidance.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Suppressing emotional pain can hinder the ability to process and integrate past experiences, leading to difficulties in reconciling them with one's current identity.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppressing emotional pain can hinder the ability to express one's cultural identity authentically, as it may lead to a disconnection from genuine feelings and experiences.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppressing emotional pain can lead to a fear of vulnerability, which may inhibit openness and increase the fear of judgment from others.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Suppressing emotional pain often leads to a heightened internal conflict, as the individual struggles between the desire to accept painful memories and the tendency to avoid them.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain through suppression",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppressing emotional pain can hinder self-acceptance, which is essential for reducing anxiety and fostering comfort with one's identity.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being defined by trauma can inhibit the acceptance of a complex identity, as individuals may struggle to integrate their experiences into a cohesive self-concept.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of being defined by trauma often leads individuals to suppress emotions to avoid confronting painful feelings, creating a strong inhibitory relationship.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being defined by trauma can inhibit the acceptance of cultural heritage, leading to tension in personal identity.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being defined by trauma can inhibit the ability to express emotions, as individuals may fear judgment or misunderstanding.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of being defined by trauma can intensify the struggle to integrate past experiences into a coherent self-concept.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being defined by trauma may inhibit the desire for authentic cultural expression, as individuals may feel constrained by their past experiences.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being defined by trauma can amplify the fear of being pitied or judged, as individuals may worry that their trauma will lead to negative perceptions from others.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being defined by trauma often leads to avoidance of painful memories, creating a significant internal conflict.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Fear of being defined by traumatic experiences",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can help mitigate the fear of being defined by trauma, leading to reduced anxiety and a more comfortable identity.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension can lead to a deeper understanding and acceptance of a complex identity, which aids in emotional regulation.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension may lead individuals to suppress emotions related to their cultural identity, thereby avoiding emotional pain.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between cultural heritage and personal identity may inhibit the fear of being defined by traumatic experiences, as individuals navigate their identity and may seek to redefine themselves beyond trauma.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension may inhibit emotional expression due to fear of judgment, as individuals struggle to reconcile their cultural identity with personal feelings.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between cultural heritage and personal identity often amplifies the struggle to reconcile past experiences with one's current sense of self, as individuals navigate conflicting influences.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension often drives a stronger desire for authenticity as individuals seek to reconcile their cultural heritage with their personal identity.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between cultural heritage and personal identity can amplify feelings of fear regarding judgment or pity from others, as individuals may feel more vulnerable about their identity.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between cultural heritage and personal identity can lead to avoidance of painful memories, as individuals may suppress memories that conflict with their cultural identity.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between cultural heritage and personal identity",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can help alleviate the tension between cultural heritage and personal identity, promoting comfort and reducing anxiety.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit the acceptance of a complex identity, as individuals may struggle to express their emotions and thus regulate them effectively.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment leads to suppressing emotions, which inhibits the ability to articulate them.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit the ability to articulate emotions, which may also be influenced by the fear of being defined by past trauma.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit emotional expression, which may contribute to the internal conflict between cultural expectations and personal identity.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit emotional expression, which may complicate the integration of past experiences into one's current identity.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can suppress the desire to express one's cultural identity authentically.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of judgment amplifies the difficulty in expressing emotions, as individuals may avoid vulnerability to prevent being pitied or judged.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit the acceptance of painful memories, leading to internal conflict.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of judgment",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit self-acceptance, which is crucial for reducing anxiety and fostering comfort with one's identity.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with past experiences can lead to a deeper understanding and acceptance of a complex identity, which in turn aids in emotional regulation.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to reconcile past experiences often leads to emotional pain, which can trigger avoidance behaviors, including suppression, to manage that pain.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to reconcile past experiences can lead to a heightened fear of being defined by those traumatic experiences, as unresolved issues may amplify the anxiety surrounding one's identity.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle to reconcile past experiences can amplify the tension between cultural heritage and personal identity, as unresolved past conflicts may heighten feelings of disconnection from one's cultural roots.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle to reconcile past experiences can lead to emotional confusion, which may inhibit the ability to articulate emotions due to fear of being judged.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle to reconcile past experiences can enhance the desire for authenticity, as individuals seek to express their true selves in light of their histories.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle to reconcile past experiences can lead to a heightened sensitivity to judgment, inhibiting self-acceptance and increasing fear of being pitied or judged.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to reconcile past experiences often intensifies the internal conflict between accepting those memories and avoiding the associated pain, as unresolved issues can lead to heightened emotional turmoil.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present sense of self",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reconciling past experiences can enhance self-acceptance, which in turn reduces anxiety and fosters a more comfortable identity.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A desire for authenticity can enhance the acceptance of a complex identity, as individuals may feel more emotionally regulated when they embrace their multifaceted cultural backgrounds.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for authenticity may be suppressed to avoid emotional pain, indicating a counteractive relationship.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for authenticity may be inhibited by the fear of being defined by past traumas, as individuals may feel that expressing their cultural identity could expose them to judgment or reinforce negative self-perceptions.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for authenticity can create tension when cultural heritage expectations conflict with personal identity, leading to a struggle for self-expression.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for authenticity may be suppressed by the fear of judgment, leading to difficulty in expressing emotions.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A desire for authenticity can motivate individuals to confront and integrate past experiences, influencing their current identity.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for authenticity may be suppressed by the fear of judgment, leading individuals to hold back their true cultural expressions.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for authenticity may lead to an internal conflict, as individuals grapple with the acceptance of painful memories associated with their cultural identity.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity in expressing cultural identity",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A desire for authenticity can enhance self-acceptance, which in turn helps reduce anxiety and fosters comfort with one's identity.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can hinder the acceptance of one's complex identity, as individuals may suppress aspects of themselves to avoid negative evaluation.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can lead to emotional suppression as a coping mechanism to avoid vulnerability.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can amplify the fear of being defined by trauma, as individuals may worry that others will see them solely through the lens of their past experiences.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can amplify the internal conflict between cultural expectations and personal identity, leading to increased tension.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of judgment amplifies the difficulty in expressing emotions, as individuals may avoid sharing feelings to prevent potential negative evaluations.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can hinder self-acceptance, complicating the reconciliation of past experiences with current identity.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can suppress the desire to express one's cultural identity authentically.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can lead to avoidance of confronting painful memories, creating internal conflict.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Fear of being pitied or judged by others",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can hinder self-acceptance, leading to increased anxiety and discomfort with one's identity.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating internal conflict can enhance the ability to accept a complex identity, as resolving painful memories may lead to better emotional regulation.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The internal conflict often leads to the suppression of emotional pain as a means of avoidance, indicating a strong inhibitory relationship.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle between accepting painful memories and avoiding them can intensify the fear of being defined by those traumatic experiences, as avoidance may lead to greater anxiety about their impact on identity.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with painful memories can amplify the tension between cultural heritage and personal identity, as unresolved conflicts may lead to a deeper questioning of one's identity in relation to cultural expectations.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The internal conflict may inhibit the ability to articulate emotions, as avoidance of painful memories can lead to fear of judgment when expressing feelings.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The internal conflict influences the struggle to integrate past experiences, as avoidance can hinder reconciliation with the present self.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with painful memories may hinder one's ability to express cultural identity authentically, as avoidance can lead to disconnection from personal and cultural narratives.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The internal conflict may lead to avoidance behaviors that suppress the expression of vulnerability, thereby inhibiting the fear of judgment.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Internal conflict between acceptance and avoidance of painful memories",
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle between acceptance and avoidance directly impacts self-acceptance, which is crucial for alleviating anxiety and fostering a positive identity.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Acceptance of complex identity tied to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-acceptance enhances emotional regulation by fostering a positive relationship with one's complex identity, thereby reducing anxiety.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Avoidance of emotional pain through suppression"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can reduce the need to suppress emotions, as individuals become more comfortable with their identity and feelings.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Fear of being defined by traumatic experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can help mitigate the fear of being defined by trauma, as it fosters a more positive self-view and reduces anxiety related to past experiences.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Tension between cultural heritage and personal identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can help mitigate the anxiety stemming from the tension between cultural heritage and personal identity, promoting a more integrated sense of self.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Difficulty articulating emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can reduce anxiety, which may help individuals feel more comfortable expressing emotions, thereby counteracting the fear of judgment.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Struggle to reconcile past experiences with present sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can facilitate a more positive integration of past experiences, thereby reducing the struggle with identity.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Desire for authenticity in expressing cultural identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can enhance the desire for authenticity by fostering a sense of security in one's identity, which may encourage individuals to express their cultural identity more freely.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Fear of being pitied or judged by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can reduce anxiety and discomfort, which may lessen the fear of judgment from others.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Importance of self-acceptance in reducing anxiety and increasing comfort with identity",
+        "Internal conflict between acceptance and avoidance of painful memories"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can help mitigate internal conflicts by promoting acceptance of painful memories rather than avoidance.",
+      "pair_label": 61
+    }
+  ]
+}

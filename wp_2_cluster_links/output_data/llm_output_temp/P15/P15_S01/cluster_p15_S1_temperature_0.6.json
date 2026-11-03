@@ -1,0 +1,1726 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts and feelings due to cognitive overload",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Literal-mindedness can sometimes limit the willingness to engage in abstract thinking or nuanced communication, potentially alleviating cognitive overload.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts and feelings due to cognitive overload",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts and feelings due to cognitive overload",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased errors due to cognitive overload can lead to negative self-perception.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts and feelings due to cognitive overload",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts and feelings due to cognitive overload",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive overload can suppress the ability to reflect on past experiences and their impact on emotional regulation.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts and feelings due to cognitive overload",
+        "Struggling with technology and its emotional consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased cognitive load from technology issues may exacerbate difficulties in articulation.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating thoughts and feelings due to cognitive overload",
+        "Self-awareness of limitations and their emotional implications"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Awareness of one's limitations and emotional implications may be heightened when struggling to articulate thoughts and feelings.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Literal-mindedness can lead to overanalysis and internal debate, contributing to cognitive overload.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Literal-minded individuals often rely on clear structures for communication and understanding, enhancing the importance of structural parameters.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Literal-mindedness can sometimes shield against self-blame through a more objective assessment of mistakes.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Literal-mindedness may shield against emotional impact of past experiences.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Struggling with technology and its emotional consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Literal-mindedness may lead to difficulties with abstract or nuanced technology, causing frustration.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Literal-mindedness can lead to inflexibility, causing individuals to feel ineffective when faced with obstacles.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Literal-mindedness may help filter information, reducing distractions and aiding focus.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Frustration with rigid systems and lack of control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Literal-mindedness can heighten sensitivity to rigidity and lack of control.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Uncertainty about scheduling and its emotional impact"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Literal-mindedness may reduce discomfort with ambiguity in scheduling, but impact is context-dependent.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Self-perception of being literal-minded and its implications on daily interactions",
+        "Self-awareness of limitations and their emotional implications"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness of limitations can enhance self-perception of being literal-minded.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Clear understanding of environment reduces overload",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Literal-mindedness may enhance the adherence to structural parameters.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Adequate understanding of environmental parameters might reduce mistakes.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "Inhibitory"
+      ],
+      "strength_of_relationship": [
+        "Moderate"
+      ],
+      "explanation": "Understanding structural parameters can reduce feelings of ineffectiveness by enhancing control.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Clarity of structural parameters can alleviate information overload.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Frustration with rigid systems and lack of control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rigidity in systems can thwart the desire for control, fueling frustration.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Uncertainty about scheduling and its emotional impact"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structural parameters provide a sense of control and predictability, which can reduce uncertainty and emotional distress related to scheduling.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Importance of structural parameters in understanding and navigating the environment",
+        "Self-awareness of limitations and their emotional implications"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Understanding structural parameters facilitates acknowledging personal limitations.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mistakes negatively impact self-esteem, which in turn can increase cognitive load, leading to difficulty articulating thoughts and feelings.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mistakes can lead to feelings of embarrassment, especially in contexts where social expectations are high.",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past mistakes negatively reinforce self-doubt, impacting emotional regulation.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Struggling with technology and its emotional consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Repeated mistakes with technology can lead to frustration",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mistakes can foster a sense of ineffectiveness.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Mistakes can increase anxiety",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Frustration with rigid systems and lack of control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Making mistakes can lead to feelings of frustration when external systems are perceived as rigid and unaccommodating.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Uncertainty about scheduling and its emotional impact"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Mistakes can lead to uncertainty.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Tendency to make mistakes and their impact on self-esteem",
+        "Self-awareness of limitations and their emotional implications"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness mitigates the negative impact of mistakes on self-esteem.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Embarrassment may overwhelm cognitive resources",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embarrassment from not meeting age and social expectations can amplify the tendency to make mistakes and negatively impact self-esteem.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences influence emotional regulation of embarrassment",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Emotional state influences cognitive processing.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Uncertainty about scheduling and its emotional impact"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Embarrassment and its relation to age and social expectations",
+        "Self-awareness of limitations and their emotional implications"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness enhances the perception of limitations and their emotional implications, heightening embarrassment.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional regulation",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can overwhelm cognitive resources, leading to difficulties articulating thoughts and feelings.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional regulation",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past emotional regulation affects spatial awareness.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional regulation",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influencing emotional regulation can exacerbate self-criticism following mistakes.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional regulation",
+        "Struggling with technology and its emotional consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influence emotional responses to tech struggles.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional regulation",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can dampen one's sense of effectiveness.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional regulation",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past emotional regulation affects ability to filter out irrelevant information.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional regulation",
+        "Frustration with rigid systems and lack of control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past traumas may lead to heightened frustration with systems perceived as restrictive.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional regulation",
+        "Self-awareness of limitations and their emotional implications"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences inform self-awareness",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Struggling with technology and its emotional consequences",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "emotional distress from technology overwhelm can impede cognitive clarity and articulation.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Struggling with technology and its emotional consequences",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Struggling with technology and its emotional consequences",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Frustration with technology may motivate learning about structural parameters.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Struggling with technology and its emotional consequences",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases frustration and self-doubt.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Struggling with technology and its emotional consequences",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with technology can lead to feelings of inadequacy, which may trigger embarrassment, especially when influenced by age-related expectations of competence.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Struggling with technology and its emotional consequences",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Technology can evoke stress and frustration, which can be compounded by past negative experiences with similar challenges.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Struggling with technology and its emotional consequences",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration with technology amplifies negative self-view.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Struggling with technology and its emotional consequences",
+        "Uncertainty about scheduling and its emotional impact"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes amplify stress.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive overload exacerbates feelings of ineffectiveness.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Feeling ineffective when blocked may lead to a more rigid adherence to literal interpretations in self-perception, limiting flexibility in daily interactions.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Goal obstruction.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing Cycle of Negative Self-Perception",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling ineffective can be mitigated by avoiding situations that lead to embarrassment, which is influenced by societal expectations and age.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Feeling ineffective can increase the sense of being overwhelmed, leading to difficulties with focus and concentration.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Frustration with rigid systems and lack of control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared sense of powerlessness",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Uncertainty about scheduling and its emotional impact"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increases anxiety.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Feeling ineffective when blocked and its relation to self-perception",
+        "Self-awareness of limitations and their emotional implications"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces personal limitations awareness",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overwhelming information can complicate the formulation of coherent thoughts.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structural parameters can help alleviate information overload by providing a framework for organization and prioritization.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired focus and concentration can lead to mistakes, which in turn can negatively impact self-esteem.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Chronic distraction may impede emotional processing.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Struggling with technology and its emotional consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Technology can exacerbate information overload.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Information overload impairs focus, leading to feelings of ineffectiveness",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Frustration with rigid systems and lack of control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overwhelming information and lack of control amplify feelings of frustration.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty with focus and concentration due to information overload",
+        "Self-awareness of limitations and their emotional implications"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing emotional implications fosters self-reflection.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Frustration with rigid systems and lack of control",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "Excitatory"
+      ],
+      "strength_of_relationship": [
+        "Moderate"
+      ],
+      "explanation": "Increased frustration can impair cognitive functioning and lead to information overload",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Frustration with rigid systems and lack of control",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased frustration may lead to decreased focus and attention to detail, resulting in more errors.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Frustration with rigid systems and lack of control",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Embarrassment may dampen frustration by encouraging conformity to avoid social disapproval.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Frustration with rigid systems and lack of control",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Influence on emotional response",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Frustration with rigid systems and lack of control",
+        "Struggling with technology and its emotional consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased irritation from systemic inflexibility can heighten frustration when dealing with technological difficulties.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Frustration with rigid systems and lack of control",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration with rigid systems can exacerbate the feeling of ineffectiveness, reinforcing negative self-perception.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Frustration with rigid systems and lack of control",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration amplifies feelings of overwhelm.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Difficulty articulating thoughts and feelings due to cognitive overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty heightens anxiety, exacerbating cognitive load.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Literal-mindedness may reduce emotional impact by providing a structured approach to scheduling.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Uncertainty about scheduling might hinder the ability to impose structural parameters.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape emotional responses to uncertainty.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Struggling with technology and its emotional consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional responses to uncertainty can be exacerbated by struggles with technology.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Feeling ineffective when blocked and its relation to self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can amplify feelings of ineffectiveness.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety from uncertain scheduling amplifies information overload.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Uncertainty about scheduling and its emotional impact",
+        "Frustration with rigid systems and lack of control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels frustration.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Self-perception of being literal-minded and its implications on daily interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Awareness of limitations might reduce rigid thinking.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Importance of structural parameters in understanding and navigating the environment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Awareness of limitations can reduce emphasis on structural parameters.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Tendency to make mistakes and their impact on self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of limitations can reduce mistakes.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Embarrassment and its relation to age and social expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of personal shortcomings can trigger feelings of embarrassment due to social pressures and age-related norms.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Impact of past experiences on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of limitations can increase emotional regulation challenges.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Struggling with technology and its emotional consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Recognizing limitations can lead to more frustration when struggling.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Difficulty with focus and concentration due to information overload"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of limitations helps manage information intake.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Frustration with rigid systems and lack of control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of one's limitations can amplify feelings of frustration with systems perceived as rigid or controlling, as the individual recognizes their inability to change or control these systems.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Self-awareness of limitations and their emotional implications",
+        "Uncertainty about scheduling and its emotional impact"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Recognizing limitations may amplify uncertainty in scheduling.",
+      "pair_label": 88
+    }
+  ]
+}

@@ -1,0 +1,2241 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance emotional regulation by promoting a positive mindset, which aids in reframing negative self-talk.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can foster a more flexible mindset, allowing individuals to embrace uncertainty and challenge rigid beliefs.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance the ability to reflect on past experiences positively, which in turn helps in addressing current challenges.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance the perception of available resources, which in turn helps to mitigate self-doubt.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the tendency to engage in self-blame, as it promotes a more forgiving and understanding attitude towards oneself.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion enhances the ability to redirect negative thoughts by fostering a positive self-view and recognizing personal growth.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can mitigate the negative effects of unrealistic expectations, leading to a healthier self-perception.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may reduce the struggle to articulate emotions by fostering a supportive internal dialogue, which can help individuals express their feelings more openly.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-acceptance, which may alleviate the tension experienced when striving for self-improvement.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion often involves recognizing and validating one's emotions, which can enhance emotional awareness and acceptance.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Self-compassion tied to acknowledging past growth and progress",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate self-doubt, thereby facilitating personal growth.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can enhance self-compassion by promoting a more positive view of oneself and recognizing personal growth.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can help individuals embrace uncertainty, promoting flexible thinking and reducing rigid beliefs.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can enhance the ability to reflect on past experiences positively, aiding in problem-solving for current challenges.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can enhance the effectiveness of resources, leading to reduced self-doubt.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can reduce self-blame by promoting a more constructive perspective on overwhelming feelings.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve cognitive strategies that enhance emotional well-being by transforming negative thoughts, suggesting a supportive relationship.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can help mitigate the adverse effects of unrealistic expectations on self-perception.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can help individuals articulate their emotions more clearly, reducing the struggle associated with unexpressed feelings.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can enhance self-acceptance while simultaneously motivating self-improvement, creating a dynamic interplay between the two processes.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can enhance emotional regulation, which in turn supports the acknowledgment and validation of emotions.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through reframing negative self-talk",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing negative self-talk can enhance self-compassion, reducing self-doubt and promoting personal growth.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embracing uncertainty can foster self-compassion by encouraging individuals to recognize their growth and progress rather than adhering to rigid standards.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging absolute thinking through uncertainty can promote emotional regulation by encouraging individuals to reframe negative self-talk, leading to more adaptive responses.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can prompt individuals to reflect on past experiences, leading to more flexible thinking and better problem-solving in current situations.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can prompt individuals to seek out resources, which in turn helps mitigate self-doubt.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging absolute thinking through uncertainty may reduce the tendency to self-blame, as it encourages a more nuanced understanding of situations.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can promote self-reflection, allowing self-compassion to emerge as a tool for managing negative thoughts.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can lead individuals to question unrealistic expectations, thereby reducing their negative impact on self-perception.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can lead to difficulty in expressing emotions, as it may create confusion and inhibit clarity in emotional articulation.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can promote a more nuanced view of self-acceptance and self-improvement, encouraging individuals to navigate the balance between accepting their current state and striving for growth.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging absolute thinking through uncertainty can lead to greater emotional awareness and validation.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Uncertainty as a means to challenge absolute thinking",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can foster self-doubt, which may prompt individuals to cultivate self-compassion as a response, thereby facilitating personal growth.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can enhance self-compassion by helping individuals recognize their growth and progress, thereby fostering a more supportive self-view.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can help individuals identify patterns in their negative self-talk, leading to more effective emotional regulation through reframing.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can help individuals navigate uncertainty, promoting flexible thinking and challenging rigid beliefs.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can help individuals identify and utilize resources, thereby reducing self-doubt.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can lead to self-blame, which may inhibit constructive problem-solving and exacerbate feelings of overwhelm.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can enhance self-compassion, which in turn helps to redirect negative thoughts.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can help individuals recognize and adjust unrealistic expectations, thereby improving self-perception.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can help individuals understand and articulate their emotions, potentially reducing the struggle to express unprocessed feelings.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can enhance awareness of personal growth areas, thereby intensifying the tension between accepting oneself and striving for improvement.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can enhance emotional awareness, leading to better acknowledgment and validation of emotions.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Reflecting on past experiences to inform current challenges",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can enhance self-compassion and reduce self-doubt, facilitating personal growth.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can enhance self-compassion by providing a framework for recognizing personal growth, thereby reducing self-doubt.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can enhance emotional regulation by providing tools to reframe negative thoughts, thereby reducing self-doubt.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Resources can help mitigate self-doubt, which may allow individuals to better navigate uncertainty and challenge rigid thinking.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can enhance the ability to reflect on past experiences, thereby reducing self-doubt and informing current challenges.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can reduce self-doubt, which may lessen the tendency to engage in self-blame when feeling overwhelmed.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can enhance self-compassion, which in turn helps to redirect negative thoughts, thereby reducing self-doubt.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Resources can help mitigate the negative effects of unrealistic expectations, thereby reducing self-doubt and improving self-perception.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can help mitigate self-doubt, which may reduce the struggle to express emotions.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can enhance self-acceptance while simultaneously motivating self-improvement, creating a dynamic interplay.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can enhance emotional validation, which in turn helps reduce self-doubt.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Resources as a means to counter self-doubt",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Access to resources can enhance self-compassion, which may mitigate self-doubt and promote personal growth.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder the development of self-compassion by fostering negative self-perceptions, which may inhibit the ability to acknowledge personal growth.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder effective emotional regulation by reinforcing negative self-talk, making it harder to reframe thoughts positively.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to rigid thinking patterns, which may inhibit the ability to embrace uncertainty and challenge absolute beliefs.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder constructive reflection by focusing on negative self-assessment rather than learning from past experiences.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Utilizing resources can mitigate the negative effects of self-blame, reducing self-doubt.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to negative thoughts, while self-compassion helps to counteract these thoughts, suggesting a moderating relationship.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to a distorted self-perception, particularly when unrealistic expectations are present, as it may suppress a more accurate self-assessment.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can inhibit the ability to articulate emotions, as it may lead to avoidance of expressing true feelings.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder self-acceptance by fostering negative self-perceptions, which may create tension with the desire for self-improvement.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can inhibit the process of acknowledging and validating emotions, as it may lead individuals to avoid confronting their feelings in favor of self-criticism.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for feelings of overwhelm",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder self-compassion and exacerbate self-doubt, which may impede personal growth.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion helps individuals reframe negative thoughts by recognizing their growth, promoting a positive self-view.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance emotional regulation by promoting a kinder perspective, which aids in reframing negative self-talk.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals tolerate uncertainty, allowing them to challenge rigid thinking patterns and redirect negative thoughts.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals reframe past experiences positively, aiding in the reflection process and promoting healthier coping strategies.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals utilize resources more effectively to combat self-doubt, promoting a positive feedback loop.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce self-blame by promoting a kinder self-view, which may help mitigate feelings of overwhelm.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the negative effects of unrealistic expectations, leading to a more positive self-perception.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals manage negative thoughts, which may reduce the struggle to express emotions stemming from those thoughts.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals accept their current state while also motivating them to improve, thus navigating the tension between acceptance and growth.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance emotional validation, helping individuals acknowledge their feelings while reducing negative thoughts.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "The role of self-compassion in redirecting negative thoughts",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate self-doubt, facilitating personal growth by promoting a more positive self-view.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can negatively affect self-perception, which may inhibit the ability to practice self-compassion and recognize personal growth.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can negatively affect self-perception, which may hinder effective emotional regulation strategies like reframing negative self-talk.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can help individuals question and re-evaluate unrealistic expectations, thereby reducing their negative impact on self-perception.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can distort self-perception, which may inhibit effective reflection on past experiences, leading to challenges in addressing current issues.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can negatively affect self-perception, leading to self-doubt, while resources can help mitigate this self-doubt, creating an inhibitory relationship.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to negative self-perception, which may trigger self-blame as a way to cope with feelings of inadequacy, thus inhibiting self-acceptance.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can negatively affect self-perception, while self-compassion can help mitigate these negative thoughts, suggesting a moderating relationship.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to negative self-perception, which may inhibit the ability to express emotions due to fear of judgment or inadequacy.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can hinder self-acceptance, creating tension with the desire for self-improvement.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to negative self-perception, which may inhibit the ability to acknowledge and validate one's emotions.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "The impact of unrealistic expectations on self-perception",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to heightened self-doubt, which may inhibit self-compassion, thereby affecting personal growth.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can hinder self-compassion, as unarticulated feelings may prevent individuals from recognizing their growth and progress.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to articulate emotions can hinder effective emotional regulation, as unexpressed feelings may lead to negative self-talk that requires reframing.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing emotions can hinder effective reflection on past experiences, limiting insights into current challenges.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can lead to self-doubt, but having resources can help mitigate this self-doubt.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can lead to self-blame as individuals may internalize their unexpressed feelings, using blame as a way to cope with their emotional overwhelm.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to articulate emotions can lead to negative thoughts, but self-compassion may help mitigate these thoughts by promoting a kinder self-dialogue.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed feelings can lead to unrealistic expectations, which in turn negatively affect self-perception.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing emotions can hinder self-acceptance, as unexpressed feelings may lead to internal conflict and impede personal growth.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to articulate emotions often inhibits the ability to acknowledge and validate those emotions, leading to a cycle of unexpressed feelings.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can lead to increased self-doubt, which may inhibit self-compassion and hinder personal growth.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-acceptance, which may alleviate the tension with self-improvement by fostering a more supportive internal dialogue.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Striving for self-improvement can lead to negative self-talk, which may hinder emotional regulation, while self-acceptance can facilitate more positive reframing.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle between accepting oneself and striving for improvement can lead to uncertainty, which in turn encourages questioning rigid beliefs and promotes flexible thinking.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance may inhibit the drive for self-improvement when reflecting on past experiences, as individuals may become overly critical or dissatisfied with themselves.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Resources can help mitigate self-doubt, allowing for a healthier balance between self-acceptance and the desire for self-improvement.",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder self-acceptance, creating a conflict that may impede self-improvement efforts.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the negative impact of the tension between self-acceptance and self-improvement by promoting a kinder internal dialogue, thus reducing negative thoughts.",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can hinder self-acceptance, leading to a conflict with self-improvement efforts.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-acceptance may inhibit the ability to express emotions, as individuals may fear judgment or rejection.",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can enhance emotional validation, while self-improvement efforts may require acknowledging emotions to foster growth.",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "The tension between self-acceptance and self-improvement",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance can mitigate self-doubt, while self-improvement efforts may trigger self-doubt, creating a dynamic where self-compassion is needed to balance these opposing forces.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions fosters self-compassion by promoting acceptance of one's experiences, which can enhance recognition of personal growth.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can enhance the effectiveness of reframing negative self-talk, as it provides a foundation for healthier emotional processing.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can help individuals tolerate uncertainty, promoting flexible thinking and reducing rigid beliefs.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can enhance self-reflection, allowing individuals to better understand past experiences and apply those insights to current challenges.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can enhance self-awareness and confidence, making individuals more likely to utilize resources effectively to combat self-doubt.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can reduce the tendency to self-blame, as it fosters self-acceptance and understanding.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can enhance self-compassion, which in turn helps in managing negative thoughts.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can help counteract the negative effects of unrealistic expectations, leading to a healthier self-perception.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can reduce the struggle to articulate them, as acknowledgment may facilitate expression.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can enhance self-acceptance, which may influence the balance between accepting oneself and striving for improvement.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "The importance of acknowledging and validating emotions",
+        "The interplay between self-doubt and self-compassion in personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating emotions can enhance self-compassion, which may mitigate self-doubt and promote personal growth.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "Self-compassion tied to acknowledging past growth and progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate self-doubt, allowing individuals to recognize and appreciate their past growth, thus reinforcing personal development.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "Emotional regulation through reframing negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate self-doubt, facilitating more effective emotional regulation by allowing individuals to reframe negative self-talk positively.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "Uncertainty as a means to challenge absolute thinking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can prompt individuals to embrace uncertainty, fostering self-compassion and allowing for personal growth by challenging rigid beliefs.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "Reflecting on past experiences to inform current challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can prompt reflection on past experiences, while self-compassion can enhance the learning from those reflections, facilitating personal growth.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "Resources as a means to counter self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance the effectiveness of resources in mitigating self-doubt, promoting personal growth.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "Self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt may lead to self-blame, while self-compassion can mitigate this blame, suggesting an inhibitory relationship where self-compassion counters the negative effects of self-doubt.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "The role of self-compassion in redirecting negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can mitigate the effects of self-doubt, promoting personal growth by redirecting negative thoughts.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "The impact of unrealistic expectations on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can exacerbate self-doubt, which may hinder self-compassion, thus affecting personal growth.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "The struggle to articulate emotions as a manifestation of unexpressed feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can inhibit the ability to articulate emotions, while self-compassion may help in expressing feelings more openly.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "The tension between self-acceptance and self-improvement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can motivate individuals to seek self-improvement, while self-compassion can foster self-acceptance, creating a dynamic interplay that influences personal growth.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "The interplay between self-doubt and self-compassion in personal growth",
+        "The importance of acknowledging and validating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance emotional validation, helping individuals manage self-doubt and promote personal growth.",
+      "pair_label": 84
+    }
+  ]
+}

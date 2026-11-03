@@ -1,0 +1,2768 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Emotional states like frustration can heighten self-criticism, thereby increasing tension between self-criticism and self-compassion, which might lead to a slight increase in impulsive behaviors.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-compassion can reduce the physiological markers of stress.",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can obscure emotional awareness.",
+      "pair_label": 198
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism fuels rumination on negative thoughts.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can maintain negative thought patterns.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can amplify self-criticism.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances introspection.",
+      "pair_label": 202
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism can heighten awareness of bodily discomfort.",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension between self-criticism and self-compassion often intensifies when an individual feels the need to exert control over their environment, which can exacerbate feelings of overwhelm.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Tension between self-criticism and self-compassion",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism exacerbates tension.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased frustration may reduce self-compassion, leading to heightened self-criticism.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Awareness of thought patterns as a precursor to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened awareness of thought patterns can help mitigate impulsive behaviors triggered by frustration.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impulsive behaviors triggered by frustration can exacerbate difficulties in distinguishing internal from external emotional cues.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration can lead to impulsive actions, which in turn can result in self-sabotaging behaviors.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased frustration can exacerbate difficulties in recognizing and labeling emotions due to heightened emotional arousal.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Frustration can sometimes lead to rumination as a maladaptive coping strategy.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration can intensify rumination.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can contribute to frustration",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can temper the impulsive actions triggered by frustration",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frustration amplifies tension between desire for control and feelings of overwhelm.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Impact of frustration on impulsive behaviors",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of thought patterns can enhance self-compassion.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Regulation of thought patterns can reduce frustration.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness of thought patterns can heighten sensitivity to bodily sensations.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of thought patterns can help recognize and differentiate internal from external emotional triggers.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing thought patterns can lead to acknowledging and challenging self-sabotaging behaviors.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of thought patterns may hinder recognizing and labeling emotions due to excessive self-reflection.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of thought patterns can influence breathing patterns.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness can disrupt rumination by recognizing patterns.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Affects ability to break thought cycle",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of thought patterns can heighten sensitivity to physical sensations.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing thought patterns can dampen the tension between control and overwhelm.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Awareness of thought patterns as a precursor to emotional regulation",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of thought patterns can mitigate the negative impact of self-criticism.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical sensations often elicit self-evaluative responses.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration can intensify physical sensations",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty distinguishing internal from external cues can impede the ability to accurately recognize physical sensations as emotional triggers.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "physical sensations may trigger anxiety, leading to self-sabotage.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical sensations can aid in recognizing and labeling emotions, but challenges in this process can impede effective emotional awareness.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared physiological pathways",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased attention to bodily sensations can intensify rumination on distressing thoughts.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical sensations can intensify negative thoughts by focusing attention on uncomfortable bodily states.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conditioned responses",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing bodily sensations can enhance self-awareness by acknowledging emotional experiences.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual influence in emotional processing.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened physical sensations can intensify feelings of overwhelm, contributing to tension related to control.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Physical sensations as cues for emotional experiences",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can suppress emotional awareness arising from physical sensations.",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Struggle to differentiate between internal and external triggers for emotions",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism can be triggered by misattributed emotions.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Struggle to differentiate between internal and external triggers for emotions",
+        "Awareness of thought patterns as a precursor to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to discern internal from external emotional triggers impedes awareness of thought patterns.",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Struggle to differentiate between internal and external triggers for emotions",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "heightened sensitivity to internal bodily sensations.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Struggle to differentiate between internal and external triggers for emotions",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Escalation of anxiety due to misattribution.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Struggle to differentiate between internal and external triggers for emotions",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in distinguishing internal from external emotional triggers can lead to a heightened focus on negative internal thoughts, fostering rumination.",
+      "pair_label": 166
+    },
+    {
+      "input_processes": [
+        "Struggle to differentiate between internal and external triggers for emotions",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Blurred internal/external emotional triggers can reinforce rumination on negative thought patterns.",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Struggle to differentiate between internal and external triggers for emotions",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can intensify the struggle to differentiate between internal and external emotional triggers.",
+      "pair_label": 161
+    },
+    {
+      "input_processes": [
+        "Struggle to differentiate between internal and external triggers for emotions",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances understanding.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety-driven self-sabotage can heighten frustration, leading to increased impulsivity.",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-sabotaging behaviors may divert attention from and mask physical sensations.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing a distorted emotional regulation strategy.",
+      "pair_label": 151
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional awareness.",
+      "pair_label": 142
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety can affect breathing patterns.",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perpetuates cycle",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Physical sensations can exacerbate anxiety, leading to increased self-sabotaging behaviors.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-sabotaging behaviors can exacerbate feelings of overwhelm, further fueling the tension between the desire for control and feelings of being overwhelmed.",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Self-sabotaging behaviors as a coping mechanism for anxiety",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-sabotage may temporarily distract from anxiety but ultimately exacerbates self-criticism, negatively impacting emotional well-being.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in recognizing emotions can fuel self-criticism.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical sensations can inform and enhance emotional awareness.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interconnected emotional awareness",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional unawareness can lead to maladaptive coping strategies.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in recognizing emotions can lead to an increased awareness of physiological responses, such as breathing patterns, as a means of inferring emotional state.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Inability to recognize emotions can indirectly hinder efforts to disengage from negative thoughts due to poor emotional regulation.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape the development of emotional awareness.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional awareness enhances self-awareness.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased awareness of bodily sensations enhances recognition of emotions.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in emotion recognition can heighten feelings of overwhelm and increase the desire for control.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Challenge in recognizing and labeling emotions",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in recognizing and labeling emotions can lead to self-criticism, amplifying its negative impact on emotional well-being.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Regulation of breathing patterns can reduce tension between self-criticism and self-compassion by promoting relaxation and reducing stress.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Frustration can lead to altered breathing patterns, which in turn may amplify emotional reactivity and contribute to impulsive behaviors.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Awareness of thought patterns as a precursor to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Breathing influences thoughts",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Breathing patterns influence physical sensations.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breathing patterns influencing anxiety levels can increase self-sabotaging behaviors.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in emotional awareness could impede the ability to recognize the emotional impact of breathing patterns.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breathing patterns can influence emotional state, which can in turn exacerbate negative thought patterns.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breathing patterns linked to emotional state can be shaped or triggered by past experiences.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breathing influences emotional state, self-awareness enhances this emotional regulation.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared physiological pathways intensify emotional response.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Link between breathing patterns and emotional state",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breathing affects stress levels, influencing feelings of control and overwhelm.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rumination can heighten self-criticism.",
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased rumination can intensify frustration, which in turn heightens impulsivity.",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Awareness of thought patterns as a precursor to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing negative thought patterns can interrupt rumination.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination can heighten body awareness, making physical sensations more noticeable and emotionally salient.",
+      "pair_label": 177
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination reinforces confusion about emotional triggers.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ruminating on negative thoughts can intensify anxiety, leading to the adoption of maladaptive coping mechanisms like self-sabotage.",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rumination can obscure emotional awareness.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rumination reinforces the influence of past experiences.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination undermines self-awareness.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thoughts intensify focus on bodily sensations",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rumination amplifies perceived lack of control.",
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thought patterns fuel self-criticism.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The sustained focus on negative thoughts can increase frustration, which may lead to impulsive reactions.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Awareness of thought patterns as a precursor to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in disengaging from negative thought patterns undermines awareness of thought patterns.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negatively charged thoughts can suppress awareness of body sensations.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thought patterns can intensify self-focused attention, leading to increased difficulty in distinguishing internal from external emotional triggers.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thought patterns can lead to feelings of overwhelm, prompting self-sabotaging behaviors as a maladaptive coping strategy.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in disengaging from negative thought patterns can suppress the ability to recognize and label emotions, as excessive negative thinking can interfere with emotional awareness and regulation.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty in disengaging from negative thought patterns may lead to irregular breathing patterns, which can be linked to an emotional state, but this relationship is indirect and context-dependent.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thought patterns can be strongly influenced by past experiences, reinforcing their emotional impact.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negatively toned thinking often heightens bodily sensations that further intensify emotional states, creating a reinforcing loop.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-view",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape self-perception, impacting self-criticism and self-compassion.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can exacerbate the struggle to differentiate between internal and external emotional triggers.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can make it more difficult to accurately identify and label emotions due to emotional conditioning.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past experiences influence breathing patterns through conditioned responses.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape emotional responses, which in turn fuel rumination",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences that evoke strong negative emotions can condition an individual to dwell on similar negative thoughts.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences inform self-awareness.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape current emotional responses, which can intensify feelings of overwhelm.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Influence of past experiences on current emotional responses",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape self-criticism",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of emotional experiences enhances recognition of self-criticism vs self-compassion",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness can mitigate the impact of frustration by enabling individuals to recognize and manage their emotions, reducing impulsive behaviors.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Awareness of thought patterns as a precursor to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances recognition of thought patterns.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances recognition of physical sensations as emotional cues.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help recognize and mitigate self-sabotaging tendencies.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Challenges in emotion recognition can hinder self-awareness.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can facilitate recognition of breath-emotion connections.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness helps recognize and break rumination patterns.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased self-awareness of emotional experiences can facilitate a deeper understanding of how thoughts, emotions, and behaviors are interconnected, thereby increasing the difficulty in disengaging from negative thought patterns.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in managing emotional experiences",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened self-awareness amplifies recognition of physical sensations.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical sensations influence emotional experiences, which in turn can affect self-criticism and self-compassion, fueling tension between the two.",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Emotional experiences can intensify physical sensations, which might heighten frustration leading to impulsive behaviors.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Awareness of thought patterns as a precursor to emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased body awareness facilitates recognition of thought patterns.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interdependent",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased anxiety can heighten physical sensations, triggering self-sabotaging behaviors.",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Physical sensations can obscure or complicate the ability to recognize and label emotions.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Breathing patterns directly influence physical sensations, which in turn shape emotional experiences.",
+      "pair_label": 134
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Interoception of physical sensations can amplify rumination by drawing attention to emotional discomfort.",
+      "pair_label": 138
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Physical sensations can interrupt rumination.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Physical sensations can be triggers for emotional recall.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened self-awareness enhances recognition of physical sensations, amplifying emotional experience management.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Physical sensations intensify feelings of overwhelm.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Role of physical sensations in emotional experiences",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical sensations can intensify emotional responses to self-criticism.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism.",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration fuels impulsivity",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension amplifies physical sensations.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension and struggle to differentiate are mutually reinforcing.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases reliance on maladaptive coping.",
+      "pair_label": 193
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overwhelm hinders emotional awareness.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can amplify feelings of overwhelm.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing emotional turmoil as a source of tension between control and overwhelm encourages self-awareness.",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Tension affects physical sensations.",
+      "pair_label": 192
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and feelings of overwhelm",
+        "Impact of self-criticism on emotional well-being"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism exacerbates feelings of overwhelm.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Tension between self-criticism and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fuels tension.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Impact of frustration on impulsive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-criticism can indirectly reduce frustration-driven impulses.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Physical sensations as cues for emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "self-criticism may suppress awareness of physical sensations",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Struggle to differentiate between internal and external triggers for emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism exacerbates confusion between internal and external emotional triggers.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Self-sabotaging behaviors as a coping mechanism for anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can exacerbate anxiety, which in turn may trigger self-sabotaging behaviors as a maladaptive coping strategy.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Challenge in recognizing and labeling emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can impede emotional awareness.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Link between breathing patterns and emotional state"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-criticism can indirectly affect breathing patterns through stress.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Tendency to ruminate on negative thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can enhance rumination.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Difficulty in disengaging from negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism reinforces ruminative cycles.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Influence of past experiences on current emotional responses"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past negative experiences can amplify self-criticism tendencies, which in turn affects emotional well-being.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Importance of self-awareness in managing emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances emotional regulation, which can buffer the negative impact of self-criticism.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Role of physical sensations in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-criticism can exacerbate emotional distress, which is partly processed through physical sensations, showing a weak link between the two.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Impact of self-criticism on emotional well-being",
+        "Tension between desire for control and feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism can exacerbate feelings of overwhelm, undermining desire for control.",
+      "pair_label": 69
+    }
+  ]
+}

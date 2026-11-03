@@ -1,0 +1,1513 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to balance structure and flexibility hinders goal articulation.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to structure and flexibility fosters prioritizing productivity.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structure and flexibility impact motivation and energy.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Structure and flexibility are key components of control and agency.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can exacerbate the struggle for balance.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both struggles are interrelated as they both involve finding balance in different aspects of life.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on the big picture can exacerbate struggles with balancing structure and flexibility, as it may lead to neglect of details and daily tasks.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rigidity in daily life can stem from an inability to accept imperfections.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Struggling to balance the need for structure and flexibility in daily life",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty in daily structure can amplify the search for life purpose.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear goals hinder ability to establish routines and adapt to changes.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear goals can lead to lack of direction, which in turn can cause difficulties in sustaining motivation and energy levels.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Clarity on goals enhances sense of control.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and perfectionism can impede the ability to articulate personal goals and aspirations.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear goals can lead to poor time management and prioritization.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of clear goals can lead to a broad focus.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of self-reflection",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating personal goals and aspirations",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interconnected aspects of self-concept and life direction.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can lead to a greater need for structure, but may also create tension with the desire for flexibility.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity may hinder reflection on personal goals.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can help manage energy and motivation by setting realistic goals.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritizing productivity can enhance control and agency by achieving goals efficiently.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can counteract self-criticism and perfectionism by focusing on task completion over flawlessness.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can lead to overwork and neglect of personal life.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can lead to a focus on overall goals rather than getting bogged down in details.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can hinder the acknowledgment of limitations and imperfections.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over perfection",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can distract from deeper introspection.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Energy levels and motivation influence the ability to maintain structure and flexibility.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of motivation can impede goal setting.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Energy management influences prioritization.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Regaining control over daily life can boost motivation and energy levels.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and perfectionism can drain energy and undermine motivation.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Energy and motivation impact work-life balance.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of energy and motivation can hinder the ability to focus on details, leading to an overemphasis on the big picture.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations and denial of limitations can exacerbate energy management issues.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Challenges in managing energy levels and motivation",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of purpose can exacerbate motivation challenges.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Desire for control can amplify the struggle for balance between structure and flexibility.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear goals hinder control.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Promotes goal-oriented behavior.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of control can lead to frustration, which may drain energy and motivation.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and perfectionism can stem from an excessive need for control.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased desire for control can lead to overcommitting in work, exacerbating work-life balance issues.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overemphasis on the big picture can hinder control and agency by neglecting actionable steps.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Interferes with realistic self-assessment",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Desire for a sense of control and agency in daily life",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of purpose can undermine control.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to rigid expectations and an overemphasis on structure, making it challenging to adapt to changing circumstances and find a balance between structure and flexibility.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can impede goal setting by fostering fear of failure.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and perfectionism can drain energy and undermine motivation.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism fuels the need for control.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on work due to self-criticism.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-criticism and perfectionism can sometimes hinder the ability to focus on the big picture by getting bogged down in details.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism and perfectionism reinforce unrealistic expectations.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty in shutting off self-criticism and perfectionism",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and perfectionism can hinder exploration and commitment to life goals.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both struggles are interdependent and mutually reinforcing.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of balance affects goal clarity.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can help mitigate work-life balance struggles by focusing on efficiency over excessive perfectionism.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting to work can lead to burnout.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Seeking control and agency can be a direct response to feeling overwhelmed by work-life imbalance.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on work can fuel self-criticism and perfectionism.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overemphasis on the big picture can hinder the ability to manage daily tasks effectively, thereby exacerbating work-life balance issues.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations and perfectionism can exacerbate work-life imbalance.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Struggling to find a balance between work and personal life",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of balance can exacerbate feelings of purposelessness.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on the big picture can hinder the ability to balance structure and flexibility, as it may lead to overlooking details necessary for effective planning and adaptation.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on the big picture can hinder the ability to define specific, actionable goals.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on the big picture can facilitate prioritizing productivity by enabling a broader view of tasks and goals.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on the big picture can lead to feeling overwhelmed, which in turn can negatively impact energy levels and motivation.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Focusing on the big picture may lead to a sense of overwhelm, reducing the desire for control.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overemphasis on the big picture may lead to neglect of details, which can trigger self-criticism and perfectionism.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on the big picture can lead to neglect of personal life details.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on the big picture can lead to unrealistic expectations and a reluctance to accept limitations.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on the big picture can sometimes hinder the ability to find purpose and direction, as it may lead to feeling overwhelmed by the scope of tasks and goals.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to rigid expectations and difficulty adapting to changes or unexpected events, thus exacerbating struggles with balancing structure and flexibility.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inflexibility in self-perception hinders goal setting.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to burnout.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-criticism",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overcommitting due to perfectionism",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overestimation of capabilities can lead to overlooking details.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting limitations and imperfections",
+        "Struggling to find a sense of purpose and direction in life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations hinder self-awareness and exploration of life goals.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Struggling to balance the need for structure and flexibility in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of purpose can lead to difficulties in establishing a daily routine.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Difficulty in articulating personal goals and aspirations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of direction fuels unclear goals.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Tendency to prioritize productivity over perfection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Lack of direction may hinder prioritization of productivity.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Challenges in managing energy levels and motivation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of purpose can lead to low motivation.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Desire for a sense of control and agency in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Seeking control and agency can be a direct response to feeling lost and without direction.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Difficulty in shutting off self-criticism and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt fuels self-criticism.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Struggling to find a balance between work and personal life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of purpose can lead to poor time management and prioritization.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Tendency to focus on the big picture rather than breaking down tasks into smaller steps"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of direction can lead to an overemphasis on the big picture as a way to compensate for unclear goals.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggling to find a sense of purpose and direction in life",
+        "Difficulty in acknowledging and accepting limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations hinder self-acceptance.",
+      "pair_label": 66
+    }
+  ]
+}

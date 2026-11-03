@@ -1,0 +1,1500 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of motivation and procrastination can lead to poor goal setting and task prioritization.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of motivation and procrastination can lead to poor time management.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying issues with self-regulation and executive functioning.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Establishing a daily routine can enhance motivation and reduce procrastination, which in turn can increase prioritization of self-care and physical activity.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination and lack of motivation can exacerbate stress and anxiety by increasing workload and deadlines.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ineffective goal setting and prioritization can exacerbate procrastination tendencies.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying issues with task management and planning.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory strategy",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ineffective goal setting and prioritization can lead to poor time management, exacerbating challenges in balancing leisure and productive activities.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Struggling to establish a consistent sleep schedule and morning routine."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor time management and goal setting can lead to irregular sleep patterns and difficulty establishing routines.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying issues with executive function and self-regulation.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Competing priorities.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Poor time management fuels stress and anxiety.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting realistic goals and prioritizing tasks effectively.",
+        "Struggling to develop a sense of purpose and direction during transitional periods."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying difficulties with self-regulation and planning.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting leads to chaotic schedules, which in turn can foster procrastination and undermine motivation to establish routines.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting and poor time management can exacerbate difficulties in setting realistic goals and prioritizing tasks effectively.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mitigates overwhelm.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting and poor time management can lead to an imbalance between leisure and productive activities.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Struggling to establish a consistent sleep schedule and morning routine."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting leads to irregular sleep patterns.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting can lead to divided attention and increased stress, making it harder to focus on individual tasks.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overcommitting may lead to neglect of self-care and physical activity.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting exacerbates stress and anxiety.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tendency to overcommit and struggle with time management.",
+        "Struggling to develop a sense of purpose and direction during transitional periods."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overcommitting and poor time management can hinder exploration and reflection needed to establish a sense of purpose.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Developing a task management system can enhance motivation by breaking tasks into smaller manageable goals.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing the importance of task management can mitigate difficulties in goal setting and prioritization.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mitigates overcommitting.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective task management enhances balance.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Struggling to establish a consistent sleep schedule and morning routine."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disorganization can lead to stress and irregular sleep patterns.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A system for tracking and organizing tasks and goals can help mitigate distractions and improve focus.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing tasks can lead to better time management, potentially freeing up time for physical activity and self-care.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective task management reduces stress.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Importance of developing a system for tracking and organizing tasks and goals.",
+        "Struggling to develop a sense of purpose and direction during transitional periods."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Implementing a task and goal system can enhance one's sense of purpose and direction.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty balancing leisure and productivity can lead to procrastination and hinder routine establishment.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inability to balance leisure and work leads to poor goal setting and prioritization.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting exacerbates imbalance.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Developing a system for tracking and organizing tasks and goals can help alleviate challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Struggling to establish a consistent sleep schedule and morning routine."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor time management and prioritization of leisure over responsibilities can lead to irregular sleep patterns and difficulty establishing a morning routine.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Leisure activities can serve as distractions.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing leisure and productivity can enhance prioritization of self-care and physical activity.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Poor time management and imbalance can exacerbate stress and anxiety.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks.",
+        "Struggling to develop a sense of purpose and direction during transitional periods."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of balance can exacerbate uncertainty about life direction.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A consistent sleep schedule and morning routine often sets the foundation for daily routines.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sleep irregularities and morning routine struggles can impact cognitive function and motivation, exacerbating difficulties in goal setting and task prioritization.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor time management can lead to irregular sleep patterns.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Establishing a consistent routine can enhance organizational skills.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disrupted routine affects time management.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disrupted sleep patterns can impair cognitive functions, including attention and concentration.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Establishing a routine promotes self-care habits.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inconsistent sleep affects stress regulation.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent sleep schedule and morning routine.",
+        "Struggling to develop a sense of purpose and direction during transitional periods."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disrupted routine can impede goal-oriented thinking.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in staying focused amplifies procrastination.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying issues with executive function and self-regulation.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in avoiding distractions can lead to poor time estimation and overcommitting.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Systematization aids focus.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased difficulty in staying focused can lead to poor time management and an imbalance between leisure and productive activities.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Struggling to establish a consistent sleep schedule and morning routine."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of focus impacts routine establishment",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Engaging in physical activity enhances focus.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress and anxiety can exacerbate difficulties in staying focused.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in avoiding distractions and staying focused on tasks.",
+        "Struggling to develop a sense of purpose and direction during transitional periods."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of focus hinders exploration of life goals.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical activity can boost motivation",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing physical activity can reduce difficulties in setting realistic goals and prioritizing tasks effectively.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care and physical activity can help mitigate overcommitting by setting boundaries and improving time management skills.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing physical activity can be facilitated by organizing tasks and goals.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing physical activity can reduce challenges in maintaining a balance between leisure and productive tasks by enhancing time management and energy levels.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Struggling to establish a consistent sleep schedule and morning routine."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative impact on establishing routines.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Regular physical activity is known to improve concentration and reduce mind-wandering.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Regular physical activity reduces stress and anxiety.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and prioritizing physical activity.",
+        "Struggling to develop a sense of purpose and direction during transitional periods."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical activity can stabilize mood, enhance cognitive function, and provide a sense of accomplishment, thereby reducing uncertainty and enhancing sense of purpose.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Stress and anxiety can exacerbate procrastination and lack of motivation, making it harder to establish a daily routine.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased stress and anxiety can impair cognitive functions such as planning and decision-making, leading to difficulties in setting realistic goals and prioritizing tasks effectively.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting exacerbates stress and anxiety.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective task management can reduce stress and anxiety.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress and anxiety can lead to poor time management and prioritization, making it harder to balance leisure and productive tasks.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Struggling to establish a consistent sleep schedule and morning routine."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Stress and anxiety can disrupt sleep patterns and morning routines.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress and anxiety can impair cognitive functioning leading to distraction.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Engaging in self-care and physical activity can help alleviate stress and anxiety.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of direction can lead to procrastination and inconsistent routines.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Difficulty in setting realistic goals and prioritizing tasks effectively."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear life purpose hinders goal setting and task prioritization.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of direction leads to overcommitting.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Having a system for tracking and organizing tasks and goals can help alleviate struggles in developing a sense of purpose and direction.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Challenges in maintaining a healthy balance between leisure activities and productive tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of direction can lead to poor time management.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Struggling to establish a consistent sleep schedule and morning routine."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in establishing a sense of purpose can lead to decreased motivation and structure, making it harder to stick to routines.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Difficulty in avoiding distractions and staying focused on tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of direction can lead to increased susceptibility to distractions.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Importance of self-care and prioritizing physical activity."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical activity can counteract feelings of aimlessness.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggling to develop a sense of purpose and direction during transitional periods.",
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty and lack of direction can exacerbate stress and anxiety.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Challenges in managing stress and anxiety related to academic and personal responsibilities.",
+        "Struggling to develop a sense of purpose and direction during transitional periods."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety and stress can exacerbate feelings of uncertainty and confusion, making it harder to establish a clear sense of direction.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination.",
+        "Tendency to overcommit and struggle with time management."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of routine can lead to poor time estimation and overcommitting.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggling to establish a consistent daily routine due to lack of motivation and procrastination.",
+        "Importance of developing a system for tracking and organizing tasks and goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Establishing a routine is facilitated by tracking and organizing tasks and goals.",
+      "pair_label": 68
+    }
+  ]
+}

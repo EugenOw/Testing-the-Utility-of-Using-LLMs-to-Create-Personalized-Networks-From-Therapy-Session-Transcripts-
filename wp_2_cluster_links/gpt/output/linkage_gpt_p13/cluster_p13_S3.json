@@ -1,0 +1,1534 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension from wanting a relationship can lead to self-doubt, particularly when the partner's behavior (procrastination and lack of commitment) reinforces feelings of inadequacy.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension in relationships can amplify fears about starting over, as concerns about partner capability may lead to anxiety about future uncertainties.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension can lead to feelings of guilt and shame when expectations are not met, as individuals may feel responsible for the relationship's shortcomings.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension may inhibit the ability to express feelings and needs clearly, leading to communication difficulties.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension can create a sense of urgency, motivating quicker decision-making regarding the relationship.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between wanting a relationship and doubts about a partner's capability can lead to perfectionistic standards, where individuals may feel compelled to either fully commit or withdraw, reflecting all-or-nothing thinking.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension experienced can lead to heightened emotional reasoning and catastrophizing, as individuals may interpret relationship challenges more negatively.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension in wanting a relationship while questioning the partner's capability can amplify the struggle to find a balance between being independent and being interdependent.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between desire for relationship and perceived partner's capability",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension may lead to hesitation in expressing emotions and needs, as individuals might fear rejection or misunderstanding.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can amplify feelings of tension regarding the relationship, as uncertainty about the partner's commitment heightens the emotional conflict between wanting the relationship and questioning its viability.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can amplify fears about the future, as uncertainty in a relationship may lead to anxiety about starting anew.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can amplify feelings of guilt and shame when expectations in the relationship are not met, creating a cycle of negative emotions.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead to hesitation in expressing feelings and needs, as individuals may fear rejection or conflict.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can amplify feelings of urgency and pressure to make decisions, as uncertainty about the partner's commitment may lead to a heightened need for resolution.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead to unrealistic expectations, fostering perfectionism and all-or-nothing thinking, which may inhibit healthy relationship dynamics.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can amplify emotional reasoning and catastrophizing, as uncertainty about the partner's commitment may lead to heightened emotional responses to perceived relationship threats.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead to a reliance on the partner's actions, which may inhibit the ability to establish a healthy balance between independence and interdependence.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Self-doubt tied to partner's procrastination and lack of commitment",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead to hesitation in expressing emotions and needs, as individuals may fear rejection or further commitment issues.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and uncertainty can lead to hesitation in pursuing relationships, creating tension between desires and perceived capabilities.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change can amplify self-doubt, especially when external factors like a partner's behavior contribute to feelings of insecurity.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and uncertainty can lead to avoidance behaviors, which may suppress feelings of guilt and shame by preventing individuals from confronting their unfulfilled expectations.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and uncertainty can hinder effective communication, making it difficult to express feelings and needs.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and uncertainty can create a heightened sense of urgency, prompting individuals to make quicker decisions in relationships.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and uncertainty can lead to perfectionism and all-or-nothing thinking as a way to cope with the anxiety of potential failure.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and uncertainty can amplify emotional reasoning, leading to heightened catastrophizing when facing relationship challenges.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and uncertainty can hinder one's ability to engage in interdependent relationships, as they may lead to avoidance of vulnerability and reliance on others.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Fear of starting over and uncertainty about the future",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and uncertainty can lead to hesitation in expressing emotions and needs, creating ambivalence in relationships.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and shame can amplify the tension felt between wanting a relationship and doubts about the partner's ability to meet expectations.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and shame can amplify self-doubt, as feelings of inadequacy regarding expectations may lead to questioning one's worth in the relationship.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and shame can inhibit the willingness to start over due to fear of repeating past mistakes, creating uncertainty about the future.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and shame can inhibit the ability to express feelings and needs, as individuals may fear judgment or further disappointment.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of guilt and shame can create a sense of urgency to resolve issues in the relationship, prompting quicker decision-making.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Guilt and shame can intensify perfectionistic tendencies, leading to all-or-nothing thinking about relationship expectations.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and shame can amplify emotional reasoning and lead to catastrophizing, as individuals may overemphasize negative outcomes in response to their feelings of inadequacy.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of guilt and shame can amplify the struggle to find a balance between independence and interdependence, as individuals may feel pressured to meet expectations, impacting their relational dynamics.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Guilt and shame related to unfulfilled expectations in the relationship",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and shame can lead to hesitation in expressing emotions and needs, as individuals may fear further disappointment or conflict.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express feelings can heighten tension regarding the relationship, as unarticulated needs may lead to frustration about the partner's perceived shortcomings.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express feelings can lead to increased self-doubt, especially when a partner's behavior reinforces feelings of insecurity.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express feelings can lead to avoidance of change, reinforcing fears about starting anew.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express feelings can lead to unmet expectations, fostering feelings of guilt and shame.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express feelings can create a sense of urgency, as unresolved issues may lead to pressure for quick decisions.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express feelings can lead to unrealistic expectations, as individuals may resort to perfectionism when they cannot communicate their needs effectively.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express feelings can lead to heightened emotional reasoning and catastrophizing, as unarticulated needs may amplify emotional responses to challenges.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express feelings can hinder the ability to negotiate independence and interdependence, leading to conflict.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating feelings and needs in the relationship",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to articulate feelings often leads to increased ambivalence about expressing them, as the individual may feel uncertain or conflicted about their emotional needs.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The urgency to make decisions can amplify the tension felt between wanting a relationship and doubts about the partner's abilities.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The urgency to make decisions can amplify feelings of self-doubt, especially when the partner's procrastination creates uncertainty.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The pressure to make decisions can suppress the fear of starting over by forcing individuals to confront their uncertainties, but this relationship can vary based on individual coping mechanisms.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The pressure to make decisions can lead to feelings of guilt and shame when expectations are not met, creating a cycle of emotional distress.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The pressure to make quick decisions can hinder the ability to express feelings and needs clearly.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The pressure to make quick decisions can lead to heightened perfectionism and all-or-nothing thinking, as individuals may feel compelled to meet unrealistic standards in their relationship expectations.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The pressure to make quick decisions can amplify emotional reasoning and lead to catastrophic thinking when faced with relationship challenges.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The pressure to make quick decisions can hinder the ability to find a balance between independence and interdependence, leading to conflict.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Sense of urgency and pressure to make decisions about the relationship",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The pressure to make quick decisions can suppress the ability to express emotions and needs, leading to ambivalence.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to unrealistic expectations, creating tension when partners do not meet those standards.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to unrealistic expectations, which may foster self-doubt when those expectations are not met, particularly in the context of a partner's perceived shortcomings.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to fear of failure, making individuals hesitant to start over due to uncertainty.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism and all-or-nothing thinking create unrealistic standards, leading to heightened feelings of guilt and shame when those expectations are not met.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to unrealistic expectations, which may inhibit the ability to express feelings and needs effectively.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can create a sense of urgency to meet idealized standards, leading to pressure in decision-making.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism and all-or-nothing thinking can lead to heightened emotional responses and a tendency to catastrophize when expectations are not met.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to rigid expectations that inhibit the ability to find a healthy balance between independence and interdependence.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Perfectionism and all-or-nothing thinking in relationship expectations",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to rigid expectations, which may inhibit the ability to express emotions and needs due to fear of not meeting those standards.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning can amplify feelings of tension by heightening concerns about a partner's capabilities, leading to increased catastrophizing.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning can amplify self-doubt, especially when interpreting a partner's procrastination as a sign of lack of commitment.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning and catastrophizing can amplify fears about starting over and uncertainties, as negative interpretations of past experiences may lead to increased anxiety about future changes.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning and catastrophizing can amplify feelings of guilt and shame when expectations in a relationship are not met, leading to a cycle of negative emotions.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can lead to heightened emotional responses that may inhibit clear communication of feelings and needs.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning and catastrophizing can amplify feelings of urgency and pressure, leading to hasty decision-making in relationship contexts.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning can amplify perfectionistic tendencies, leading to extreme expectations in relationships.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning and catastrophizing can amplify feelings of insecurity, making it harder to navigate the balance between independence and interdependence.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Emotional reasoning and catastrophizing in response to relationship challenges",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can lead to increased anxiety and fear of vulnerability, which may inhibit the ability to express emotions and needs.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle for independence and interdependence can amplify feelings of tension regarding the partner's capabilities, as individuals may feel conflicted about relying on their partner while desiring closeness.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance independence and interdependence can lead to self-doubt, especially when a partner's procrastination and lack of commitment create uncertainty.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle to balance independence and interdependence can lead to a fear of starting over, as individuals may feel uncertain about how to navigate new relational dynamics.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance independence and interdependence can lead to feelings of guilt and shame when expectations are not met, as the individual may feel they are failing to meet relational obligations.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance independence and interdependence can lead to difficulties in expressing feelings and needs, as individuals may fear vulnerability or rejection.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle for balance can create a heightened sense of urgency, as individuals may feel pressured to make decisions to resolve their conflicting needs.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance independence and interdependence can lead to perfectionistic tendencies, as individuals may feel pressured to meet unrealistic expectations in relationships, which can inhibit their ability to find a healthy balance.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with independence and interdependence can lead to heightened emotional reasoning and catastrophizing, as individuals may overreact to perceived threats to their relational dynamics.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in the relationship",
+        "Ambivalence about expressing emotions and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with independence and interdependence can lead to hesitation in expressing emotions and needs, as individuals may fear losing autonomy or becoming too dependent.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Tension between desire for relationship and perceived partner's capability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence in expressing emotions can lead to increased tension, as unvoiced needs may create doubts about the partner's ability to meet those needs.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Self-doubt tied to partner's procrastination and lack of commitment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence in expressing emotions can lead to self-doubt, particularly when a partner's behavior reinforces feelings of insecurity and uncertainty.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Fear of starting over and uncertainty about the future"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence in expressing emotions can lead to avoidance of change, reinforcing fears about starting over and uncertainty.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Guilt and shame related to unfulfilled expectations in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence in expressing emotions can lead to unmet needs, fostering feelings of guilt and shame when expectations are not communicated or fulfilled.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Difficulty in articulating feelings and needs in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ambivalence can lead to increased difficulty in articulating feelings, as uncertainty about expression reinforces the struggle to communicate needs.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Sense of urgency and pressure to make decisions about the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence can create hesitation, which may inhibit the ability to make urgent decisions.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Perfectionism and all-or-nothing thinking in relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence can lead to avoidance of emotional expression, which may reinforce perfectionistic tendencies by creating unrealistic expectations for emotional clarity and communication.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Emotional reasoning and catastrophizing in response to relationship challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence can lead to emotional reasoning that distorts perceptions, potentially increasing the tendency to catastrophize when faced with relationship challenges.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Ambivalence about expressing emotions and needs in the relationship",
+        "Struggle to balance independence and interdependence in the relationship"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence in expressing emotions can hinder the ability to negotiate independence and interdependence, leading to conflict in relationship dynamics.",
+      "pair_label": 8
+    }
+  ]
+}

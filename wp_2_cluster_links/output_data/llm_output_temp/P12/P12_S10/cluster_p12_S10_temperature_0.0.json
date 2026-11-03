@@ -1,0 +1,480 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "An effort to establish and maintain personal boundaries with others in emotional discussions.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Setting boundaries may suppress immediate emotional expression in social contexts.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "An effort to establish and maintain personal boundaries with others in emotional discussions.",
+        "A shift from defensive reactions to vulnerability through grace and boundary-setting."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundary-setting enables vulnerability.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "An effort to establish and maintain personal boundaries with others in emotional discussions.",
+        "Practicing self-compassion and understanding in the face of painful past experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Setting boundaries can facilitate self-compassion by protecting emotional well-being.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "An effort to establish and maintain personal boundaries with others in emotional discussions.",
+        "Recognition of the impact of unsolicited comments on self-esteem and emotional well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundary setting enhances self-awareness of emotional impact.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "A pattern of emotional suppression followed by isolated expression of emotions.",
+        "An effort to establish and maintain personal boundaries with others in emotional discussions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional suppression can lead to a need for boundaries to protect oneself from emotional overwhelm.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "A pattern of emotional suppression followed by isolated expression of emotions.",
+        "A shift from defensive reactions to vulnerability through grace and boundary-setting."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional suppression can lead to defensive reactions, but isolated expression of emotions can facilitate a shift towards vulnerability.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "A pattern of emotional suppression followed by isolated expression of emotions.",
+        "Increasing self-awareness about the need for emotional regulation and boundary establishment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional suppression can lead to increased awareness of emotional needs.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "A pattern of emotional suppression followed by isolated expression of emotions.",
+        "Navigating the desire for emotional intimacy while setting limits with others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional suppression can lead to a desire for intimacy as a means of release.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "A pattern of emotional suppression followed by isolated expression of emotions.",
+        "Struggle to balance emotional expression with the need for vulnerability and openness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Suppressed emotions can intensify the struggle to balance expression and vulnerability.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "A shift from defensive reactions to vulnerability through grace and boundary-setting.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability counters suppression.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Efforts to connect with and heal the inner child through self-care and nurturing.",
+        "An effort to establish and maintain personal boundaries with others in emotional discussions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-care and nurturing can enhance emotional resilience, enabling more effective boundary setting.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Efforts to connect with and heal the inner child through self-care and nurturing.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Healing the inner child can reduce emotional suppression.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Efforts to connect with and heal the inner child through self-care and nurturing.",
+        "Increasing self-awareness about the need for emotional regulation and boundary establishment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Healing the inner child enhances emotional regulation and boundary establishment.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Increasing self-awareness about the need for emotional regulation and boundary establishment.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness of emotional needs can lead to recognition of suppression patterns, potentially reducing their occurrence.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Increasing self-awareness about the need for emotional regulation and boundary establishment.",
+        "Efforts to connect with and heal the inner child through self-care and nurturing."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness of emotional needs facilitates inner child healing.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Navigating the desire for emotional intimacy while setting limits with others.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating intimacy while setting limits can suppress emotional expression to avoid vulnerability, leading to isolated emotional release.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Navigating the desire for emotional intimacy while setting limits with others.",
+        "Recognition of the impact of unsolicited comments on self-esteem and emotional well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary setting can enhance self-esteem.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Practicing self-compassion and understanding in the face of painful past experiences.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the need for emotional suppression.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Practicing self-compassion and understanding in the face of painful past experiences.",
+        "Increasing self-awareness about the need for emotional regulation and boundary establishment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion fosters a safe space for introspection.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Recognition of the impact of unsolicited comments on self-esteem and emotional well-being.",
+        "An effort to establish and maintain personal boundaries with others in emotional discussions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of the impact of unsolicited comments on self-esteem and emotional well-being motivates the establishment of personal boundaries.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Recognition of the impact of unsolicited comments on self-esteem and emotional well-being.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of negative impacts may lead to suppression.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Recognition of the impact of unsolicited comments on self-esteem and emotional well-being.",
+        "A shift from defensive reactions to vulnerability through grace and boundary-setting."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of the impact of unsolicited comments can motivate a shift towards healthier coping mechanisms.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Recognition of the impact of unsolicited comments on self-esteem and emotional well-being.",
+        "Increasing self-awareness about the need for emotional regulation and boundary establishment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing the impact of unsolicited comments can motivate individuals to increase self-awareness about emotional regulation and boundary establishment.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Recognition of the impact of unsolicited comments on self-esteem and emotional well-being.",
+        "Struggle to balance emotional expression with the need for vulnerability and openness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of the impact of unsolicited comments can heighten sensitivity to emotional expression, making it more challenging to balance openness with vulnerability.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggle to balance emotional expression with the need for vulnerability and openness.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability struggle leads to suppression.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Struggle to balance emotional expression with the need for vulnerability and openness.",
+        "Efforts to connect with and heal the inner child through self-care and nurturing."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability and openness facilitate healing and connection with the inner child.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Struggle to balance emotional expression with the need for vulnerability and openness.",
+        "Recognition of the impact of unsolicited comments on self-esteem and emotional well-being."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness of the impact of unsolicited comments can heighten the struggle to balance emotional expression.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tuning out negative self-talk and critical inner voices to support emotional healing.",
+        "A pattern of emotional suppression followed by isolated expression of emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tuning out negative self-talk can reduce emotional suppression by allowing for more open expression of emotions.",
+      "pair_label": 82
+    }
+  ]
+}

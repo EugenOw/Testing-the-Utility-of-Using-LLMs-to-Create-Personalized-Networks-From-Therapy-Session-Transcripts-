@@ -1,0 +1,182 @@
+[
+  {
+    "input_processes": [
+      "Tension between self-worth and perceived judgment from others",
+      "Difficulty in acknowledging and accepting relief from anxiety"
+    ],
+    "pair_label": 5,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 3,
+      "excitatory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 3,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Fear of judgment reinforces anxiety.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Tension between self-worth and perceived judgment from others",
+      "Habitual self-blame as a coping mechanism for feelings of overwhelm"
+    ],
+    "pair_label": 6,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Self-blame emerges as a maladaptive coping strategy to deal with feelings of inadequacy fueled by perceived judgment.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Difficulty in acknowledging and accepting relief from anxiety",
+      "Tension between self-worth and perceived judgment from others"
+    ],
+    "pair_label": 2,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 1,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Anxiety relief can be perceived as a threat to self-worth if others judge it as weakness.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Difficulty in acknowledging and accepting relief from anxiety",
+      "Habitual self-blame as a coping mechanism for feelings of overwhelm"
+    ],
+    "pair_label": 1,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 1,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Perpetuating guilt",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Habitual self-blame as a coping mechanism for feelings of overwhelm",
+      "Tension between self-worth and perceived judgment from others"
+    ],
+    "pair_label": 4,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 1,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Self-blame reinforces negative self-worth.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Habitual self-blame as a coping mechanism for feelings of overwhelm",
+      "Difficulty in acknowledging and accepting relief from anxiety"
+    ],
+    "pair_label": 3,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 2,
+      "excitatory": 1
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 2,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Self-blame prevents self-compassion and perpetuates negative self-talk.",
+    "total_files": 3
+  }
+]

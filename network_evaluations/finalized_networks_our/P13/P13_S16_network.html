@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Process Network</title>
+    <script src="https://unpkg.com/cytoscape@3.21.1/dist/cytoscape.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #cy {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        .legend {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 14px;
+            z-index: 10;
+        }
+        .tooltip {
+            position: absolute;
+            background: #fefefe;
+            border: 1px solid #aaa;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 13px;
+            max-width: 300px;
+            z-index: 20;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            cursor: default;
+        }
+        .tooltip .close-btn {
+            float: right;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="cy"></div>
+    <div class="legend">
+        <b>Legend</b><br>
+        <span style="color:#e74c3c;">Red</span>: Inhibitory<br>
+        <span style="color:#3498db;">Blue</span>: Excitatory<br>
+        <hr style="border-top: 1px dashed #aaa; margin: 4px 0;">
+        Dashed line = Weak<br>
+        Solid thin = Moderate<br>
+        Solid thick = Strong<br>
+        <hr>
+        <b>Dimensions</b><br>
+        🔴 Cognition<br>
+        🟠 Attention<br>
+        🟡 Motivation<br>
+        🟢 (Overt) Behaviour<br>
+        🔵 Sense of Self<br>
+        🟣 Context/Moderators<br>
+        🟤 Affect<br>
+        ⚪ Sociocultural<br>
+        ⚫ Biophysiological
+    </div>
+    <script>
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            layout: { name: 'cose' },
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'text-wrap': 'wrap',
+                        'text-max-width': 100,
+                        'text-valign': 'center',
+                        'text-halign': 'center',
+                        'background-color': '#ffffff',
+                        'border-color': '#000000',
+                        'border-width': 1,
+                        'color': '#000',
+                        'font-size': 10,
+                        'width': 'label',
+                        'height': 'label',
+                        'padding': 10
+                    }
+                },
+                {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'target-arrow-shape': 'triangle',
+                        'arrow-scale': 1.2,
+                        'label': '',
+                        'font-size': 9,
+                        'text-rotation': 'autorotate',
+                        'text-margin-y': -10,
+                        'line-color': 'data(color)',
+                        'target-arrow-color': 'data(color)',
+                        'width': 'data(width)',
+                        'line-style': 'data(lineStyle)'
+                    }
+                }
+            ],
+            elements: [{"data": {"id": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "label": "Cognitive flexibility as a means to reframe negative thoughts and emotions\n\ud83d\udfe2 \ud83d\udfe0 \ud83d\udd34\nFrequency: 23"}}, {"data": {"id": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "label": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udd34\nFrequency: 7"}}, {"data": {"id": "The role of self-awareness in recognizing and challenging negative thought patterns", "label": "The role of self-awareness in recognizing and challenging negative thought patterns\n\ud83d\udfe2 \ud83d\udfe0 \ud83d\udd34\nFrequency: 19"}}, {"data": {"id": "The impact of cognitive restructuring on emotional regulation", "label": "The impact of cognitive restructuring on emotional regulation\n\ud83d\udfe2 \ud83d\udfe0 \ud83d\udd34\nFrequency: 23"}}, {"data": {"id": "The use of creative outlets as a means of emotional expression and regulation", "label": "The use of creative outlets as a means of emotional expression and regulation\n\ud83d\udfe2 \ud83d\udd34\nFrequency: 1"}}, {"data": {"id": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "label": "The importance of recognizing and challenging thinking traps in cognitive restructuring\n\ud83d\udfe2 \ud83d\udfe0 \ud83d\udd34\nFrequency: 5"}}, {"data": {"id": "Vulnerability as a key factor in reducing interpersonal relationship walls", "label": "Vulnerability as a key factor in reducing interpersonal relationship walls\n\ud83d\udfe2 \ud83d\udfe0 \ud83d\udd34\nFrequency: 19"}}, {"data": {"id": "Avoidance of emotional expression as a coping mechanism", "label": "Avoidance of emotional expression as a coping mechanism\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udd34\nFrequency: 7"}}, {"data": {"id": "The tension between self-criticism and self-compassion in emotional experiences", "label": "The tension between self-criticism and self-compassion in emotional experiences\n\ud83d\udfe2 \ud83d\udfe0 \ud83d\udd34\nFrequency: 19"}}, {"data": {"id": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "label": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udd34\nFrequency: 7"}}, {"data": {"id": "Cognitive flexibility as a means to reframe negative thoughts and emotions_Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_11", "source": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "target": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "pair_label": "11", "info": "<b>Pair:</b> 11<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fosters a supportive mindset", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Cognitive flexibility as a means to reframe negative thoughts and emotions_The role of self-awareness in recognizing and challenging negative thought patterns_14", "source": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "target": "The role of self-awareness in recognizing and challenging negative thought patterns", "pair_label": "14", "info": "<b>Pair:</b> 14<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Cognitive flexibility as a means to reframe negative thoughts and emotions_The impact of cognitive restructuring on emotional regulation_12", "source": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "target": "The impact of cognitive restructuring on emotional regulation", "pair_label": "12", "info": "<b>Pair:</b> 12<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reframing", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Cognitive flexibility as a means to reframe negative thoughts and emotions_The use of creative outlets as a means of emotional expression and regulation_17", "source": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "target": "The use of creative outlets as a means of emotional expression and regulation", "pair_label": "17", "info": "<b>Pair:</b> 17<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive flexibility enables diverse perspectives,\nfacilitating creative expression.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Cognitive flexibility as a means to reframe negative thoughts and emotions_The importance of recognizing and challenging thinking traps in cognitive restructuring_13", "source": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "target": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "pair_label": "13", "info": "<b>Pair:</b> 13<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>facilitates effective restructuring", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_Cognitive flexibility as a means to reframe negative thoughts and emotions_20", "source": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "target": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "pair_label": "20", "info": "<b>Pair:</b> 20<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Enhances reframing", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_Vulnerability as a key factor in reducing interpersonal relationship walls_27", "source": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "target": "Vulnerability as a key factor in reducing interpersonal relationship walls", "pair_label": "27", "info": "<b>Pair:</b> 27<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Practicing self-compassion allows for increased\nvulnerability by reducing fear of self-criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_Avoidance of emotional expression as a coping mechanism_19", "source": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "target": "Avoidance of emotional expression as a coping mechanism", "pair_label": "19", "info": "<b>Pair:</b> 19<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-compassion counteracts avoidance of emotional\nexpression by promoting emotional acceptance.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_The role of self-awareness in recognizing and challenging negative thought patterns_23", "source": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "target": "The role of self-awareness in recognizing and challenging negative thought patterns", "pair_label": "23", "info": "<b>Pair:</b> 23<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Enhances recognition", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_The tension between self-criticism and self-compassion in emotional experiences_25", "source": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "target": "The tension between self-criticism and self-compassion in emotional experiences", "pair_label": "25", "info": "<b>Pair:</b> 25<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reduces tension by promoting acceptance.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_The importance of recognizing and challenging thinking traps in cognitive restructuring_22", "source": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "target": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "pair_label": "22", "info": "<b>Pair:</b> 22<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fosters self-kindness to facilitate cognitive restructuring.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Vulnerability as a key factor in reducing interpersonal relationship walls_Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_84", "source": "Vulnerability as a key factor in reducing interpersonal relationship walls", "target": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "pair_label": "84", "info": "<b>Pair:</b> 84<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Vulnerability fosters self-compassion.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Vulnerability as a key factor in reducing interpersonal relationship walls_The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_88", "source": "Vulnerability as a key factor in reducing interpersonal relationship walls", "target": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "pair_label": "88", "info": "<b>Pair:</b> 88<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Vulnerability can facilitate emotional expression.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Vulnerability as a key factor in reducing interpersonal relationship walls_The use of creative outlets as a means of emotional expression and regulation_90", "source": "Vulnerability as a key factor in reducing interpersonal relationship walls", "target": "The use of creative outlets as a means of emotional expression and regulation", "pair_label": "90", "info": "<b>Pair:</b> 90<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Facilitates openness", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Avoidance of emotional expression as a coping mechanism_The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_6", "source": "Avoidance of emotional expression as a coping mechanism", "target": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "pair_label": "6", "info": "<b>Pair:</b> 6<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Avoiding emotional expression can lead to unresolved\nemotions, which in turn can make it harder to articulate\nemotions in the future.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The role of self-awareness in recognizing and challenging negative thought patterns_Cognitive flexibility as a means to reframe negative thoughts and emotions_47", "source": "The role of self-awareness in recognizing and challenging negative thought patterns", "target": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "pair_label": "47", "info": "<b>Pair:</b> 47<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-awareness enables recognition of negative patterns,\nfacilitating cognitive flexibility to reframe them.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The role of self-awareness in recognizing and challenging negative thought patterns_Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_48", "source": "The role of self-awareness in recognizing and challenging negative thought patterns", "target": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "pair_label": "48", "info": "<b>Pair:</b> 48<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-awareness enables recognition of negative patterns,\nfacilitating self-compassion to counteract them.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The role of self-awareness in recognizing and challenging negative thought patterns_The impact of cognitive restructuring on emotional regulation_49", "source": "The role of self-awareness in recognizing and challenging negative thought patterns", "target": "The impact of cognitive restructuring on emotional regulation", "pair_label": "49", "info": "<b>Pair:</b> 49<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-awareness enables cognitive restructuring.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The role of self-awareness in recognizing and challenging negative thought patterns_The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_51", "source": "The role of self-awareness in recognizing and challenging negative thought patterns", "target": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "pair_label": "51", "info": "<b>Pair:</b> 51<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased self-awareness can facilitate the recognition and\narticulation of previously unexpressed emotions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The role of self-awareness in recognizing and challenging negative thought patterns_The tension between self-criticism and self-compassion in emotional experiences_52", "source": "The role of self-awareness in recognizing and challenging negative thought patterns", "target": "The tension between self-criticism and self-compassion in emotional experiences", "pair_label": "52", "info": "<b>Pair:</b> 52<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-awareness enhances recognition of self-criticism,\nfacilitating a shift towards self-compassion.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The role of self-awareness in recognizing and challenging negative thought patterns_The importance of recognizing and challenging thinking traps in cognitive restructuring_50", "source": "The role of self-awareness in recognizing and challenging negative thought patterns", "target": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "pair_label": "50", "info": "<b>Pair:</b> 50<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Key component of cognitive restructuring", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The impact of cognitive restructuring on emotional regulation_Cognitive flexibility as a means to reframe negative thoughts and emotions_29", "source": "The impact of cognitive restructuring on emotional regulation", "target": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "pair_label": "29", "info": "<b>Pair:</b> 29<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing mechanisms.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The impact of cognitive restructuring on emotional regulation_Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_30", "source": "The impact of cognitive restructuring on emotional regulation", "target": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "pair_label": "30", "info": "<b>Pair:</b> 30<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive restructuring can enhance self-compassion by\nreframing negative self-talk.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The impact of cognitive restructuring on emotional regulation_The role of self-awareness in recognizing and challenging negative thought patterns_32", "source": "The impact of cognitive restructuring on emotional regulation", "target": "The role of self-awareness in recognizing and challenging negative thought patterns", "pair_label": "32", "info": "<b>Pair:</b> 32<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive restructuring relies on self-awareness to identify\nand challenge negative thought patterns, thereby enhancing\nemotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The impact of cognitive restructuring on emotional regulation_The tension between self-criticism and self-compassion in emotional experiences_34", "source": "The impact of cognitive restructuring on emotional regulation", "target": "The tension between self-criticism and self-compassion in emotional experiences", "pair_label": "34", "info": "<b>Pair:</b> 34<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive restructuring can influence self-criticism and\nself-compassion by reframing negative self-talk.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The impact of cognitive restructuring on emotional regulation_The importance of recognizing and challenging thinking traps in cognitive restructuring_31", "source": "The impact of cognitive restructuring on emotional regulation", "target": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "pair_label": "31", "info": "<b>Pair:</b> 31<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive restructuring relies on identifying and\nchallenging thinking traps to effectively regulate emotions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_57", "source": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "target": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "pair_label": "57", "info": "<b>Pair:</b> 57<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Facilitates emotional expression", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_Avoidance of emotional expression as a coping mechanism_55", "source": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "target": "Avoidance of emotional expression as a coping mechanism", "pair_label": "55", "info": "<b>Pair:</b> 55<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past unexpressed emotions can intensify the struggle to\narticulate current emotions, leading to avoidance as a\ncoping strategy.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_The role of self-awareness in recognizing and challenging negative thought patterns_60", "source": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "target": "The role of self-awareness in recognizing and challenging negative thought patterns", "pair_label": "60", "info": "<b>Pair:</b> 60<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increased self-awareness can facilitate the expression of\npreviously unexpressed emotions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_The tension between self-criticism and self-compassion in emotional experiences_61", "source": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "target": "The tension between self-criticism and self-compassion in emotional experiences", "pair_label": "61", "info": "<b>Pair:</b> 61<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Unexpressed emotions can fuel self-criticism, while the\nstruggle to articulate them can hinder self-compassion.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_The use of creative outlets as a means of emotional expression and regulation_62", "source": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "target": "The use of creative outlets as a means of emotional expression and regulation", "pair_label": "62", "info": "<b>Pair:</b> 62<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Facilitates emotional release.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The tension between self-criticism and self-compassion in emotional experiences_Cognitive flexibility as a means to reframe negative thoughts and emotions_65", "source": "The tension between self-criticism and self-compassion in emotional experiences", "target": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "pair_label": "65", "info": "<b>Pair:</b> 65<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reframing negative thoughts promotes self-compassion.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The tension between self-criticism and self-compassion in emotional experiences_Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_66", "source": "The tension between self-criticism and self-compassion in emotional experiences", "target": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "pair_label": "66", "info": "<b>Pair:</b> 66<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The tension between self-criticism and self-compassion in emotional experiences_The role of self-awareness in recognizing and challenging negative thought patterns_69", "source": "The tension between self-criticism and self-compassion in emotional experiences", "target": "The role of self-awareness in recognizing and challenging negative thought patterns", "pair_label": "69", "info": "<b>Pair:</b> 69<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-awareness enhances recognition of self-criticism,\nfacilitating self-compassion.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The tension between self-criticism and self-compassion in emotional experiences_The struggle to articulate emotions as a manifestation of unexpressed emotions from the past_70", "source": "The tension between self-criticism and self-compassion in emotional experiences", "target": "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past", "pair_label": "70", "info": "<b>Pair:</b> 70<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-criticism can exacerbate the struggle to articulate\nemotions, as it may lead to increased emotional suppression\nand avoidance.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The use of creative outlets as a means of emotional expression and regulation_Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_75", "source": "The use of creative outlets as a means of emotional expression and regulation", "target": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "pair_label": "75", "info": "<b>Pair:</b> 75<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Encourages emotional expression and acceptance.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The importance of recognizing and challenging thinking traps in cognitive restructuring_Cognitive flexibility as a means to reframe negative thoughts and emotions_38", "source": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "target": "Cognitive flexibility as a means to reframe negative thoughts and emotions", "pair_label": "38", "info": "<b>Pair:</b> 38<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual enhancement in cognitive reappraisal.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The importance of recognizing and challenging thinking traps in cognitive restructuring_Self-compassion as a tool to reduce self-criticism and increase emotional acceptance_39", "source": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "target": "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance", "pair_label": "39", "info": "<b>Pair:</b> 39<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Challenging negative self-talk.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The importance of recognizing and challenging thinking traps in cognitive restructuring_The role of self-awareness in recognizing and challenging negative thought patterns_41", "source": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "target": "The role of self-awareness in recognizing and challenging negative thought patterns", "pair_label": "41", "info": "<b>Pair:</b> 41<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual reinforcement in cognitive restructuring.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The importance of recognizing and challenging thinking traps in cognitive restructuring_The impact of cognitive restructuring on emotional regulation_40", "source": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "target": "The impact of cognitive restructuring on emotional regulation", "pair_label": "40", "info": "<b>Pair:</b> 40<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive restructuring relies on identifying and\nchallenging thinking traps to effectively regulate emotions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The importance of recognizing and challenging thinking traps in cognitive restructuring_The tension between self-criticism and self-compassion in emotional experiences_43", "source": "The importance of recognizing and challenging thinking traps in cognitive restructuring", "target": "The tension between self-criticism and self-compassion in emotional experiences", "pair_label": "43", "info": "<b>Pair:</b> 43<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Recognizing and challenging thinking traps can enhance self-\ncompassion and reduce self-criticism.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}]
+        });
+
+        let tooltipCounter = 0;
+
+        cy.on('tap', 'edge', function(evt) {
+            var edge = evt.target;
+            var pos = evt.renderedPosition;
+            var tooltipId = "tooltip-" + (++tooltipCounter);
+
+            var tooltip = document.createElement("div");
+            tooltip.className = "tooltip";
+            tooltip.id = tooltipId;
+            tooltip.style.left = (pos.x + 20) + "px";
+            tooltip.style.top = (pos.y + 20) + "px";
+
+            var closeBtn = document.createElement("span");
+            closeBtn.className = "close-btn";
+            closeBtn.innerHTML = "&times;";
+            closeBtn.onclick = function () {
+                tooltip.remove();
+            };
+
+            tooltip.innerHTML = "";
+            tooltip.appendChild(closeBtn);
+            var content = document.createElement("div");
+            content.innerHTML = edge.data("info");
+            tooltip.appendChild(content);
+
+            document.body.appendChild(tooltip);
+            makeDraggable(tooltip);
+        });
+
+        function makeDraggable(elmnt) {
+            let offset = { x: 0, y: 0 };
+            let isDragging = false;
+
+            elmnt.addEventListener("mousedown", function (e) {
+                if (e.target.classList.contains("close-btn")) return;
+                isDragging = true;
+                offset.x = e.clientX - elmnt.offsetLeft;
+                offset.y = e.clientY - elmnt.offsetTop;
+                elmnt.style.cursor = "move";
+                e.preventDefault();
+            });
+
+            document.addEventListener("mousemove", function (e) {
+                if (isDragging) {
+                    elmnt.style.left = (e.clientX - offset.x) + "px";
+                    elmnt.style.top = (e.clientY - offset.y) + "px";
+                }
+            });
+
+            document.addEventListener("mouseup", function () {
+                isDragging = false;
+                elmnt.style.cursor = "default";
+            });
+        }
+    </script>
+</body>
+</html>

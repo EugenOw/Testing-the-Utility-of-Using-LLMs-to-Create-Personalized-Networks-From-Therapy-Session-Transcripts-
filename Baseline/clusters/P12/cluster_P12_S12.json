@@ -1,0 +1,176 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Self-Validation and Imperfection",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Boundary Setting and Self-Care",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Emotional Regulation and Self-Compassion",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Past Experiences and Trauma",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 5": {
+        "Title": "Self-Expectations and Perfectionism",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 6": {
+        "Title": "Self-Reflection and Growth",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Self-validation and boundary setting are closely linked"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Boundary setting can help regulate emotional responses"
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Emotional regulation and past experiences are closely tied"
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 5"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Past experiences can influence self-expectations, but the relationship is complex"
+      },
+      {
+        "input_themes": [
+          "Theme 5",
+          "Theme 6"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Self-expectations and self-reflection are closely linked"
+      },
+      {
+        "input_themes": [
+          "Theme 6",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Self-reflection can help mitigate self-expectations"
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 3"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 4"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 5"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 6"
+        ],
+        "connection": [
+          0
+        ]
+      }
+    ]
+  }
+}

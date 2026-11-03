@@ -1,0 +1,1323 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying drive for knowledge acquisition.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Impulsive action on curiosity.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of control in curiosity-driven behaviors can lead to difficulties in self-regulation.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying desire for novelty and exploration.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of control in curiosity-driven behaviors may hinder effective decision-making by overwhelming the individual with too many options and vague information.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of control over curiosity may lead to feelings of uncertainty and self-doubt.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflection enhances curiosity",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Curiosity may fuel overthinking as the individual seeks to understand and analyze the vast amount of information they've gathered.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Curiosity without control may lead to distraction, hindering mindfulness and self-reflection.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning.",
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on knowledge pursuit can hinder task prioritization.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared curiosity drives both processes.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning.",
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning.",
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual enhancement of self-awareness and informed decision-making.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning.",
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and analysis are natural extensions of a pursuit of knowledge and understanding.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Complementary skills.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems.",
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Impulsive curiosity fuels uncontrolled exploration.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems.",
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Curiosity drives pursuit of knowledge.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems.",
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impulsive actions can disrupt planning and organization.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying drive for novelty and exploration.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems.",
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Impulsive actions often result in short-term gains but long-term detriments, complicating decision-making.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems.",
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impulsive actions may hinder self-reflection.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems.",
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reflection and self-awareness counteract impulsive behavior.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mitigates Impulsive Behavior",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks.",
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unfocused exploration",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks.",
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with self-regulation can hinder the pursuit of knowledge by causing disorganization and distraction.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks.",
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Impulsivity and poor planning.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impulsivity",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks.",
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Impaired self-regulation can lead to difficulties in prioritizing tasks, which in turn can complicate decision-making, especially when balancing short-term and long-term goals.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks.",
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can exacerbate difficulties in self-regulation by increasing indecision, thereby hindering task prioritization and time management.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness enhances self-regulation.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Exploration fuels uncontrolled curiosity.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared drive for novelty and discovery.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying drive for novelty-seeking.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Distracts from task focus",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exploring new ideas can lead to more options, making decision-making more challenging.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exploring new ideas may lead to self-doubt.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exploring new ideas and experiences can enhance reflection and self-awareness by providing diverse perspectives and insights.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can dampen the enthusiasm for exploring new ideas.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exploring new ideas can foster mindfulness.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impulsive curiosity can hinder decision-making by introducing irrelevant information.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on knowledge pursuit can hinder decision-making.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impulsive decisions driven by curiosity can exacerbate challenges in balancing short-term and long-term goals.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared executive function deficits.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Distracts from goal-oriented decision-making.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased uncertainty and self-doubt can exacerbate decision-making challenges.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reflection and self-awareness enhance decision-making by clarifying goals and values.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking exacerbates indecisiveness.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Improves decision-making skills.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors.",
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty fuels curiosity",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors.",
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty can fuel the pursuit of knowledge.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors.",
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty and self-doubt can lead to impulsive actions driven by curiosity to seek answers or escape discomfort.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can hinder curiosity.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors.",
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt amplifies decision-making challenges.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors.",
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty drives self-reflection.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors.",
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels overthinking.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty and self-doubt can motivate individuals to seek mindfulness and self-reflection.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning.",
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflection and self-awareness can temper curiosity.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning.",
+        "The pursuit of knowledge and understanding is a primary motivator, but may interfere with daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflection and self-awareness can enhance the pursuit of knowledge by informing what and how one learns.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning.",
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reflection and self-awareness counteract impulsive actions.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning.",
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflection and self-awareness can help mitigate difficulties with self-regulation.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflection and self-awareness can facilitate openness to new experiences by enhancing one's ability to evaluate and learn from novel situations.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning.",
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt hinders reflection.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning.",
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can mitigate overthinking by promoting more focused reflection.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying mechanisms of introspection and self-examination.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction.",
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overthinking can hinder curiosity by creating anxiety about exploring new ideas.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction.",
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction.",
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can lead to difficulty in prioritizing tasks and managing time effectively.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Analysis paralysis may hinder exploration.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction.",
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking can exacerbate decision-making difficulties.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction.",
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking reinforces self-doubt.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction.",
+        "The importance of reflection and self-awareness in making more informed decisions and improving daily functioning."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can hinder reflection by creating mental gridlock.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "A tendency to overthink and analyze, potentially leading to indecision and inaction.",
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness counters overthinking.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress.",
+        "Curiosity drives behaviors, but lacks control, leading to a vast, yet vague, knowledge base."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Curiosity can lead to exploration, which may benefit from mindfulness and self-reflection to refine and focus knowledge acquisition.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress.",
+        "A tendency to act on curiosity without fully considering consequences, leading to potential problems."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness and self-reflection can counteract impulsive tendencies.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress.",
+        "Difficulty with self-regulation, particularly in managing time and prioritizing tasks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-reflection can help mitigate difficulties in self-regulation.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress.",
+        "A preference for exploring new ideas and experiences, even if they may not be immediately practical or useful."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Openness to new experiences can be fostered by mindfulness, leading to increased creativity and exploration.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress.",
+        "Challenges with decision-making, particularly when it comes to balancing short-term and long-term goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness and self-reflection can mitigate decision-making challenges.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "The value of mindfulness and self-reflection in improving decision-making and reducing stress.",
+        "A sense of uncertainty and self-doubt when it comes to understanding one's own thought processes and behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-reflection can reduce uncertainty and self-doubt.",
+      "pair_label": 83
+    }
+  ]
+}

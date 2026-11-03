@@ -1,0 +1,1187 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to balance precision with efficiency in documentation",
+        "Difficulty articulating the importance of certain details"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on precision can lead to difficulty in distinguishing essential details.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Struggling to balance precision with efficiency in documentation",
+        "Pressure to catch every detail in notes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased pressure for detail amplifies the struggle.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Struggling to balance precision with efficiency in documentation",
+        "Uncertainty about what information is crucial for patient care"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "overemphasizing documentation precision may heighten uncertainty about essential patient care information.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Struggling to balance precision with efficiency in documentation",
+        "Tension between thoroughness and brevity in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Parallel goals and constraints.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Struggling to balance precision with efficiency in documentation",
+        "The challenge of integrating new information into existing templates"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compounding complexity.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Struggling to balance precision with efficiency in documentation",
+        "The weight of responsibility for patient outcomes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased sense of responsibility can heighten anxiety about documentation.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Struggling to balance precision with efficiency in documentation",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both struggles are interdependent, impacting each other as time pressure affects documentation quality.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating the importance of certain details",
+        "Struggling to balance precision with efficiency in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Problem articulation fuels complexity in documentation.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating the importance of certain details",
+        "Pressure to catch every detail in notes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overemphasis on capturing all details due to difficulty in prioritizing.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating the importance of certain details",
+        "Tension between thoroughness and brevity in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in articulation can exacerbate the tension between thoroughness and brevity.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating the importance of certain details",
+        "The need for a systematic approach to behavioral observations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structured approach facilitates clear articulation.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating the importance of certain details",
+        "The challenge of integrating new information into existing templates"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired detail articulation may exacerbate difficulties in integrating new information.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating the importance of certain details",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of clarity on details affects prioritization and task management.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating the importance of certain details",
+        "The importance of considering the patient's perspective in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty articulating details can hinder consideration of the patient's perspective.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Pressure to catch every detail in notes",
+        "Struggling to balance precision with efficiency in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Hinders efficiency",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Pressure to catch every detail in notes",
+        "Uncertainty about what information is crucial for patient care"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased pressure to catch every detail can amplify uncertainty about what information is crucial for patient care.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Pressure to catch every detail in notes",
+        "Tension between thoroughness and brevity in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened attention to detail increases perceived conflict between completeness and conciseness.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Pressure to catch every detail in notes",
+        "The need for a systematic approach to behavioral observations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A systematic approach to behavioral observations is often driven by the pressure to catch every detail in notes, as it ensures thoroughness and accuracy.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Pressure to catch every detail in notes",
+        "The weight of responsibility for patient outcomes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased pressure to capture details heightens sense of responsibility.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Pressure to catch every detail in notes",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism in note-taking hinders task prioritization.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Pressure to catch every detail in notes",
+        "The importance of considering the patient's perspective in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Attention to detail supports patient-centered care.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Uncertainty about what information is crucial for patient care",
+        "Struggling to balance precision with efficiency in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels struggle for balance",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Uncertainty about what information is crucial for patient care",
+        "Difficulty articulating the importance of certain details"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty drives difficulty.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Uncertainty about what information is crucial for patient care",
+        "The need for a systematic approach to behavioral observations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty drives systematic approach",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Uncertainty about what information is crucial for patient care",
+        "The challenge of integrating new information into existing templates"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty fosters exploration",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Uncertainty about what information is crucial for patient care",
+        "The weight of responsibility for patient outcomes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perceived uncertainty in information directly amplifies the sense of responsibility.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Uncertainty about what information is crucial for patient care",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased uncertainty about crucial information can lead to difficulties in prioritizing and managing tasks.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between thoroughness and brevity in documentation",
+        "Difficulty articulating the importance of certain details"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased tension may impede clear articulation.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Tension between thoroughness and brevity in documentation",
+        "Pressure to catch every detail in notes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened attention to detail",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Tension between thoroughness and brevity in documentation",
+        "Uncertainty about what information is crucial for patient care"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Thorough documentation may lead to uncertainty about what information is crucial.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Tension between thoroughness and brevity in documentation",
+        "The need for a systematic approach to behavioral observations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing detail and concision in documentation may facilitate systematic observation.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Tension between thoroughness and brevity in documentation",
+        "The weight of responsibility for patient outcomes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened sense of accountability.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Tension between thoroughness and brevity in documentation",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased pressure to document concisely exacerbates time management challenges.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Tension between thoroughness and brevity in documentation",
+        "The importance of considering the patient's perspective in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing thoroughness and brevity in documentation can enhance patient-centered care by ensuring that patient perspectives are accurately represented.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "The need for a systematic approach to behavioral observations",
+        "Struggling to balance precision with efficiency in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Requiring systematic approach necessitates precision.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "The need for a systematic approach to behavioral observations",
+        "Difficulty articulating the importance of certain details"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of systematic approach may hinder the clarity of detail importance.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "The need for a systematic approach to behavioral observations",
+        "Pressure to catch every detail in notes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Comprehensive note-taking amplifies systematic observation.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "The need for a systematic approach to behavioral observations",
+        "Uncertainty about what information is crucial for patient care"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Having a systematic approach reduces uncertainty.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "The need for a systematic approach to behavioral observations",
+        "Tension between thoroughness and brevity in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing detail and efficiency.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "The need for a systematic approach to behavioral observations",
+        "The challenge of integrating new information into existing templates"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Systematic approach facilitates wider consideration of new information.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "The need for a systematic approach to behavioral observations",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structured observation enhances prioritization and time management.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "The need for a systematic approach to behavioral observations",
+        "The importance of considering the patient's perspective in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "synergistic documentation approach",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "The challenge of integrating new information into existing templates",
+        "Struggling to balance precision with efficiency in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased cognitive load due to integration challenges exacerbates documentation struggles.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "The challenge of integrating new information into existing templates",
+        "Uncertainty about what information is crucial for patient care"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Integrating new information can heighten uncertainty.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "The challenge of integrating new information into existing templates",
+        "Tension between thoroughness and brevity in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "New information may require more detailed documentation, increasing tension.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "The challenge of integrating new information into existing templates",
+        "The need for a systematic approach to behavioral observations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Facilitates organization",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "The challenge of integrating new information into existing templates",
+        "The weight of responsibility for patient outcomes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased cognitive load from integrating new information can distract and reduce focus on patient outcomes.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "The challenge of integrating new information into existing templates",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inadequate mental frameworks hinder efficient task prioritization.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "The challenge of integrating new information into existing templates",
+        "The importance of considering the patient's perspective in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Integration may overlook patient perspective.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "Struggling to balance precision with efficiency in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased responsibility for patient outcomes heightens the need for precise and efficient documentation, creating a sense of struggle in balancing these competing demands.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "Difficulty articulating the importance of certain details"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased stress from patient care can impede clear communication.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "Pressure to catch every detail in notes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased sense of responsibility amplifies the need for accuracy.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "Uncertainty about what information is crucial for patient care"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases anxiety and hypervigilance in healthcare professionals.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "Tension between thoroughness and brevity in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased sense of responsibility may heighten tension between providing thorough documentation and the need for brevity.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "The need for a systematic approach to behavioral observations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened responsibility motivates structure",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "The challenge of integrating new information into existing templates"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases stress, leading to poorer time management.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "The weight of responsibility for patient outcomes",
+        "The importance of considering the patient's perspective in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared focus on patient care and outcomes.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "The struggle to prioritize tasks and manage time effectively",
+        "Struggling to balance precision with efficiency in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Shared attentional demands",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "The struggle to prioritize tasks and manage time effectively",
+        "Pressure to catch every detail in notes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Task management struggles can increase pressure to be detail-oriented.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "The struggle to prioritize tasks and manage time effectively",
+        "Uncertainty about what information is crucial for patient care"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Struggling to prioritize and manage time effectively can lead to missed information and thus increase uncertainty about what information is crucial for patient care.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "The struggle to prioritize tasks and manage time effectively",
+        "Tension between thoroughness and brevity in documentation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Time management issues can lead to pressure to document quickly, thus creating tension between thoroughness and brevity.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "The struggle to prioritize tasks and manage time effectively",
+        "The need for a systematic approach to behavioral observations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "A structured approach helps in prioritizing.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "The struggle to prioritize tasks and manage time effectively",
+        "The challenge of integrating new information into existing templates"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inadequate time management can impede cognitive resources.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "The importance of considering the patient's perspective in documentation",
+        "Difficulty articulating the importance of certain details"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Considering the patient's perspective can help clarify what details are important.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "The importance of considering the patient's perspective in documentation",
+        "Uncertainty about what information is crucial for patient care"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Considering the patient's perspective can help clarify what information is crucial for their care, thereby reducing uncertainty about what to document.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "The importance of considering the patient's perspective in documentation",
+        "The need for a systematic approach to behavioral observations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes are complementary components of a comprehensive clinical assessment.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "The importance of considering the patient's perspective in documentation",
+        "The challenge of integrating new information into existing templates"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Considering the patient's perspective may reveal new information that challenges existing templates",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "The importance of considering the patient's perspective in documentation",
+        "The weight of responsibility for patient outcomes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Documentation informed by patient perspective enhances accountability.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "The importance of considering the patient's perspective in documentation",
+        "The struggle to prioritize tasks and manage time effectively"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting patient perspective can lead to information overload and inefficient use of time.",
+      "pair_label": 52
+    }
+  ]
+}

@@ -1,0 +1,1520 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased sensitivity to perceived slights can lead to emotional overwhelm, making it harder to articulate feelings and thoughts.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability to misinterpretation fuels self-doubt.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased sensitivity to perceived slights can disrupt peaceful living.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in distinguishing between perceived slights and jokes often stems from a lack of mindfulness and being present in the moment, which can lead to misinterpretation of social cues.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased sensitivity to perceived slights fuels fear of being judged.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased sensitivity to perceived slights can lead to questioning of personal values and life goals.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between perceived slights and jokes.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Misinterpretation fuels rumination.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive confusion",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to articulate feelings and thoughts can lead to misunderstandings and misinterpretations, fostering insecurities and self-doubt in social interactions.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A calming environment may provide relief from the frustration of not being able to articulate feelings.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty articulating feelings and thoughts can exacerbate challenges with mindfulness and being present.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty articulating feelings and thoughts can lead to fear of not being taken seriously or being judged.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Clarity in articulation enhances self-awareness.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings and thoughts.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in articulation can lead to unresolved thoughts, fostering rumination.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened sensitivity",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurities can hinder the ability to express oneself effectively.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Financial stability can alleviate self-doubt.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurities hinder serenity",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurities and self-doubt can distract from the present moment.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurities and self-doubt may lead to a need for control, potentially limiting the desire for personal freedom and autonomy.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-doubt",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-doubt and uncertainty",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Insecurities and self-doubt influencing interactions.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurities fuel rumination",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Financial security can alleviate self-doubt.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Financial security can facilitate a peaceful living environment.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Preoccupation with financial security can distract from being present.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Aligns values.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment may hinder self-expression and risk-taking needed to pursue financial independence.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about personal values and life goals can hinder the pursuit of financial security and independence.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Desire for financial security and independence.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "financial security can reduce anxiety, thus decreasing overthinking.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased sensitivity to perceived slights may disrupt peaceful living.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased stress from unmet desires for peace can impede emotional expression.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecure feelings can disrupt peaceful living.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Financial security can facilitate a peaceful living environment.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Desire for peace can hinder mindfulness by distracting from the present.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Desire for autonomy can enhance the pursuit of a peaceful environment.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about being judged can disrupt the desire for peace.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Clarity on values and goals can reduce the longing for an ideal environment by providing direction.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Longing for a peaceful and serene living environment.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contrasting states of mind.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired present-moment awareness may amplify misinterpretation of social cues.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty being present can amplify struggles with articulating feelings and thoughts.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-doubt may amplify difficulties in achieving mindfulness.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Preoccupation with financial concerns can distract from mindfulness practices.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Desire for peaceful environment may motivate mindfulness practice.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Mindfulness and being present may limit the desire for personal freedom and autonomy.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about being judged can distract from mindfulness.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of mindfulness can hinder self-reflection needed to clarify personal values and life goals.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Challenges with mindfulness and being present.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of mindfulness can lead to increased rumination.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on autonomy may lead to heightened sensitivity to perceived slights.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Impeded self-expression",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Autonomy can reduce self-doubt.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Financial independence enables autonomy.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Having too much autonomy can lead to feelings of isolation",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing autonomy may lead to distraction from the present moment.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can limit expression of autonomy.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Autonomy can reduce uncertainty by allowing exploration.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Importance of personal freedom and autonomy.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Autonomy supports self-regulation.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened sensitivity",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety about being judged can hinder the ability to clearly express oneself.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Financial success can reduce perceived vulnerability.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The anxiety from fear of judgment can disrupt the desire for a peaceful environment.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about judgment can distract from the present moment.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can limit one's desire for autonomy.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can exacerbate uncertainty about personal values and life goals.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Fear of not being taken seriously or being judged.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment can fuel rumination on perceived shortcomings.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased sensitivity and self-doubt lead to misinterpretation of social cues.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about personal values and life goals can lead to confusion and difficulty articulating feelings and thoughts.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels self-doubt.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about personal values and life goals can lead to questioning the importance of financial security and independence.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about personal values and life goals may lead to a desire for a peaceful environment to reflect and explore.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about personal values and life goals can make it difficult to focus on the present moment.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking autonomy might follow from uncertainty as an attempt to explore values and goals.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels fear of judgment.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Uncertainty about personal values and life goals.",
+        "Tendency to overthink and ruminate on negative thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels rumination.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Struggling to differentiate between perceived slights and jokes."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can amplify misinterpretation of social cues.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Difficulty articulating feelings and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can lead to mental fogginess and confusion, making it harder to articulate thoughts and feelings.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Insecurities and self-doubt influencing interactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking negative thoughts reinforces self-doubt.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Desire for financial security and independence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased anxiety from overthinking can motivate desire for financial security.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Longing for a peaceful and serene living environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can disrupt the desire for peace and serenity.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Challenges with mindfulness and being present."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and rumination can interfere with the ability to be mindful and present.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Importance of personal freedom and autonomy."
+      ],
+      "connection": [
+        0
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": null,
+      "explanation": "",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Fear of not being taken seriously or being judged."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination can amplify fears of being judged by reinforcing negative self-perceptions.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and ruminate on negative thoughts.",
+        "Uncertainty about personal values and life goals."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking fuels self-doubt.",
+      "pair_label": 81
+    }
+  ]
+}

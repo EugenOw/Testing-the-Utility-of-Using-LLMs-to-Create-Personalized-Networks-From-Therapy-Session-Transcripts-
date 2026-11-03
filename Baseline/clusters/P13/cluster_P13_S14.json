@@ -1,0 +1,138 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Exploring the relationship between self-perception and emotional regulation",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "The impact of social relationships on personal growth and self-awareness",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "The role of mindfulness and self-reflection in personal development",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "The struggle with prioritization and time management",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "The influence of past experiences on current relationships and behaviors",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 6": {
+      "Title": "The tension between spontaneity and planning in relationships",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-perception and emotional regulation are closely linked to social relationships and personal growth."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social relationships can facilitate mindfulness and self-reflection."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Mindfulness and self-reflection can help with prioritization and time management, but may not directly address these issues."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritization and time management are influenced by past experiences and relationships."
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape attitudes towards spontaneity and planning in relationships."
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Spontaneity and planning in relationships may not directly impact self-perception and emotional regulation."
+    }
+  ]
+}

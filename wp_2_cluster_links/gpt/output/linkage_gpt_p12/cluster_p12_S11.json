@@ -1,0 +1,1527 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between self-regulation and emotional reactivity can inhibit the ability to form emotional intimacy, especially when past trauma influences emotional responses.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension in self-regulation can inhibit the ability to embrace variety, as emotional reactivity may lead to a preference for consistency.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-regulation can help manage emotional reactivity, influencing how identity is formed through coping mechanisms.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension in self-regulation can inhibit the ability to maintain healthy boundaries, as emotional reactivity may lead to overexposure or vulnerability.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the negative effects of emotional reactivity, promoting better self-regulation in social contexts.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape emotional responses, influencing self-regulation and reactivity in social contexts.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension in self-regulation can lead to increased emotional reactivity, which may drive individuals to seek validation and please others as a coping mechanism.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High emotional reactivity can hinder self-regulation, leading to challenges in being assertive and expressing needs.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between self-regulation and emotional reactivity in social interactions",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness and self-awareness enhance self-regulation, reducing emotional reactivity in social contexts.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can lead to difficulties in emotional intimacy, which may inhibit effective self-regulation and increase emotional reactivity in social situations.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma can lead to avoidance of emotional closeness, which may create a conflict between wanting stability and the fear of change.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma can lead to difficulties in emotional intimacy, which may inhibit the development of a stable sense of identity, as coping mechanisms become central to managing uncertainty.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can lead to difficulties in emotional intimacy, which may inhibit the ability to maintain healthy boundaries while being open and vulnerable.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals with trauma to navigate emotional intimacy challenges by fostering a supportive inner dialogue, which may reduce stress and negative emotions.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma significantly influences current relational patterns, often leading to difficulties in emotional intimacy.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can lead to a fear of intimacy, prompting individuals to seek validation through people-pleasing behaviors as a compensatory mechanism.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can lead to emotional avoidance, which inhibits the ability to assertively express needs.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to past trauma",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help individuals process past trauma, potentially improving emotional intimacy.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle for consistency may inhibit emotional reactivity, as individuals attempt to maintain a stable self-image in social contexts.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle for consistency may inhibit the ability to engage in emotional intimacy, as the fear of unpredictability can stem from past trauma.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle between wanting consistency and seeking variety can lead to the development of coping mechanisms that shape one's identity, particularly in managing uncertainty.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The conflict between wanting consistency and variety can inhibit the ability to maintain boundaries, as the desire for variety may lead to overexposure or vulnerability.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The conflict may lead to stress and negative emotions, which self-compassion can help mitigate.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle between wanting consistency and seeking variety can inhibit the ability to fully engage with past experiences, affecting current relationships and behaviors.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The conflict between wanting consistency and seeking variety can inhibit the tendency to please others, as individuals may struggle to balance their own needs with the desire for external validation.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The internal conflict may lead to hesitation in asserting needs, as individuals struggle to balance their desire for stability with the fear of disrupting relationships.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for consistency and need for variety in daily life",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help individuals navigate the conflict between consistency and variety, potentially reducing emotional distress associated with this conflict.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of identity can help individuals manage uncertainty, which may reduce emotional reactivity and enhance self-regulation in social contexts.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of identity and effective coping mechanisms can help mitigate the impact of past trauma, potentially reducing difficulties with emotional intimacy.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms for uncertainty can help stabilize identity, which may suppress the conflict between wanting consistency and seeking variety.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of identity can help individuals establish and maintain boundaries, while uncertainty may lead to difficulties in doing so.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of identity can enhance self-compassion, which in turn helps in managing stress and negative emotions.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of identity can enhance coping mechanisms, which in turn can influence how past experiences shape current relationships and behaviors.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of identity can reduce the need for external validation, as individuals may rely more on their internal coping mechanisms.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A weak sense of identity can lead to difficulties in assertiveness, as individuals may struggle to express their needs when coping with uncertainty.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of identity can enhance mindfulness and self-awareness, which in turn helps in effectively managing emotions and behaviors.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to maintain boundaries can lead to heightened emotional reactivity, making self-regulation more difficult in social contexts.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to maintain boundaries can inhibit emotional intimacy, especially when past trauma creates fear of vulnerability.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with boundaries may inhibit the ability to seek variety, as maintaining openness can lead to discomfort with inconsistency.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with boundaries can lead to reliance on coping mechanisms, which may inhibit a clear sense of identity.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with boundaries can lead to increased stress and negative emotions, where self-compassion may help mitigate these feelings.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences often shape how individuals set boundaries, influencing their ability to be open and vulnerable.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The difficulty in setting boundaries often leads to a heightened need for approval and validation from others, reinforcing the tendency to people-please.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to maintain boundaries often leads to challenges in assertiveness, as individuals may find it difficult to express their needs without feeling vulnerable.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggle to maintain boundaries with others while still being open and vulnerable",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help individuals recognize when their boundaries are being compromised, thus aiding in emotional regulation and reducing the struggle.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-regulation, helping to mitigate emotional reactivity in social contexts.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the negative effects of past trauma, potentially reducing difficulties with emotional intimacy.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance coping mechanisms, contributing to a more resilient sense of identity when facing uncertainty.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance emotional resilience, making it easier to set and maintain healthy boundaries while being open with others.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals process past experiences more positively, thereby improving their current relationships and behaviors.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the need for external validation, thereby inhibiting people-pleasing tendencies.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce stress and negative emotions, which may help individuals feel more confident and capable in expressing their needs assertively.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Importance of self-compassion in managing stress and negative emotions",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance mindfulness and self-awareness, leading to better emotional regulation.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape how individuals manage their emotions and regulate their behavior in social contexts, influencing the balance between self-control and emotional responses.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences significantly shape current relational patterns, often leading to challenges in emotional intimacy when trauma is involved.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can create a desire for consistency in relationships, which may inhibit the willingness to embrace variety.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape one's sense of identity, which in turn influences coping mechanisms when facing uncertainty.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape how individuals perceive and navigate boundaries, influencing their ability to be open while also protecting themselves.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape how individuals view themselves and their ability to practice self-compassion, which in turn influences their stress management and emotional responses.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences often shape individuals' self-esteem and interpersonal dynamics, leading to a heightened need for validation and approval from others.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences can shape an individual's ability to assert themselves, often leading to difficulties in expressing needs.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current relationships and behaviors",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help individuals recognize and mitigate the influence of past experiences on their current emotional responses and behaviors.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tendency to seek validation often leads to heightened emotional reactivity, creating tension in self-regulation during social interactions.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tendency to seek validation can inhibit emotional intimacy, as individuals may prioritize others' approval over genuine connection.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tendency to seek validation may inhibit the ability to embrace variety, as individuals may prioritize others' expectations over personal desires.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tendency to seek validation can undermine a stable sense of identity, as reliance on external approval may inhibit the development of internal coping mechanisms.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tendency to seek validation often leads to difficulties in establishing and maintaining personal boundaries, as individuals may prioritize others' approval over their own needs.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "People-pleasing tendencies can undermine self-compassion, as seeking external validation may lead to neglecting one's own emotional needs.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tendency to seek validation often stems from past experiences, which can shape current relational dynamics and behaviors.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tendency to seek validation often leads to difficulty in asserting one's own needs, as individuals prioritize others' approval over their own desires.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation from others",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help counteract the tendency to seek external validation by promoting internal validation and emotional regulation.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with assertiveness can lead to increased emotional reactivity and difficulty in self-regulation during social interactions.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggles with assertiveness can hinder the ability to form emotionally intimate connections, especially when past trauma creates barriers to vulnerability.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with assertiveness may lead to avoidance of conflict, which can create tension between the desire for stability and the need for change.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with assertiveness can lead to reliance on coping mechanisms, which may shape one's identity, thus inhibiting the development of a clear sense of self.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in assertiveness often leads to challenges in setting and maintaining boundaries, as individuals may struggle to express their needs while trying to remain open and vulnerable.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with assertiveness may lead to increased stress and negative emotions, which self-compassion can help mitigate.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences often shape one's ability to assert needs, leading to difficulties in current relationships.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to assert oneself often leads to a heightened need for approval from others, reinforcing people-pleasing behaviors.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can enhance assertiveness by helping individuals recognize and articulate their needs more effectively.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Tension between self-regulation and emotional reactivity in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help reduce emotional reactivity, thereby easing the tension in self-regulation during social interactions.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Difficulty with emotional intimacy due to past trauma"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help individuals process and manage their emotions, potentially reducing the impact of past trauma on emotional intimacy.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Conflict between desire for consistency and need for variety in daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help individuals recognize and manage the internal conflict between wanting consistency and seeking variety, potentially reducing emotional distress.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Sense of identity tied to coping mechanisms for dealing with uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can enhance understanding of one's identity, which in turn influences coping strategies for uncertainty.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Struggle to maintain boundaries with others while still being open and vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can enhance emotional regulation, which may help individuals navigate the complexities of maintaining boundaries while being open.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Importance of self-compassion in managing stress and negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can enhance self-compassion, leading to better management of stress and negative emotions.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Impact of past experiences on current relationships and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help individuals recognize and mitigate the influence of past experiences on their current emotional responses and behaviors.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Tendency to people-please and seek validation from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can reduce the tendency to seek external validation by fostering internal acceptance and emotional regulation.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Importance of mindfulness and self-awareness in managing emotions and behaviors",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-awareness can help individuals recognize and articulate their needs, potentially reducing difficulties in assertiveness.",
+      "pair_label": 38
+    }
+  ]
+}

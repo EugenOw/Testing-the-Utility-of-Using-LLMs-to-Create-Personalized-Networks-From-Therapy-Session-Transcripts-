@@ -1,0 +1,986 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy.",
+        "Difficulty in emotional regulation leads to increased irritability and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying emotional distress",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy.",
+        "Rumination on past experiences fuels self-doubt and negative self-talk."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Common underlying self-blame",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy.",
+        "Boundaries are unclear, leading to feelings of discomfort and frustration."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Dissatisfaction with personal boundaries may be a contributing factor to the development of intrusive thoughts.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy.",
+        "Values and self-identity are impacted by the partner's past experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Shared impact of past experiences",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy.",
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying negative self-view",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy.",
+        "Avoidance of emotions and thoughts can paradoxically increase their presence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcement of negative cycle",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy.",
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help mitigate negative effects of intrusive thoughts by reframing shame and inadequacy.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Difficulty in emotional regulation leads to increased irritability and anxiety.",
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional dysregulation can intensify negative thought patterns.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in emotional regulation leads to increased irritability and anxiety.",
+        "Rumination on past experiences fuels self-doubt and negative self-talk."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional dysregulation intensifies rumination.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in emotional regulation leads to increased irritability and anxiety.",
+        "Fear of not being good enough drives the need for more information and control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety fuels fear",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty in emotional regulation leads to increased irritability and anxiety.",
+        "Boundaries are unclear, leading to feelings of discomfort and frustration."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear boundaries can contribute to increased stress and emotional dysregulation.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in emotional regulation leads to increased irritability and anxiety.",
+        "Values and self-identity are impacted by the partner's past experiences."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty in emotional regulation leads to increased irritability and anxiety.",
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying mechanisms of emotional dysregulation.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in emotional regulation leads to increased irritability and anxiety.",
+        "Avoidance of emotions and thoughts can paradoxically increase their presence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in emotional regulation often leads to avoidance of emotions",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in emotional regulation leads to increased irritability and anxiety.",
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "mutually reinforcing",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Rumination on past experiences fuels self-doubt and negative self-talk.",
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying maladaptive thought patterns.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Rumination on past experiences fuels self-doubt and negative self-talk.",
+        "Difficulty in emotional regulation leads to increased irritability and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intensifies emotional turmoil",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Rumination on past experiences fuels self-doubt and negative self-talk.",
+        "Fear of not being good enough drives the need for more information and control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "reinforces negative self-perception",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Rumination on past experiences fuels self-doubt and negative self-talk.",
+        "Boundaries are unclear, leading to feelings of discomfort and frustration."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rumination can limit assertiveness, leading to unclear boundaries.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Rumination on past experiences fuels self-doubt and negative self-talk.",
+        "Values and self-identity are impacted by the partner's past experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and negative self-talk can undermine the impact of past experiences on values and self-identity.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Rumination on past experiences fuels self-doubt and negative self-talk.",
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared negative cognitive patterns.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Rumination on past experiences fuels self-doubt and negative self-talk.",
+        "Avoidance of emotions and thoughts can paradoxically increase their presence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforcing cycle",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Rumination on past experiences fuels self-doubt and negative self-talk.",
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on values counters negative self-talk.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough drives the need for more information and control.",
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame and inadequacy reinforce the fear of not being good enough.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough drives the need for more information and control.",
+        "Difficulty in emotional regulation leads to increased irritability and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased anxiety fuels need for control.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough drives the need for more information and control.",
+        "Rumination on past experiences fuels self-doubt and negative self-talk."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-perpetuating cycle of self-doubt.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough drives the need for more information and control.",
+        "Boundaries are unclear, leading to feelings of discomfort and frustration."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Unclear boundaries undermine the control sought due to fear.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough drives the need for more information and control.",
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-talk",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough drives the need for more information and control.",
+        "Avoidance of emotions and thoughts can paradoxically increase their presence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance exacerbates underlying fear",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough drives the need for more information and control.",
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can reduce fear",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Boundaries are unclear, leading to feelings of discomfort and frustration.",
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear boundaries can make individuals more vulnerable to intrusive thoughts.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Boundaries are unclear, leading to feelings of discomfort and frustration.",
+        "Rumination on past experiences fuels self-doubt and negative self-talk."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear boundaries can lead to rumination as individuals may replay past interactions to understand their discomfort.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Boundaries are unclear, leading to feelings of discomfort and frustration.",
+        "Values and self-identity are impacted by the partner's past experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past experiences may blur personal boundaries.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Boundaries are unclear, leading to feelings of discomfort and frustration.",
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear boundaries may lead to distorted thinking patterns.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Boundaries are unclear, leading to feelings of discomfort and frustration.",
+        "Avoidance of emotions and thoughts can paradoxically increase their presence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear boundaries may lead to increased emotional discomfort, which can trigger avoidance behaviors.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Values and self-identity are impacted by the partner's past experiences.",
+        "Difficulty in emotional regulation leads to increased irritability and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty in emotional regulation in one partner may indirectly impact the other partner's values and self-identity, particularly if past experiences are shared, leading to a strained relationship.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Values and self-identity are impacted by the partner's past experiences.",
+        "Rumination on past experiences fuels self-doubt and negative self-talk."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared past experiences",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Values and self-identity are impacted by the partner's past experiences.",
+        "Boundaries are unclear, leading to feelings of discomfort and frustration."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Unclear boundaries can disrupt the integration of partner's past into one's identity.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Values and self-identity are impacted by the partner's past experiences.",
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past experiences influencing values can distort cognitive perceptions.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Values and self-identity are impacted by the partner's past experiences.",
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Clarifying values through self-reflection can help individuals understand how their partner's past experiences impact their own self-identity",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts.",
+        "Difficulty in emotional regulation leads to increased irritability and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes reinforce each other, as distorted thinking amplifies negative emotions, which in turn can lead to poor emotional regulation.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts.",
+        "Rumination on past experiences fuels self-doubt and negative self-talk."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared cognitive mechanisms reinforce negative thought patterns.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts.",
+        "Fear of not being good enough drives the need for more information and control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-perceptions and fear of inadequacy can mutually reinforce each other.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts.",
+        "Boundaries are unclear, leading to feelings of discomfort and frustration."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Distorted thinking exacerbates emotional distress, which can blur personal boundaries.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts.",
+        "Values and self-identity are impacted by the partner's past experiences."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts.",
+        "Avoidance of emotions and thoughts can paradoxically increase their presence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts.",
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can counteract the negative effects of cognitive distortions.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotions and thoughts can paradoxically increase their presence.",
+        "Difficulty in emotional regulation leads to increased irritability and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can exacerbate emotional dysregulation.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotions and thoughts can paradoxically increase their presence.",
+        "Fear of not being good enough drives the need for more information and control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance can intensify underlying fears.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotions and thoughts can paradoxically increase their presence.",
+        "Boundaries are unclear, leading to feelings of discomfort and frustration."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotions and thoughts can contribute to unclear boundaries.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotions and thoughts can paradoxically increase their presence.",
+        "Values and self-identity are impacted by the partner's past experiences."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotions and thoughts can paradoxically increase their presence.",
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance reinforces distorted thinking.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation.",
+        "Intrusive thoughts and images are linked to feelings of shame and inadequacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection and exploration of values can help mitigate intrusive thoughts and images by promoting emotional regulation and self-awareness.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation.",
+        "Rumination on past experiences fuels self-doubt and negative self-talk."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Counteracts negative self-perception",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation.",
+        "Fear of not being good enough drives the need for more information and control."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection and values exploration can mitigate fear of inadequacy.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation.",
+        "Boundaries are unclear, leading to feelings of discomfort and frustration."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Informed boundaries prevent discomfort",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation.",
+        "Values and self-identity are impacted by the partner's past experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Informing and shaping",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation.",
+        "Cognitive distortions contribute to the escalation of negative emotions and thoughts."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can counteract distortions.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Self-reflection and exploration of values can inform boundary-setting and emotional regulation.",
+        "Avoidance of emotions and thoughts can paradoxically increase their presence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of boundaries and emotional regulation through self-reflection can mitigate avoidance behaviors.",
+      "pair_label": 57
+    }
+  ]
+}

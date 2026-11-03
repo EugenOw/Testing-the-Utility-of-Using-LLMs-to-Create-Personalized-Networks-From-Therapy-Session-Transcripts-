@@ -1,0 +1,269 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between desire for intellectual connection and dissatisfaction with current social circle",
+        "Difficulty navigating relationships with people who have different values or intellectual levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Desire for intellectual connection exacerbates difficulty navigating diverse relationships.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intellectual connection and dissatisfaction with current social circle",
+        "Struggle to balance self-care and productivity"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intellectual connection and dissatisfaction with current social circle",
+        "Fear of settling for less in relationships and life choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying need for fulfillment and self-actualization.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intellectual connection and dissatisfaction with current social circle",
+        "Tendency to prioritize others' needs over own needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overemphasis on others' needs might hinder the pursuit of intellectual connections, due to lack of self-directed actions.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty navigating relationships with people who have different values or intellectual levels",
+        "Tension between desire for intellectual connection and dissatisfaction with current social circle"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating diverse relationships can fuel desire for intellectual connection.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty navigating relationships with people who have different values or intellectual levels",
+        "Fear of settling for less in relationships and life choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating relationships with diverse values or intellect can heighten the fear of settling for less.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty navigating relationships with people who have different values or intellectual levels",
+        "Tendency to prioritize others' needs over own needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty in navigating relationships may lead to prioritizing others to avoid conflict or maintain harmony, but this can be a context-dependent response.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-care and productivity",
+        "Tension between desire for intellectual connection and dissatisfaction with current social circle"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased stress from self-care and productivity imbalance may heighten sensitivity to social circle dissatisfaction.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-care and productivity",
+        "Fear of settling for less in relationships and life choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism drives imbalance",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-care and productivity",
+        "Tendency to prioritize others' needs over own needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-neglect.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Fear of settling for less in relationships and life choices",
+        "Difficulty navigating relationships with people who have different values or intellectual levels"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared core values and intellectual compatibility are crucial.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Fear of settling for less in relationships and life choices",
+        "Struggle to balance self-care and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism in relationships and life choices can exacerbate self-expectations, leading to overcommitment and neglect of self-care, thus hindering balance between the two.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Fear of settling for less in relationships and life choices",
+        "Tendency to prioritize others' needs over own needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of settling might deter prioritizing others' needs.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' needs over own needs",
+        "Tension between desire for intellectual connection and dissatisfaction with current social circle"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Over-involvement may lead to social dissatisfaction.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' needs over own needs",
+        "Struggle to balance self-care and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overemphasizing others' needs can lead to neglect of one's own, thereby exacerbating the struggle to balance self-care and productivity.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' needs over own needs",
+        "Fear of settling for less in relationships and life choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Conflict between selflessness and self-fulfillment.",
+      "pair_label": 14
+    }
+  ]
+}

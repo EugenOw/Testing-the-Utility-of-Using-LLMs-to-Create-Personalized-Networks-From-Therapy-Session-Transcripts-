@@ -1,0 +1,202 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Self-Validation through Actions",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Family Dynamics and Obligations",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Guilt and Self-Justification",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Emotional Regulation and Distraction",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Relationship Expectations and Boundaries",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 6": {
+      "Title": "Intention vs. Obligation",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-validation through actions can lead to guilt and self-justification"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and self-justification can undermine self-validation through actions"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Family dynamics and obligations can influence relationship expectations and boundaries"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Relationship expectations and boundaries can be limited by family dynamics and obligations"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional regulation and distraction can be used to cope with guilt and self-justification"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Guilt and self-justification can be reduced through emotional regulation and distraction"
+    },
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-validation through actions can be influenced by intention vs. obligation"
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Intention vs. obligation can undermine self-validation through actions"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Relationship expectations and boundaries can be influenced by intention vs. obligation"
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Intention vs. obligation can limit relationship expectations and boundaries"
+    }
+  ]
+}

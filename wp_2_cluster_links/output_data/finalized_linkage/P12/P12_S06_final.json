@@ -1,0 +1,1874 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional expression influences self-concept through past experiences.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation and self-protection hinder emotional expression.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment and rejection can suppress emotional expression if an individual does not feel safe or trusted in a relationship.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional expression in safe relationships fosters authenticity.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intensifies",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can severely impact one's sense of safety and trust, thereby affecting emotional expression in relationships.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences not integrated into the current sense of self can create uncertainty, making it difficult to feel safe and express emotions freely.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Open expression fosters trust.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability suppresses emotional expression.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Emotional expression tied to sense of safety and trust in relationships",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Facilitates open and authentic communication",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional regulation patterns shape self-concept, which in turn influences emotional expression in relationships.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences affect emotional regulation, which in turn, impacts the ability to articulate emotions.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape self-concept, influencing fear of judgment",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional authenticity is deeply rooted in self-concept, as genuine expression of emotions is a reflection of one's true self.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences and emotional regulation shape self-concept, which influences the expression of desires and needs, leading to tension.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared foundation in past experiences and emotional regulation",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape self-concept, making integration challenges more likely.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Informed and nuanced self-perception fosters more meaningful interactions.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape self-concept which can lead to fear of emotional vulnerability",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Self-concept shaped by past experiences and emotional regulation",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement through self-reflection and emotional intelligence.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation hinders emotional expression by creating a barrier to feeling and expressing emotions safely.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation affects emotional regulation, impacting self-concept.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment and rejection can exacerbate dissociation and self-protection.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation hinders authenticity.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation and self-protection can fuel tension.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can lead to dissociation.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation interferes with emotional processing and integration.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation hinders emotional expression, limiting deeper connections.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation and self-protection mechanisms can intensify fear of emotional vulnerability.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to dissociation and self-protection",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation hinders self-awareness and emotional regulation.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fears inhibit openness.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences of judgment and rejection can shape self-concept by influencing emotional regulation and disclosure.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment and rejection can exacerbate dissociation and self-protection, making it more difficult to articulate emotions.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment and rejection can suppress the importance of emotional authenticity.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment amplifies tension.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can heighten fear of judgment and rejection, making emotional disclosure more challenging.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can prevent disclosure of past experiences, hindering integration.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fears of judgment can suppress the desire for deeper connections",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing fears.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Fear of judgment and rejection influencing emotional disclosure",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can hinder self-awareness and emotional regulation by discouraging open emotional disclosure.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of emotional openness and trust.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional authenticity influences self-concept.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-protection mechanisms hinder emotional authenticity.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment and rejection can suppress the expression of emotional authenticity.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Authenticity amplifies tension.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can heighten the need for authenticity.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Authenticity may hinder integration of past experiences if those experiences are perceived as inauthentic.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement through genuine expression and openness.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional vulnerability can suppress the expression of emotional authenticity.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Importance of emotional authenticity in personal and professional relationships",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional authenticity relies on self-awareness and emotional regulation.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual influence on emotional regulation and relationship dynamics.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape emotional regulation, influencing self-concept, which in turn affects the balance between emotional expression and self-protection.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Tension fuels dissociation.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of self-protection needs.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Authenticity fosters expression",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can heighten the need for self-protection, thereby increasing the tension between emotional expression and self-protection.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression blocked by past trauma",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing emotional expression with self-protection can facilitate genuine connections.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reciprocal escalation.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional expression and need for self-protection",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and emotional regulation are crucial for navigating the tension between emotional expression and self-protection, as they enable individuals to understand and manage their emotions effectively.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma influences emotional regulation, which in turn affects emotional expression in relationships.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma influences self-concept.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can lead to dissociation.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can intensify fear of judgment and rejection, leading to increased emotional disclosure apprehension.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can hinder emotional authenticity, but acknowledging and working through trauma can foster greater emotional authenticity.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma amplifies the need for self-protection, exacerbating tension between emotional expression and self-preservation.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma disrupts self-concept.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma can motivate a desire for deeper connections as a way to heal and form secure attachments.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma history can amplify fear, increasing vulnerability avoidance.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Impact of past trauma on emotional regulation and relationships",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma impacts emotional regulation, which self-awareness can help mitigate.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influence emotional expression.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to integrate past experiences can hinder a clear self-concept formation",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unresolved past experiences can lead to emotional dissociation.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape fear of judgment.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Authenticity fosters integration.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved past experiences can fuel emotional expression needs, yet also increase self-protection needs, leading to inner conflict.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can hinder integration of past experiences into one's sense of self, leading to ongoing emotional dysregulation and strained relationships.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking deeper connections may be motivated by a need to validate and integrate fragmented self-concepts.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance of emotional vulnerability may stem from unresolved past experiences.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Struggle to integrate past experiences into current sense of self",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness of past experiences is essential for emotional regulation and personal growth.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement in building intimacy",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Influences self-perception through social feedback",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Dissociation hinders emotional expression.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment and rejection can strongly suppress the desire for deeper connections by making individuals hesitant to open up.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement through genuine expression",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Desire for deeper connections can heighten emotional expression, increasing tension between expression and self-protection.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can hinder the ability to form deeper connections.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness fostered by integration of past experiences can enhance interpersonal connections.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Contrasting motivations",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Desire for deeper connections and understanding with others",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual understanding and empathy",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear suppresses expression.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape fear and self-concept.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional vulnerability can lead to dissociation as a self-protective mechanism, making it difficult to articulate emotions.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing fears.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear suppresses authenticity.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear amplifies tension.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma can intensify fear of emotional vulnerability.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional vulnerability can hinder reflection on past experiences, making integration into the current sense of self more challenging.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear blocks openness.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Fear of emotional vulnerability and potential consequences",
+        "Importance of self-awareness and emotional regulation in personal and professional growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear inhibits self-awareness",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Emotional expression tied to sense of safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and emotional regulation enhance emotional expression in safe relationships.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Self-concept shaped by past experiences and emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement in shaping self-perception.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Difficulty articulating emotions due to dissociation and self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dissociation hinders self-awareness and emotional regulation.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Fear of judgment and rejection influencing emotional disclosure"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and emotional regulation can help mitigate the fear of judgment and rejection.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Importance of emotional authenticity in personal and professional relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enables emotional authenticity.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Tension between desire for emotional expression and need for self-protection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and emotional regulation can heighten awareness of emotional needs and desires, potentially increasing tension between expression and protection.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Impact of past trauma on emotional regulation and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trauma can hinder self-awareness and emotional regulation, making growth challenging.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Struggle to integrate past experiences into current sense of self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and emotional regulation can hinder the struggle to integrate past experiences into current sense of self by promoting a more cohesive and adaptive sense of identity.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Desire for deeper connections and understanding with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness fosters empathy.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness and emotional regulation in personal and professional growth",
+        "Fear of emotional vulnerability and potential consequences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional vulnerability can hinder self-awareness and emotional regulation efforts.",
+      "pair_label": 74
+    }
+  ]
+}

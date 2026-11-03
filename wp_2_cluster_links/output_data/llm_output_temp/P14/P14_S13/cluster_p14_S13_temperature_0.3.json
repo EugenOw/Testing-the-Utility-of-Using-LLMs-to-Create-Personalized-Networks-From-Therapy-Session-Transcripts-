@@ -1,0 +1,4546 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from unmet self-care needs can lead to heightened emotional dysregulation, making it harder to articulate emotions and needs.",
+      "pair_label": 291
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased tension fuels fear.",
+      "pair_label": 296
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases stress and difficulty in prioritizing.",
+      "pair_label": 304
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened expectations can exacerbate self-doubt.",
+      "pair_label": 298
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear expectations amplify self-criticism.",
+      "pair_label": 302
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased tension amplifies difficulty",
+      "pair_label": 293
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-care needs may be neglected due to fear of impacting students.",
+      "pair_label": 294
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Unclear roles may indirectly reduce tension by allowing for flexible expectations.",
+      "pair_label": 299
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased stress from unmet self-care needs exacerbates overthinking.",
+      "pair_label": 301
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases need for control.",
+      "pair_label": 290
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased pressure from academic expectations can exacerbate feelings of inadequacy and self-doubt.",
+      "pair_label": 303
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress and pressure from academic expectations can amplify catastrophic thinking patterns.",
+      "pair_label": 306
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension fuels difficulty in asserting needs.",
+      "pair_label": 292
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened pressure to meet expectations can exacerbate fear of inadequacy.",
+      "pair_label": 295
+    },
+    {
+      "input_processes": [
+        "Tension between academic expectations and self-care needs",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased pressure to meet academic expectations can amplify self-doubt about teaching abilities.",
+      "pair_label": 297
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Struggling to express emotions and needs can lead to increased stress and tension in balancing academic and self-care responsibilities.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased anxiety from unmet expectations can exacerbate difficulties in articulating emotions and needs.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in articulating emotions and needs can lead to poor communication, which in turn can make it challenging to establish boundaries and prioritize tasks effectively.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express emotions and needs can lead to feelings of inadequacy and self-doubt.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compensatory strategy.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "weak"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Indirectly related through stress and overwhelm.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoiding emotional expression may lead to hesitation in providing constructive feedback.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased emotional turmoil and unmet needs can fuel overthinking and rumination.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional expression may stem from a need to maintain control and avoid feelings of chaos.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express emotions and needs can lead to feelings of inadequacy and self-doubt.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased difficulty articulating emotions and needs can lead to a heightened need for validation and support.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can escalate into catastrophic thinking.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying issues with self-expression.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express emotions and needs can lead to self-doubt and fear of inadequacy.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting emotional expression can exacerbate self-neglect.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions and needs in relationships",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty articulating emotions and needs can indirectly undermine confidence in teaching and providing feedback, as clear communication is key to effective pedagogy.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not meeting expectations can suppress expression of emotions and needs.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened anxiety about performance can lead to overcommitting and poor time management.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-doubt.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations fuels perfectionism and self-criticism.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety about expectations can exacerbate difficulties in managing time and balancing responsibilities.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing anxiety about performance.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear expectations amplify anxiety.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism for anxiety reduction",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened anxiety fuels need for reassurance.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations amplifies catastrophizing.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not meeting expectations can suppress assertiveness as individuals may prioritize avoiding criticism over expressing their needs.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations as a graduate student and teaching assistant",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-doubt.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inability to set boundaries and prioritize tasks can amplify tension between academic expectations and self-care needs.",
+      "pair_label": 255
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary struggles can lead to emotional overwhelm, making it harder to articulate emotions and needs.",
+      "pair_label": 240
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting due to poor boundaries can exacerbate fear of not meeting expectations.",
+      "pair_label": 245
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of boundaries and task prioritization can exacerbate feelings of inadequacy.",
+      "pair_label": 247
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear boundaries and priorities can exacerbate perfectionism and self-criticism.",
+      "pair_label": 251
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inability to prioritize tasks leads to poor time management.",
+      "pair_label": 242
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of giving wrong feedback can hinder ability to set boundaries.",
+      "pair_label": 243
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear roles can exacerbate boundary issues.",
+      "pair_label": 248
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Poor task management can lead to increased stress and uncertainty.",
+      "pair_label": 250
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 239
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to establish boundaries and prioritize tasks can lead to feelings of inadequacy and self-doubt.",
+      "pair_label": 252
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased struggle to establish boundaries and prioritize tasks can lead to a greater need for validation and support in navigating challenging situations.",
+      "pair_label": 249
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of boundaries can lead to overwhelm, fueling catastrophic thinking.",
+      "pair_label": 254
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked through self-regulation and communication skills.",
+      "pair_label": 241
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism fuels task overwhelm.",
+      "pair_label": 244
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of boundaries and task prioritization can exacerbate neglect of self-care.",
+      "pair_label": 253
+    },
+    {
+      "input_processes": [
+        "Struggle to establish boundaries and prioritize tasks",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overwhelmed by tasks, leading to self-doubt in teaching abilities.",
+      "pair_label": 246
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity may hinder emotional expression.",
+      "pair_label": 138
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying concerns about performance and self-efficacy.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity can lead to overcommitting and poor time management.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Insecurity can indirectly hinder effective time management.",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurities in competence can amplify fears of providing incorrect feedback.",
+      "pair_label": 141
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty about roles exacerbates feelings of insecurity.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurity fuels overthinking.",
+      "pair_label": 147
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative self-perception.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurity drives the need for validation.",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity about competence can lead to hesitation in asserting oneself.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Insecurity about competence and confidence in academic and professional roles",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overlapping self-doubt.",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism and self-criticism can lead to increased anxiety and self-doubt, making it more challenging to articulate emotions and needs in relationships.",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to overcommitting and difficulty in setting realistic goals, exacerbating struggles with task prioritization and boundary setting.",
+      "pair_label": 218
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fuels insecurity.",
+      "pair_label": 213
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High self-criticism and perfectionism can lead to overthinking and indecision, hindering effective time management and the ability to balance multiple tasks.",
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism and self-criticism can exacerbate fear of giving wrong feedback, as the individual may excessively worry about making mistakes.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism fuels overthinking.",
+      "pair_label": 216
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism and self-criticism can fuel a desire for control and structure as a way to mitigate uncertainty and anxiety.",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism and self-criticism can exacerbate self-doubt and imposter syndrome by creating unrealistic standards and fostering a fear of not meeting expectations.",
+      "pair_label": 217
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism and self-criticism can intensify the need for external validation and support.",
+      "pair_label": 215
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to fear of rejection or criticism, causing individuals to hesitate in expressing their needs assertively.",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism and self-criticism can intensify fear of not being good enough and making mistakes.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased self-criticism and perfectionism amplify neglect of self-care.",
+      "pair_label": 219
+    },
+    {
+      "input_processes": [
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism can heighten feelings of inadequacy.",
+      "pair_label": 212
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from poor time management exacerbates tension.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overwhelmed by responsibilities, leading to suppressed emotional expression.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from poor time management exacerbates fear of not meeting expectations.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interconnected skills.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with time management can exacerbate feelings of inadequacy.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased stress from poor time management may indirectly exacerbate fear of giving wrong feedback.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear roles exacerbate time management difficulties.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased stress from poor time management exacerbates overthinking and rumination.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism for feeling overwhelmed.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from poor time management can exacerbate feelings of inadequacy.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from poor time management can heighten the need for external validation and support.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overwhelmed by tasks, leading to exaggerated negative thoughts.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Lack of assertiveness can indirectly hinder effective time management by leading to overcommitting and poor boundary setting.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from poor time management fuels fear of inadequacy.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Poor time management can lead to neglect of self-care.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Difficulty with time management and balancing multiple responsibilities",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overwhelmed by responsibilities, leading to self-doubt about teaching abilities.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of giving wrong feedback may lead to over-preparation, potentially exacerbating tension between academic expectations and self-care needs.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Fear may hinder open expression.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared fear of inadequacy.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of giving wrong feedback can lead to over-involvement and difficulty in setting boundaries.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of giving wrong feedback can exacerbate feelings of insecurity about one's competence.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of giving wrong feedback can intensify perfectionism and self-criticism.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Fear of giving wrong feedback may indirectly lead to over-preparation, potentially causing difficulties with time management.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear roles can exacerbate fear of giving wrong feedback.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear fuels rumination.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear drives desire for control",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-doubt",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation can amplify fear of giving wrong feedback.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of negative outcomes amplifies catastrophic thinking.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of negative impact may hinder assertive expression of needs.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt about competence.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of giving wrong feedback can lead to increased stress and anxiety, making it more challenging to prioritize self-care and well-being.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Fear of giving wrong feedback and impacting students' learning",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-doubt",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear roles exacerbate tension.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear expectations amplify anxiety about performance.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear roles lead to confusion in task prioritization",
+      "pair_label": 167
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear roles exacerbate self-doubt.",
+      "pair_label": 162
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels perfectionism.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear roles lead to inefficient task allocation.",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear roles can increase anxiety about making mistakes.",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels rumination.",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty about one's role can exacerbate feelings of inadequacy.",
+      "pair_label": 166
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear roles amplify the need for support.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty fuels anxiety.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear expectations can lead to hesitation in asserting needs.",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty fuels self-doubt",
+      "pair_label": 159
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress and uncertainty from unclear roles can lead to neglect of personal well-being.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Lack of clarity on roles and responsibilities in teaching assistant position",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear expectations exacerbate self-doubt.",
+      "pair_label": 161
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination can amplify academic stress, exacerbating tension between academic expectations and self-care needs.",
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination may lead to increased difficulty in articulating emotions and needs due to mental preoccupation and self-doubt.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Stress and uncertainty can fuel fear of not meeting expectations.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Preoccupation with thoughts can lead to distraction and decreased ability to set boundaries and prioritize tasks.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-doubt",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and rumination can fuel perfectionistic tendencies and self-criticism.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking and rumination can distract and preoccupy, reducing focus and efficiency in managing time and responsibilities.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased anxiety from overthinking can amplify fear of giving incorrect feedback.",
+      "pair_label": 192
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty in roles can trigger overthinking.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and rumination can fuel the desire for control and structure as a coping mechanism.",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking fuels catastrophic thinking.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Overthinking and rumination in response to stress and uncertainty",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases self-doubt and reinforces negative self-talk.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased desire for control can exacerbate tension between academic expectations and self-care needs.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tendency to control may suppress emotional expression.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased desire for control can exacerbate feelings of insecurity.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structure and control can sometimes hinder flexibility in time management.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of giving wrong feedback can undermine the desire for control in teaching situations.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structure and control can mitigate self-doubt.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking control and structure can facilitate seeking support.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structure seeking can counteract catastrophic thinking.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Control may mask underlying difficulties with assertiveness.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on control may divert attention from self-care.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Desire for control and structure in chaotic situations",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inhibits self-doubt",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels tension.",
+      "pair_label": 238
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and imposter syndrome can suppress emotional expression and assertiveness in relationships.",
+      "pair_label": 223
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces anxiety and self-doubt.",
+      "pair_label": 228
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead to overcommitting and poor prioritization due to fear of missing opportunities or being seen as incompetent.",
+      "pair_label": 235
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing negative self-perceptions.",
+      "pair_label": 230
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-criticism",
+      "pair_label": 234
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and imposter syndrome can lead to procrastination and inefficient use of time, making it harder to manage multiple responsibilities.",
+      "pair_label": 225
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and imposter syndrome can amplify fear of giving wrong feedback.",
+      "pair_label": 226
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels overthinking.",
+      "pair_label": 233
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels the need for control",
+      "pair_label": 222
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Individuals experiencing self-doubt and imposter syndrome often seek external validation and support to alleviate feelings of inadequacy.",
+      "pair_label": 232
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels catastrophic thinking.",
+      "pair_label": 237
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt undermines confidence to assert needs.",
+      "pair_label": 224
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing cycle of negative self-perception.",
+      "pair_label": 227
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and imposter syndrome can lead to overwork and neglect of self-care.",
+      "pair_label": 236
+    },
+    {
+      "input_processes": [
+        "Self-doubt and imposter syndrome in academic and professional settings",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces feelings of inadequacy.",
+      "pair_label": 229
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased need for validation and support can amplify tension between academic expectations and self-care needs.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unmet needs can hinder expression.",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation can exacerbate fear of not meeting expectations.",
+      "pair_label": 177
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation can hinder boundary setting and task prioritization.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurity fuels need for validation",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation can lead to self-criticism when expectations aren't met.",
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased anxiety from unmet needs can lead to distraction and decreased productivity, hindering time management and responsibility balance.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation may hinder willingness to provide feedback.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear roles exacerbate need for support.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation and support can enhance the desire for control and structure as individuals seek to regain a sense of agency in chaotic situations.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Seeking validation counters self-doubt.",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation can reinforce catastrophic thinking by focusing on worst-case scenarios to elicit support.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of assertiveness hinders seeking validation and support.",
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforces self-doubt.",
+      "pair_label": 176
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased need for validation can lead to neglect of self-care due to prioritization of external validation over internal well-being.",
+      "pair_label": 185
+    },
+    {
+      "input_processes": [
+        "Need for validation and support in navigating challenging situations",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation can exacerbate self-doubt about teaching abilities.",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing amplifies academic stress.",
+      "pair_label": 289
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing can amplify fear of not meeting expectations.",
+      "pair_label": 279
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing exacerbates insecurity.",
+      "pair_label": 281
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing can fuel perfectionism as individuals may feel compelled to overcompensate due to fear of extreme outcomes.",
+      "pair_label": 285
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can lead to increased stress, which may impair cognitive functioning, including planning and organization skills, thus hindering effective time management.",
+      "pair_label": 276
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can amplify fear of giving wrong feedback.",
+      "pair_label": 277
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 282
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing fuels overthinking.",
+      "pair_label": 284
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can lead to feelings of overwhelm, prompting a desire for control.",
+      "pair_label": 273
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing amplifies perceived challenges, increasing the need for external validation and support.",
+      "pair_label": 283
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing amplifies fear of inadequacy.",
+      "pair_label": 278
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can lead to increased stress, which may further distract from prioritizing self-care.",
+      "pair_label": 288
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and blow things out of proportion",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can amplify self-doubt and fear of failure.",
+      "pair_label": 280
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty in expressing needs can exacerbate tension between academic and self-care needs.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Similar underlying issues with self-expression",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding assertiveness in relationships can exacerbate fear of not meeting expectations due to unmet needs and unclear boundaries.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked by underlying issues with self-advocacy and prioritization.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of assertiveness may reinforce self-doubt in professional roles.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear expectations can exacerbate self-doubt, leading to increased perfectionism and self-criticism, which in turn may further hinder assertiveness.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Assertiveness issues may indirectly hinder time management by leading to overcommitting due to inability to say no.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty with assertiveness may lead to hesitation in providing feedback due to fear of negative impact.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear boundaries and roles can exacerbate difficulties in expressing needs.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of assertiveness may lead to increased uncertainty and stress, fueling overthinking and rumination.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with assertiveness and expressing needs in relationships can lead to feelings of inadequacy and self-doubt in various settings, including academic and professional environments.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Seeking validation and support can reinforce the need to express oneself assertively.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed needs can lead to feelings of frustration, escalating into catastrophic thinking.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not being good enough can suppress assertiveness.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Assertiveness difficulties may hinder prioritizing self-care due to fear of rejection or conflict.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing needs in relationships",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Lack of assertiveness may indirectly contribute to insecurity in teaching and providing feedback by undermining confidence in expressing oneself effectively in professional settings.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies stress and anxiety.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying self-doubt and performance anxiety.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear drives overcommitting.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-doubt",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear drives perfectionism.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not being good enough can lead to overthinking and perfectionism, causing difficulty with time management and balancing multiple responsibilities.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying concerns about competence and impact.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear expectations can amplify anxiety about performance.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces feelings of inadequacy",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear drives the need for validation.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative thinking patterns.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not being good enough and making mistakes can suppress assertiveness and expressing needs in relationships.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not being good enough can lead to overcommitting and neglect of self-care.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Fear of not being good enough and making mistakes",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-doubt",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing cycle.",
+      "pair_label": 272
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can exacerbate emotional regulation challenges.",
+      "pair_label": 257
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from fear of not meeting expectations can exacerbate struggles with prioritizing self-care.",
+      "pair_label": 262
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can exacerbate feelings of inadequacy.",
+      "pair_label": 264
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Perfectionism and self-criticism in response to uncertainty and lack of clear expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Academic pressures can exacerbate perfectionism.",
+      "pair_label": 268
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting to academic responsibilities can exacerbate neglect of self-care.",
+      "pair_label": 259
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Burnout from neglecting self-care can impair judgment, leading to increased fear of providing incorrect feedback.",
+      "pair_label": 260
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can exacerbate stress, leading to increased overthinking and rumination.",
+      "pair_label": 267
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Desire for control and structure in chaotic situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to prioritize self-care may be alleviated by imposing structure and control.",
+      "pair_label": 256
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Neglecting self-care can exacerbate feelings of inadequacy.",
+      "pair_label": 269
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased need for validation and support arises from neglect of self-care.",
+      "pair_label": 266
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can exacerbate stress, leading to increased catastrophizing.",
+      "pair_label": 271
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care and well-being can lead to feelings of burnout and low self-esteem, making it harder to assert oneself and express needs in relationships.",
+      "pair_label": 258
+    },
+    {
+      "input_processes": [
+        "Struggle to prioritize self-care and well-being in the face of academic demands",
+        "Insecurity about ability to teach and provide effective feedback"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Burnout from neglecting self-care can impair teaching performance, exacerbating feelings of insecurity.",
+      "pair_label": 263
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Tension between academic expectations and self-care needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased anxiety about teaching effectiveness can heighten tension between meeting academic demands and personal well-being.",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Difficulty articulating emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity about teaching and feedback can suppress emotional expression and needs articulation in relationships.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Fear of not meeting expectations as a graduate student and teaching assistant"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing anxiety and self-doubt",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Struggle to establish boundaries and prioritize tasks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity undermines confidence in setting boundaries.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Insecurity about competence and confidence in academic and professional roles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing self-doubt",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Difficulty with time management and balancing multiple responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased anxiety about teaching and feedback can lead to over-preparation and over-involvement, making it harder to manage time and balance responsibilities.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Fear of giving wrong feedback and impacting students' learning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces anxiety.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Lack of clarity on roles and responsibilities in teaching assistant position"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unclear roles exacerbate insecurity about teaching abilities.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Overthinking and rumination in response to stress and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels rumination.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Self-doubt and imposter syndrome in academic and professional settings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces feelings of inadequacy",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Need for validation and support in navigating challenging situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurity fuels the need for validation.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Tendency to catastrophize and blow things out of proportion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity fuels exaggerated negative thinking.",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Difficulty with assertiveness and expressing needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurities can amplify difficulties in asserting oneself.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Fear of not being good enough and making mistakes"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing anxiety",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Insecurity about ability to teach and provide effective feedback",
+        "Struggle to prioritize self-care and well-being in the face of academic demands"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from insecurity about teaching and feedback can lead to neglect of self-care.",
+      "pair_label": 134
+    }
+  ]
+}

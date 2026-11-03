@@ -1,0 +1,1534 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension may inhibit the ability to express emotions and needs, as conflicting responsibilities can lead to avoidance of emotional articulation.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between personal desires and family responsibilities can inhibit the development of a cohesive self-identity, as conflicting roles may create internal conflict.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between personal desires and family responsibilities can amplify feelings of missing out, as individuals may feel torn between pursuing their own goals and attending to familial obligations.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between personal desires and family responsibilities can inhibit the ability to effectively balance immediate and future goals.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between personal desires and family responsibilities often leads to feelings of guilt, which can inhibit decision-making by prioritizing obligations over personal fulfillment.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between personal desires and family responsibilities can lead to a desire for control, as individuals may seek to manage uncertainty arising from conflicting obligations.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension may lead to rumination and negative emotions, making it harder to disengage from those thought patterns.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension can motivate individuals to prioritize self-care and personal growth as a means to alleviate stress and fulfill personal desires.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tension between desire for personal fulfillment and sense of responsibility to family",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between personal desires and family responsibilities amplifies the challenge of managing conflicting values and priorities.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express emotions can lead to internal conflict, inhibiting the pursuit of personal fulfillment.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles in expressing emotions can hinder the development of a cohesive self-identity across various roles.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express emotions may lead to avoidance of social situations, contributing to feelings of missing out.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express emotions can hinder effective decision-making, impacting the ability to prioritize goals.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can lead to feelings of guilt and obligation, as unarticulated needs may result in overcompensating behavior.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can lead to a heightened need for control as a coping mechanism in uncertain situations.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inability to express emotions can lead to rumination and reinforce negative thought patterns.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can hinder effective self-care and personal growth, which are essential for managing stress and anxiety.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions and needs due to past experiences",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles in expressing emotions can hinder the ability to prioritize and reconcile conflicting values.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The complexity of self-identity across various roles can create internal conflict, leading to tension between personal desires and familial obligations.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The complexity of managing multiple roles can inhibit clear emotional expression, as individuals may prioritize role expectations over personal needs.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong self-identity linked to various roles can amplify the fear of missing out, as individuals may feel pressured to fulfill all their responsibilities and not miss significant experiences.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A complex self-identity can lead to conflicting priorities, making it harder to balance immediate and future goals.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of self-identity linked to various roles can amplify feelings of guilt and obligation, impacting decision-making.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong self-identity can enhance the desire for control, as individuals seek to manage their roles effectively amidst uncertainty.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A complex self-identity can lead to increased stress and pressure, which may contribute to negative thought patterns and emotional difficulties.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong self-identity can motivate individuals to prioritize self-care and personal growth, which are essential for managing stress and anxiety.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Self-identity tied to multiple roles and responsibilities",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting values and priorities can create stress that undermines a cohesive self-identity, leading to difficulties in fulfilling multiple roles.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of missing out can amplify the tension between personal desires and familial responsibilities, as individuals may feel pressured to prioritize their own experiences over obligations.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of missing out can lead to heightened emotional responses, which may complicate the ability to express emotions and needs clearly.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of missing out can amplify the importance of multiple roles and responsibilities, as individuals may feel pressured to fulfill these roles to avoid feelings of inadequacy or exclusion.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of missing out can lead to prioritizing immediate experiences over long-term goals, creating a struggle to maintain balance.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of missing out can amplify feelings of guilt and obligation, as individuals may feel pressured to prioritize others' needs to avoid missing experiences.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of missing out can drive individuals to seek greater control and preparedness to mitigate feelings of anxiety related to uncertainty.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of missing out can amplify negative thoughts and emotions, making it harder to disengage from them.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of missing out can lead to increased stress and anxiety, which may inhibit the ability to prioritize self-care and personal growth.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Fear of missing out on important life events and experiences",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of missing out can amplify the difficulty in prioritizing values, as the desire to engage in multiple experiences may conflict with personal values.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance goals can create tension between personal desires and family responsibilities, leading to conflict.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance goals can lead to emotional suppression, making it harder to articulate needs.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance goals can lead to conflicts in self-identity, as competing roles may hinder prioritization.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle to balance goals can amplify the fear of missing out, as prioritizing immediate desires may lead to anxiety about not experiencing significant events.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle to balance goals can lead to feelings of guilt and obligation, which may inhibit the ability to prioritize effectively.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance goals can lead to a reduced sense of control, as individuals may feel overwhelmed by competing priorities, which inhibits their desire for preparedness.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance goals can lead to rumination on negative thoughts, making it harder to disengage from them.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance goals can hinder self-care and personal growth, leading to increased stress and anxiety.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Struggle to balance short-term and long-term goals and priorities",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to balance goals often amplifies the challenge of navigating conflicting values, as both processes involve prioritization and decision-making.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and obligation can heighten the tension between personal desires and family responsibilities, influencing decision-making.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and obligation can suppress the ability to express emotions and needs, leading to difficulty in articulating them.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and obligation can enhance the importance of one's roles and responsibilities, influencing decision-making.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and obligation can drive individuals to prioritize social commitments, which may amplify feelings of missing out on personal experiences.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and obligation can lead to prioritizing others' needs over personal long-term goals, creating a struggle in balancing immediate desires with future aspirations.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and obligation can lead to decisions that prioritize others' needs over personal control, potentially reducing the desire for control.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and obligation can lead to rumination and negative emotions, making it harder to disengage from these thought patterns.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A sense of guilt and obligation can lead individuals to prioritize others' needs over their own, potentially undermining self-care and personal growth.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Sense of guilt and obligation to others influencing decision-making",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and obligation can create internal conflict, making it harder to prioritize values.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for control may lead to prioritizing responsibilities over personal fulfillment, creating tension.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong desire for control may lead to avoidance of emotional expression, as individuals prioritize managing uncertainty over articulating their feelings.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A desire for control can enhance the clarity and stability of self-identity by reinforcing the importance of fulfilling multiple roles.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A desire for control can amplify feelings of missing out, as individuals may seek to manage uncertainty by ensuring they are involved in significant experiences.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong desire for control can lead to prioritizing immediate goals over long-term planning, creating a struggle in balancing both.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong desire for control may lead to prioritizing personal needs over feelings of guilt, thus inhibiting the influence of obligation on decision-making.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong desire for control can lead to increased rumination and difficulty in letting go of negative thoughts, as individuals may feel compelled to manage or understand their emotional responses.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A desire for control can motivate individuals to engage in self-care and personal growth, which are essential for effectively managing stress and anxiety.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Desire for control and preparedness in the face of uncertainty",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong desire for control can lead to difficulty in reconciling conflicting values, as individuals may prioritize control over flexibility.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to disengage from negative thoughts can create internal conflict, which may heighten the tension between personal desires and familial obligations.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to disengage from negative thoughts can inhibit the ability to express emotions and needs, as the focus on negativity may overshadow the clarity needed for articulation.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to disengage from negative thoughts can hinder the ability to effectively manage multiple roles, impacting self-identity.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to disengage from negative thoughts can amplify feelings of missing out, as individuals may fixate on perceived shortcomings or lost opportunities.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thought patterns can hinder the ability to prioritize and plan effectively, impacting goal management.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to disengage from negative thoughts can lead to heightened feelings of guilt and obligation, which may inhibit clear decision-making.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to disengage from negative thoughts can undermine the desire for control, as persistent negativity may lead to feelings of helplessness in uncertain situations.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to disengage from negative thoughts can hinder the effectiveness of self-care and personal growth efforts, making it harder to manage stress and anxiety.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty in disengaging from negative thought patterns and emotions",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with negative thoughts can hinder the ability to prioritize and resolve conflicting values.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care and personal growth can reduce the tension felt between personal fulfillment and family responsibilities, as it helps individuals manage stress and anxiety related to these competing demands.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-care and personal growth can help individuals develop better emotional articulation, counteracting difficulties stemming from past experiences.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in self-care and personal growth can enhance self-identity by fostering a sense of balance among various roles, thereby reducing stress and anxiety.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care and personal growth can reduce anxiety related to missing out, as individuals become more focused on their own well-being rather than external pressures.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care and personal growth can enhance one's ability to manage stress, which may help in better balancing short-term and long-term goals.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care can reduce feelings of guilt and obligation, leading to healthier decision-making.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in self-care and personal growth can enhance feelings of control and preparedness, thereby reducing anxiety in uncertain situations.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in self-care and personal growth can help reduce the tendency to ruminate on negative thoughts and emotions.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Importance of self-care and personal growth in managing stress and anxiety",
+        "Challenge in navigating conflicting values and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care and personal growth can help mitigate the stress associated with conflicting values and priorities.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Tension between desire for personal fulfillment and sense of responsibility to family"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating conflicting values often amplifies the tension between personal desires and familial responsibilities, as individuals struggle to reconcile these competing priorities.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Difficulty in articulating emotions and needs due to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with conflicting values can hinder the ability to express emotions and needs, as uncertainty may lead to avoidance of emotional articulation.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Self-identity tied to multiple roles and responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting values and priorities can create tension that complicates the formation of a cohesive self-identity across multiple roles.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Fear of missing out on important life events and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with conflicting values can lead to a reduced focus on immediate experiences, contributing to feelings of missing out.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Struggle to balance short-term and long-term goals and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating conflicting values often intensifies the struggle to balance immediate and future goals, as individuals may feel torn between different priorities.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Sense of guilt and obligation to others influencing decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting values can amplify feelings of guilt and obligation, impacting decision-making.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Desire for control and preparedness in the face of uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting values can heighten the desire for control and preparedness as individuals seek to manage uncertainty.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Difficulty in disengaging from negative thought patterns and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with conflicting values can lead to rumination and difficulty in letting go of negative thoughts.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Challenge in navigating conflicting values and priorities",
+        "Importance of self-care and personal growth in managing stress and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting values can hinder self-care and personal growth, leading to increased stress and anxiety.",
+      "pair_label": 5
+    }
+  ]
+}

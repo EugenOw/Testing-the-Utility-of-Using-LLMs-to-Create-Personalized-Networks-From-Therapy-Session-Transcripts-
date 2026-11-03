@@ -1,0 +1,118 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Emotional Expression and Authenticity",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Trauma and Dissociation",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Self-Discovery and Growth",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Fear of Judgment and Vulnerability",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 5": {
+        "Title": "Achievement and Self-Validation",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Emotional expression and authenticity are closely linked to trauma and dissociation, as the client's ability to express emotions is impacted by their traumatic experiences."
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Trauma and dissociation can inhibit the client's ability to express emotions and be authentic."
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Self-discovery and growth are closely linked to emotional expression and authenticity, as the client's ability to understand themselves and their emotions is essential for personal growth."
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Fear of judgment and vulnerability is closely linked to trauma and dissociation, as the client's fear of being judged is rooted in their traumatic experiences."
+      },
+      {
+        "input_themes": [
+          "Theme 5",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Achievement and self-validation are closely linked to self-discovery and growth, as the client's sense of achievement is tied to their personal growth and self-awareness."
+      }
+    ]
+  }
+}

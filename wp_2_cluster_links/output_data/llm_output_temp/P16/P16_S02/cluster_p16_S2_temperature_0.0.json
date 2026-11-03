@@ -1,0 +1,4530 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can be a coping mechanism for the emotional distress caused by confusion between self-care and routine activities.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can blur boundaries between self-care and routine.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Confusion between self-care and routine activities can lead to prioritizing tasks over emotional needs.",
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to rigid adherence to routines, blurring the line between self-care and routine activities.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in distinguishing self-care from routine can lead to self-criticism and guilt when not meeting self-care expectations, thereby reducing self-compassion and self-forgiveness.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Blurred self-care boundaries can lead to emotional suppression.",
+      "pair_label": 161
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased confusion between self-care and routine activities can amplify tension between independence and structure.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships can influence self-concept, affecting self-care perceptions.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overlapping self-care challenges.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help clarify self-care needs.",
+      "pair_label": 176
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-neglect and self-blame can reinforce each other.",
+      "pair_label": 162
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Failing to distinguish self-care from routine can lead to perceived failures, triggering overgeneralization and catastrophization.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inability to recognize emotional needs and triggers can lead to confusion between self-care and routine activities.",
+      "pair_label": 167
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Blurred self-care and routine activities can lead to overcommitting and poor boundary setting.",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Societal beauty standards can blur the lines between self-care and routine activities, making it harder to differentiate between the two.",
+      "pair_label": 166
+    },
+    {
+      "input_processes": [
+        "Struggling to differentiate between self-care and routine activities",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others' expectations can blur the lines between self-care and routine activities.",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance behaviors may hinder self-awareness and introspection necessary for distinguishing self-care from routine.",
+      "pair_label": 251
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can reinforce negative self-talk by preventing confrontation with underlying issues.",
+      "pair_label": 243
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can lead to prioritizing productivity as a distraction from emotional pain.",
+      "pair_label": 254
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors may temporarily reduce emotional distress, but can also hinder the development of more adaptive coping strategies, such as those involving rule-governed behavior and perfectionism, which might otherwise help manage negative emotions more effectively.",
+      "pair_label": 249
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can prevent self-reflection and self-awareness, hindering the development of self-compassion and self-forgiveness.",
+      "pair_label": 248
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can reinforce emotional suppression.",
+      "pair_label": 241
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance behaviors may temporarily reduce tension by escaping from situations that trigger the conflict between independence and control needs.",
+      "pair_label": 255
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can reinforce negative self-concepts formed in past relationships.",
+      "pair_label": 245
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can exacerbate self-care imbalance.",
+      "pair_label": 250
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 256
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can reinforce negative self-talk by preventing confrontation with underlying issues.",
+      "pair_label": 242
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can reinforce negative thought patterns by preventing individuals from confronting and challenging their catastrophic thoughts.",
+      "pair_label": 252
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance behaviors can prevent self-reflection and exploration of emotional needs and triggers.",
+      "pair_label": 247
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can lead to poor communication and unclear boundaries.",
+      "pair_label": 244
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 246
+    },
+    {
+      "input_processes": [
+        "Using avoidance behaviors to cope with negative emotions",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can lead to prioritizing others' expectations to avoid conflict or rejection.",
+      "pair_label": 253
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-criticism can obscure self-awareness, making it harder to distinguish between self-care and routine.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors can be a coping mechanism for individuals struggling with self-critical thoughts, as they may try to escape or distract themselves from these thoughts.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can drive overwork.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fuels perfectionism.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism reinforces self-lack of compassion.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can lead to fear of rejection or judgment, making it harder to express emotions and needs.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-criticism can undermine autonomy",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships can shape self-criticism.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can hinder self-care prioritization.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help reduce self-criticism by providing an outlet for emotions and promoting self-compassion.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying cognitive mechanisms.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fuels overgeneralization and catastrophization.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism can obscure self-awareness.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can lead to people-pleasing and an inability to assert oneself.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can exacerbate self-critical thoughts.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging self-critical thoughts",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can lead to people-pleasing.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can blur boundaries between self-care and routine, making differentiation challenging.",
+      "pair_label": 219
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can lead to emotional exhaustion, prompting avoidance behaviors.",
+      "pair_label": 223
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasizing productivity can lead to self-criticism when expectations aren't met.",
+      "pair_label": 211
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying drive for control and achievement.",
+      "pair_label": 217
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Neglecting self-care and emotional needs can lead to self-criticism and reduced self-compassion.",
+      "pair_label": 216
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting emotional needs can lead to difficulty articulating them.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing productivity can suppress the exploration of independence due to the need for control and structure in achieving goals.",
+      "pair_label": 222
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 213
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritizing productivity can exacerbate struggles with balancing self-care.",
+      "pair_label": 218
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 224
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can exacerbate self-criticism.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care and emotional needs can lead to heightened stress and anxiety, increasing the likelihood of overgeneralizing and catastrophizing in response to perceived failures.",
+      "pair_label": 220
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritizing productivity can lead to neglect of emotional needs, exacerbating lack of self-awareness.",
+      "pair_label": 215
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasizing productivity can lead to neglect of personal needs, making it challenging to establish and maintain healthy boundaries.",
+      "pair_label": 212
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 214
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize productivity over self-care and emotional needs",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve prioritizing external demands over internal needs, potentially reinforcing a pattern of self-neglect.",
+      "pair_label": 221
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can blur boundaries between self-care and routine, making it difficult to prioritize personal well-being.",
+      "pair_label": 138
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to increased anxiety, prompting avoidance behaviors.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism fosters self-criticism.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying drive for control and achievement.",
+      "pair_label": 141
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism can suppress self-compassion.",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can suppress emotional expression.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can fuel the need for control, exacerbating tension between independence and structure.",
+      "pair_label": 142
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships can influence self-concept, potentially mitigating perfectionism.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism can exacerbate self-care neglect.",
+      "pair_label": 137
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can stifle creativity.",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism fosters self-criticism.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism fuels extreme reactions to perceived failures.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can suppress emotional awareness.",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to overcommitting and people-pleasing, making it challenging to set and maintain healthy boundaries.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards often emphasize perfectionism, reinforcing the overemphasis on rule-governed behavior.",
+      "pair_label": 134
+    },
+    {
+      "input_processes": [
+        "Overemphasis on rule-governed behavior and perfectionism",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying need for external validation.",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of self-compassion and self-forgiveness can lead to difficulty in recognizing and prioritizing self-care, making it hard to distinguish from routine activities.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases reliance on avoidance as a coping mechanism.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism is often a result of a lack of self-compassion and self-forgiveness.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fuels neglect of emotional needs.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fuels rigid adherence to rules and perfectionistic standards.",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and inability to forgive oneself can lead to fear of rejection and judgment from others, making it harder to express emotions and needs in relationships.",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases inner conflict.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationship experiences can exacerbate self-criticism.",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases stress and guilt.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can hinder engagement in creative activities.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-criticism",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fuels negative thought patterns.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of self-compassion and self-forgiveness can impede the development of self-awareness and understanding of emotional needs and triggers.",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and lack of self-forgiveness can lead to people-pleasing and an inability to assert oneself in relationships.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can exacerbate self-criticism and negative self-talk, further diminishing self-compassion and self-forgiveness.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Lack of self-compassion and self-forgiveness",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism and lack of self-forgiveness can lead to people-pleasing and prioritizing others' expectations to seek external validation.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing emotions and needs in relationships can lead to confusion between self-care and routine activities, as emotional needs are not clearly communicated or recognized.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance behaviors can be a coping mechanism for unexpressed emotions.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Linked through self-perception and self-acceptance.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional expression may lead to overemphasis on productivity as a coping mechanism.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing emotions can lead to an overemphasis on rules and perfectionism as a way to cope with emotional uncertainty.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing emotions and needs in relationships can lead to self-criticism and negative self-talk, which in turn can contribute to a lack of self-compassion and self-forgiveness.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inhibited emotional expression can lead to internal conflict and tension.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationship experiences shape current emotional expression.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotional needs can lead to burnout and neglect of self-care.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compensatory outlet",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Linked through self-perception and communication patterns.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can fuel negative thought patterns.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked by underlying emotional regulation issues.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked through assertiveness and self-advocacy.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions and needs in relationships",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces people-pleasing behavior.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting desires for independence and control can lead to confusion in prioritizing self-care over routine tasks.",
+      "pair_label": 235
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors may be used to cope with the anxiety or discomfort stemming from the tension between independence and control needs.",
+      "pair_label": 239
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism can stem from unresolved tension between independence and control needs.",
+      "pair_label": 227
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting desires for independence and control can lead to overcompensation through excessive productivity.",
+      "pair_label": 238
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflict between autonomy and control drives rigid adherence to rules.",
+      "pair_label": 233
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension between independence and control can lead to self-criticism and reduced self-compassion.",
+      "pair_label": 232
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict between autonomy and structure can heighten emotional repression.",
+      "pair_label": 225
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships shape the balance between independence and control needs.",
+      "pair_label": 229
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting desires for autonomy and structure can exacerbate difficulties in prioritizing self-care amidst responsibilities.",
+      "pair_label": 234
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can be a healthy outlet for tension.",
+      "pair_label": 240
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internal conflict fuels self-criticism.",
+      "pair_label": 226
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict between independence and control can amplify negative thought patterns.",
+      "pair_label": 236
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension between independence and control can mask or obscure self-awareness of emotional needs and triggers.",
+      "pair_label": 231
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting needs for independence and control can lead to inconsistent boundary setting.",
+      "pair_label": 228
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 230
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and need for structure and control",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict between autonomy and conformity.",
+      "pair_label": 237
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship patterns can blur boundaries between self-care and routine, making differentiation challenging.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape avoidance behaviors.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships can shape self-concept, influencing self-criticism.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape self-concept, influencing prioritization of productivity over self-care.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship dynamics can shape adherence to strict rules and perfectionistic tendencies.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationship experiences can significantly influence self-concept, leading to self-criticism and reduced self-compassion.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences shape current emotional expression and needs in relationships.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships shape self-concept, influencing independence and control needs.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape self-concept, influencing self-care priorities and ability to balance responsibilities.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape self-concept, influencing creative expression.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationships shape self-concept, influencing negative self-talk and self-blame.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape negative thought patterns.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships can obscure self-awareness by influencing perceptions and emotional responses, making it harder to understand one's emotional needs and triggers.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationship experiences shape self-concept, influencing boundary-setting behaviors.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared influence on self-concept",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current self-concept and behaviors",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships shape self-concept, influencing tendency to prioritize others.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overlapping boundaries",
+      "pair_label": 154
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from unmet responsibilities can lead to avoidance behaviors.",
+      "pair_label": 159
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from unmet responsibilities can exacerbate self-criticism.",
+      "pair_label": 147
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of neglecting self-care.",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can exacerbate self-care imbalance.",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased stress from unmet responsibilities can exacerbate self-criticism.",
+      "pair_label": 152
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can lead to emotional suppression.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-care responsibilities can heighten tension between independence and control.",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships can influence self-concept, affecting self-care prioritization.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help alleviate stress and improve self-care.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can exacerbate self-criticism.",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress from unmet responsibilities can amplify negative thought patterns.",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Neglecting self-care due to responsibilities can exacerbate emotional unawareness.",
+      "pair_label": 151
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting to others due to poor boundaries can exacerbate self-care neglect.",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Societal beauty standards can exacerbate self-care struggles by adding unrealistic expectations.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities and obligations",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting to others' needs can exacerbate self-care imbalance.",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help clarify self-care intentions.",
+      "pair_label": 267
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can serve as a healthier alternative to avoidance.",
+      "pair_label": 272
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help reduce self-criticism by promoting self-compassion and self-awareness.",
+      "pair_label": 259
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 270
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can stifle creativity.",
+      "pair_label": 265
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help counteract negative self-talk and promote self-acceptance.",
+      "pair_label": 264
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can help alleviate difficulties in emotional expression.",
+      "pair_label": 257
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can reduce tension by providing an outlet for emotions and desires.",
+      "pair_label": 271
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can reflect and process past experiences, influencing self-concept.",
+      "pair_label": 261
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help alleviate stress and improve mood, thereby reducing the struggle to balance self-care with responsibilities.",
+      "pair_label": 266
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help reduce negative self-talk by promoting self-compassion and self-awareness.",
+      "pair_label": 258
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help mitigate negative thought patterns by providing an outlet for emotions and promoting a more balanced perspective.",
+      "pair_label": 268
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 263
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Creative expression can serve as a coping mechanism for stress related to boundary issues.",
+      "pair_label": 260
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Creative self-expression can counteract negative self-concept and body image issues by promoting self-acceptance and self-esteem.",
+      "pair_label": 262
+    },
+    {
+      "input_processes": [
+        "Using creative activities as a means of self-expression and relaxation",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 269
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negative self-talk can obscure the distinction between self-care and routine, making it harder to prioritize self-care.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can lead to increased negative emotions, prompting avoidance behaviors.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Similar cognitive patterns.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can lead to increased self-pressure to perform, reinforcing prioritization of productivity.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-criticism",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-criticism",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can lead to fear of rejection or judgment, making it harder to express emotions and needs.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negative self-talk can undermine confidence in decision-making, thereby increasing the need for external structure and control, which in turn can exacerbate tension between independence and control needs.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships can reinforce negative self-talk and self-blame.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can exacerbate feelings of guilt and inadequacy, making it harder to prioritize self-care amidst responsibilities.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can help counteract negative self-talk by providing an outlet for emotions and promoting self-compassion.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-talk can lead to overgeneralization and catastrophization.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-talk reinforces lack of self-awareness.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can lead to self-doubt, making it harder to assert oneself in relationships.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can exacerbate negative self-talk and self-blame by creating unrealistic expectations.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and challenging negative self-talk and self-blame",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and negative self-talk can lead to people-pleasing and prioritizing others' expectations to seek validation.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overgeneralization and catastrophizing can lead to neglect of self-care due to perceived hopelessness.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing leads to increased anxiety, prompting avoidance behaviors.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-talk",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralizing and catastrophizing can lead to increased stress, which may drive individuals to prioritize productivity as a coping mechanism.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-criticism and rigid standards.",
+      "pair_label": 185
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-talk and self-blame.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can lead to emotional overwhelm, making it harder to articulate emotions and needs.",
+      "pair_label": 177
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overgeneralization and catastrophizing may lead to a heightened need for control, potentially reducing the desire for independence.",
+      "pair_label": 190
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can reinforce negative thought patterns.",
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralizing and catastrophizing can lead to increased stress, making it harder to prioritize self-care amidst responsibilities.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 192
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralization and catastrophizing can exacerbate self-ignorance by distracting from introspection and emotional regulation.",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralization and catastrophizing can lead to an excessive need for reassurance, causing individuals to overcommit and blur boundaries in relationships.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize and catastrophize in response to perceived failures",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralizing and catastrophizing can lead to heightened anxiety about meeting others' expectations, thereby increasing the tendency to prioritize them over personal values and needs.",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness hinders ability to recognize emotional needs, leading to confusion between self-care and routine.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness can lead to avoidance behaviors as a coping mechanism.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness can lead to unchallenged self-criticism.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness leads to neglect of emotional needs.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness can lead to unrealistic expectations and harsh self-criticism.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness hinders emotional expression.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases inner conflict.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape self-concept and behaviors, which can be exacerbated by a lack of self-awareness.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness exacerbates imbalance in self-care and responsibilities.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Lack of self-awareness may hinder the effectiveness of creative activities as a means of self-expression and relaxation.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness can lead to unchallenged negative self-talk.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness can lead to misinterpretation of emotional cues, escalating negative thoughts and catastrophic thinking.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness can lead to poor boundary setting.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of self-awareness can make individuals more susceptible to societal beauty standards, as they may not recognize the emotional impact of these standards on their self-concept and body image.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Lack of self-awareness and understanding of emotional needs and triggers",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness can lead to prioritizing others' expectations as a way to seek validation and avoid feelings of uncertainty.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Blurred boundaries can lead to confusion between personal needs and responsibilities.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary difficulties can lead to emotional overwhelm, prompting avoidance behaviors.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary issues can lead to self-blame and negative self-talk.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overcommitting to others due to poor boundaries can lead to neglect of personal needs, reinforcing prioritization of productivity.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perfectionism can lead to rigid adherence to rules, making it difficult to set flexible boundaries.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary issues can lead to self-blame and guilt.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interconnected skills.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary issues can fuel tension between independence and control needs.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationship patterns shape current boundary setting.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcommitting to others due to poor boundaries can lead to neglect of self-care.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Healthy boundaries can limit time for creative pursuits.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary issues can lead to self-blame and negative self-talk as individuals may over-internalize others' opinions and criticisms.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary issues can lead to increased stress and perceived failures, triggering overgeneralization and catastrophization.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundary issues stem from unclear self-perception.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting and maintaining healthy boundaries in relationships",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundary issues enable prioritization of others' expectations.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can blur the lines between self-care and routine activities, making it difficult to distinguish between what is truly nourishing and what is driven by external expectations.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can lead to negative self-concept and body image, which may trigger avoidance behaviors as a coping mechanism.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Societal beauty standards can foster self-criticism.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Societal beauty standards can indirectly lead to neglect of self-care and emotional needs by promoting unrealistic expectations and self-criticism.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can foster perfectionism.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Societal beauty standards can lead to negative self-comparison and self-criticism, exacerbating lack of self-compassion and self-forgiveness.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-image can hinder emotional expression.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Societal beauty standards can restrict personal autonomy.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared influence on self-concept",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can exacerbate self-criticism, making it harder to prioritize self-care.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in creative activities can counteract negative self-concept and body image issues by promoting self-expression and self-acceptance.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Societal beauty standards can exacerbate negative self-talk and self-blame by creating unrealistic expectations.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can lead to unrealistic expectations, fostering self-criticism and negative self-talk, which in turn can trigger overgeneralization and catastrophization in response to perceived failures.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can obscure self-awareness by promoting unrealistic expectations and distracting from emotional needs.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can lead to self-objectification, making individuals more vulnerable to external validation and less likely to prioritize their own needs, thus contributing to difficulties in setting and maintaining healthy boundaries.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Impact of societal beauty standards on self-concept and body image",
+        "Tendency to prioritize others' expectations over personal values and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal beauty standards can lead to internalization of external expectations, influencing self-concept and body image, which in turn may cause individuals to prioritize others' expectations over their own values and needs.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Struggling to differentiate between self-care and routine activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to neglect of personal needs, blurring the line between self-care and routine activities.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Using avoidance behaviors to cope with negative emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others may lead to emotional distress, prompting avoidance behaviors.",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Difficulty in recognizing and challenging self-critical thoughts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to self-doubt and negative self-talk.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Tendency to prioritize productivity over self-care and emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve prioritizing external demands over internal needs, potentially reinforcing a pattern of neglecting personal well-being.",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Overemphasis on rule-governed behavior and perfectionism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to an overemphasis on adhering to rules and striving for perfection to meet those expectations.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Lack of self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritizing others over oneself can lead to self-neglect and self-criticism.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Difficulty in expressing emotions and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to suppressing one's own emotional needs.",
+      "pair_label": 193
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Tension between desire for independence and need for structure and control"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others' expectations can suppress the desire for independence.",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Impact of past relationships on current self-concept and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships shape expectations and influence prioritization.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Struggling to balance self-care with responsibilities and obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to neglect of personal needs, exacerbating self-care struggles.",
+      "pair_label": 202
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Using creative activities as a means of self-expression and relaxation"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Difficulty in recognizing and challenging negative self-talk and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to self-doubt and negative self-talk.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Tendency to overgeneralize and catastrophize in response to perceived failures"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to self-doubt and fear of failure, increasing the likelihood of overgeneralizing and catastrophizing.",
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Lack of self-awareness and understanding of emotional needs and triggers"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to neglect of personal emotional needs, exacerbating lack of self-awareness.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Difficulty in setting and maintaining healthy boundaries in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritizing others' expectations can lead to overcommitting and neglect of personal needs, making it challenging to establish and maintain healthy boundaries.",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize others' expectations over personal values and needs",
+        "Impact of societal beauty standards on self-concept and body image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing others' expectations can amplify the influence of societal beauty standards on self-concept and body image.",
+      "pair_label": 198
+    }
+  ]
+}

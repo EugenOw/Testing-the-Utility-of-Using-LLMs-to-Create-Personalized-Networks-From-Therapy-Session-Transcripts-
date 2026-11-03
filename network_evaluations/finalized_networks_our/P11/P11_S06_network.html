@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Process Network</title>
+    <script src="https://unpkg.com/cytoscape@3.21.1/dist/cytoscape.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #cy {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        .legend {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 14px;
+            z-index: 10;
+        }
+        .tooltip {
+            position: absolute;
+            background: #fefefe;
+            border: 1px solid #aaa;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 13px;
+            max-width: 300px;
+            z-index: 20;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            cursor: default;
+        }
+        .tooltip .close-btn {
+            float: right;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="cy"></div>
+    <div class="legend">
+        <b>Legend</b><br>
+        <span style="color:#e74c3c;">Red</span>: Inhibitory<br>
+        <span style="color:#3498db;">Blue</span>: Excitatory<br>
+        <hr style="border-top: 1px dashed #aaa; margin: 4px 0;">
+        Dashed line = Weak<br>
+        Solid thin = Moderate<br>
+        Solid thick = Strong<br>
+        <hr>
+        <b>Dimensions</b><br>
+        🔴 Cognition<br>
+        🟠 Attention<br>
+        🟡 Motivation<br>
+        🟢 (Overt) Behaviour<br>
+        🔵 Sense of Self<br>
+        🟣 Context/Moderators<br>
+        🟤 Affect<br>
+        ⚪ Sociocultural<br>
+        ⚫ Biophysiological
+    </div>
+    <script>
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            layout: { name: 'cose' },
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'text-wrap': 'wrap',
+                        'text-max-width': 100,
+                        'text-valign': 'center',
+                        'text-halign': 'center',
+                        'background-color': '#ffffff',
+                        'border-color': '#000000',
+                        'border-width': 1,
+                        'color': '#000',
+                        'font-size': 10,
+                        'width': 'label',
+                        'height': 'label',
+                        'padding': 10
+                    }
+                },
+                {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'target-arrow-shape': 'triangle',
+                        'arrow-scale': 1.2,
+                        'label': '',
+                        'font-size': 9,
+                        'text-rotation': 'autorotate',
+                        'text-margin-y': -10,
+                        'line-color': 'data(color)',
+                        'target-arrow-color': 'data(color)',
+                        'width': 'data(width)',
+                        'line-style': 'data(lineStyle)'
+                    }
+                }
+            ],
+            elements: [{"data": {"id": "Courage in self-expression tied to personal values", "label": "Courage in self-expression tied to personal values\n\ud83d\udfe2 \ud83d\udfe1 \ud83d\udd35\nFrequency: 3"}}, {"data": {"id": "Persistent effort in pursuit of goals despite anxiety", "label": "Persistent effort in pursuit of goals despite anxiety\n\ud83d\udfe2\nFrequency: 3"}}, {"data": {"id": "Vulnerability as a means of building trust in relationships", "label": "Vulnerability as a means of building trust in relationships\n\ud83d\udfe4 \ud83d\udfe0 \ud83d\udd34\nFrequency: 3"}}, {"data": {"id": "Embracing uncertainty and ambiguity in personal growth", "label": "Embracing uncertainty and ambiguity in personal growth\n\ud83d\udd34 \ud83d\udfe3 \ud83d\udfe1\nFrequency: 3"}}, {"data": {"id": "Balancing self-protection with openness to emotional experience", "label": "Balancing self-protection with openness to emotional experience\n\ud83d\udd34\nFrequency: 1"}}, {"data": {"id": "Navigating the tension between confidence and self-doubt", "label": "Navigating the tension between confidence and self-doubt\n\ud83d\udfe4 \ud83d\udd35\nFrequency: 2"}}, {"data": {"id": "The interplay between courage and vulnerability in relationships", "label": "The interplay between courage and vulnerability in relationships\n\ud83d\udfe4 \ud83d\udd34\nFrequency: 2"}}, {"data": {"id": "Self-doubt and reassurance-seeking in intimate relationships", "label": "Self-doubt and reassurance-seeking in intimate relationships\n\ud83d\udfe4 \ud83d\udd34 \ud83d\udd35\nFrequency: 3"}}, {"data": {"id": "Courage in self-expression tied to personal values_Persistent effort in pursuit of goals despite anxiety_11", "source": "Courage in self-expression tied to personal values", "target": "Persistent effort in pursuit of goals despite anxiety", "pair_label": "11", "info": "<b>Pair:</b> 11<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Alignment of personal values with goals enhances motivation\nand resilience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Courage in self-expression tied to personal values_Vulnerability as a means of building trust in relationships_14", "source": "Courage in self-expression tied to personal values", "target": "Vulnerability as a means of building trust in relationships", "pair_label": "14", "info": "<b>Pair:</b> 14<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Courage in self-expression tied to personal values can\nfacilitate vulnerability.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Courage in self-expression tied to personal values_Embracing uncertainty and ambiguity in personal growth_9", "source": "Courage in self-expression tied to personal values", "target": "Embracing uncertainty and ambiguity in personal growth", "pair_label": "9", "info": "<b>Pair:</b> 9<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Courage in self-expression tied to personal values_Balancing self-protection with openness to emotional experience_8", "source": "Courage in self-expression tied to personal values", "target": "Balancing self-protection with openness to emotional experience", "pair_label": "8", "info": "<b>Pair:</b> 8<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Courage in self-expression can facilitate openness to\nemotional experience by promoting authenticity and\nvulnerability.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Courage in self-expression tied to personal values_Navigating the tension between confidence and self-doubt_10", "source": "Courage in self-expression tied to personal values", "target": "Navigating the tension between confidence and self-doubt", "pair_label": "10", "info": "<b>Pair:</b> 10<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Courage in self-expression reinforces navigating the tension\nbetween confidence and self-doubt.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Courage in self-expression tied to personal values_The interplay between courage and vulnerability in relationships_13", "source": "Courage in self-expression tied to personal values", "target": "The interplay between courage and vulnerability in relationships", "pair_label": "13", "info": "<b>Pair:</b> 13<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Courage in self-expression can foster deeper connections by\npromoting vulnerability.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Persistent effort in pursuit of goals despite anxiety_Courage in self-expression tied to personal values_30", "source": "Persistent effort in pursuit of goals despite anxiety", "target": "Courage in self-expression tied to personal values", "pair_label": "30", "info": "<b>Pair:</b> 30<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Shared underlying resilience", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Persistent effort in pursuit of goals despite anxiety_Embracing uncertainty and ambiguity in personal growth_31", "source": "Persistent effort in pursuit of goals despite anxiety", "target": "Embracing uncertainty and ambiguity in personal growth", "pair_label": "31", "info": "<b>Pair:</b> 31<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Resilience", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Persistent effort in pursuit of goals despite anxiety_Navigating the tension between confidence and self-doubt_32", "source": "Persistent effort in pursuit of goals despite anxiety", "target": "Navigating the tension between confidence and self-doubt", "pair_label": "32", "info": "<b>Pair:</b> 32<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Resilience", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Vulnerability as a means of building trust in relationships_Courage in self-expression tied to personal values_51", "source": "Vulnerability as a means of building trust in relationships", "target": "Courage in self-expression tied to personal values", "pair_label": "51", "info": "<b>Pair:</b> 51<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Vulnerability fosters courage.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Vulnerability as a means of building trust in relationships_Embracing uncertainty and ambiguity in personal growth_52", "source": "Vulnerability as a means of building trust in relationships", "target": "Embracing uncertainty and ambiguity in personal growth", "pair_label": "52", "info": "<b>Pair:</b> 52<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Vulnerability fosters openness to uncertainty and ambiguity,\ndriving personal growth.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Vulnerability as a means of building trust in relationships_Balancing self-protection with openness to emotional experience_50", "source": "Vulnerability as a means of building trust in relationships", "target": "Balancing self-protection with openness to emotional experience", "pair_label": "50", "info": "<b>Pair:</b> 50<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual reinforcement", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Vulnerability as a means of building trust in relationships_Navigating the tension between confidence and self-doubt_53", "source": "Vulnerability as a means of building trust in relationships", "target": "Navigating the tension between confidence and self-doubt", "pair_label": "53", "info": "<b>Pair:</b> 53<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Vulnerability can foster an environment where individuals\nfeel comfortable exploring their self-doubt, thereby\nnavigating the tension between confidence and self-doubt.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Vulnerability as a means of building trust in relationships_The interplay between courage and vulnerability in relationships_56", "source": "Vulnerability as a means of building trust in relationships", "target": "The interplay between courage and vulnerability in relationships", "pair_label": "56", "info": "<b>Pair:</b> 56<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-doubt and reassurance-seeking in intimate relationships_Balancing self-protection with openness to emotional experience_36", "source": "Self-doubt and reassurance-seeking in intimate relationships", "target": "Balancing self-protection with openness to emotional experience", "pair_label": "36", "info": "<b>Pair:</b> 36<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-doubt can hinder openness to emotional experience.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-doubt and reassurance-seeking in intimate relationships_Navigating the tension between confidence and self-doubt_39", "source": "Self-doubt and reassurance-seeking in intimate relationships", "target": "Navigating the tension between confidence and self-doubt", "pair_label": "39", "info": "<b>Pair:</b> 39<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-doubt fuels the need for reassurance, which in turn\nheightens the tension between confidence and self-doubt.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-doubt and reassurance-seeking in intimate relationships_The interplay between courage and vulnerability in relationships_41", "source": "Self-doubt and reassurance-seeking in intimate relationships", "target": "The interplay between courage and vulnerability in relationships", "pair_label": "41", "info": "<b>Pair:</b> 41<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-doubt can motivate seeking reassurance, which in turn\ncan foster courage to be vulnerable.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Embracing uncertainty and ambiguity in personal growth_Courage in self-expression tied to personal values_16", "source": "Embracing uncertainty and ambiguity in personal growth", "target": "Courage in self-expression tied to personal values", "pair_label": "16", "info": "<b>Pair:</b> 16<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fosters authenticity", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Embracing uncertainty and ambiguity in personal growth_Persistent effort in pursuit of goals despite anxiety_18", "source": "Embracing uncertainty and ambiguity in personal growth", "target": "Persistent effort in pursuit of goals despite anxiety", "pair_label": "18", "info": "<b>Pair:</b> 18<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fosters resilience", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Embracing uncertainty and ambiguity in personal growth_Vulnerability as a means of building trust in relationships_21", "source": "Embracing uncertainty and ambiguity in personal growth", "target": "Vulnerability as a means of building trust in relationships", "pair_label": "21", "info": "<b>Pair:</b> 21<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Embracing uncertainty fosters openness to vulnerability.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Embracing uncertainty and ambiguity in personal growth_Balancing self-protection with openness to emotional experience_15", "source": "Embracing uncertainty and ambiguity in personal growth", "target": "Balancing self-protection with openness to emotional experience", "pair_label": "15", "info": "<b>Pair:</b> 15<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>facilitates", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Embracing uncertainty and ambiguity in personal growth_Navigating the tension between confidence and self-doubt_17", "source": "Embracing uncertainty and ambiguity in personal growth", "target": "Navigating the tension between confidence and self-doubt", "pair_label": "17", "info": "<b>Pair:</b> 17<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Embracing uncertainty and ambiguity in personal growth\nfosters a nuanced understanding of the self, allowing for a\nmore informed navigation of the tension between confidence\nand self-doubt.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Embracing uncertainty and ambiguity in personal growth_The interplay between courage and vulnerability in relationships_20", "source": "Embracing uncertainty and ambiguity in personal growth", "target": "The interplay between courage and vulnerability in relationships", "pair_label": "20", "info": "<b>Pair:</b> 20<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Embracing uncertainty fosters courage and vulnerability.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Balancing self-protection with openness to emotional experience_Courage in self-expression tied to personal values_1", "source": "Balancing self-protection with openness to emotional experience", "target": "Courage in self-expression tied to personal values", "pair_label": "1", "info": "<b>Pair:</b> 1<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional openness supports courageous expression", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Balancing self-protection with openness to emotional experience_Persistent effort in pursuit of goals despite anxiety_4", "source": "Balancing self-protection with openness to emotional experience", "target": "Persistent effort in pursuit of goals despite anxiety", "pair_label": "4", "info": "<b>Pair:</b> 4<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Embracing emotional experience can fuel resilience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Balancing self-protection with openness to emotional experience_Vulnerability as a means of building trust in relationships_7", "source": "Balancing self-protection with openness to emotional experience", "target": "Vulnerability as a means of building trust in relationships", "pair_label": "7", "info": "<b>Pair:</b> 7<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual reinforcement.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Balancing self-protection with openness to emotional experience_Embracing uncertainty and ambiguity in personal growth_2", "source": "Balancing self-protection with openness to emotional experience", "target": "Embracing uncertainty and ambiguity in personal growth", "pair_label": "2", "info": "<b>Pair:</b> 2<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fosters resilience", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Balancing self-protection with openness to emotional experience_The interplay between courage and vulnerability in relationships_6", "source": "Balancing self-protection with openness to emotional experience", "target": "The interplay between courage and vulnerability in relationships", "pair_label": "6", "info": "<b>Pair:</b> 6<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual reinforcement.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Navigating the tension between confidence and self-doubt_Courage in self-expression tied to personal values_23", "source": "Navigating the tension between confidence and self-doubt", "target": "Courage in self-expression tied to personal values", "pair_label": "23", "info": "<b>Pair:</b> 23<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Confidence and self-doubt influence courage in self-\nexpression.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Navigating the tension between confidence and self-doubt_Persistent effort in pursuit of goals despite anxiety_25", "source": "Navigating the tension between confidence and self-doubt", "target": "Persistent effort in pursuit of goals despite anxiety", "pair_label": "25", "info": "<b>Pair:</b> 25<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Confidence and self-doubt inform effort.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Navigating the tension between confidence and self-doubt_Self-doubt and reassurance-seeking in intimate relationships_26", "source": "Navigating the tension between confidence and self-doubt", "target": "Self-doubt and reassurance-seeking in intimate relationships", "pair_label": "26", "info": "<b>Pair:</b> 26<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-doubt fuels reassurance-seeking.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Navigating the tension between confidence and self-doubt_Embracing uncertainty and ambiguity in personal growth_24", "source": "Navigating the tension between confidence and self-doubt", "target": "Embracing uncertainty and ambiguity in personal growth", "pair_label": "24", "info": "<b>Pair:</b> 24<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Navigating self-doubt fosters growth", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between courage and vulnerability in relationships_Courage in self-expression tied to personal values_44", "source": "The interplay between courage and vulnerability in relationships", "target": "Courage in self-expression tied to personal values", "pair_label": "44", "info": "<b>Pair:</b> 44<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual reinforcement", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between courage and vulnerability in relationships_Persistent effort in pursuit of goals despite anxiety_47", "source": "The interplay between courage and vulnerability in relationships", "target": "Persistent effort in pursuit of goals despite anxiety", "pair_label": "47", "info": "<b>Pair:</b> 47<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Courage and vulnerability can foster resilience and\nmotivation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between courage and vulnerability in relationships_Vulnerability as a means of building trust in relationships_49", "source": "The interplay between courage and vulnerability in relationships", "target": "Vulnerability as a means of building trust in relationships", "pair_label": "49", "info": "<b>Pair:</b> 49<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual reinforcement", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between courage and vulnerability in relationships_Embracing uncertainty and ambiguity in personal growth_45", "source": "The interplay between courage and vulnerability in relationships", "target": "Embracing uncertainty and ambiguity in personal growth", "pair_label": "45", "info": "<b>Pair:</b> 45<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Courage and vulnerability foster a mindset to embrace\nuncertainty and ambiguity.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between courage and vulnerability in relationships_Balancing self-protection with openness to emotional experience_43", "source": "The interplay between courage and vulnerability in relationships", "target": "Balancing self-protection with openness to emotional experience", "pair_label": "43", "info": "<b>Pair:</b> 43<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Courage and vulnerability facilitate openness to emotional\nexperience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between courage and vulnerability in relationships_Navigating the tension between confidence and self-doubt_46", "source": "The interplay between courage and vulnerability in relationships", "target": "Navigating the tension between confidence and self-doubt", "pair_label": "46", "info": "<b>Pair:</b> 46<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Courage and vulnerability can foster self-awareness", "color": "#3498db", "width": 4, "lineStyle": "solid"}}]
+        });
+
+        let tooltipCounter = 0;
+
+        cy.on('tap', 'edge', function(evt) {
+            var edge = evt.target;
+            var pos = evt.renderedPosition;
+            var tooltipId = "tooltip-" + (++tooltipCounter);
+
+            var tooltip = document.createElement("div");
+            tooltip.className = "tooltip";
+            tooltip.id = tooltipId;
+            tooltip.style.left = (pos.x + 20) + "px";
+            tooltip.style.top = (pos.y + 20) + "px";
+
+            var closeBtn = document.createElement("span");
+            closeBtn.className = "close-btn";
+            closeBtn.innerHTML = "&times;";
+            closeBtn.onclick = function () {
+                tooltip.remove();
+            };
+
+            tooltip.innerHTML = "";
+            tooltip.appendChild(closeBtn);
+            var content = document.createElement("div");
+            content.innerHTML = edge.data("info");
+            tooltip.appendChild(content);
+
+            document.body.appendChild(tooltip);
+            makeDraggable(tooltip);
+        });
+
+        function makeDraggable(elmnt) {
+            let offset = { x: 0, y: 0 };
+            let isDragging = false;
+
+            elmnt.addEventListener("mousedown", function (e) {
+                if (e.target.classList.contains("close-btn")) return;
+                isDragging = true;
+                offset.x = e.clientX - elmnt.offsetLeft;
+                offset.y = e.clientY - elmnt.offsetTop;
+                elmnt.style.cursor = "move";
+                e.preventDefault();
+            });
+
+            document.addEventListener("mousemove", function (e) {
+                if (isDragging) {
+                    elmnt.style.left = (e.clientX - offset.x) + "px";
+                    elmnt.style.top = (e.clientY - offset.y) + "px";
+                }
+            });
+
+            document.addEventListener("mouseup", function () {
+                isDragging = false;
+                elmnt.style.cursor = "default";
+            });
+        }
+    </script>
+</body>
+</html>

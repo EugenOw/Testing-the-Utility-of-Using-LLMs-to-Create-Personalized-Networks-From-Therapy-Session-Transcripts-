@@ -1,0 +1,1527 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional regulation can help mitigate the anxiety associated with financial dependence, reducing the tension between independence and reliance.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Curiosity and exploration of bodily sensations can enhance emotional regulation, which may help individuals better navigate the complexities of family dynamics and emotional responsibilities.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Curiosity and exploration can help mitigate self-doubt and fear by fostering a more positive and open mindset towards personal challenges.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exploring bodily sensations can enhance emotional regulation, which may reduce difficulties in asserting needs and boundaries.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Curiosity and exploration can enhance emotional regulation, which may help individuals reinterpret past experiences, thereby influencing current emotional responses.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exploring bodily sensations can enhance emotional regulation, which may help in managing self-care, thereby reducing the struggle with responsibilities.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Curiosity and exploration can help regulate emotions, potentially reducing the fear of disappointing others by fostering a more positive self-awareness.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through curiosity and exploration of bodily sensations",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Curiosity and exploration can help mitigate feelings of uncertainty and anxiety by promoting a sense of agency and understanding.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between independence and reliance can inhibit emotional regulation, as individuals may struggle to explore their feelings and bodily sensations when preoccupied with financial dependence.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle for independence can amplify emotional responsibilities within family dynamics, as individuals may feel pressured to balance their own needs with those of family members.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between wanting to be independent and needing support can lead to self-doubt and fear of failure, as individuals may question their abilities to achieve goals without assistance.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between wanting to be independent and needing support can lead to feelings of embarrassment and shame when financial struggles arise.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with independence may lead to challenges in asserting needs, as reliance on others can create hesitance in setting boundaries.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape one's views on independence and reliance, influencing emotional responses and behaviors related to financial support.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between wanting independence and relying on others can lead to feelings of guilt or obligation, which may inhibit effective self-care.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between wanting to be independent and needing support can lead to a fear of disappointing others, as individuals may feel guilty about relying on them.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tension between independence and reliance on others for financial support",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between wanting independence and needing support can amplify feelings of uncertainty and anxiety regarding future decisions.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating family dynamics can enhance emotional regulation by fostering curiosity about one's feelings and bodily sensations, leading to better coping strategies.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Complex family dynamics can heighten emotional responsibilities, influencing individuals' feelings about independence and reliance on financial support.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional responsibilities can lead to self-doubt and fear of failure, as individuals may feel overwhelmed by family expectations, which can inhibit their confidence in pursuing personal goals.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional responsibilities in family dynamics can lead to feelings of embarrassment and shame, particularly when financial struggles are involved, as individuals may feel they are failing to meet expectations.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Managing family dynamics often leads to prioritizing others' needs over one's own, which can suppress the ability to assert personal boundaries.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Complex family dynamics often shape past experiences, which in turn influence current emotional responses and behaviors.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional responsibilities often hinder self-care, creating a strong inhibitory relationship.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Managing family dynamics often heightens emotional responsibilities, which can amplify the fear of disappointing or hurting others.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Navigating complex family dynamics and emotional responsibilities",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Managing family dynamics can amplify feelings of uncertainty and anxiety regarding future decisions, as emotional responsibilities may create pressure and conflict.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of failure can hinder emotional regulation by reducing curiosity and exploration, as these feelings may lead to avoidance behaviors.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of failure can lead to increased reliance on others for support, creating tension between the desire for independence and the need for assistance.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of failure can hinder one's ability to effectively navigate family dynamics, as these feelings may lead to avoidance or conflict in emotional responsibilities.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of failure can amplify feelings of embarrassment and shame, particularly when financial struggles are perceived as personal failures.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of failure can undermine confidence, making it challenging to assert needs and boundaries.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can contribute to self-doubt and fear of failure, which in turn can influence current emotional responses and behaviors.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of failure can lead to neglecting self-care as individuals may prioritize responsibilities towards others to avoid perceived failure.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can amplify the fear of disappointing others, as individuals may worry that their perceived failures will negatively impact those around them.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of failure in achieving personal goals",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of failure can amplify feelings of uncertainty and anxiety, as individuals may struggle to make decisions when they lack confidence in their abilities.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embarrassment and shame can inhibit emotional regulation by creating avoidance behaviors, while curiosity and exploration may help mitigate these negative feelings.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of embarrassment and shame can amplify the tension experienced when balancing the desire for independence with the need for financial support from others.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of embarrassment and shame can inhibit open communication and emotional expression within family dynamics, complicating the navigation of those relationships.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of embarrassment and shame can amplify self-doubt and fear of failure, particularly when financial struggles impact personal goal achievement.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of embarrassment and shame can lead to a reluctance to assert personal needs and boundaries, as individuals may fear judgment or further shame.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Financial struggles can evoke feelings of embarrassment and shame, which may be influenced by past experiences, thereby amplifying current emotional responses.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of embarrassment and shame can lead to neglecting self-care as individuals prioritize their perceived responsibilities towards others.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of embarrassment and shame can amplify the fear of disappointing others, as individuals may worry about how their financial struggles affect their relationships.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame related to financial struggles",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of embarrassment and shame can amplify uncertainty and anxiety about future decisions, as individuals may fear judgment or further financial instability.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to assert needs may hinder emotional regulation, as it can lead to avoidance of bodily sensations and curiosity.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to assert needs can lead to increased reliance on others, creating tension between wanting independence and needing support.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to assert personal needs can lead to increased emotional burden in family dynamics, as individuals may feel overwhelmed by others' expectations.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to assert needs often leads to increased self-doubt and fear of failure, as individuals may feel unworthy or incapable of achieving their goals.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to assert personal needs can lead to feelings of inadequacy, which may exacerbate embarrassment and shame about financial issues.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggles with asserting needs often stem from past experiences, which can inhibit emotional expression and influence current behaviors.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inability to assert needs often leads to neglecting self-care in favor of others' demands.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to assert needs often leads to heightened fear of disappointing others, as individuals may prioritize others' feelings over their own.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Difficulty in asserting personal needs and boundaries",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to assert needs can lead to increased uncertainty and anxiety about future decisions, as individuals may feel less confident in their choices.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape emotional responses, which can influence how curiosity and exploration are used for emotional regulation.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape emotional responses that influence how individuals perceive and manage their reliance on others, potentially leading to tension.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape emotional responses, which can influence how individuals manage family dynamics and emotional responsibilities.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape emotional responses, leading to self-doubt and fear of failure when pursuing goals.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape emotional responses, leading to feelings of embarrassment and shame regarding financial struggles.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can lead to emotional responses that inhibit the ability to assert needs and boundaries.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape emotional responses that may lead to guilt or anxiety when prioritizing self-care, thus inhibiting the ability to balance responsibilities.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape emotional responses, leading to heightened sensitivity to the fear of disappointing others.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current emotional responses and behaviors",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape emotional responses, which may amplify feelings of uncertainty and anxiety when making future decisions.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-care can lead to a heightened need for emotional regulation, which may be facilitated by curiosity and exploration of bodily sensations.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-care can lead to increased reliance on others, creating tension between the desire for independence and the need for support.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to balance self-care often leads to neglecting personal needs, which can exacerbate the emotional strain in complex family dynamics.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance self-care can lead to self-doubt and fear of failure, as neglecting personal needs may undermine confidence in achieving goals.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance self-care can lead to feelings of inadequacy, which may exacerbate embarrassment and shame about financial issues.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to balance self-care often leads to difficulty in asserting personal needs, as individuals may prioritize others' needs over their own.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance self-care can lead to emotional responses that are influenced by past experiences, potentially suppressing healthy emotional processing.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to balance self-care often amplifies the fear of disappointing others, as individuals may feel guilty for prioritizing their own needs.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggling to balance self-care with responsibilities towards others",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to balance self-care often leads to increased uncertainty and anxiety about future decisions, as individuals may feel overwhelmed by their responsibilities.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of disappointing others may inhibit emotional regulation by causing avoidance of exploration and curiosity about one's own feelings.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of disappointing others may inhibit the ability to seek financial independence, creating tension between reliance and autonomy.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of disappointing others often amplifies the emotional responsibilities felt in complex family dynamics, leading to heightened sensitivity and engagement in those situations.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of disappointing others can amplify self-doubt and fear of failure, as individuals may internalize the pressure to meet expectations.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of disappointing others may inhibit the expression of embarrassment and shame, as individuals might suppress these feelings to avoid further disappointment.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of disappointing others often leads to avoidance of asserting one's own needs, creating a strong inhibitory relationship.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of disappointing others can be shaped by past experiences, influencing current emotional responses.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of disappointing others can lead to neglecting self-care, as individuals prioritize others' needs over their own.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Fear of disappointing or hurting others due to personal circumstances",
+        "Uncertainty and anxiety about the future and making life decisions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of disappointing others can amplify feelings of uncertainty and anxiety about future decisions, as individuals may worry about the potential impact of their choices on others.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Emotional regulation through curiosity and exploration of bodily sensations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Curiosity and exploration can help mitigate feelings of uncertainty and anxiety by promoting a sense of agency and understanding.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Tension between independence and reliance on others for financial support"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about the future can amplify the tension between wanting to be independent and needing financial support, as uncertainty may lead to increased reliance on others.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Navigating complex family dynamics and emotional responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about the future can amplify the stress of managing family dynamics, as individuals may feel more overwhelmed by emotional responsibilities.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Self-doubt and fear of failure in achieving personal goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty and anxiety can amplify self-doubt and fear of failure, as individuals may question their abilities and decisions when faced with unclear outcomes.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Embarrassment and shame related to financial struggles"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about the future can amplify feelings of embarrassment and shame, particularly when financial struggles are involved, as uncertainty may lead to negative self-evaluation.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Difficulty in asserting personal needs and boundaries"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about the future can lead to difficulty in asserting needs, as individuals may prioritize avoiding conflict or uncertainty over expressing their boundaries.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Impact of past experiences on current emotional responses and behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about the future can be influenced by past experiences, which shape emotional responses and decision-making.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Struggling to balance self-care with responsibilities towards others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about the future can lead to prioritizing responsibilities over self-care, creating a conflict that inhibits effective self-care practices.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Uncertainty and anxiety about the future and making life decisions",
+        "Fear of disappointing or hurting others due to personal circumstances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about the future can amplify fears of disappointing others, as individuals may worry about the consequences of their decisions on others' feelings.",
+      "pair_label": 85
+    }
+  ]
+}

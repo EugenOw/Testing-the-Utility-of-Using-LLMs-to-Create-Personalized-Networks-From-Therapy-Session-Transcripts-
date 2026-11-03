@@ -1,0 +1,1221 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance.",
+        "Difficulty in articulating emotions linked to unresolved feelings from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can heighten anxiety and guilt, making it harder to express emotions, especially those tied to past experiences.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance.",
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame increases guilt and anxiety, which may lead individuals to engage in self-soothing behaviors as a way to cope, suggesting an inhibitory relationship where the former drives the latter.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance.",
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can amplify feelings of inadequacy, contributing to imposter syndrome.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance.",
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can inhibit self-compassion, creating tension when facing mistakes, as guilt and anxiety may overshadow compassionate responses.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance.",
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion directly counters the negative effects of self-blame, reducing guilt and anxiety.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance.",
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and the resulting guilt and anxiety can inhibit the ability to practice self-compassion, especially during uncertain times in relationships.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance.",
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame amplifies feelings of guilt and anxiety, which in turn drive avoidance behaviors, creating a reinforcing cycle.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance.",
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder the ability to practice self-compassion, making it difficult to grow and hold oneself accountable.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions linked to unresolved feelings from the past",
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved feelings can lead to difficulty in expressing emotions, which may contribute to self-blame, thereby reinforcing guilt and anxiety.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions linked to unresolved feelings from the past",
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved feelings can hinder effective emotional expression, leading individuals to rely on self-soothing behaviors to manage their emotional distress.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions linked to unresolved feelings from the past",
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved feelings can hinder emotional expression, contributing to feelings of inadequacy and imposter syndrome.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions linked to unresolved feelings from the past",
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved feelings can hinder emotional expression, leading to increased self-blame and reduced self-compassion.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions linked to unresolved feelings from the past",
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in articulating emotions can inhibit the ability to practice self-compassion, as unresolved feelings may prevent acceptance and acknowledgment of one's emotional state.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions linked to unresolved feelings from the past",
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved feelings can hinder emotional expression, increasing the need for self-compassion during uncertain relational dynamics.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions linked to unresolved feelings from the past",
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved feelings can hinder emotional expression, which may contribute to guilt and anxiety, leading to avoidance behaviors.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating emotions linked to unresolved feelings from the past",
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved feelings can hinder self-compassion, making it difficult to balance personal growth with accountability.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety.",
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-soothing behaviors may help mitigate the effects of self-blame, reducing guilt and anxiety, but their effectiveness can vary based on individual circumstances.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety.",
+        "Difficulty in articulating emotions linked to unresolved feelings from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-soothing behaviors may temporarily alleviate guilt and anxiety, which can inhibit the processing and articulation of unresolved emotions.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety.",
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-soothing behaviors may help mitigate feelings of guilt and anxiety, which can reduce the intensity of imposter syndrome.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety.",
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-soothing behaviors can help mitigate feelings of guilt and anxiety, which may reduce the intensity of self-blame and promote self-compassion.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety.",
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may reduce the reliance on self-soothing behaviors by promoting acceptance of emotions, thereby alleviating guilt and anxiety.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety.",
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-soothing behaviors can enhance self-compassion by providing emotional relief during uncertain times.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety.",
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-soothing behaviors can temporarily alleviate guilt and anxiety, but may also reinforce avoidance, creating a cycle of emotional distress.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety.",
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-soothing behaviors may temporarily alleviate feelings of guilt and anxiety, which can inhibit the process of self-reflection necessary for balancing self-compassion with accountability.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough.",
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Imposter syndrome can lead to self-blame, which in turn amplifies feelings of guilt and anxiety, creating a feedback loop that exacerbates avoidance behaviors.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough.",
+        "Difficulty in articulating emotions linked to unresolved feelings from the past."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough.",
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Imposter syndrome can lead to heightened anxiety and guilt, which may prompt the use of self-soothing behaviors as a way to manage these negative emotions.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough.",
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Imposter syndrome can lead to increased self-blame, which may inhibit self-compassion, creating tension in how one responds to mistakes.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough.",
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the negative feelings associated with imposter syndrome by promoting acceptance and reducing self-criticism.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough.",
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Imposter syndrome can lead to increased feelings of inadequacy, which may heighten the need for self-compassion during uncertain times.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough.",
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Imposter syndrome can amplify feelings of guilt and anxiety, leading to avoidance behaviors as individuals try to cope with their perceived inadequacies.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough.",
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Imposter syndrome can lead to self-criticism, which may inhibit self-compassion, making it harder to balance personal growth and accountability.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks.",
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame counteracts self-compassion, leading to increased guilt and anxiety, which reinforces avoidance behaviors.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks.",
+        "Difficulty in articulating emotions linked to unresolved feelings from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can inhibit emotional expression by creating a barrier to processing past feelings, leading to difficulty in articulating emotions.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks.",
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to increased guilt and anxiety, which may trigger the use of self-soothing behaviors as a way to cope, thereby inhibiting the ability to practice self-compassion.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks.",
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can exacerbate feelings of inadequacy, contributing to imposter syndrome, while self-compassion may mitigate these feelings.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks.",
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help alleviate self-blame, thereby reducing guilt and anxiety, indicating a supportive relationship.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks.",
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can mitigate self-blame, especially during uncertain times, suggesting a supportive relationship.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks.",
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can inhibit self-compassion, leading to increased guilt and anxiety, which in turn may result in avoidance behaviors.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks.",
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between self-compassion and self-blame can inhibit the ability to balance self-compassion with accountability, as excessive self-blame may hinder personal growth.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions.",
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion directly counters the effects of self-blame, reducing feelings of guilt and anxiety.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions",
+        "Difficulty in articulating emotions linked to unresolved feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may help individuals process and articulate emotions more effectively, thereby reducing the difficulty associated with unresolved feelings.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions.",
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance emotional regulation by fostering acceptance, which may lead to more effective use of self-soothing behaviors.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions.",
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate feelings of inadequacy and anxiety associated with imposter syndrome by promoting acceptance and reducing self-criticism.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions.",
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can counteract self-blame, but the tension indicates that this relationship may vary depending on the context of the mistakes.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions",
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion helps individuals manage their emotions, which is particularly beneficial during uncertain relationship states, reinforcing the need for self-compassion.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions.",
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion can significantly mitigate feelings of guilt and anxiety, thereby reducing the likelihood of avoidance behaviors that worsen these feelings.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions.",
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can inhibit excessive guilt and anxiety, which may conflict with the drive for personal growth and accountability.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships",
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can counteract the negative effects of self-blame, reducing guilt and anxiety.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships",
+        "Difficulty in articulating emotions linked to unresolved feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may help mitigate the emotional distress caused by unresolved feelings, making it easier to articulate emotions.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships",
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance emotional regulation by promoting healthier coping strategies, such as self-soothing behaviors, during times of uncertainty.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships",
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may help mitigate feelings of inadequacy and self-doubt associated with imposter syndrome, particularly in uncertain situations.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships",
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate self-blame during setbacks, but the tension suggests a struggle between these processes.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships",
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion helps individuals navigate uncertainty in relationships by reducing negative emotions like guilt and anxiety, thereby reinforcing the need for self-compassion.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships.",
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can mitigate feelings of guilt and anxiety, reducing the likelihood of avoidance behaviors.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships",
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may inhibit the drive for personal growth and accountability, as individuals may become overly lenient with themselves during setbacks.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety.",
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame intensifies feelings of guilt and anxiety, which in turn drive avoidance behaviors, creating a reinforcing cycle.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety.",
+        "Difficulty in articulating emotions linked to unresolved feelings from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and anxiety can hinder emotional expression, making it difficult to articulate unresolved feelings.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety.",
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The use of phone games as a coping mechanism reinforces the cycle of guilt and anxiety, leading to increased avoidance behaviors.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety.",
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of guilt and anxiety can amplify feelings of inadequacy, contributing to imposter syndrome.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety.",
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and anxiety can intensify the internal conflict between self-compassion and self-blame, as avoidance behaviors may prevent resolution and reinforce negative self-perceptions.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety.",
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the negative effects of guilt and anxiety, reducing the tendency to engage in avoidance behaviors.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety.",
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Guilt and anxiety can hinder the ability to practice self-compassion, as negative emotions may lead to avoidance rather than acceptance.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety.",
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance behaviors stemming from guilt and anxiety can hinder the ability to engage in self-compassion and accountability, creating a conflict between personal growth and emotional well-being.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks.",
+        "Self-blame reinforces guilt and anxiety, perpetuating a cycle of avoidance."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-compassion can lead to self-blame, which in turn reinforces guilt and anxiety, making it harder to engage in personal growth.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks.",
+        "Difficulty in articulating emotions linked to unresolved feelings from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-compassion may inhibit the ability to express emotions related to past experiences, as individuals may avoid confronting these feelings to maintain a sense of accountability.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks.",
+        "Emotional regulation through self-soothing behaviors, such as phone games, serves as a coping mechanism for guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing self-compassion and accountability may lead to emotional distress, prompting the use of self-soothing behaviors to manage guilt and anxiety.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks.",
+        "Imposter syndrome stems from perceived inadequacy in work role, fueled by feelings of not knowing enough."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-compassion can exacerbate feelings of inadequacy, contributing to imposter syndrome.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks.",
+        "Tension between self-compassion and self-blame in response to mistakes and setbacks."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing self-compassion with accountability can reduce self-blame, as a focus on growth may inhibit negative self-judgment.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks.",
+        "Self-compassion as a means to reduce guilt and anxiety by acknowledging and accepting emotions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate feelings of guilt and anxiety, thereby facilitating personal growth and accountability when facing mistakes.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks.",
+        "The need for self-compassion in the face of uncertainty and limbo states in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve self-compassion, suggesting that the challenge of balancing it with accountability can enhance the need for self-compassion during uncertain relational states.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Challenge of balancing self-compassion with the need for personal growth and accountability in the face of mistakes and setbacks.",
+        "Guilt and anxiety over mistakes and setbacks lead to avoidance behaviors, such as phone games, which exacerbate feelings of guilt and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-compassion can increase guilt and anxiety, which in turn may lead to avoidance behaviors that further hinder personal growth.",
+      "pair_label": 3
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Embracing Imperfection and Progress",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Balancing Structure and Flexibility",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Overcoming Perfectionism and Self-Criticism",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Managing Energy and Motivation",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 5": {
+        "Title": "Exploring Personal Accomplishments and Goals",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 6": {
+        "Title": "Adapting to New Strategies and Tools",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Embracing imperfection and progress enables balancing structure and flexibility"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Balancing structure and flexibility can sometimes hinder embracing imperfection and progress"
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Embracing imperfection and progress helps overcome perfectionism and self-criticism"
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Overcoming perfectionism and self-criticism can sometimes hinder embracing imperfection and progress"
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Balancing structure and flexibility helps manage energy and motivation"
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Managing energy and motivation can sometimes hinder balancing structure and flexibility"
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 5"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Overcoming perfectionism and self-criticism enables exploring personal accomplishments and goals"
+      },
+      {
+        "input_themes": [
+          "Theme 5",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Exploring personal accomplishments and goals can sometimes hinder overcoming perfectionism and self-criticism"
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 6"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Managing energy and motivation helps adapting to new strategies and tools"
+      },
+      {
+        "input_themes": [
+          "Theme 6",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Adapting to new strategies and tools can sometimes hinder managing energy and motivation"
+      },
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 6"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 6"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 6"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Theme 5",
+          "Theme 6"
+        ],
+        "connection": [
+          0
+        ]
+      }
+    ]
+  }
+}

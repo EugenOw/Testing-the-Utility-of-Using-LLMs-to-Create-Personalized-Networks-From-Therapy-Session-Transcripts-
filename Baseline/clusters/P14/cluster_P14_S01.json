@@ -1,0 +1,226 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Self-Validation through External Sources",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Perfectionism and Self-Criticism",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Identity and Self-Image",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Prioritization and Procrastination",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Emotional Regulation and Coping",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 6": {
+      "Title": "Self-Awareness and Reflection",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 7": {
+      "Title": "Practical Problem-Solving and Resource Utilization",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 8": {
+      "Title": "Social Support and Relationships",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 9": {
+      "Title": "Time Management and Planning",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 10": {
+      "Title": "Cognitive Distortions and Realism",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-validation through external sources can reinforce perfectionism and self-criticism."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perfectionism and self-criticism can impact identity and self-image."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Identity and self-image can influence prioritization and procrastination."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prioritization and procrastination can affect emotional regulation and coping."
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional regulation and coping can impact self-awareness and reflection."
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 7"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and reflection can inform practical problem-solving and resource utilization."
+    },
+    {
+      "input_themes": [
+        "Theme 7",
+        "Theme 8"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Practical problem-solving and resource utilization can involve social support and relationships."
+    },
+    {
+      "input_themes": [
+        "Theme 8",
+        "Theme 9"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social support and relationships can impact time management and planning."
+    },
+    {
+      "input_themes": [
+        "Theme 9",
+        "Theme 10"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Time management and planning can be influenced by cognitive distortions and realism."
+    },
+    {
+      "input_themes": [
+        "Theme 10",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive distortions and realism can challenge self-validation through external sources."
+    }
+  ]
+}

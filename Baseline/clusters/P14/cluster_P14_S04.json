@@ -1,0 +1,182 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Difficulty with focus and concentration due to racing thoughts",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "Physical sensations associated with thought tunnel",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "Breathing patterns and emotional state",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "Worry and rumination",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "Frustration and self-sabotaging behaviors",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 6": {
+      "Title": "Therapeutic worksheets and self-reflection",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 7": {
+      "Title": "External triggers and emotional impact",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 8": {
+      "Title": "Self-awareness and emotional regulation",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Racing thoughts lead to physical sensations"
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Physical sensations influence breathing patterns"
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Breathing patterns may contribute to worry and rumination"
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Worry and rumination lead to frustration and self-sabotaging behaviors"
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Therapeutic worksheets may help reduce self-sabotaging behaviors"
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 7"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Therapeutic worksheets may help process external triggers"
+    },
+    {
+      "input_themes": [
+        "Theme 7",
+        "Theme 8"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "External triggers impact self-awareness and emotional regulation"
+    },
+    {
+      "input_themes": [
+        "Theme 8",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and emotional regulation may reduce racing thoughts"
+    }
+  ]
+}

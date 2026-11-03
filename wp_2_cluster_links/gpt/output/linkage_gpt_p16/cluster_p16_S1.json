@@ -1,0 +1,2030 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame.",
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to change behavior can lead to feelings of worthlessness, which in turn reinforces negative body image issues.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame.",
+        "Negative self-criticism fuels unhealthy eating and body image difficulties."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with behavior change and self-blame can lead to negative self-criticism, which in turn exacerbates unhealthy eating and body image issues.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame",
+        "Relationship distress is tied to feelings of worthlessness and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve self-blame, which can exacerbate feelings of worthlessness and contribute to relationship distress.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame.",
+        "Procrastination and self-blame are interconnected, forming a vicious cycle."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to change behavior can lead to procrastination and self-blame, which in turn reinforces the cycle of procrastination and self-blame.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame.",
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with behavior change can lead to self-blame, which may exacerbate feelings of worthlessness and low self-esteem, creating a cycle of negative self-perception.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame",
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to change behavior can lead to self-blame, which in turn reinforces negative self-criticism, creating a cycle that amplifies both procrastination and self-blame.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame.",
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve procrastination and self-blame, suggesting that difficulties in changing behavior can amplify struggles in doing good.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame.",
+        "Worthlessness and self-blame are key factors in the client's emotional distress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to change behavior often leads to self-blame, which can amplify feelings of worthlessness and emotional distress.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior is linked to procrastination and self-blame.",
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to change behavior can lead to procrastination and self-blame, which may inhibit motivation for healthy eating and exercise, contributing to body image issues and low self-esteem.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Struggling to change behavior is linked to procrastination and self-blame."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of worthlessness can lead to self-blame and procrastination, making it harder to change behavior.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Negative self-criticism fuels unhealthy eating and body image difficulties."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes contribute to a cycle of negative self-perception and body image issues, where worthlessness amplifies self-criticism, leading to unhealthy behaviors.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Relationship distress is tied to feelings of worthlessness and self-blame."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness can amplify relationship distress by fostering self-blame, creating a cycle that intensifies both issues.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Procrastination and self-blame are interconnected, forming a vicious cycle."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve negative self-perception and can amplify each other, as feelings of worthlessness may lead to procrastination and self-blame, creating a cycle of negative reinforcement.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness amplify body image issues, creating a cycle where negative self-perception reinforces low self-esteem.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes involve negative self-perception and contribute to a cycle of self-criticism, amplifying feelings of worthlessness and body image issues.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness can intensify body image issues, which in turn may lead to struggles with self-worth and contribute to procrastination and self-blame.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Worthlessness and self-blame are key factors in the client's emotional distress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The feeling of worthlessness amplifies emotional distress by reinforcing negative self-perceptions and self-blame.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness can lead to negative body image, which in turn may drive unhealthy eating and lack of exercise, creating a cycle that reinforces both issues.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties",
+        "Struggling to change behavior is linked to procrastination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-criticism can lead to feelings of inadequacy, which may exacerbate procrastination and self-blame when attempting to change unhealthy behaviors.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-criticism can lead to feelings of worthlessness, which in turn reinforces body image issues, creating a cycle that amplifies both processes.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties",
+        "Relationship distress is tied to feelings of worthlessness and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-criticism can lead to feelings of worthlessness, which may exacerbate relationship distress through self-blame.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties",
+        "Procrastination and self-blame are interconnected, forming a vicious cycle"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-criticism can lead to procrastination and self-blame, creating a cycle that exacerbates both unhealthy eating and body image issues.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-criticism can exacerbate body image issues, leading to feelings of worthlessness and low self-esteem, creating a reinforcing cycle.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties",
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-criticism can lead to self-blame, which in turn reinforces negative self-criticism, creating a cycle that exacerbates unhealthy eating and body image issues.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-criticism can exacerbate body image issues, which may lead to procrastination and self-blame in efforts to improve oneself.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+        "Worthlessness and self-blame are key factors in the client's emotional distress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-criticism can amplify feelings of worthlessness and self-blame, leading to increased emotional distress.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-criticism can lead to unhealthy eating behaviors, which in turn exacerbate body image issues and contribute to low self-esteem.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Struggling to change behavior is linked to procrastination and self-blame."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of worthlessness and self-blame can amplify procrastination, as individuals may avoid tasks due to negative self-perception.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness from relationship distress can amplify body image issues, creating a cycle of negative self-perception.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Negative self-criticism fuels unhealthy eating and body image difficulties."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of worthlessness and self-blame can lead to negative self-criticism, which in turn may contribute to unhealthy eating behaviors and body image issues.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Procrastination and self-blame are interconnected, forming a vicious cycle."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of worthlessness and self-blame can exacerbate procrastination, creating a cycle where distress leads to avoidance behaviors.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes involve feelings of worthlessness, suggesting that distress in relationships can amplify body image issues.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Relationship distress can lead to feelings of worthlessness and self-blame, which in turn can exacerbate negative self-criticism, creating a reinforcing cycle.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of worthlessness and self-blame can amplify struggles with procrastination and self-image, creating a cycle of distress.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Worthlessness and self-blame are key factors in the client's emotional distress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Relationship distress amplifies feelings of worthlessness and self-blame, which in turn significantly contribute to emotional distress.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Relationship distress is tied to feelings of worthlessness and self-blame.",
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of worthlessness and self-blame can lead to unhealthy coping mechanisms, such as poor eating habits and inactivity, which in turn exacerbate body image issues and low self-esteem.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination often leads to self-blame, which in turn can exacerbate procrastination, creating a reinforcing cycle.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior",
+        "procrastination"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to change behavior can lead to increased procrastination, as individuals may avoid tasks they find challenging.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder efforts to change behavior, as individuals may feel demotivated and trapped in negative thought patterns.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination leads to self-blame, which in turn can increase the likelihood of further procrastination, creating a reinforcing cycle.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "self-blame",
+        "worthlessness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can contribute to feelings of worthlessness, which may exacerbate negative self-perceptions and body image issues.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "worthlessness",
+        "body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness can significantly worsen body image issues, creating a self-reinforcing pattern.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination often leads to self-blame, creating a cycle where one reinforces the other.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "self-blame",
+        "Negative self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame can intensify negative self-criticism, contributing to unhealthy eating and body image issues.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination often leads to self-blame, creating a cycle where avoidance reinforces negative self-perception.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "self-blame",
+        "relationship distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of self-blame contribute to relationship distress by fostering feelings of worthlessness and impacting interpersonal dynamics.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination often leads to self-blame, creating a cycle where each process amplifies the other.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Body image issues",
+        "feelings of worthlessness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative body image can significantly contribute to feelings of worthlessness, reinforcing low self-esteem.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination leads to self-blame for not meeting expectations, which in turn can exacerbate procrastination, creating a reinforcing cycle.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Self-blame",
+        "Negative self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame fuels negative self-criticism, and this criticism can further intensify feelings of self-blame, reinforcing the relationship.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination leads to self-blame, creating a cycle that reinforces both processes.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "struggling to do good"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination can hinder efforts to do well, contributing to feelings of inadequacy.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "self-blame",
+        "struggling to do good"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can exacerbate the struggle to perform well, as negative self-perception affects motivation.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Procrastination may indirectly affect body image issues by delaying self-care activities.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "self-blame",
+        "body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame often intensifies negative body image, as individuals may criticize themselves harshly.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination often leads to self-blame, creating a cycle that reinforces both processes.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "self-blame",
+        "worthlessness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame contributes to feelings of worthlessness, intensifying emotional distress.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "worthlessness",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness can lead to self-blame, further exacerbating emotional issues.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination often leads to self-blame, creating a cycle where each process reinforces the other.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating",
+        "lack of exercise"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unhealthy eating and lack of exercise can both contribute to body image issues and low self-esteem, reinforcing negative self-perceptions.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem",
+        "Struggling to change behavior is linked to procrastination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-perception can amplify procrastination and self-blame, as feelings of worthlessness may hinder motivation to change behavior.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness amplify body image issues, creating a cycle where negative self-perception reinforces low self-esteem.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+        "Negative self-criticism fuels unhealthy eating and body image difficulties."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Body image issues and feelings of worthlessness can amplify negative self-criticism, which in turn exacerbates unhealthy eating behaviors and further deteriorates body image.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+        "Relationship distress is tied to feelings of worthlessness and self-blame."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Body image issues can exacerbate feelings of worthlessness, which in turn can lead to relationship distress and self-blame.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+        "Procrastination and self-blame are interconnected, forming a vicious cycle."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Body image issues can lead to feelings of worthlessness, which in turn can fuel self-blame and negative self-criticism, creating a reinforcing cycle.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Body image issues can exacerbate feelings of worthlessness, which may lead to struggles with self-acceptance and contribute to procrastination and self-blame.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+        "Worthlessness and self-blame are key factors in the client's emotional distress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Body image issues can amplify feelings of worthlessness and self-blame, leading to increased emotional distress.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Body image issues can lead to feelings of worthlessness and low self-esteem, which in turn may drive unhealthy eating and lack of exercise, creating a reinforcing cycle.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+        "Struggling to change behavior is linked to procrastination and self-blame."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame can exacerbate negative self-criticism, which in turn can hinder efforts to change behavior, creating a cycle that reinforces procrastination.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Worthlessness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and negative self-criticism can intensify feelings of worthlessness, creating a cycle that exacerbates body image issues.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Negative self-criticism fuels unhealthy eating and body image difficulties"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and negative self-criticism create a cycle that exacerbates negative self-perception, leading to unhealthy eating behaviors and body image issues.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Relationship distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and negative self-criticism can exacerbate feelings of worthlessness, which in turn intensifies relationship distress, creating a reinforcing cycle.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Procrastination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and negative self-criticism can exacerbate procrastination, creating a cycle where negative feelings lead to avoidance behaviors.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and negative self-criticism can exacerbate body image issues, as negative self-perception often leads to feelings of worthlessness and low self-esteem.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Struggling to do good"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and negative self-criticism can amplify feelings of inadequacy, making it harder to strive for positive outcomes.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Procrastination"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-talk can lead to avoidance behaviors like procrastination, as individuals may fear failure or further self-criticism.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-perception can exacerbate body image issues, as self-blame reinforces dissatisfaction with oneself.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Worthlessness and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame amplifies feelings of worthlessness, creating a cycle of emotional distress.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "Unhealthy eating and lack of exercise"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and negative self-criticism can lead to unhealthy coping mechanisms, such as unhealthy eating and lack of exercise, as individuals may engage in these behaviors to cope with their negative self-perception.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Self-blame and negative self-criticism",
+        "body image issues and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and negative self-criticism directly contribute to body image issues and low self-esteem, as they reinforce negative beliefs about oneself.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise",
+        "body image issues and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unhealthy eating and lack of exercise can exacerbate body image issues and low self-esteem, creating a cycle of negative self-perception.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Struggling to do good",
+        "Struggling to change behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve a struggle that can amplify feelings of procrastination and self-blame, leading to a cyclical pattern of inaction.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggling to do good",
+        "Procrastination"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The difficulty in doing good often leads to procrastination as individuals may avoid tasks they feel they cannot accomplish.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggling to do good",
+        "Self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to do good can result in self-blame, as individuals may criticize themselves for perceived failures.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior",
+        "Procrastination"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The challenge of changing behavior often leads to procrastination, as individuals may delay taking action due to fear of failure.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggling to change behavior",
+        "Self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to change behavior can lead to self-blame, as individuals may feel guilty for not meeting their own expectations.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to do good can lead to feelings of worthlessness, which in turn exacerbates body image issues, creating a cycle of negative self-perception.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+        "Negative self-criticism fuels unhealthy eating and body image difficulties."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to do good can lead to self-blame and negative self-criticism, which in turn exacerbates body image issues and unhealthy eating behaviors.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Struggling to do good",
+        "Relationship distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to do good can lead to feelings of worthlessness and self-blame, which contribute to relationship distress.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-blame",
+        "Relationship distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame is a significant factor that exacerbates feelings of worthlessness, directly impacting relationship distress.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Struggling to do good",
+        "Procrastination"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to do good can lead to procrastination as individuals may avoid tasks due to fear of failure or inadequacy.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Struggling to do good",
+        "Self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to do good often results in self-blame, as individuals may criticize themselves for not meeting their own standards.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Procrastination can lead to self-blame when individuals feel guilty for not completing tasks, reinforcing negative self-perception.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination may exacerbate body image issues as avoidance of self-care or fitness activities can lead to negative self-evaluation.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Self-blame",
+        "Body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame can intensify body image issues, as individuals may internalize negative beliefs about their appearance.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Struggling to do good",
+        "Body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to do good can lead to self-blame and negative self-perception, which may contribute to body image issues.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Body image issues",
+        "Feelings of worthlessness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Body image issues often amplify feelings of worthlessness, as negative perceptions of one's body can significantly impact self-esteem.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Body image issues",
+        "Low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative body image is a key factor that contributes to low self-esteem, reinforcing a cycle of negative self-evaluation.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to do good can lead to self-blame, which in turn reinforces negative self-criticism, creating a cycle of self-reinforcement.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+        "Worthlessness and self-blame are key factors in the client's emotional distress."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to do good often leads to self-blame, which amplifies feelings of worthlessness and contributes significantly to emotional distress.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-perception and self-worth can lead to unhealthy coping mechanisms, such as poor eating habits and inactivity.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Struggling to change behavior is linked to procrastination and self-blame."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame amplifies feelings of worthlessness, which can hinder motivation and lead to procrastination.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The feelings of worthlessness contribute to emotional distress, which in turn reinforces negative body image, creating a cycle of exacerbation.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Negative self-criticism fuels unhealthy eating and body image difficulties."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness and self-blame can intensify negative self-criticism, which in turn exacerbates unhealthy eating behaviors and body image issues.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Relationship distress is tied to feelings of worthlessness and self-blame."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness and self-blame directly contribute to emotional distress, which in turn exacerbates relationship distress.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Procrastination and self-blame are interconnected, forming a vicious cycle."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame amplifies feelings of worthlessness, which can lead to procrastination, creating a cycle of emotional distress.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feelings of worthlessness can amplify body image issues, as low self-esteem often leads to negative perceptions of one's body.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The feelings of worthlessness can amplify self-blame, which in turn reinforces negative self-criticism, creating a cycle of emotional distress.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and feelings of worthlessness can amplify the struggle to do good, leading to increased procrastination and further emotional distress.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Worthlessness and self-blame are key factors in the client's emotional distress.",
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feelings of worthlessness and self-blame can lead to unhealthy coping mechanisms, such as poor eating habits and inactivity, which in turn exacerbate body image issues and low self-esteem.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem",
+        "Struggling to change behavior is linked to procrastination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Body image issues and low self-esteem can inhibit motivation to change behaviors, leading to procrastination and self-blame.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem.",
+        "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unhealthy behaviors contribute to negative self-perception, which can intensify feelings of worthlessness, creating a cycle that worsens body image issues.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem",
+        "Negative self-criticism fuels unhealthy eating and body image difficulties"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-criticism can exacerbate body image issues and low self-esteem, leading to unhealthy eating and lack of exercise.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem",
+        "Relationship distress is tied to feelings of worthlessness and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Body image issues and low self-esteem can exacerbate feelings of worthlessness and self-blame in relationships, creating a cycle of distress.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem",
+        "Procrastination and self-blame are interconnected, forming a vicious cycle."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem",
+        "Body image issues are closely related to feelings of worthlessness and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unhealthy eating and lack of exercise contribute to negative body image, which in turn exacerbates feelings of worthlessness and low self-esteem.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem",
+        "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unhealthy behaviors can lead to negative self-perception, which may increase self-blame and criticism, creating a cycle of low self-esteem.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem",
+        "Struggling to do good is connected to procrastination, self-blame, and body image issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Body image issues from unhealthy habits can amplify feelings of self-blame and procrastination in striving to do well.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem",
+        "Worthlessness and self-blame are key factors in the client's emotional distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Body image issues and low self-esteem can amplify feelings of worthlessness and self-blame, contributing to emotional distress.",
+      "pair_label": 71
+    }
+  ]
+}

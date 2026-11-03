@@ -1,0 +1,1534 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of vulnerability can inhibit emotional expression and physical affection, leading to difficulties in these areas.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can create fears that inhibit the desire for intimacy, affecting current expectations.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of vulnerability can inhibit the ability to balance independence and interdependence, as individuals may avoid closeness to protect themselves.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between wanting intimacy and fearing vulnerability can amplify fears of abandonment, leading to a heightened need for reassurance.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of vulnerability can lead to self-judgment and criticism, as individuals may protect themselves by harshly evaluating their own and others' emotional expressions.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can hinder self-compassion, as individuals may struggle to forgive themselves when they feel exposed or judged.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The desire for emotional intimacy often heightens the need for emotional safety and trust, as vulnerability is necessary for intimacy.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between wanting intimacy and fearing vulnerability often amplifies the challenge of managing conflicting desires in relationships.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tension between desire for emotional intimacy and fear of vulnerability",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can hinder effective communication, impacting emotional intimacy.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in expressing emotions and physical affection can lead to increased tension between the desire for intimacy and the fear of being vulnerable, as the inability to communicate feelings may heighten anxiety about closeness.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenges in expressing emotions and affection can lead to negative past experiences, which may shape and inhibit current relationship expectations.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenges in expressing emotions and physical affection can hinder the ability to form interdependent relationships, leading to a struggle for balance.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with emotional expression can lead to increased anxiety about abandonment, as individuals may feel unable to communicate their needs, thus heightening their need for reassurance.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with emotional expression can lead to self-criticism and judgment of others, as individuals may feel inadequate or defensive about their emotional needs.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with emotional expression can hinder the ability to practice self-compassion and self-forgiveness, as these processes often require a degree of emotional openness and acceptance.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in expressing emotions and providing physical affection can significantly hinder the development of emotional safety and trust in relationships.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with emotional expression can hinder the ability to effectively communicate and reconcile conflicting desires in relationships.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression and physical affection",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Challenges in expressing emotions and physical affection can significantly hinder effective communication, leading to misunderstandings and reduced relational satisfaction.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape expectations, influencing the tension between wanting intimacy and fearing vulnerability.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative past experiences can lead to difficulties in expressing emotions and physical affection, as individuals may develop avoidance or fear based on previous relationships.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences shape expectations, which can influence how individuals navigate their need for independence versus interdependence.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationship experiences significantly shape current expectations, often leading to heightened fears of abandonment and a greater need for reassurance.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape current expectations, leading to increased self-criticism and judgment of others based on those expectations.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative past experiences can lead to lower self-compassion and hinder self-forgiveness, affecting current relationship expectations.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape expectations, influencing the perceived need for emotional safety and trust in current relationships.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape expectations, which can complicate the navigation of conflicting desires in current relationships.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Impact of past relationship experiences on current relationship expectations",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape expectations, which can influence the need for effective communication in current relationships.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle for independence can amplify the fear of vulnerability, as individuals may feel torn between wanting closeness and maintaining autonomy.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance independence and interdependence can lead to difficulties in expressing emotions and showing affection, as individuals may fear vulnerability or rejection.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape expectations, influencing how one navigates the balance between independence and interdependence.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle for independence can heighten fears of abandonment, leading to a greater need for reassurance.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with independence and interdependence can lead to self-judgment and criticism, as individuals may feel inadequate in their relational roles.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with independence and interdependence can lead to self-criticism, which inhibits self-compassion and self-forgiveness.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A struggle for balance in relationships can lead to a greater emphasis on the need for emotional safety and trust, as individuals seek reassurance while navigating their independence.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to balance independence and interdependence often amplifies the challenge of navigating conflicting desires and needs, as individuals may feel torn between personal autonomy and relational obligations.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggle to balance independence and interdependence in relationships",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help individuals navigate their struggle between independence and interdependence, reinforcing the need for clarity and understanding in relationships.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment can heighten the need for reassurance, which in turn intensifies the tension between wanting intimacy and fearing vulnerability.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to heightened need for reassurance, which may simultaneously contribute to difficulties in expressing emotions and physical affection due to anxiety or fear of rejection.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment often stems from past negative experiences, leading to heightened need for reassurance, which in turn shapes current relationship expectations.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment can heighten the need for reassurance, which complicates the ability to maintain a healthy balance between independence and interdependence.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment may lead to self-criticism and judgment of others as a defense mechanism to seek reassurance.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to a lack of self-compassion, as individuals may focus on external validation rather than forgiving themselves.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment often drives the need for reassurance, which in turn emphasizes the importance of emotional safety and trust in relationships.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can amplify the need for reassurance, complicating the ability to navigate conflicting desires and needs.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment and need for reassurance in relationships",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to a heightened need for reassurance, which in turn necessitates effective communication to express those needs.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-judgment and criticism can lead to increased fear of vulnerability, thereby inhibiting emotional intimacy.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Judging and criticizing oneself can lead to emotional suppression, making it difficult to express feelings and engage in physical affection.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Judging and criticizing oneself can lead to negative expectations in relationships, influenced by past experiences.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Judging and criticizing can lead to difficulties in forming balanced relationships, as it may suppress the ability to connect and collaborate with others.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can lead to heightened fear of abandonment, as individuals may feel unworthy of love and reassurance.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Judging and criticizing oneself and others often leads to a lack of self-compassion and difficulty in forgiving oneself, reinforcing negative self-perceptions.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Judging and criticizing can undermine emotional safety and trust, leading to relational conflict.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Judging and criticizing oneself and others can create barriers to effectively navigating conflicting desires and needs, leading to avoidance or conflict.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tendency to judge and criticize self and others",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Judging and criticizing can hinder open communication, leading to misunderstandings and conflict in relationships.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-compassion can lead to increased fear of vulnerability, which may inhibit the ability to seek emotional intimacy.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-compassion can inhibit emotional expression and physical affection, as individuals may feel unworthy of love or struggle to connect emotionally.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-compassion and self-forgiveness can inhibit the ability to form positive expectations in current relationships, as unresolved past issues may lead to negative perceptions.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of self-compassion may lead to difficulties in forming healthy interdependent relationships, as individuals may struggle with self-acceptance and project those issues onto their interactions with others.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-compassion can lead to heightened fears of abandonment, as individuals may feel unworthy of love and reassurance.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with self-compassion often leads to increased self-judgment and criticism, creating a reinforcing cycle of negative self-evaluation.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-compassion can hinder the ability to establish emotional safety and trust, as individuals may project their self-judgment onto their relationships.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-compassion can hinder the ability to effectively manage and reconcile conflicting desires in relationships.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-forgiveness",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-compassion can hinder open communication, as individuals may avoid discussing feelings or vulnerabilities.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A strong sense of emotional safety and trust can significantly reduce the tension between wanting intimacy and fearing vulnerability, as it creates a secure environment for openness.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A lack of emotional safety and trust can significantly hinder one's ability to express emotions and engage in physical affection.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional safety and trust are often shaped by past experiences, which can significantly influence current expectations in relationships.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional safety and trust can enhance the ability to navigate the balance between independence and interdependence, as secure relationships provide a foundation for exploring autonomy.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional safety and trust are fundamental in reducing fear of abandonment and the need for reassurance, as they foster a secure attachment.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional safety and trust can reduce the tendency to judge and criticize, as they foster acceptance and understanding.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A lack of emotional safety and trust can hinder one's ability to practice self-compassion and self-forgiveness, as individuals may internalize negative feelings and be less forgiving towards themselves.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional safety and trust can help mitigate the challenges posed by conflicting desires and needs, promoting healthier communication and resolution.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Importance of emotional safety and trust in relationships",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional safety and trust foster open communication, enhancing relationship quality.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating conflicting desires often heightens the tension between wanting intimacy and fearing vulnerability, as individuals grapple with their emotional needs.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting desires can lead to suppression of emotional expression and affection, as individuals may feel torn between their needs.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape expectations, which can amplify the challenges faced in managing conflicting desires in current relationships.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating conflicting desires often amplifies the struggle to balance independence and interdependence, as individuals must reconcile their personal needs with relational dynamics.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting desires can heighten fears of abandonment, as individuals may seek reassurance when their needs are unmet.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting desires can lead to self-judgment and criticism, as individuals may struggle with feelings of inadequacy or guilt when they cannot meet their own or others' expectations.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with conflicting desires can lead to self-criticism, which inhibits self-compassion and self-forgiveness.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting desires can undermine emotional safety and trust, as unresolved tensions may lead to insecurity in relationships.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Challenge of navigating conflicting desires and needs in relationships",
+        "Importance of effective communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication is essential for addressing and resolving conflicting desires and needs, thereby enhancing relationship dynamics.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Tension between desire for emotional intimacy and fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help navigate the tension between wanting intimacy and fearing vulnerability, thereby reinforcing emotional connections.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Difficulty with emotional expression and physical affection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication is crucial for expressing emotions and physical affection; difficulties in these areas can hinder communication.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Impact of past relationship experiences on current relationship expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can enhance understanding and mitigate negative expectations formed from past experiences.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Struggle to balance independence and interdependence in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help individuals navigate the complexities of balancing independence and interdependence, thereby reducing struggles in relationships.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Fear of abandonment and need for reassurance in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help alleviate fears of abandonment and reduce the need for reassurance, fostering a more secure relational environment.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Tendency to judge and criticize self and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can reduce misunderstandings and judgments, leading to less criticism.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Difficulty with self-compassion and self-forgiveness"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help individuals express their feelings and needs, which may reduce difficulties with self-compassion and self-forgiveness by fostering a supportive environment.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Importance of emotional safety and trust in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication fosters emotional safety and trust, enhancing relationship quality.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Importance of effective communication in relationships",
+        "Challenge of navigating conflicting desires and needs in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication helps to address and reconcile conflicting desires and needs, facilitating better understanding and resolution.",
+      "pair_label": 46
+    }
+  ]
+}

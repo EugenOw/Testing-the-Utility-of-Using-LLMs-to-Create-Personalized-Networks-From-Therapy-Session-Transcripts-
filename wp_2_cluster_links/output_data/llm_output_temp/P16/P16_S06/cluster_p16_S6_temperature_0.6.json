@@ -1,0 +1,2598 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance reinforces negative self-talk.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame fuels avoidance",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance reinforces resistance to change.",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Tension between desire for control and fear of being perceived as pathological"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotions heightens internal conflict.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Struggle to balance self-compassion with self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance hinders self-compassion development.",
+      "pair_label": 192
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escaping uncomfortable emotions can lead to increased self-blame.",
+      "pair_label": 190
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance may hinder recognition of small successes.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance temporarily distracts from negative thoughts and emotions.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can be driven by fear of judgment.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance of emotions hinders self-compassion development.",
+      "pair_label": 193
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance reinforces emotional suppression.",
+      "pair_label": 185
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional avoidance fuels fear of emotional overwhelm.",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Urge to escape or avoid uncomfortable emotions and situations",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Escapism can stem from fear of emotional intimacy, exacerbating the struggle for balance.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-talk intensifies avoidance tendencies.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can fuel self-criticism, which in turn, suppresses emotional expression.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Tension between desire for control and fear of being perceived as pathological"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism reinforces fear of being perceived as pathological.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-talk suppresses the ability to recognize and acknowledge small achievements.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism fuels rumination.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism reinforces negative self-talk, hindering self-compassion development.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Urge to push back against perceived expectations or demands from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism may suppress the urge to assert against others' expectations as it internalizes blame and self-doubt.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism reinforces avoidance of emotional expression.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces anxiety",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism may undermine ability to seek support.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to shame",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Escaping or avoiding is a coping mechanism for unexpressed emotions.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to shame",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame and unexpressed emotions can fuel resistance to change.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to shame",
+        "Tension between desire for control and fear of being perceived as pathological"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in acknowledging and expressing emotions due to shame can contribute to reluctance to seek help, thereby increasing the tension between desire for control and fear of being perceived as pathological.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to shame",
+        "Struggle to balance self-compassion with self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame can amplify self-criticism",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to shame",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional suppression amplifies shame.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to shame",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "shame fuels fear",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to shame",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame blocks self-compassion.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and expressing emotions due to shame",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression suppression",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflict fuels negative self-talk.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Tension between desire for control and fear of being perceived as pathological"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "internal conflict resolution",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Struggle to balance self-compassion with self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can fuel resistance to change.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters avoidance",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Resisting action hinders progress recognition.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflict reinforces rumination.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Resistance to change may stem from fear of judgment.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Urge to push back against perceived expectations or demands from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Resistance fuels rebellion.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Stuck in indecision",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Resistance to change is fueled by underlying fears.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for change and resistance to taking action",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "motivation and ambivalence",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance and control are deeply intertwined as individuals may try to control their environment to avoid uncomfortable emotions, thus reinforcing the urge to escape.",
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Tension fuels self-criticism.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension from fear of being perceived as pathological may inhibit emotional expression due to shame.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Tension over control can fuel resistance to change.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The inner conflict between needing control and fearing being seen as pathological can intensify the struggle to notice progress, as the focus remains on the larger, uncontrolled aspects rather than acknowledging small victories.",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension for control can distract from rumination.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened anxiety to exert control may amplify fear of being judged or rejected.",
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Urge to push back against perceived expectations or demands from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual Reinforcement",
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety about being perceived as pathological can indirectly hinder open expression of feelings and needs.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Tension between desire for control and fear of being perceived as pathological",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of anxiety and loss of control fears.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can intensify emotional discomfort, increasing the urge to escape or avoid.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism fuels negative self-talk.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism can intensify shame.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can fuel resistance to change.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism can overshadow progress",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism amplifies fear of negative evaluation.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can suppress emotional expression.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism can lead to fear of emotional overwhelm.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Struggle to balance self-compassion with self-criticism",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can amplify feelings of inadequacy, reinforcing the need for support.",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame intensifies avoidance of emotional confrontation.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-deprecation.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame suppresses emotional expression.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame exacerbates resistance to change",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame and self-blame can lead to self-doubt, causing individuals to overlook or downplay their progress, making it difficult to recognize and acknowledge small steps towards positive change.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame and self-blame foster and intensify rumination.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame reinforces negative self-talk.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Urge to push back against perceived expectations or demands from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can inhibit the urge to assert one's needs and boundaries.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Shame and self-blame as a barrier to emotional expression and intimacy",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame and self-blame can intensify difficulty in expressing feelings and needs.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance perpetuates denial",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters negative self-perception",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fosters indecision.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Tension between desire for control and fear of being perceived as pathological"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance of acknowledgment due to perceived vulnerability.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Struggle to balance self-compassion with self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inhibiting self-criticism allows for better recognition of positive change.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-perception",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Not recognizing progress may strengthen rumination.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-talk can obscure recognition of progress.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Urge to push back against perceived expectations or demands from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Resistance to expectations can hinder acknowledgment of progress.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "limiting emotional awareness",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Underestimating small wins can amplify fears of being overwhelmed due to perceived lack of control.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing and acknowledging small steps towards positive change",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in recognizing and acknowledging small steps towards positive change can lead to feelings of frustration and low self-efficacy, which may intensify the struggle to balance the desire for independence with the need for support and connection.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Suppressed expression of emotions can lead to increased rumination",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rumination fuels indecision.",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Tension between desire for control and fear of being perceived as pathological"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rumination can fuel fear of being perceived as pathological.",
+      "pair_label": 166
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Struggle to balance self-compassion with self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rumination amplifies self-criticism.",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on negative thoughts can intensify feelings of shame and self-blame.",
+      "pair_label": 162
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative ruminations cloud perception of progress.",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination on negative thoughts and emotions can impede the development of self-compassion and effective self-talk by reinforcing negative self-perceptions.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Urge to push back against perceived expectations or demands from others"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rumination intensifies fear.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate on negative thoughts and emotions",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ruminating may intensify conflict between independence and interdependence needs.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or rejected by others",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear triggers avoidance.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or rejected by others",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "fear hinders action",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or rejected by others",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fears of judgment can overshadow recognition of progress.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or rejected by others",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Common underlying insecurities and self-doubt.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or rejected by others",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-criticism often stems from fear of external judgment.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or rejected by others",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear leads to suppressed expression.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or rejected by others",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "One fear can mitigate the other as fear of rejection can lead to emotional regulation.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or rejected by others",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased fear may impede ability to seek support.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggle to develop self-compassion and challenge negative self-talk",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance reinforces negative self-talk",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Struggle to develop self-compassion and challenge negative self-talk",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism perpetuates resistance",
+      "pair_label": 141
+    },
+    {
+      "input_processes": [
+        "Struggle to develop self-compassion and challenge negative self-talk",
+        "Struggle to balance self-compassion with self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing Cycle",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Struggle to develop self-compassion and challenge negative self-talk",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to develop self-compassion and challenge negative self-talk fosters an environment where ruminating on negative thoughts and emotions can thrive.",
+      "pair_label": 151
+    },
+    {
+      "input_processes": [
+        "Struggle to develop self-compassion and challenge negative self-talk",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk exacerbates fear of judgment.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Struggle to develop self-compassion and challenge negative self-talk",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk hinders emotional expression",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Struggle to develop self-compassion and challenge negative self-talk",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can exacerbate fears of loss of control.",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Struggle to develop self-compassion and challenge negative self-talk",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased struggle with self-compassion may heighten sensitivity to social rejection, making it harder to navigate independence and interdependence.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rebellion against external expectations can reduce self-blame.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Reacting against others' expectations can mask underlying emotions.",
+      "pair_label": 198
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Pushing back against expectations can fuel inner conflict about making changes.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Tension between desire for control and fear of being perceived as pathological"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rebellion against external expectations intensifies internal conflict over control and self-image.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Pushing back against expectations may stem from or exacerbate underlying shame and self-blame.",
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Resistance to external pressures may obscure recognition of personal progress.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Resisting external pressures may momentarily distract from rumination.",
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Pushing back against expectations can alleviate fear of judgment by asserting autonomy.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppresses authentic expression.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Urge to push back against perceived expectations or demands from others",
+        "Struggle to balance desire for independence with need for support and connection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Resistance to expectations fuels independence",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance is a coping mechanism for unexpressed emotions.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame intensifies emotional suppression.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express feelings and needs can lead to inner turmoil and indecision.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Struggle to balance self-compassion with self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased self-awareness of emotional needs can foster self-compassion.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces emotional suppression.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express feelings and needs can hinder the ability to recognize achievements as they relate to emotional and psychological growth.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intensifies negative mental states.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened fear",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inability to express feelings hinders self-compassion.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and expressing feelings and needs",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased emotional confusion",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased anxiety fuels avoidance behaviors.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear can trigger self-criticism as a maladaptive coping strategy.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear drives emotional suppression",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional overwhelm can exacerbate resistance to change.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Tension between desire for control and fear of being perceived as pathological"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforcing emotional turmoil.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Struggle to balance self-compassion with self-criticism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened emotions can trigger self-criticism.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional overwhelm can fuel shame and self-blame, creating a barrier to emotional expression and intimacy.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of losing control can hinder recognition of progress.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional overwhelm drives rumination.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Fear of being judged or rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both fears are deeply rooted in self-protection and the desire for emotional safety.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Struggle to develop self-compassion and challenge negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A fear of emotional overwhelm can lead to self-criticism, making it challenging to develop self-compassion and reframe negative self-talk.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Urge to push back against perceived expectations or demands from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of losing control can fuel resistance to external expectations.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Fear of losing control or being overwhelmed by emotions",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear can cause emotional paralysis",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Urge to escape or avoid uncomfortable emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance of emotions can intensify need for independence",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Self-criticism and negative self-talk as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict between independence and connection fuels self-doubt.",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Difficulty in acknowledging and expressing emotions due to shame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "emotional expression is suppressed due to fear of dependence",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Conflict between desire for change and resistance to taking action"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "ambivalence towards autonomy",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Shame and self-blame as a barrier to emotional expression and intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of dependence can foster shame and self-blame.",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Difficulty in recognizing and acknowledging small steps towards positive change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inhibiting self-awareness, as struggle for balance may distract from acknowledging small positive changes.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Tendency to ruminate on negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unmet emotional needs fuel rumination.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Urge to push back against perceived expectations or demands from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflicting desires and needs lead to resistance against external pressures.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Difficulty in articulating and expressing feelings and needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased struggle for independence may heighten emotional turmoil, making it harder to articulate and express feelings and needs.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Struggle to balance desire for independence with need for support and connection",
+        "Fear of losing control or being overwhelmed by emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of losing control may hinder the ability to form and maintain supportive connections, due to a perceived loss of autonomy.",
+      "pair_label": 118
+    }
+  ]
+}

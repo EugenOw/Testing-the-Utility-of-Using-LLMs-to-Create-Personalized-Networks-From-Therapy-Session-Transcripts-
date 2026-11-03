@@ -1,0 +1,204 @@
+{
+  "classified_processes": {
+    "Theme 1": {
+      "Title": "Recognizing the impact of all-or-nothing thinking on self-perception",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 2": {
+      "Title": "The struggle to separate self-worth from others' perceptions",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 3": {
+      "Title": "The influence of past experiences on current self-perception",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 4": {
+      "Title": "The desire for self-acceptance and comfort in one's own skin",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 5": {
+      "Title": "The impact of social norms and expectations on self-perception",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 6": {
+      "Title": "The struggle to balance self-expression with social expectations",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 7": {
+      "Title": "The role of mindfulness in self-acceptance and self-expression",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 8": {
+      "Title": "The impact of past experiences on current relationships and interactions",
+      "Processes": [
+        "private data"
+      ]
+    },
+    "Theme 9": {
+      "Title": "The struggle to reconcile self-perception with others' perceptions",
+      "Processes": [
+        "private data"
+      ]
+    }
+  },
+  "theme_relationships": [
+    {
+      "input_themes": [
+        "Theme 1",
+        "Theme 2"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "All-or-nothing thinking can exacerbate the struggle to separate self-worth from others' perceptions."
+    },
+    {
+      "input_themes": [
+        "Theme 2",
+        "Theme 3"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can influence the struggle to separate self-worth from others' perceptions."
+    },
+    {
+      "input_themes": [
+        "Theme 3",
+        "Theme 4"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past experiences can hinder the desire for self-acceptance and comfort in one's own skin."
+    },
+    {
+      "input_themes": [
+        "Theme 4",
+        "Theme 5"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The desire for self-acceptance and comfort in one's own skin can be influenced by social norms and expectations."
+    },
+    {
+      "input_themes": [
+        "Theme 5",
+        "Theme 6"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social norms and expectations can impact the struggle to balance self-expression with social expectations."
+    },
+    {
+      "input_themes": [
+        "Theme 6",
+        "Theme 7"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness can help balance self-expression with social expectations."
+    },
+    {
+      "input_themes": [
+        "Theme 7",
+        "Theme 8"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Mindfulness can reduce the impact of past experiences on current relationships and interactions."
+    },
+    {
+      "input_themes": [
+        "Theme 8",
+        "Theme 9"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can influence the struggle to reconcile self-perception with others' perceptions."
+    },
+    {
+      "input_themes": [
+        "Theme 9",
+        "Theme 1"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to reconcile self-perception with others' perceptions can lead to all-or-nothing thinking."
+    }
+  ]
+}

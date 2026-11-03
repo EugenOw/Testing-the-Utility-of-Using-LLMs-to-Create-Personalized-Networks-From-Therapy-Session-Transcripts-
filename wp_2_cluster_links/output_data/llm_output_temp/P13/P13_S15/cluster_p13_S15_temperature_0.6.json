@@ -1,0 +1,4198 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intertwined self-perception and emotional response.",
+      "pair_label": 274
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on others' opinions due to self-worth insecurities can lead to overgeneralizing feedback as defining one's self-worth.",
+      "pair_label": 287
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually Reinforcing",
+      "pair_label": 276
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception",
+      "pair_label": 281
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of embarrassment heightens self-worth vulnerability",
+      "pair_label": 288
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "One feeds into the other by intensifying the need for control as self-worth is heavily dependent on external validation.",
+      "pair_label": 282
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Judging oneself based on others hinders self-acceptance.",
+      "pair_label": 275
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing need for validation",
+      "pair_label": 284
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased desire for acceptance.",
+      "pair_label": 277
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intertwined mental constructs",
+      "pair_label": 271
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of context mitigates self-worth contingency on others.",
+      "pair_label": 280
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-worth tied to others' perceptions fuels the need to anticipate and assume others' thoughts.",
+      "pair_label": 286
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Tied to external validation.",
+      "pair_label": 273
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape and reinforce self-worth tied to others' perceptions.",
+      "pair_label": 279
+    },
+    {
+      "input_processes": [
+        "Struggling to separate self-worth from others' perceptions",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enables recognition of external influences on self-worth.",
+      "pair_label": 283
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social distress amplifies self-worth doubts.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inhibits open expression",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased anxiety",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired emotional regulation in social contexts may lead to self-criticism and reduced self-acceptance.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural norms can influence emotional expression",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social anxiety may trigger a struggle to balance individuality with social conformity",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional dysregulation can lead to behaviors that might be perceived as unusual, thereby increasing fear of being judged.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Escalates avoidance behaviors.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Context influences emotional regulation.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Individuals with difficulty regulating emotions in social contexts may struggle to express their needs assertively, as heightened emotional states can impair effective communication and assertive expression of needs.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can amplify difficulties in emotional regulation in social situations, especially if past experiences are traumatic or emotionally distressing.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation in social situations",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional dysregulation often necessitates self-reflection for improvement.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralizing negative feedback can amplify fear of judgment.",
+      "pair_label": 312
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overgeneralizing can lead to unrealistic expectations about others' opinions, potentially reducing the desire for social acceptance as it may seem unattainable.",
+      "pair_label": 308
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralization can amplify fear of embarrassment.",
+      "pair_label": 324
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk",
+      "pair_label": 311
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 314
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralization can lead to distorted views of social norms, making it harder to balance individuality with conformity.",
+      "pair_label": 320
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contextual consideration can counteract the tendency to overgeneralize.",
+      "pair_label": 316
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overgeneralization can lead to self-doubt and fear of rejection, making it harder to assert oneself.",
+      "pair_label": 309
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overgeneralization can amplify the perceived impact of past experiences.",
+      "pair_label": 315
+    },
+    {
+      "input_processes": [
+        "Tendency to overgeneralize from single instances",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 319
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment amplifies dependence on external validation.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened anxiety",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Hypervigilance and self-protection.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Fear may exacerbate difficulty in recognizing and challenging negative thought patterns, as the individual may be more focused on avoiding judgment rather than critically evaluating their thoughts.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear fuels desire for control.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": " Fear can be either alleviated or exacerbated by cultural norms which can either promote or counteract self-perception.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters need for validation",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reduces anxiety.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Context influences judgment.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear drives assumption",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear inhibits assertiveness",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Traumatic past experiences can exacerbate fear of being judged.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear fuels self-doubt.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Fear of being judged or evaluated by others",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fears of judgment can hinder introspection and self-awareness.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-worth dependence",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased desire for social approval can exacerbate difficulties in emotional regulation in social situations due to heightened anxiety or stress.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Individuals seeking social approval may generalize less from singular events to maintain social harmony.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Desire for social acceptance can suppress self-reflection and critical thinking about one's own negative thought patterns.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases anxiety over being judged.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Desire for acceptance can motivate seeking control in interactions to achieve approval.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "External validation vs internal self-worth",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-perception",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases tension between personal and social identity",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies anxiety about being judged",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection inhibits expression",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking external validation undermines self-assessment.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Desire for social acceptance and approval",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social pressures can hinder introspection.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-doubt",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thought patterns can amplify and trigger emotional dysregulation in social situations.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thoughts facilitate overgeneralization.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thoughts can fuel fear.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thought patterns can exacerbate fear of embarrassment",
+      "pair_label": 198
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thought patterns can amplify the need for control.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thought patterns can suppress self-compassion.",
+      "pair_label": 185
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Cultural norms may reinforce negative thought patterns.",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negative thought patterns can lead to self-doubt, increasing the struggle to assert individuality amidst social pressures.",
+      "pair_label": 193
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negative self-perception reinforces social conformity.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can fuel social anxiety, leading to increased mind-reading.",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape thought patterns.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and challenge negative thought patterns",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thought patterns hinder self-awareness.",
+      "pair_label": 192
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of embarrassment reinforces self-worth perception.",
+      "pair_label": 340
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflicting desires increase emotional arousal.",
+      "pair_label": 328
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Embarrassment fear may counteract the tendency to overgeneralize from single instances by promoting more cautious, situation-specific thinking.",
+      "pair_label": 342
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social anxiety fuels fear of judgment.",
+      "pair_label": 330
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking social approval can exacerbate the tension.",
+      "pair_label": 326
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negative thought patterns can exacerbate fear of embarrassment.",
+      "pair_label": 335
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of embarrassment hinders self-compassion.",
+      "pair_label": 329
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes involve conflicting desires for personal expression and social acceptance.",
+      "pair_label": 338
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reduces self-consciousness",
+      "pair_label": 325
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Context influences perception of fun and embarrassment.",
+      "pair_label": 334
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of embarrassment may lead to increased mind-reading due to heightened self-consciousness.",
+      "pair_label": 341
+    },
+    {
+      "input_processes": [
+        "Tension between desire for fun and fear of embarrassment",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influencing self-perception can amplify tensions between desires and fears, as past negative experiences may heighten fear of embarrassment.",
+      "pair_label": 333
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Need for control can suppress self-worth separation due to excessive focus on external validation.",
+      "pair_label": 213
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened emotional dysregulation can stem from rigid expectations of social control.",
+      "pair_label": 202
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking control can lead to overgeneralizing as a way to simplify and predict future interactions.",
+      "pair_label": 215
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking control may heighten sensitivity to judgment.",
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contrasting motivations.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rigidity in social thinking can impede cognitive flexibility to challenge negative thoughts.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High need for control and predictability may hinder self-compassion and acceptance by promoting self-criticism and perfectionism.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Cultural norms can disrupt need for control",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The need for control can clash with the desire for individuality, creating tension and struggle.",
+      "pair_label": 211
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conformity to norms",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Need for control can exacerbate social anxiety and self-consciousness.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Contextual understanding enhances control.",
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compulsive need for control feeds into excessive speculation about others' thoughts.",
+      "pair_label": 214
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Control needs may hinder self-expression.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influence the need for control.",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rigidity in social interactions hampers self-exploration and realistic self-assessment.",
+      "pair_label": 212
+    },
+    {
+      "input_processes": [
+        "Need for control and predictability in social interactions",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overemphasis on control and predictability may hinder introspection and flexibility necessary for self-awareness and personal growth.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-compassion can reinforce self-worth dependence on others",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism fuels overgeneralization.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-criticism leads to heightened fear of embarrassment.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt fuels control-seeking behavior.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal expectations can undermine self-compassion",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared roots in self-perception",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of self-acceptance may lead to increased speculation about others' judgments",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth hinders confidence in expressing needs.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences that have led to difficulty with self-compassion and self-acceptance can shape current self-perception in a negative way.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-compassion and self-acceptance",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion and self-acceptance foster a safe space for introspection and self-reflection, enabling personal growth.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Influences emotional expression in social contexts",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural norms can lead to overgeneralization.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cultural norms can exacerbate fear of judgment.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Norms shape self-image, driving desire for approval.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural and societal norms can reinforce negative thought patterns if they promote unrealistic standards or expectations.",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural norms may suppress the desire for fun if it conflicts with societal expectations.",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal norms shape expectations.",
+      "pair_label": 137
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cultural norms influence self-view, fuelling internal conflict.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conformity pressure",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural and societal norms can amplify self-consciousness, leading to increased desire for freedom from it.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared influence on social cognition",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural norms influence perceived expectations.",
+      "pair_label": 142
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Societal norms can suppress personal expression.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural norms influence the interpretation of past experiences.",
+      "pair_label": 134
+    },
+    {
+      "input_processes": [
+        "Impact of cultural and societal norms on self-perception",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cultural and societal norms can significantly influence self-perception, making it more challenging to develop a positive and realistic self-image",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both struggles stem from similar underlying insecurities about self-acceptance.",
+      "pair_label": 249
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social pressures and expectations can exacerbate difficulties with emotional regulation.",
+      "pair_label": 238
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conformity pressures can lead to a narrow perspective, potentially reducing the tendency to overgeneralize.",
+      "pair_label": 251
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social self-preservation",
+      "pair_label": 240
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies need for validation.",
+      "pair_label": 236
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social conformity often involves predictability, thereby fueling the need for control in social interactions.",
+      "pair_label": 246
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Internal conflict",
+      "pair_label": 239
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social pressures amplify individual identity struggles.",
+      "pair_label": 242
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conformity pressures suppress self-expression.",
+      "pair_label": 241
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to balance individuality with conformity often leads to heightened self-consciousness and anxiety, fueling a strong desire for freedom from these feelings.",
+      "pair_label": 235
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Contextual influence on conformity",
+      "pair_label": 244
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fears of nonconformity often fuel the need to infer others' judgments.",
+      "pair_label": 250
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflicting self-presentation",
+      "pair_label": 237
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conformity pressures can exacerbate self-image issues.",
+      "pair_label": 248
+    },
+    {
+      "input_processes": [
+        "Struggle to balance individuality with social conformity",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing and reconciling the tension between individuality and conformity fosters deeper self-reflection and awareness.",
+      "pair_label": 247
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being seen as different can lead to a heightened concern with others' perceptions, thus reinforcing the struggle to separate self-worth from these perceptions.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "fear of being different can exacerbate anxiety leading to emotional dysregulation",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Single instances of unconventional behavior can reinforce the fear of being seen as different.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "fear can lead to avoidance of self-reflection",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being seen as different hinders self-acceptance",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces social anxiety.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overcoming fear of being different for more freedom",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Context influences how differences are perceived.",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies self-consciousness and social anxiety.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Fear of being seen as different or eccentric",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of social rejection can amplify self-doubt and negative self-perception.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feedback loop",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes are closely linked as the desire for freedom from self-consciousness and social anxiety often stems from difficulties in regulating one's emotions in social situations.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Cognitive reappraisal.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety can impede cognitive capabilities.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety and self-consciousness can dampen willingness to participate in fun activities due to fear of embarrassment.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social anxiety exacerbates self-criticism.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying motivations of avoiding anxiety and seeking self-acceptance.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of perceived judgment.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social anxiety inhibits assertive expression.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past negative experiences can exacerbate self-consciousness and social anxiety, thereby inhibiting the desire for freedom from these feelings.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social anxiety can exacerbate self-consciousness, making it harder to form a positive self-image.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Desire for freedom from self-consciousness and social anxiety",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Context shapes emotional regulation.",
+      "pair_label": 166
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contextual consideration inhibits overgeneralization by providing specific details to inform judgments.",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Context influences perception of judgment.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Context influences behavior and perceptions which in turn drive the desire for social acceptance and approval.",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Context influences embarrassment fears.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Context influences need for control.",
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Contextual influences on social behavior and perceptions are often shaped by cultural and societal norms, which in turn impact self-perception.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Influences desire for social cohesion.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contextual pressures exacerbate social anxiety.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contextual awareness can temper assumptions about others' thoughts.",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contextual factors can suppress assertiveness by prioritizing social harmony over personal needs.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Context influences perception of past experiences.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Importance of context in shaping social behavior and perceptions",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contextual influences can hinder self-perception",
+      "pair_label": 176
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters hypersensitivity to perceived judgments",
+      "pair_label": 304
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased anxiety due to misinterpretation",
+      "pair_label": 292
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Assuming others' thoughts can lead to generalizing about them based on limited information.",
+      "pair_label": 305
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "heightens fear of negative judgment.",
+      "pair_label": 294
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies need for approval.",
+      "pair_label": 290
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Assuming others' judgments can reinforce self-critical thought patterns, making it harder to recognize and challenge them.",
+      "pair_label": 299
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased anxiety about others' judgments.",
+      "pair_label": 306
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fosters a need to anticipate and control others' reactions.",
+      "pair_label": 300
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism",
+      "pair_label": 293
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural norms influence how one assumes others judge them.",
+      "pair_label": 296
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased social anxiety and pressure to conform.",
+      "pair_label": 302
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Amplifies fear through perceived judgment.",
+      "pair_label": 295
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-consciousness and anxiety from assuming others' judgments fuels desire for freedom from these feelings.",
+      "pair_label": 289
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Context influences mind-reading accuracy",
+      "pair_label": 298
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Difficulty with assertiveness and expressing personal needs and desires"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mind-reading can lead to self-censorship due to anticipated negative reactions.",
+      "pair_label": 291
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences may correct or modify the tendency to mind-read by providing insights into others' actual behaviors and reactions.",
+      "pair_label": 297
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Tendency to assume others' negative thoughts fuels negative self-image",
+      "pair_label": 303
+    },
+    {
+      "input_processes": [
+        "Tendency to mind-read and assume others' thoughts and judgments",
+        "Need for self-reflection and awareness in personal growth and development"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Engaging in self-reflection helps individuals recognize and challenge their tendency to mind-read.",
+      "pair_label": 301
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of assertiveness can lead to over-reliance on external validation.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed needs contribute to emotional turmoil.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty with assertiveness may prevent individuals from openly expressing their thoughts, thereby reducing opportunities to recognize and challenge negative thought patterns, thus maintaining a cycle of negative self-talk.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Tension between desire for fun and fear of embarrassment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "unexpressed needs hinder fun",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of self-compassion can impede assertiveness.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cultural norms can suppress assertive expression.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Assertiveness struggles exacerbate conformity pressures.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Assertiveness can be a means to achieve freedom from self-consciousness and social anxiety.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape assertiveness.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Difficulty with assertiveness and expressing personal needs and desires",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Assertiveness influences self perception.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape self-perception, which can be heavily influenced by others' perceptions, thereby affecting self-worth.",
+      "pair_label": 159
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape self-perception, influencing emotional responses in social contexts.",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences influence perception of self-worth.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past Trauma",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape self-view, influencing self-compassion.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared influence on self-concept",
+      "pair_label": 152
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influencing self-perception can intensify the struggle to balance individuality and conformity.",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Contextual influences can amplify past experience impacts.",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influencing self-perception can enhance the tendency to mind-read by creating an expectation of how others perceive oneself.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Impact of past experiences on current self-perception and behavior",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past negative experiences can hinder the development of a positive self-image.",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Struggling to separate self-worth from others' perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interconnected self-concept issue",
+      "pair_label": 267
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Difficulty with emotional regulation in social situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Impaired self-image contributes to heightened emotional sensitivity.",
+      "pair_label": 256
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing self-doubt",
+      "pair_label": 258
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 254
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Inability to recognize and challenge negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thought patterns can exacerbate self-image struggles.",
+      "pair_label": 263
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-image may increase the need to control social interactions to avoid perceived negative judgments.",
+      "pair_label": 264
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image can impede self-compassion and self-acceptance.",
+      "pair_label": 257
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Struggle to balance individuality with social conformity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Societal expectations can exacerbate self-image issues.",
+      "pair_label": 266
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being seen as different reinforces negative self-image.",
+      "pair_label": 259
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-image can fuel anxiety in social settings.",
+      "pair_label": 253
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contextual factors can impede self-image development.",
+      "pair_label": 262
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fosters self-doubt",
+      "pair_label": 268
+    },
+    {
+      "input_processes": [
+        "Struggle to develop a positive and realistic self-image",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape self-perception",
+      "pair_label": 261
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Tendency to overgeneralize from single instances"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 233
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Fear of being judged or evaluated by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "fear of judgment can hinder self-reflection",
+      "pair_label": 222
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Desire for social acceptance and approval"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may reduce the need for external validation.",
+      "pair_label": 218
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Need for control and predictability in social interactions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-reflection can sometimes undermine the need for control in social situations.",
+      "pair_label": 228
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Difficulty with self-compassion and self-acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection without self-compassion can exacerbate self-criticism and hinder personal growth.",
+      "pair_label": 221
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Impact of cultural and societal norms on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforces self-awareness of cultural influences.",
+      "pair_label": 224
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Fear of being seen as different or eccentric"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness may reveal nonconformist traits, causing fear of social judgment.",
+      "pair_label": 223
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Desire for freedom from self-consciousness and social anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may heighten self-consciousness.",
+      "pair_label": 217
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Importance of context in shaping social behavior and perceptions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contextual awareness enhances self-reflection.",
+      "pair_label": 226
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Tendency to mind-read and assume others' thoughts and judgments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may reduce mind-reading by promoting internal focus",
+      "pair_label": 232
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Impact of past experiences on current self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection and awareness in personal growth and development are heavily influenced by past experiences, which shape self-perception and behavior.",
+      "pair_label": 225
+    },
+    {
+      "input_processes": [
+        "Need for self-reflection and awareness in personal growth and development",
+        "Struggle to develop a positive and realistic self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection can hinder the development of a positive self-image if it focuses on flaws.",
+      "pair_label": 230
+    }
+  ]
+}

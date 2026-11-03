@@ -1,0 +1,1534 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Internal conflict over identity can suppress recognition of positive experiences.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflicting identities intensify self-concept struggles.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened self-awareness of identity discrepancies fuels fear of not meeting expectations.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Feedback loop of self-doubt",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Identity conflict fuels people-pleasing.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension in self-identity can hinder emotional connection to positive emotions.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened self-scrutiny",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Identity tension fuels confusion about personal values and goals.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived identity and external expectations",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces feelings of inauthenticity.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in acknowledging and accepting positive emotions and experiences can suppress the tension between self-perceived identity and external expectations by reducing self-awareness and self-acceptance.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in acknowledging and accepting positive emotions and experiences may interfere with the process of reconciling past and present self-concepts.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding positive emotions may indirectly reduce perceived control by limiting self-awareness and self-efficacy.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking external validation compensates for internal inability to acknowledge positivity.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces emotional numbing.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-perception linked to dismissing positive experiences.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding positive emotions may limit self-reflection and exploration of personal values and goals.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting positive emotions and experiences",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection may prevent acknowledgment of positive emotions.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflicting self-concepts fuel identity tension.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to reconcile past and present self-concepts can hinder the acceptance of positive emotions and experiences.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past self-concepts influence current expectations",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurities about control and agency can exacerbate struggles with self-concept reconciliation.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking external validation may be a coping mechanism for self-concept discrepancies.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Incongruence in self-concept can amplify disconnection between intellectual and emotional experience.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inconsistent self-concept fuels self-doubt.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A struggle to reconcile past and present self-concepts can hinder the ability to identify and articulate personal values and goals.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past and present self-concepts",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-concept inconsistencies can intensify fears of rejection or judgment, fueling conflict over authenticity.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intensifies self-doubt and perceived inadequacy",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inhibits self-acknowledgment",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not meeting expectations and fear of being seen as undeserving can exacerbate the struggle to reconcile past and present self-concepts by creating self-doubt and uncertainty about one's identity.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear reinforces perceived lack of control.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory behavior",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear and self-doubt undermine emotional connection to positive feelings.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations and fear of being seen as undeserving can suppress the ability to explore and define personal values and goals.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and fear of being seen as undeserving",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of self-doubt and fear of negative evaluation.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perceived lack of control fuels tension between self and external expectations.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurities can suppress the recognition of positive experiences.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurities from a perceived lack of control can intensify the struggle to reconcile past and present self-concepts.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-doubt",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory behavior",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of control may exacerbate disconnection between rational and emotional processing of positive emotions.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative self-perception.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of control fuels uncertainty about personal direction.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Insecurities stemming from perceived lack of control and agency",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurities can fuel fear of rejection or judgment, thereby intensifying the conflict.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "People-pleasing may reduce tension by aligning with external expectations, but potentially at the cost of self-perceived identity.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "External validation can overshadow personal emotional experiences.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "fosters identity diffusion",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of anxiety and self-doubt.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Seeking external validation can exacerbate feelings of powerlessness.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking external validation may impede internal emotional awareness.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Validation seeking reinforces self-doubt",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies external validation over internal self-awareness",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tendency to people-please and seek validation through others",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces inner turmoil.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflicting self-concept",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intellectual understanding without emotional resonance can hinder emotional acceptance.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inhibits emotional integration.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fears of inadequacy can suppress emotional experience of positive emotions.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of emotional experience of positive emotions can exacerbate feelings of powerlessness.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking external validation may stem from an inability to internally experience positive emotions.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intellectualizing positive emotions without truly feeling them can lead to uncertainty and self-doubt in personal accomplishments and relationships.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reduced emotional experience of positive emotions can impede the development of personal values and goals.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Disconnection between intellectual understanding and emotional experience of positive emotions",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection or judgment can suppress emotional expression of positive emotions.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can hinder the integration of self-perceived identity and external expectations, leading to increased tension.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can suppress the ability to acknowledge and accept positive emotions and experiences.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels struggle to reconcile past and present self-concepts.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-doubt and perceived lack of control.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels the need for external validation.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Doubt and uncertainty can hinder emotional connection to positive experiences.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can hinder the ability to identify and express personal values and goals.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Self-doubt and uncertainty in relationships and personal accomplishments",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Doubts fuel fear of rejection.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear personal values and goals can exacerbate tension between internal identity and external expectations.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Values and goals influence emotional regulation and self-awareness, which are necessary for positive emotional acceptance.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear personal values and goals can exacerbate difficulties in reconciling past and present self-concepts.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear personal values and goals can lead to uncertainty about meeting expectations.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear personal values and goals can exacerbate feelings of powerlessness.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness on personal values and goals can lead to a reliance on external validation.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of clear personal values and goals can lead to difficulty in experiencing positive emotions genuinely.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unclear personal values and goals can exacerbate self-doubt.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Inability to recognize and articulate personal values and goals",
+        "Conflict between desire for authenticity and fear of rejection or judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of clear personal values and goals can exacerbate fear of rejection or judgment, making it harder to desire authenticity.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Tension between self-perceived identity and external expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing cycle of self-doubt",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Difficulty in acknowledging and accepting positive emotions and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection or judgment can suppress the acknowledgment of positive emotions and experiences.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Struggle to reconcile past and present self-concepts"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Authenticity conflict fuels self-concept reconciliation struggle.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Fear of not meeting expectations and fear of being seen as undeserving"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes involve a deep-seated fear of negative evaluation and a desire to meet external standards, which can amplify each other.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Insecurities stemming from perceived lack of control and agency"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection or judgment can exacerbate feelings of powerlessness.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Tendency to people-please and seek validation through others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection fuels people-pleasing.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Disconnection between intellectual understanding and emotional experience of positive emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection triggers emotional disconnection",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Self-doubt and uncertainty in relationships and personal accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters self-doubt",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Conflict between desire for authenticity and fear of rejection or judgment",
+        "Inability to recognize and articulate personal values and goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection or judgment can amplify self-doubt.",
+      "pair_label": 4
+    }
+  ]
+}

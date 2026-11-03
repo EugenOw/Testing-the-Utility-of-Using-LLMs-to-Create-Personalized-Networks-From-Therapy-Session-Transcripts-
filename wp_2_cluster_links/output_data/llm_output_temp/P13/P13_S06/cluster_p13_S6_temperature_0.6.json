@@ -1,0 +1,1158 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-soothing and avoidance in phone use",
+        "Difficulty articulating emotions linked to self-blame and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased avoidance may lead to unprocessed emotions",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between self-soothing and avoidance in phone use",
+        "Impact of phone use on work stress and imposter syndrome"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compulsive phone use can exacerbate work stress and imposter feelings.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between self-soothing and avoidance in phone use",
+        "Self-compassion as a means to reframe phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help alleviate tension by reframing avoidance",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tension between self-soothing and avoidance in phone use",
+        "Phone use as a coping mechanism for work-related stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Common underlying motivations.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between self-soothing and avoidance in phone use",
+        "Struggle to balance leisure activities with responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance via excessive phone use may hinder balance.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between self-soothing and avoidance in phone use",
+        "Awareness of phone use as a means to make informed choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness fosters recognition of self-soothing avoidance.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between self-soothing and avoidance in phone use",
+        "Tendency to prioritize short-term relief over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Short-term escape often reinforces avoidance.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions linked to self-blame and guilt",
+        "Tension between self-soothing and avoidance in phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and guilt may intensify avoidance behaviors, including phone use as a means of escape.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions linked to self-blame and guilt",
+        "Impact of phone use on work stress and imposter syndrome"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions linked to self-blame and guilt",
+        "Avoidance of difficult emotions through phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Escapism",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions linked to self-blame and guilt",
+        "Phone use as a coping mechanism for work-related stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Emotional avoidance through technology.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions linked to self-blame and guilt",
+        "Awareness of phone use as a means to make informed choices"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions linked to self-blame and guilt",
+        "Phone use as a way to clear one's mind after a long day"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Using phone to avoid processing guilt and negative emotions.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Impact of phone use on work stress and imposter syndrome",
+        "Tension between self-soothing and avoidance in phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Phone use can amplify avoidance behaviors, exacerbating imposter syndrome and stress.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Impact of phone use on work stress and imposter syndrome",
+        "Difficulty articulating emotions linked to self-blame and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Constant phone notifications can exacerbate stress, further hindering the ability to articulate emotions due to increased anxiety and self-doubt.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Impact of phone use on work stress and imposter syndrome",
+        "Self-compassion as a means to reframe phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mitigates negative self-talk.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Impact of phone use on work stress and imposter syndrome",
+        "Avoidance of difficult emotions through phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Phone use can both contribute to and be used as an escape from stress and imposter feelings, creating a feedback loop.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Impact of phone use on work stress and imposter syndrome",
+        "Phone use as a coping mechanism for work-related stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Phone use exacerbates stress and imposter feelings, which in turn intensifies phone use as a maladaptive coping strategy.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Impact of phone use on work stress and imposter syndrome",
+        "Awareness of phone use as a means to make informed choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Being aware of phone use may reduce its negative impacts.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Impact of phone use on work stress and imposter syndrome",
+        "Phone use as a way to clear one's mind after a long day"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Contrasting functions of phone use",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Impact of phone use on work stress and imposter syndrome",
+        "Tendency to prioritize short-term relief over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased stress and feelings of inadequacy from excessive phone use can lead to seeking immediate relief, compromising long-term goals.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reframe phone use",
+        "Impact of phone use on work stress and imposter syndrome"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion helps mitigate stress and negative self-talk.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reframe phone use",
+        "Avoidance of difficult emotions through phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reduces emotional avoidance.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reframe phone use",
+        "Phone use as a coping mechanism for work-related stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion reframes perspective on phone use, reducing reliance on it as a coping mechanism for stress.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reframe phone use",
+        "Struggle to balance leisure activities with responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Practicing self-compassion can help reduce guilt and stress associated with phone use, thereby facilitating a better balance between leisure activities and responsibilities.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reframe phone use",
+        "Phone use as a way to clear one's mind after a long day"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reframing phone use with self-compassion may enhance its effectiveness in clearing one's mind.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to reframe phone use",
+        "Tendency to prioritize short-term relief over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion encourages mindful phone use, potentially reducing the need for short-term relief.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Avoidance of difficult emotions through phone use",
+        "Tension between self-soothing and avoidance in phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces avoidance vs self-soothing conflict",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Avoidance of difficult emotions through phone use",
+        "Difficulty articulating emotions linked to self-blame and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotions through phone use can exacerbate difficulties in articulating emotions, leading to increased self-blame and guilt.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Avoidance of difficult emotions through phone use",
+        "Self-compassion as a means to reframe phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion counters avoidance.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Avoidance of difficult emotions through phone use",
+        "Phone use as a coping mechanism for work-related stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "Excitatory"
+      ],
+      "strength_of_relationship": [
+        "Strong"
+      ],
+      "explanation": "Complementary coping strategies",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Avoidance of difficult emotions through phone use",
+        "Struggle to balance leisure activities with responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can lead to neglect of responsibilities.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Avoidance of difficult emotions through phone use",
+        "Awareness of phone use as a means to make informed choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Knowing phone use can hinder emotional awareness.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Avoidance of difficult emotions through phone use",
+        "Phone use as a way to clear one's mind after a long day"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying mechanism of escapism",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Avoidance of difficult emotions through phone use",
+        "Tendency to prioritize short-term relief over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance mechanisms",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Phone use as a coping mechanism for work-related stress",
+        "Tension between self-soothing and avoidance in phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Usage of phone as coping mechanism can intensify the tension.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Phone use as a coping mechanism for work-related stress",
+        "Difficulty articulating emotions linked to self-blame and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance via phone use delays emotional processing",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Phone use as a coping mechanism for work-related stress",
+        "Impact of phone use on work stress and imposter syndrome"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perpetuates vicious cycle.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Phone use as a coping mechanism for work-related stress",
+        "Self-compassion as a means to reframe phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reframing phone use with self-compassion may mitigate the excessive use of phone as a maladaptive coping mechanism.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Phone use as a coping mechanism for work-related stress",
+        "Avoidance of difficult emotions through phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Escaping stress through phone use can intensify avoidance.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Phone use as a coping mechanism for work-related stress",
+        "Awareness of phone use as a means to make informed choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness of phone use can help mitigate excessive phone use.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Phone use as a coping mechanism for work-related stress",
+        "Phone use as a way to clear one's mind after a long day"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "engages same behavior, different motivation",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Phone use as a coping mechanism for work-related stress",
+        "Tendency to prioritize short-term relief over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Instant gratification",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Struggle to balance leisure activities with responsibilities",
+        "Tension between self-soothing and avoidance in phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Leisure-responsibility imbalance could lead to phone use avoidance, reducing tension.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggle to balance leisure activities with responsibilities",
+        "Impact of phone use on work stress and imposter syndrome"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance leisure and responsibilities can exacerbate the impact of phone use on work stress, contributing to feelings of inadequacy.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggle to balance leisure activities with responsibilities",
+        "Self-compassion as a means to reframe phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Practicing self-compassion can help alleviate guilt associated with leisure activities.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggle to balance leisure activities with responsibilities",
+        "Avoidance of difficult emotions through phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Escapism.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggle to balance leisure activities with responsibilities",
+        "Phone use as a coping mechanism for work-related stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased phone use as a coping mechanism can reinforce the struggle to balance leisure activities with responsibilities.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggle to balance leisure activities with responsibilities",
+        "Phone use as a way to clear one's mind after a long day"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Escalating phone use to cope with stress from responsibilities can further disrupt leisure-responsibility balance.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Awareness of phone use as a means to make informed choices",
+        "Tension between self-soothing and avoidance in phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Awareness of phone use can heighten self-awareness of avoidance and self-soothing tendencies.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Awareness of phone use as a means to make informed choices",
+        "Difficulty articulating emotions linked to self-blame and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Reduced self-blame and guilt from recognizing phone use.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Awareness of phone use as a means to make informed choices",
+        "Impact of phone use on work stress and imposter syndrome"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness of phone use can help mitigate stress and feelings of inadequacy at work by promoting healthier choices.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Awareness of phone use as a means to make informed choices",
+        "Self-compassion as a means to reframe phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases positive self-talk",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Awareness of phone use as a means to make informed choices",
+        "Phone use as a coping mechanism for work-related stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing phone use can deter using it as a stress reliever.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Awareness of phone use as a means to make informed choices",
+        "Struggle to balance leisure activities with responsibilities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increased awareness of phone use may indirectly contribute to recognizing imbalances in leisure and responsibilities.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Awareness of phone use as a means to make informed choices",
+        "Tendency to prioritize short-term relief over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing phone use patterns can help mitigate impulsive choices",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Phone use as a way to clear one's mind after a long day",
+        "Tension between self-soothing and avoidance in phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Phone use as a way to clear one's mind after a long day",
+        "Difficulty articulating emotions linked to self-blame and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance mechanism",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Phone use as a way to clear one's mind after a long day",
+        "Impact of phone use on work stress and imposter syndrome"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Phone use can be a coping mechanism that momentarily distracts from work-related stress, potentially alleviating imposter syndrome, but may also serve as a reminder of work-related tasks, exacerbating stress in the long run.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Phone use as a way to clear one's mind after a long day",
+        "Self-compassion as a means to reframe phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Using self-compassion can help reinterpret phone use as a self-care strategy, rather than a mindless habit.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Phone use as a way to clear one's mind after a long day",
+        "Avoidance of difficult emotions through phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Phone use for clearing one's mind can lead to avoidance of difficult emotions.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Phone use as a way to clear one's mind after a long day",
+        "Phone use as a coping mechanism for work-related stress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying motivation",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Phone use as a way to clear one's mind after a long day",
+        "Awareness of phone use as a means to make informed choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased awareness can reduce mindless phone use.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Phone use as a way to clear one's mind after a long day",
+        "Tendency to prioritize short-term relief over long-term goals"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Instant gratification from phone use reinforces short-term focus.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize short-term relief over long-term goals",
+        "Tension between self-soothing and avoidance in phone use"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both are driven by coping mechanisms.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize short-term relief over long-term goals",
+        "Difficulty articulating emotions linked to self-blame and guilt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impulsive reactions for short-term relief can exacerbate emotional turmoil, leading to increased self-blame and guilt.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize short-term relief over long-term goals",
+        "Impact of phone use on work stress and imposter syndrome"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Phone use as short-term relief from stress may worsen imposter syndrome.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize short-term relief over long-term goals",
+        "Awareness of phone use as a means to make informed choices"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tendency to prioritize short-term relief over long-term goals",
+        "Phone use as a way to clear one's mind after a long day"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Instant gratification.",
+      "pair_label": 78
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Establishing a Bedtime Routine",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Maintaining Boundaries in Relationships",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Coping with Trauma and Emotional Regulation",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Practicing Self-Compassion and Realism",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Theme 1",
+          "Theme 2"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Establishing a bedtime routine can help maintain boundaries in relationships by setting clear expectations and prioritizing self-care."
+      },
+      {
+        "input_themes": [
+          "Theme 2",
+          "Theme 3"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Maintaining boundaries in relationships can help cope with trauma and emotional regulation by reducing stress and anxiety."
+      },
+      {
+        "input_themes": [
+          "Theme 3",
+          "Theme 4"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Coping with trauma and emotional regulation can be facilitated by practicing self-compassion and realism, which can help individuals develop a more positive and realistic outlook."
+      },
+      {
+        "input_themes": [
+          "Theme 4",
+          "Theme 1"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Practicing self-compassion and realism can help individuals establish a bedtime routine by reducing stress and anxiety, but this relationship is not as direct or strong as other connections."
+      }
+    ]
+  }
+}

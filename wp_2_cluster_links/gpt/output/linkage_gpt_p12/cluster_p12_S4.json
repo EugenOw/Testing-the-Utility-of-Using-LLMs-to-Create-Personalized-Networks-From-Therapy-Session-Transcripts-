@@ -1,0 +1,1527 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between independence and family obligations can lead to feelings of inadequacy, which may inhibit self-worth derived from achievements.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between independence and family obligations can amplify fears of stagnation in career, as individuals may feel pressured to choose security over personal aspirations.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for independence may inhibit the prioritization of family relationships and legacy in career choices, creating a conflict between personal aspirations and familial expectations.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension from wanting independence often amplifies the conflict with family expectations, as individuals struggle to balance personal desires with familial duties.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension can motivate individuals to pursue self-improvement as a means to reconcile their independence with family expectations.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The desire for independence often conflicts with the sense of responsibility, leading to internal tension that can inhibit the ability to fully support family members.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between independence and family obligations can lead to increased anxiety about future career and financial stability, as individuals may feel pressured to meet both personal and familial expectations.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for independence can enhance the importance placed on autonomy in career choices, as individuals seek to align their professional lives with their personal values.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Tension between desire for independence and family obligations",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between wanting independence and fulfilling family obligations can lead to significant difficulty in balancing personal and family values, as the conflicting desires create internal conflict.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High self-worth linked to achievements may create pressure to fulfill family obligations, leading to tension.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High self-worth linked to achievements can amplify the fear of stagnation in one's career, as individuals may feel a strong need for growth to maintain their self-esteem.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A focus on achievements may overshadow the value placed on family relationships, potentially leading to a diminished emphasis on legacy in career decisions.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High self-worth linked to achievements may lead to internal conflict when family expectations prioritize different values, potentially suppressing personal happiness.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Higher self-worth from achievements often motivates individuals to pursue further self-improvement and personal growth.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High self-worth from achievements may lead to prioritizing personal success over family obligations, potentially diminishing the sense of responsibility.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High self-worth linked to achievements can reduce anxiety about future prospects, as confidence in abilities may mitigate fears.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong focus on achievements can limit the perceived value of autonomy, as individuals may prioritize success over personal freedom.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to educational and career achievements",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High self-worth linked to achievements may lead to prioritizing career over family, causing difficulty in balancing values.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of stagnation in a career can amplify the tension between wanting independence and fulfilling family responsibilities, as individuals may feel pressured to choose between personal aspirations and familial expectations.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of stagnation in one's career can amplify the importance placed on educational and career achievements, directly influencing self-worth.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of stagnation may lead individuals to prioritize career choices that align with family values and legacy, potentially suppressing the pursuit of purely personal ambitions.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of stagnation can amplify the internal conflict between pursuing personal happiness and adhering to family expectations.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of stagnation in one's career can strongly motivate individuals to pursue self-improvement and personal growth.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of stagnation may lead to increased anxiety, which can inhibit the ability to fulfill responsibilities effectively.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of stagnation in one's career can amplify anxiety regarding future job security and financial stability.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of stagnation in a career can amplify the desire for autonomy and freedom, as individuals seek to avoid situations that limit their growth.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Fear of being stuck in a dead-end job without opportunities for growth",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The emphasis on family relationships and legacy can create a sense of obligation that may suppress the desire for independence, leading to tension.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Family relationships and legacy can enhance self-worth by providing a sense of belonging and validation through career achievements.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Family values and legacy can motivate individuals to pursue fulfilling careers, reducing the fear of stagnation.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Family expectations can create tension that inhibits personal happiness, influencing career choices.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Family relationships and legacy can motivate individuals to pursue self-improvement and personal growth as they seek to honor their family's values or enhance their legacy.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The significance placed on family relationships and legacy often drives individuals to feel a strong sense of responsibility to support their family members, influencing their career choices.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Strong family relationships may provide emotional support, reducing anxiety about future career prospects.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Family expectations may limit personal autonomy, influencing career decisions.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Importance of family relationships and legacy in career choices",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The emphasis on family relationships and legacy can create internal conflict, making it challenging to balance personal aspirations with family expectations.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to balance personal happiness with family expectations often amplifies the tension experienced when seeking independence from family obligations.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The conflict between personal happiness and family expectations can undermine self-worth, particularly if achievements are viewed through the lens of familial approval.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The conflict between personal happiness and family expectations can inhibit the ability to pursue fulfilling career opportunities, leading to fears of stagnation.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The conflict between personal happiness and family expectations can inhibit the ability to prioritize family relationships and legacy in career choices, as individuals may feel torn between their own desires and familial obligations.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The conflict may hinder the drive for self-improvement as individuals may prioritize family expectations over personal growth.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The conflict between personal happiness and family expectations often leads to a sense of obligation that can suppress individual desires, creating a strong inhibitory relationship.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The conflict between personal happiness and family expectations can lead to increased anxiety about future career prospects and financial security, as individuals may feel pressured to meet external expectations, which heightens their concerns about their future.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The conflict between personal happiness and family expectations can suppress the importance of autonomy and freedom in career choices, as individuals may prioritize familial obligations over personal desires.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Conflict between personal happiness and family expectations",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The conflict between personal happiness and family expectations often leads to significant difficulty in balancing personal and family values, as individuals struggle to meet both sets of demands.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The drive for self-improvement may create tension as individuals seek independence, potentially conflicting with family obligations.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The drive for self-improvement can enhance self-worth when achievements in education and career are pursued.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The desire for self-improvement often motivates individuals to seek out opportunities for growth, which can be amplified by the fear of stagnation in their careers.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A drive for self-improvement can motivate individuals to consider how their career choices impact their family and legacy.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The drive for self-improvement can create tension with family expectations, leading to conflict that may inhibit personal happiness.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The drive for self-improvement can enhance the sense of responsibility, as individuals may feel motivated to better themselves in order to effectively support their family.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The drive for self-improvement can lead to increased anxiety about future outcomes, as individuals may feel pressure to succeed and secure their financial future.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong desire for self-improvement often leads individuals to seek autonomy in their career choices, as they pursue opportunities that align with their personal growth goals.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Drive for self-improvement and personal growth",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The pursuit of self-improvement may lead to conflicts with family values, creating difficulty in achieving balance.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A strong sense of responsibility can create significant tension as it often conflicts with the desire for personal independence.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A sense of responsibility can enhance self-worth when individuals perceive their educational and career achievements as fulfilling their familial obligations.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A sense of responsibility can drive individuals to seek better job opportunities, reducing the fear of stagnation.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A strong sense of responsibility to support family members often amplifies the importance placed on family relationships and legacy when making career choices.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A strong sense of responsibility can lead to significant conflict when personal desires clash with family expectations, often suppressing individual happiness.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A sense of responsibility can motivate individuals to improve themselves in order to better support their family.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A strong sense of responsibility can amplify anxiety regarding career and financial stability, as individuals may feel pressured to meet expectations.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of responsibility may limit the perceived freedom in making independent career choices.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Sense of responsibility to support family members",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong sense of responsibility can lead to conflicts between personal and family values, making it difficult to balance them.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about future prospects can amplify the tension between wanting independence and fulfilling family obligations, as concerns about financial stability may lead to increased pressure to conform to family expectations.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety about future career prospects can significantly amplify concerns about self-worth, as individuals often equate their career achievements with their value.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety about future prospects can amplify fears of stagnation in one's career, as uncertainty often heightens concerns about job satisfaction and growth.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about future prospects can lead individuals to prioritize immediate financial security over long-term family values, potentially suppressing the importance of family relationships in their career decisions.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about future prospects can amplify the conflict between personal desires and family expectations, as individuals may feel pressured to conform to familial standards while fearing negative outcomes.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety can motivate individuals to pursue self-improvement and personal growth as a means to alleviate their concerns about the future.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about future prospects can amplify the sense of responsibility, as individuals may feel more compelled to ensure their family's financial stability.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about future prospects can suppress the desire for autonomy, as individuals may prioritize security over freedom.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Anxiety about future career prospects and financial security",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about future uncertainties can lead to increased stress, which may complicate the ability to prioritize and balance personal and family values.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The desire for autonomy in career choices can create tension with family obligations, as individuals may feel conflicted between pursuing personal freedom and fulfilling familial responsibilities.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A sense of autonomy in career choices can enhance self-worth by fostering a feeling of control and personal achievement.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A strong desire for autonomy in career choices can amplify the fear of being trapped in a job that lacks growth, as individuals seek to avoid situations that limit their freedom.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong emphasis on autonomy may lead individuals to prioritize personal freedom over familial expectations, creating a tension between personal choice and family legacy.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong desire for autonomy can lead to conflict when family expectations impose restrictions on personal happiness.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A strong sense of autonomy in career choices fosters motivation for self-improvement and personal growth, as individuals feel empowered to pursue their goals.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong desire for autonomy may conflict with the sense of obligation to support family, leading to tension between personal freedom and familial responsibilities.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong emphasis on autonomy may reduce anxiety by fostering a sense of control over career decisions, but the relationship can vary based on individual circumstances.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Importance of autonomy and freedom in career choices",
+        "Difficulty in balancing personal and family values"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong emphasis on autonomy in career choices may lead to conflicts with family values, creating difficulty in achieving balance.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Tension between desire for independence and family obligations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggles with personal and family values can intensify the conflict between wanting independence and fulfilling family obligations.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Self-worth tied to educational and career achievements"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with balancing values may lead to diminished self-worth when educational or career achievements are prioritized over personal fulfillment.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Fear of being stuck in a dead-end job without opportunities for growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to balance values can amplify fears about career stagnation, as unresolved personal conflicts may heighten anxiety about professional fulfillment.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Importance of family relationships and legacy in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with balancing values can hinder the prioritization of family relationships and legacy in career decisions.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Conflict between personal happiness and family expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggles with balancing values often lead to heightened conflicts between personal happiness and family expectations.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Drive for self-improvement and personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with balancing values may hinder motivation for self-improvement.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Sense of responsibility to support family members"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with balancing values can lead to feelings of guilt or conflict, which may inhibit the sense of responsibility felt towards family members.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Anxiety about future career prospects and financial security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with personal and family values can lead to increased anxiety about future career and financial stability, as conflicting values may create uncertainty and stress.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty in balancing personal and family values",
+        "Importance of autonomy and freedom in career choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with personal and family values can hinder the ability to prioritize autonomy and freedom in career choices.",
+      "pair_label": 23
+    }
+  ]
+}

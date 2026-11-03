@@ -1,0 +1,7 @@
+k,n_unique_ids,run_0_valid,run_0_missing,run_0_duplicate,run_0_parse_error,run_1_valid,run_1_missing,run_1_duplicate,run_1_parse_error,run_2_valid,run_2_missing,run_2_duplicate,run_2_parse_error,n_valid_0_vs_1,n_valid_0_vs_2,n_valid_1_vs_2,n_valid_all_3,diagnosis
+0,400,400,0,0,0,0,400,0,0,0,400,0,0,0,0,0,0,At least one run has no valid predictions; Runs do not share the same IDs or runs are missing
+1,400,400,0,0,0,400,0,0,0,400,0,0,0,400,400,400,400,Valid comparisons available
+5,400,400,0,0,0,400,0,0,0,400,0,0,0,400,400,400,400,Valid comparisons available
+10,400,400,0,0,0,400,0,0,0,400,0,0,0,400,400,400,400,Valid comparisons available
+50,400,400,0,0,0,400,0,0,0,400,0,0,0,400,400,400,400,Valid comparisons available
+100,400,400,0,0,0,400,0,0,0,400,0,0,0,400,400,400,400,Valid comparisons available

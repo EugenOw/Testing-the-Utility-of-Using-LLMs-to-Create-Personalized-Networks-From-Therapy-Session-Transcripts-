@@ -1,0 +1,1642 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to rumination as individuals may repetitively think about their perceived shortcomings.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can suppress emotional awareness, making it harder to articulate feelings.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can undermine self-efficacy.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can reinforce avoidance by creating a sense of self-doubt that exacerbates fear of making the wrong choice.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Sense of finality as a trigger for rumination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Coping with uncertainty fuels rumination.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Questioning of self-efficacy in response to uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion counters self-blame.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame may undermine the effectiveness of rules and routines by creating guilt and self-doubt.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Self-blame as a coping mechanism for uncertainty and anxiety",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disrupting self-blame can reduce negative feedback loops, leading to increased resilience.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination can lead to self-blame as a way to regain control over perceived finality.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prolonged rumination can deepen emotional repression.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination can reinforce self-doubt and uncertainty, exacerbating tension between self-efficacy and perceived competence in decision-making.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rumination can amplify fear of making the wrong choice.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Questioning of self-efficacy in response to uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination can amplify self-doubt and uncertainty.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination may hinder self-compassion by reinforcing negative self-talk and self-blame.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes serve as coping mechanisms for dealing with uncertainty and anxiety, with rumination potentially reinforcing the need for rules and routines as a way to regain control.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rumination can reinforce negative feedback loops, making it harder to achieve reduced vulnerability.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Rumination as a self-soothing behavior in response to perceived finality",
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can lead to internalized negative self-talk and self-blame.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions fuel rumination.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can undermine confidence in decision-making.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past unexpressed emotions can lead to anxiety about making wrong decisions, as unresolved feelings may cloud judgment and increase self-doubt.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Sense of finality as a trigger for rumination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can intensify rumination and self-blame when confronted with a sense of finality.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Questioning of self-efficacy in response to uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past unexpressed emotions can fuel current self-doubt.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional confrontation",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can fuel negative feedback loops, and articulating them can help disrupt these loops, leading to reduced vulnerability.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past",
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt fuels self-blame.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Tension in decision-making may reduce rumination by prompting action over reflection.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension in self-efficacy can suppress emotional expression.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels fear.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Questioning of self-efficacy in response to uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt amplifies uncertainty.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the negative effects of self-doubt and perceived incompetence.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension in decision-making may lead to seeking structure and control through rules and routines.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breaking negative loops can enhance self-efficacy.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Tension between self-efficacy and perceived competence in decision-making",
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Addressing self-doubt through collaborative goal-setting can enhance motivation and self-efficacy.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance reinforces self-blame.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can lead to rumination as a means to cope with the anxiety of making a wrong decision.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of decision-making can hinder emotional expression by preventing confrontation with past unexpressed feelings.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of making the wrong choice can increase tension between self-efficacy and perceived competence.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Sense of finality as a trigger for rumination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of decision-making may temporarily prevent the sense of finality.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Questioning of self-efficacy in response to uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of making the wrong choice can lead to self-doubt.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce fear and guilt associated with decision-making, thereby reducing avoidance.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rules and routines provide a sense of control and structure, thereby reducing the anxiety associated with decision-making uncertainty.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance can maintain negative feedback loops.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Avoidance of decision-making due to fear of making the wrong choice",
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding decision-making can hinder collaborative goal-setting by preventing the individual from committing to specific objectives.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Sense of finality as a trigger for rumination and self-blame",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforces negative thought patterns.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Sense of finality as a trigger for rumination and self-blame",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Finality triggers rumination.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Sense of finality as a trigger for rumination and self-blame",
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sense of finality can exacerbate rumination and self-blame, making it harder to articulate emotions due to the overwhelming negative thoughts.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Sense of finality as a trigger for rumination and self-blame",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and rumination can undermine confidence in decision-making, creating tension between self-efficacy and perceived competence.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Sense of finality as a trigger for rumination and self-blame",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ruminating on past decisions can amplify fear of making wrong choices.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Sense of finality as a trigger for rumination and self-blame",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Counteracts negative self-talk.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Sense of finality as a trigger for rumination and self-blame",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Sense of finality can prompt individuals to seek control through rules and routines to mitigate rumination and self-blame.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Sense of finality as a trigger for rumination and self-blame",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disrupting negative feedback loops can mitigate the sense of finality that triggers rumination and self-blame, leading to reduced vulnerability.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty and anxiety can trigger self-doubt.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety triggers self-doubt, which may lead to rumination as a coping mechanism.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-doubt may impede emotional expression.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of self-doubt.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty and anxiety can amplify fear of making wrong choices.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Sense of finality as a trigger for rumination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty and anxiety can lead to questioning self-efficacy, which in turn may intensify the sense of finality, triggering rumination and self-blame.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can mitigate self-doubt.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Questioning self-efficacy can lead to seeking structure.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Questioning of self-efficacy in response to uncertainty and anxiety",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can be a catalyst for seeking help.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means of addressing guilt and self-blame",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion counters self-blame.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means of addressing guilt and self-blame",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce rumination by promoting a more accepting and less judgmental mindset towards oneself, thereby decreasing the need for rumination as a self-soothing mechanism.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means of addressing guilt and self-blame",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce self-doubt and enhance self-efficacy.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means of addressing guilt and self-blame",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion reduces self-blame, which can decrease fear of making wrong choices, thereby reducing avoidance of decision-making.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means of addressing guilt and self-blame",
+        "Sense of finality as a trigger for rumination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion counters the sense of finality by promoting a growth mindset and reducing rumination.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means of addressing guilt and self-blame",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the need for rigid rules and routines.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means of addressing guilt and self-blame",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion can disrupt negative self-talk and feedback loops, leading to reduced vulnerability.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rules and routines can distract from self-blame.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structured coping mechanisms can reduce the need for rumination.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rules and routines can suppress emotional awareness and expression, making it harder to articulate emotions.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Relying on rules and routines can reduce anxiety and uncertainty, thereby alleviating tension between self-efficacy and perceived competence in decision-making.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rules and routines can reinforce avoidance by providing a sense of control and predictability, thereby reducing the perceived need to make decisions.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Sense of finality as a trigger for rumination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rules and routines can serve as a defense mechanism against the anxiety triggered by a sense of finality.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Questioning of self-efficacy in response to uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rules and routines can provide a sense of control, thereby reducing self-doubt.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rigid adherence to rules and routines may suppress the development of self-compassion by avoiding emotional exploration.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rules and routines may inadvertently reinforce negative feedback loops.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Rules and routines as a means of coping with uncertainty and anxiety",
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rigid adherence to rules and routines may hinder collaborative goal-setting by limiting flexibility and openness to others' ideas.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disrupting negative feedback loops can reduce self-blame.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breaking negative feedback loops can reduce rumination by addressing underlying vulnerabilities.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Difficulty articulating emotions as a manifestation of unexpressed feelings from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breaking negative patterns can facilitate emotional expression.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Disrupting negative feedback loops can reduce vulnerability, which in turn may slightly alleviate tension between self-efficacy and perceived competence.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reduced vulnerability may decrease fear of making the wrong choice, thereby reducing avoidance of decision-making.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Sense of finality as a trigger for rumination and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Breaking negative feedback loops reduces vulnerability, which in turn may decrease the sense of finality that triggers rumination and self-blame.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Questioning of self-efficacy in response to uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disrupting negative feedback loops can reduce vulnerability, which in turn may decrease questioning of self-efficacy.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Disrupting negative feedback loops can foster self-compassion.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Rules and routines as a means of coping with uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reducing vulnerability can lead to less reliance on rigid rules and routines.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops",
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disrupting negative feedback loops can enhance self-efficacy, which in turn, can facilitate collaborative goal-setting.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy",
+        "Self-blame as a coping mechanism for uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Collaborative goal-setting can reduce self-blame by promoting a growth mindset and shared responsibility.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy",
+        "Rumination as a self-soothing behavior in response to perceived finality"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy",
+        "Tension between self-efficacy and perceived competence in decision-making"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Collaborative goal-setting can reduce tension by aligning self-efficacy and competence perceptions.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy",
+        "Avoidance of decision-making due to fear of making the wrong choice"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Collaborative goal-setting can mitigate avoidance by providing support and shared responsibility.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy",
+        "Sense of finality as a trigger for rumination and self-blame"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy",
+        "Questioning of self-efficacy in response to uncertainty and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reduces self-doubt",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy",
+        "Self-compassion as a means of addressing guilt and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Collaborative goal-setting can foster a supportive environment where individuals feel comfortable practicing self-compassion.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Collaborative goal-setting as a means of enhancing motivation and self-efficacy",
+        "Reduced vulnerability as a potential outcome of disrupting negative feedback loops"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Collaborative goal setting can help break negative feedback loops by fostering positive self-talk and self-efficacy.",
+      "pair_label": 14
+    }
+  ]
+}

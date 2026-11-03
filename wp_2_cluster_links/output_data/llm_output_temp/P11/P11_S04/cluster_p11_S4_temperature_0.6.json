@@ -1,0 +1,276 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "The client's emotional reasoning is a coping mechanism for feelings of overwhelm and anxiety.",
+        "The client's emotional regulation is impacted by their relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional reasoning is a means to regulate emotional experiences, which are in turn influenced by interpersonal dynamics.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "The client's emotional reasoning is a coping mechanism for feelings of overwhelm and anxiety.",
+        "The client's emotional reasoning is a defense mechanism for feelings of vulnerability."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying mechanism",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "The client's emotional reasoning is a coping mechanism for feelings of overwhelm and anxiety.",
+        "The client's emotional intimacy is tied to their sense of self-worth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning may influence emotional intimacy by shaping self-perception and attachment styles.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "The client's emotional regulation is impacted by their relationships.",
+        "The client's emotional reasoning is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "The client's emotional regulation is impacted by their relationships.",
+        "The client's emotional experience is influenced by their expectations of others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interpersonal expectations shape emotional regulation.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "The client's emotional regulation is impacted by their relationships.",
+        "The client's emotional reasoning is a defense mechanism for feelings of vulnerability."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Interpersonal relationships can trigger emotional responses that impact reasoning about feelings of vulnerability.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "The client's emotional regulation is impacted by their relationships.",
+        "The client's emotional intimacy is tied to their sense of self-worth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interpersonal relationships can enhance emotional intimacy, which in turn reinforces emotional regulation.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "The client's emotional experience is influenced by their expectations of others.",
+        "The client's emotional reasoning is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional experience influences emotional reasoning.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "The client's emotional experience is influenced by their expectations of others.",
+        "The client's emotional reasoning is a defense mechanism for feelings of vulnerability."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Influenced emotional experience can contribute to defensive reasoning.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "The client's emotional reasoning is a defense mechanism for feelings of vulnerability.",
+        "The client's emotional reasoning is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying mechanism.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "The client's emotional reasoning is a defense mechanism for feelings of vulnerability.",
+        "The client's emotional regulation is impacted by their relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning as a defense mechanism can reinforce emotional dysregulation in relationships.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "The client's emotional reasoning is a defense mechanism for feelings of vulnerability.",
+        "The client's emotional experience is influenced by their expectations of others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability can drive emotional reasoning, and expectations of others can amplify feelings of vulnerability.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "The client's emotional reasoning is a defense mechanism for feelings of vulnerability.",
+        "The client's emotional intimacy is tied to their sense of self-worth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability defense hinders emotional intimacy.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "The client's emotional intimacy is tied to their sense of self-worth.",
+        "The client's emotional reasoning is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional intimacy affects emotional reasoning.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "The client's emotional intimacy is tied to their sense of self-worth.",
+        "The client's emotional regulation is impacted by their relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional intimacy influences emotional regulation.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "The client's emotional intimacy is tied to their sense of self-worth.",
+        "The client's emotional reasoning is a defense mechanism for feelings of vulnerability."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional reasoning can reinforce emotional intimacy by rationalizing vulnerability.",
+      "pair_label": 7
+    }
+  ]
+}

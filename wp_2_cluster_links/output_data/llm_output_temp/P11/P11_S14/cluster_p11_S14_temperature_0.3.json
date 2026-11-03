@@ -1,0 +1,497 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.",
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Unexpressed emotions hinder cognitive reappraisal.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.",
+        "Tension between the value of personal growth and relationship obligations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions may hinder personal growth by creating internal conflict and tension in relationships.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.",
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame can reinforce avoidance of emotional expression.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.",
+        "Evaluating the effectiveness of emotional regulation strategies in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past unexpressed emotions can hinder current emotional regulation, prompting evaluation of strategies.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.",
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Facilitates emotional awareness and expression.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.",
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reframed thoughts can influence emotional experiences, which in turn can affect the ability to articulate feelings related to unexpressed emotions.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.",
+        "Tension between the value of personal growth and relationship obligations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in recognizing reframed thoughts can hinder personal growth, leading to increased tension between personal growth and relationship obligations.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.",
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in recognizing the impact of reframed thoughts can lead to increased self-blame.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.",
+        "Evaluating the effectiveness of emotional regulation strategies in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reframed thoughts influence emotional experiences, which in turn affect emotional regulation in relationships.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.",
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences hinders the ability to assess the role of thoughts in emotional experiences and develop self-compassion.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Tension between the value of personal growth and relationship obligations.",
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved past emotions can intensify the tension between personal growth and relationship obligations, making it harder to articulate feelings.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Tension between the value of personal growth and relationship obligations.",
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Conflicting values may hinder cognitive reappraisal.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Tension between the value of personal growth and relationship obligations.",
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can exacerbate feelings of overwhelm and anxiety, which may stem from the tension between personal growth and relationship obligations.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Tension between the value of personal growth and relationship obligations.",
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on personal growth and obligations can prompt self-compassion.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.",
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can exacerbate the struggle to articulate feelings.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.",
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder the ability to recognize the impact of reframed thoughts on emotional experiences.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.",
+        "Tension between the value of personal growth and relationship obligations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame may hinder personal growth by diverting focus from external obligations.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.",
+        "Evaluating the effectiveness of emotional regulation strategies in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder effective evaluation of emotional regulation strategies by introducing negative self-perceptions.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.",
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame exacerbates negative thoughts, while assessing thoughts promotes self-compassion.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Evaluating the effectiveness of emotional regulation strategies in relationships.",
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ineffective emotional regulation may hinder articulation of feelings.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Evaluating the effectiveness of emotional regulation strategies in relationships.",
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ineffective emotional regulation strategies can hinder the recognition of reframed thoughts' impact on emotional experiences.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Evaluating the effectiveness of emotional regulation strategies in relationships.",
+        "Tension between the value of personal growth and relationship obligations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Evaluating emotional regulation strategies can uncover conflicts between personal growth and relationship obligations.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Evaluating the effectiveness of emotional regulation strategies in relationships.",
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can undermine the effectiveness of emotional regulation strategies.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Evaluating the effectiveness of emotional regulation strategies in relationships.",
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional regulation effectiveness informs thought assessment and self-compassion development.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion.",
+        "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help reduce the struggle to articulate feelings by acknowledging and accepting past unexpressed emotions.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion.",
+        "Difficulty in recognizing the impact of reframed thoughts on emotional experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion development hinders recognition of reframed thoughts impact.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion.",
+        "Tension between the value of personal growth and relationship obligations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can mitigate tension by reframing obligations as opportunities for growth.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion.",
+        "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion counters self-blame.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Assessing the role of thoughts in emotional experiences and developing self-compassion.",
+        "Evaluating the effectiveness of emotional regulation strategies in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Developing self-compassion enhances emotional regulation.",
+      "pair_label": 2
+    }
+  ]
+}

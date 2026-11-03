@@ -1,0 +1,1993 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual Reinforcement",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing negative self-perception",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of insecurity.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurity fuels unmet emotional needs.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing cycle of negative expectations and behaviors.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-fulfilling prophecy",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity and mistrust can exacerbate emotional turmoil by making it harder to articulate feelings.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reinforcing cycle",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Insecurity and mistrust drive behaviors that undermine relationship security",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity fuels control",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of destructive tendencies.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Loss of control can lead to self-blame.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying fear of loss",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Loss of control can lead to feelings of vulnerability, increasing sensitivity to privacy invasions.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs can intensify the struggle with loss of control.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Loss of control can lead to unrealistic expectations.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-destructive actions can lead to self-blame and toxic self-perception.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes are linked through emotional regulation difficulties.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces maladaptive patterns.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty accepting loss of control fuels self-destructive actions",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying need for control",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces destructive patterns",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces destructive patterns",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforces anxiety and low self-worth.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-blame and shame can counteract the sense of security by making the individual more vulnerable to privacy invasion and boundary-crossing.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-image fuels unmet emotional needs.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying negative thought patterns.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of negative self-concept",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intensified negative self-image can lead to increased emotional turmoil.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces maladaptive patterns",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Self-blame and shame intensify negative self-image",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and shame can lead to a need for control.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes are driven by deep-seated insecurities, with fear of abandonment potentially exacerbating the need for control, leading to self-destructive actions as a maladaptive coping mechanism.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reassurance-seeking can lead to self-blame and shame when unmet.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundaries protect against feelings of abandonment.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs drive fear of abandonment.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of anxiety and distress",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Lack of acceptance of relationship status fuels obsessive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of anxiety and obsessive behaviors.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforces self-doubt",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear-driven reassurance-seeking can exacerbate emotional turmoil by intensifying unexpressed feelings.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of insecurity",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment triggers excessive reassurance-seeking",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear drives need for control.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Threats to security amplify mistrust.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Threats to security can lead to attempts to regain control.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Threats to security can lead to self-blame.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Threats to security can heighten abandonment fears.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Threats to security can exacerbate unmet emotional needs.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened distress from unrealistic expectations can be triggered by perceived invasions of privacy.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Lack of acceptance of relationship status fuels obsessive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Invasion of privacy can exacerbate feelings of insecurity, leading to obsessive behaviors in an attempt to regain control or acceptance in a relationship.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Invasion of privacy can lead to self-blame and negative self-image.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased vulnerability",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Threats to security can trigger maladaptive coping.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Invasion of privacy and boundary-crossing threaten sense of security",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Threats to security can lead to increased control behaviors.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs fuel insecurity and mistrust.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs can lead to a desire for control.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs can lead to self-blame and shame.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs can lead to deep-seated fears, including fear of abandonment.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unmet emotional needs can lead to behaviors that invade privacy and cross boundaries, threatening others' sense of security.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unmet emotional needs can lead to unrealistic expectations.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs lead to pathological behaviors, which in turn reinforce negative self-image.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs can lead to difficulty articulating feelings.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs lead to unhealthy coping mechanisms.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Pathological behaviors stem from unmet emotional needs",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Control issues exacerbate unmet needs.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative expectations and behaviors.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying emotional dysregulation.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying self-criticism and negative self-perception.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying anxiety and insecurity.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened distress from unrealistic expectations can lead to overstepping boundaries.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unmet emotional needs can fuel unrealistic expectations.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying self-doubt and low self-esteem.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to unmet emotional needs, which may be difficult to articulate, thus exacerbating emotional turmoil.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of distress and maladaptive coping.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations of partner's behavior exacerbate distress",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying need for control.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Lack of acceptance of relationship status fuels obsessive behaviors",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying anxiety and insecurity.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Lack of acceptance of relationship status fuels obsessive behaviors",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Obsessive behaviors can lead to privacy invasion.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Lack of acceptance of relationship status fuels obsessive behaviors",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unmet emotional needs drive obsessive behaviors.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Lack of acceptance of relationship status fuels obsessive behaviors",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Obsessive behaviors can lead to self-blame and negative self-talk.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Lack of acceptance of relationship status fuels obsessive behaviors",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Obsessive behaviors reinforce need for control.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforced negative self-image fuels insecurity and mistrust.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforced negative self-image amplifies self-destructive tendencies.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of negative self-concept",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforced negative self-image can heighten fear of abandonment.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negative self-image may lead to increased vulnerability to privacy invasion and boundary-crossing.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-image can exacerbate unmet emotional needs.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforced negative self-image can lead to unrealistic expectations of partner's behavior.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-image can exacerbate emotional turmoil by making it harder to articulate feelings.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing negative self-image fuels the adoption of unhealthy coping mechanisms.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Self-perception as toxic or abusive reinforces negative self-image",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforced negative self-image can lead to a need for control.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional turmoil can fuel insecurity and mistrust.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional turmoil can exacerbate feelings of loss of control.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to articulate feelings can lead to self-blame and shame.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can fuel abandonment fears.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Boundary violations can exacerbate emotional turmoil by further silencing emotional expression.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unexpressed emotions fuel maladaptive behaviors.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unmet emotional needs",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Lack of acceptance of relationship status fuels obsessive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can intensify feelings of rejection.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying self-concept issues.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to articulate feelings can lead to maladaptive coping strategies.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings contributes to emotional turmoil",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Linked through emotional regulation.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reinforcing cycle",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative behaviors",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative self-perception",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of insecurity",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces vulnerability.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying emotional deficits.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative perceptions",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-concept",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inadequate emotional expression exacerbates mistrust.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust",
+        "Inability to relinquish control hinders emotional growth and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces avoidance of emotional vulnerability.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Insecurity and mistrust drive behaviors that undermine relationship security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Control issues fuel insecurity.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Difficulty accepting loss of control fuels self-destructive actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying fear of loss of control.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Self-blame and shame intensify negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perpetuates self-criticism",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Fear of abandonment triggers excessive reassurance-seeking"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Control issues can stem from deep-seated fears of abandonment.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Invasion of privacy and boundary-crossing threaten sense of security"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Control issues can lead to boundary violations.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Pathological behaviors stem from unmet emotional needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Control issues exacerbate unmet emotional needs.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Unrealistic expectations of partner's behavior exacerbate distress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying issues of rigidity and inflexibility.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Lack of acceptance of relationship status fuels obsessive behaviors"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Control issues exacerbate relationship dissatisfaction.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Self-perception as toxic or abusive reinforces negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perpetuates self-blame",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Difficulty articulating feelings contributes to emotional turmoil"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Control issues can exacerbate emotional turmoil by preventing the expression of feelings.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Inability to relinquish control hinders emotional growth and acceptance",
+        "Unhealthy coping mechanisms maintain feelings of insecurity and mistrust"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perpetuates cycle of insecurity.",
+      "pair_label": 43
+    }
+  ]
+}

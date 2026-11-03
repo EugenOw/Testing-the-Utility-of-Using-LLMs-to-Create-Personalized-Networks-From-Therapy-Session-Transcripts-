@@ -1,0 +1,1527 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "External validation can motivate productivity.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being perceived as a know-it-all can suppress the desire for external validation.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "External validation dependency suppresses self-acknowledgment of strengths.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "External validation influences self-perception.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "External validation can reinforce people-pleasing behaviors.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "External validation affects relationship security.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "External validation can undermine intrinsic motivation to learn.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "External validation can undermine self-worth development through acknowledging strengths and accomplishments.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to external validation",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "External validation can amplify the conflict between seeking knowledge and social acceptance.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Using productivity as a coping mechanism can reduce reliance on external validation for self-worth.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety may be exacerbated by fear of being perceived as a know-it-all, hindering the effectiveness of productivity strategies.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety-driven productivity can mask self-doubt.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Social support from positive relationships can reduce anxiety, making productivity strategies less necessary.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance of emotional confrontation.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying emotional regulation.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance of knowledge and discussions may be a byproduct of anxiety, which productivity strategies aim to mitigate.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Enhancing productivity can boost self-perceived competence.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Productivity strategies as a means of coping with anxiety",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Anxiety may lead to avoidance of social situations, hindering navigation of conflicting desires.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being perceived as a know-it-all can stem from a need for external validation, which in turn affects self-worth.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanism",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being perceived as a know-it-all can suppress acknowledgment of personal strengths and accomplishments.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social dynamics can amplify internal conflict.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Fear of being perceived as a know-it-all may lead to hesitation in asserting independence from parents.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking knowledge can be perceived as a threat to others, leading to relationship insecurity, thus triggering coping mechanisms.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Conflict fuels ambivalence.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being perceived as a know-it-all can hinder self-worth development by suppressing acknowledgment of strengths and accomplishments.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces reliance on external validation.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Difficulty in acknowledging personal strengths and accomplishments may lead to a lack of confidence in one's ability to effectively use productivity strategies, thereby hindering their use as a means of coping with anxiety.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of being perceived as arrogant can suppress the desire to learn and share knowledge.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Relationship dynamics can reinforce self-doubt.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and low self-esteem from not acknowledging strengths can hinder assertiveness needed to set boundaries.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt fuels insecurity",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and lack of confidence in one's abilities can hinder the motivation to seek knowledge and engage in discussions.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "blocks",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging personal strengths and accomplishments",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-doubt",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-worth",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Positive dynamics enhance self-perception, leading to increased motivation and productivity.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social dynamics can suppress the expression of knowledge due to fear of social judgment.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative dynamics can suppress self-recognition.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Influences boundary setting.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Adaptive coping mechanisms can enhance self-perception and behavior in relationships.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Negative self-perception can lead to ambivalence in seeking knowledge and engaging in discussions.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive dynamics enhance self-perception, leading to increased self-worth.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Impact of relationship dynamics on self-perception and behavior",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social dynamics influence self-perception, which in turn affects how one navigates conflicting desires.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of boundaries can lead to over-reliance on external validation.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance coping mechanism.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Fear of parental disapproval may suppress expression of knowledge.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of boundaries can hinder self-awareness and self-acknowledgment.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Boundary struggles with parents can significantly shape self-perception and behavior.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary struggles can trigger insecurity, prompting coping mechanisms.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Lack of autonomy",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of boundaries can hinder self-worth development.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Struggling to establish boundaries with parents",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary struggles can amplify internal conflicts about identity and belonging.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforces reliance on external validation.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping with relationship insecurity can lead to increased anxiety, which in turn may prompt the use of productivity strategies as a coping mechanism.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecure attachment patterns can suppress self-esteem.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Coping mechanisms can reinforce or amplify the impact of relationship dynamics on self-perception and behavior.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecure attachment patterns",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance of knowledge and discussions may serve as a coping mechanism to reduce feelings of insecurity.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Positive self-worth can enhance coping mechanisms.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms for managing relationship insecurity",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Insecurity can hinder exploration of conflicting desires.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence may hinder seeking external validation.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance of knowledge seeking due to anxiety.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ambivalence fuels internal conflict.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ambivalence can hinder self-perception and behavior by creating uncertainty in relationships.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Fear of parental disapproval may hinder curiosity.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Avoidance of discussions may hinder development of effective coping strategies.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Ambivalence may hinder self-reflection and recognition of strengths.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Ambivalence towards seeking knowledge and engaging in discussions",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ambivalence fuels exploration of conflicting desires.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contrasting self-worth sources",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Building self-worth can enhance motivation and confidence, leading to more effective use of productivity strategies.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being perceived as a know-it-all can hinder self-worth development by discouraging the acknowledgment of strengths and accomplishments.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Contradictory",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Positive relationships can enhance self-worth by acknowledging strengths.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in setting boundaries can hinder self-worth development by preventing individuals from asserting their needs and accomplishments.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Positive self-worth enhances resilience.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-worth development may reduce ambivalence by increasing confidence in one's abilities.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Self-worth development through acknowledging strengths and accomplishments",
+        "Navigating conflicting desires for knowledge and social acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-worth development may suppress the need to navigate conflicting desires for knowledge and social acceptance.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Self-worth tied to external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Seeking external validation can amplify the conflict between personal desires and social expectations.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Productivity strategies as a means of coping with anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping with anxiety through productivity can enhance focus on knowledge acquisition.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Internal conflict between desire for knowledge and fear of being perceived as a know-it-all"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing desires",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Difficulty in acknowledging personal strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Impact of relationship dynamics on self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting desires can influence how one perceives themselves in relationships and how they behave within those dynamics.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Struggling to establish boundaries with parents"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking knowledge may lead to independence",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Coping mechanisms for managing relationship insecurity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting desires can trigger relationship insecurity, prompting the use of coping mechanisms.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Ambivalence towards seeking knowledge and engaging in discussions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating conflicting desires for knowledge and social acceptance can lead to ambivalence towards seeking knowledge and engaging in discussions.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Navigating conflicting desires for knowledge and social acceptance",
+        "Self-worth development through acknowledging strengths and accomplishments"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Navigating conflicting desires can lead to self-reflection, which in turn can foster acknowledging strengths and accomplishments, thereby enhancing self-worth development.",
+      "pair_label": 52
+    }
+  ]
+}

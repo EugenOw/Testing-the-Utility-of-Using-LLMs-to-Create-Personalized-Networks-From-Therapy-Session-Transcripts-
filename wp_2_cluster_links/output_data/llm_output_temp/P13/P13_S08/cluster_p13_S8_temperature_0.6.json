@@ -1,0 +1,2833 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Similar cognitive approaches to emotional regulation",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intellectualization can impede emotional recognition and validation.",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Complementary strategies.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overanalysis of emotions may hinder authentic social connection.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intellectualizing emotions can facilitate deeper self-reflection and experiential learning about emotional management.",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intellectualizing can suppress immediate emotional response but may hinder deeper regulation.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intellectualization may lead to suppression.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overemphasis on intellectualizing can hinder emotional expression and empathy.",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intelectualizing emotions can facilitate the use of humor as a coping mechanism by providing a cognitive framework to reframe and reinterpret challenging situations in a more humorous or ironic light.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "The tendency to intellectualize emotions can lead to a struggle in balancing emotional expression due to an underlying fear of being perceived as weak.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Tendency to intellectualize emotions as a way to understand and manage them",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tendency to intellectualize can sometimes suppress the development of self-compassion.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Deflecting emotional expression through intellectualization facilitates evading vulnerability.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional expression is suppressed, leading to analysis instead of experience.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Socially anxious individuals may avoid expressing emotions to avoid being perceived as weak, which can in turn lead to feelings of isolation and difficulty understanding social cues.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared underlying causes",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "emotional expression is essential for building emotional connections and understanding others, thus suppressing this expression due to vulnerability fears directly hinders emotional connection and understanding.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Using humor can serve as a defense mechanism to mask true emotions",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being perceived as vulnerable may lead to a belief that emotions must be intellectually understood before being expressed openly.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoiding emotional expression triggers rumination.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces avoidance of emotional expression",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion counters the fear of vulnerability.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Over-reliance on logic may suppress emotional expression",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overreliance on rules and logic in social interactions can exacerbate feelings of being an outsider.",
+      "pair_label": 185
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Overreliance on rules may hinder intuitive emotional understanding.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Cognitive regulation techniques can sometimes impede natural emotional processing.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Regulating emotions with logic reduces expression.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overreliance on logic hinders emotional understanding.",
+      "pair_label": 190
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "May facilitate humor as logic helps recognize absurdity.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rationalization can mask emotional struggles.",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Using rules and logic to navigate social situations and emotions",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional regulation through logic facilitates self-compassion",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compensatory mechanism",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inability to acknowledge emotions can amplify the fear of emotional expression.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Unaware of one's emotions, leading to over-reliance on logic.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Prevents emotional immersion.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness of emotional struggles drives learning of emotional regulation.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased emotional dysregulation",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to recognize and validate one's own emotions can amplify the tendency to suppress emotions, as a lack of emotional awareness may lead to avoidance and suppression.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-emotional awareness precedes and amplifies empathetic understanding of others.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Struggling with emotional awareness may lead to tentative use of humor as a coping mechanism.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-awareness fosters intellectualization.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Analysis can hinder recognition and validation.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased emotional recognition and validation facilitate awareness of emotional needs, leading to struggles in balancing expression with social concerns.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Struggling to recognize and validate one's own emotions",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion counters emotional misrecognition.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Similar mechanisms of emotional regulation",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both are indicative of defensive emotional regulation strategies.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters analytical approach",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Analyzing rather than experiencing emotions may impede direct emotional recognition.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tendency to analyze emotions may lead to overthinking social cues, potentially increasing feelings of being an outsider and difficulty understanding social nuances.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Analysis facilitates understanding and management.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Observing emotions analytically may prevent full emotional processing, potentially worsening regulation.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Analysis often precedes suppression",
+      "pair_label": 137
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Analyzing emotions facilitates humor use.",
+      "pair_label": 138
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes involve intellectualizing emotions, suggesting a strong, mutually reinforcing connection.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying cognitive mechanisms",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Tendency to observe and analyze emotions rather than experiencing them directly",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Observing emotions from a distance can suppress expression due to fear of vulnerability.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased social struggles can lead to overthinking emotions.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social struggles amplify fear of vulnerability.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compensatory strategy.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social struggles can exacerbate emotional confusion.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened self-awareness due to social struggles leads to emotional detachment and analysis.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social struggles foster emotional regulation through self-reflection.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social struggles amplify emotional dysregulation tendencies.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social struggles lead to emotional suppression.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in understanding social cues exacerbates emotional disconnection.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social difficulties foster intellectualization of emotions",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social struggles amplify emotional introspection.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social struggles exacerbate emotional regulation difficulties.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Feeling like an outsider and struggling to understand social nuances",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion helps alleviate feelings of being an outsider.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection on emotions can alleviate fear of vulnerability, reducing difficulty in emotional expression.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "May reduce reliance on rigid logic.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional awareness and self-reflection skills hinder emotional struggles.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection reduces emotional reactivity",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness of emotions enhances social understanding.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflection may counteract past influences.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness counters suppression.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional self-awareness undermines social emotional struggles.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional awareness enhances humor's effectiveness as a coping mechanism.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may lead to a diminished need for purely intellectual understanding.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking can hinder emotional integration.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Learning to understand and manage emotions through experience and self-reflection",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Building emotional intelligence",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past difficulties lead to a need to control emotions through intellectualization.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Regulation difficulties can lead to suppressed expression",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compensatory mechanisms.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past struggles with emotional regulation hinder current ability to recognize and validate own emotions.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping mechanism.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional dysregulation can lead to social difficulties",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "As one learns to understand and manage their emotions, they may overcome difficulties with emotional regulation stemming from past experiences.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past struggles regulating emotions might lead to coping through suppression.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional dysregulation can lead to emotional unavailability.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness and introspection in an attempt to understand and control emotional responses.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past difficulties can lead to overthinking.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional regulation due to past experiences and family history",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional regulation difficulties can exacerbate fear of emotional expression.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Tendency to suppress emotions and react slowly to situations",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both tendencies share a common goal of managing emotions, with suppression potentially leading to later intellectualization as a way to process and understand the suppressed emotions.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Tendency to suppress emotions and react slowly to situations",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying mechanism of emotional avoidance.",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Tendency to suppress emotions and react slowly to situations",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Similar underlying coping mechanisms",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Tendency to suppress emotions and react slowly to situations",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppressing emotions impairs social feedback recognition.",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Tendency to suppress emotions and react slowly to situations",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Suppressing emotions hinders learning from emotional experiences.",
+      "pair_label": 159
+    },
+    {
+      "input_processes": [
+        "Tendency to suppress emotions and react slowly to situations",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trauma can amplify the tendency to suppress emotions as a coping mechanism.",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Tendency to suppress emotions and react slowly to situations",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory",
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppressing emotions can lead to excessive analysis as individuals attempt to understand and control their feelings.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Tendency to suppress emotions and react slowly to situations",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Conflict between restraint and expression",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in emotional connection may lead to over-reliance on intellectualization.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional understanding through reliance on logic.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-emotional awareness hinders emotional understanding of others.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intellectualizing emotions can hinder emotional connection",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Developing emotional understanding and regulation skills.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional struggles can exacerbate difficulties in interpersonal emotional connections.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Suppressed emotional expression hinders emotional connection.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Emotional struggles may be masked by humor.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intellectualizing emotions may stem from difficulty with emotional understanding.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Struggling to understand and connect with others on an emotional level",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion and understanding can alleviate emotional struggles by promoting a sense of connection and emotional regulation.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Humor can mask true feelings.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Humor can serve as a defense mechanism that distracts from emotional awareness.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Distancing through humor.",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Humor may distract from introspection.",
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Humor can temporarily mask or distract from underlying emotional distress, potentially reducing the perceived intensity of difficult emotional states.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Humor may serve as a defense mechanism, potentially delaying or reducing the need to directly confront and process difficult emotions.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping through humor can sometimes distract from deeper emotional understanding.",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Humor as a coping mechanism may mask emotional expression and prevent authentic display of vulnerability.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Using humor to cope with difficult emotions and situations",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Humor can foster a self-compassionate mindset",
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual Reinforcement",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Over-intellectualizing emotions can inhibit expression as individuals fear being perceived as vulnerable.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intellectualizing emotions primes the use of logic and rules to navigate social situations.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overemphasis on intellectual understanding may hinder emotional recognition and validation.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intellectualizing emotions leads to analyzing them.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in grasping social cues and emotional expressions can stem from, or contribute to, a need to intellectually understand emotions, fostering feelings of being an outsider.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intellectual curiosity about emotions fosters experiential learning.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intellectualization of emotions may hinder intuitive emotional regulation.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional understanding may lead to acceptance, potentially reducing suppression.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intellectualizing emotions can hinder emotional intelligence.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fosters deeper understanding leading to creative coping.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Intellectualizing emotions may heighten awareness but also intensify self-consciousness about emotional displays.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Feeling like emotions are something that need to be learned and understood intellectually",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intellectual understanding facilitates compassionate emotional regulation",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and analyzing emotions fuels the tendency to intellectualize them, as both involve rationalizing rather than experiencing feelings.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Analysis leads to rules.",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking and analyzing emotions can obscure their recognition and impede validation.",
+      "pair_label": 147
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both share the same underlying mechanism of emotional avoidance through cognitive analysis.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking emotions may lead to misinterpretation of social cues and difficulties in understanding social nuances.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Analysis paralysis can impede experiential learning and self-reflection.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative impact on emotional regulation.",
+      "pair_label": 142
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Analysis leads to suppression.",
+      "pair_label": 151
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overthinking can impair emotional understanding and empathy.",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Analysis of emotions can heighten self-awareness of emotional expression, leading to fear of being perceived as weak.",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them",
+        "Using self-compassion and understanding to manage and regulate emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overthinking emotions can impede the application of self-compassion.",
+      "pair_label": 154
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Using intellect as a coping mechanism for fear of emotional vulnerability.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Difficulty with emotional expression due to fear of being perceived as vulnerable"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Similar underlying fears of vulnerability",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rules and logic can suppress emotional expression.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Hiding true emotions to avoid vulnerability can lead to misunderstandings and social isolation.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Learning to understand and manage emotions through experience and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle fosters growth.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Difficulty with emotional regulation due to past experiences and family history"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being perceived as weak amplifies emotional regulation difficulties.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fearing judgment leads to emotional repression.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being perceived as weak may intensify the need to intellectually understand emotions.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Struggling to balance emotional expression with fear of being perceived as weak",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of weakness leads to overthinking",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Tendency to intellectualize emotions as a way to understand and manage them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compassionate understanding facilitates deeper reflection.",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Using rules and logic to navigate social situations and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Sometimes counters rigid thinking.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Struggling to recognize and validate one's own emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion and understanding directly counteract struggles in recognizing and validating emotions.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Tendency to observe and analyze emotions rather than experiencing them directly"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may reduce the need for detached observation.",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Feeling like an outsider and struggling to understand social nuances"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion helps reduce feelings of isolation.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Tendency to suppress emotions and react slowly to situations"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Struggling to understand and connect with others on an emotional level"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Using humor to cope with difficult emotions and situations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compassion enhances humor.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Feeling like emotions are something that need to be learned and understood intellectually"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Facilitates emotional insight",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Tendency to overthink and analyze emotions rather than accepting and experiencing them"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reduces overthinking",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Using self-compassion and understanding to manage and regulate emotions",
+        "Struggling to balance emotional expression with fear of being perceived as weak"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion dampens fear of vulnerability.",
+      "pair_label": 202
+    }
+  ]
+}

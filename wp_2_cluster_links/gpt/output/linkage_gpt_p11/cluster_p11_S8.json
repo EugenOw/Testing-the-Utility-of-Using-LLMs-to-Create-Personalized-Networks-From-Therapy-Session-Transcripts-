@@ -1,0 +1,6394 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Higher self-worth based on a partner's trustworthiness can reduce fear of abandonment, while self-doubt can amplify fears, creating a feedback loop.",
+      "pair_label": 310
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth may lead to fear of vulnerability, making it difficult to express emotions.",
+      "pair_label": 307
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth due to perceived untrustworthiness can heighten fear of rejection, creating tension in the desire for intimacy.",
+      "pair_label": 322
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perceived trustworthiness can influence self-worth, which may complicate the reconciliation of past experiences with current relationships.",
+      "pair_label": 321
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth due to perceived untrustworthiness may lead individuals to suppress emotions or distract themselves from relationship issues.",
+      "pair_label": 305
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perceived trustworthiness can influence emotional expression, which in turn affects self-perception and self-worth.",
+      "pair_label": 313
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Higher self-worth linked to perceiving a partner as trustworthy enhances the ability to develop emotional intimacy.",
+      "pair_label": 323
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-worth, which may be influenced by how trustworthy one perceives their partner.",
+      "pair_label": 318
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Higher self-worth linked to trust in a partner can amplify fears of betrayal, as perceived trustworthiness directly influences feelings of security in the relationship.",
+      "pair_label": 311
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trustworthiness can enhance self-worth, which in turn encourages open communication in relationships.",
+      "pair_label": 314
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Higher self-worth linked to trust in a partner can enhance emotional regulation by fostering positive self-reflection.",
+      "pair_label": 309
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-worth can be influenced by past experiences, which shape perceptions of trustworthiness in relationships.",
+      "pair_label": 317
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High self-worth linked to trust in a partner can reduce self-doubt and fear of abandonment, creating a reinforcing cycle.",
+      "pair_label": 319
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth can lead to increased fear of judgment, making emotional expression more difficult.",
+      "pair_label": 308
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-worth can influence self-awareness, as individuals may reflect on their value based on their partner's trustworthiness.",
+      "pair_label": 316
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth can lead to increased fear of intimacy, as individuals may doubt their partner's trustworthiness and their own value in the relationship.",
+      "pair_label": 312
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The perception of a partner's trustworthiness can enhance self-worth, while the partner's actions directly impact self-worth, creating a reinforcing cycle.",
+      "pair_label": 320
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth may lead to increased anxiety, prompting avoidance behaviors as a coping mechanism.",
+      "pair_label": 306
+    },
+    {
+      "input_processes": [
+        "Self-worth tied to perceived trustworthiness of partner",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Higher self-worth linked to trust can enhance the perception of emotional support, fostering stronger relational bonds.",
+      "pair_label": 315
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to self-doubt, which may affect how one perceives their partner's trustworthiness, thereby influencing self-worth.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment and self-doubt can lead to avoidance of emotional expression, as individuals may fear vulnerability and rejection.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment and self-doubt can intensify the tension between wanting closeness and fearing rejection, as both processes stem from insecurity in relationships.",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment can intensify self-doubt, making it difficult to reconcile past experiences with current relationships.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment and self-doubt can lead individuals to employ suppression and distraction as coping mechanisms to avoid confronting their emotional pain.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to self-doubt, which may inhibit emotional expression, thereby affecting self-perception.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment and self-doubt can undermine trust, making emotional intimacy more difficult.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can mitigate the negative effects of self-doubt stemming from fear of abandonment, promoting a healthier self-worth.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can amplify feelings of self-doubt, which in turn may lead to increased fears of being replaced or cheated on.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment and self-doubt can lead to avoidance of open communication, which may inhibit relationship development.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment and self-doubt can hinder effective emotional regulation, as negative self-perceptions may disrupt the ability to reflect and manage emotions constructively.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment can stem from past experiences, leading to self-doubt that influences how individuals perceive and engage in current relationships.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment can amplify self-doubt, as individuals may question their worthiness of love and support, creating a strong interconnection between the two issues.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to self-doubt, which may inhibit emotional expression due to concerns about being judged.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to increased self-doubt, which may prompt individuals to seek greater self-awareness to navigate their relationships.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment can intensify self-doubt, leading to a heightened fear of emotional intimacy as individuals may anticipate rejection or unworthiness.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment can lead to self-doubt, which in turn can make an individual overly reliant on their partner's actions to determine their self-worth.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to self-doubt, which may increase anxiety, prompting avoidance as a coping mechanism.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Fear of abandonment linked to self-doubt",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of abandonment can lead to self-doubt, which increases the perceived need for emotional support in relationships.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can hinder emotional expression, which may lead to doubts about trustworthiness and, consequently, affect self-worth.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing emotions can inhibit the ability to address fears of abandonment, as self-doubt may be exacerbated by unexpressed feelings.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability hinders emotional expression, which exacerbates the tension between wanting closeness and fearing rejection.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can hinder emotional expression, making it difficult to process and reconcile past experiences in current relationships.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability often leads individuals to suppress their emotions and distract themselves, reinforcing the use of these coping mechanisms.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability hinders emotional expression, negatively affecting self-perception.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability hinders emotional expression, which in turn obstructs the development of trust necessary for emotional intimacy.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can inhibit the ability to practice self-compassion, which is essential for building self-worth.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can inhibit emotional expression, which may contribute to insecurity and fear of being replaced or cheated on.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability significantly hinders the ability to communicate emotions, which is crucial for healthy relationships.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability can hinder the ability to articulate emotions, which in turn may suppress effective self-reflection and emotional regulation.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability can inhibit emotional expression, which may lead to unresolved past experiences affecting current relationships.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to express emotions can amplify self-doubt and fears of abandonment, as unarticulated feelings may lead to misunderstandings and reinforce insecurities.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes stem from underlying fears that inhibit emotional expression, reinforcing each other.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability can hinder self-awareness, making it difficult to understand and express emotions, which is crucial for healthy relationships.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The difficulty in expressing emotions can inhibit the ability to engage in emotional intimacy, particularly when past traumas create a fear of closeness.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can hinder emotional expression, which may lead to dependence on external validation from a partner, thus affecting self-worth.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability can lead to avoidance behaviors, as individuals may cope with anxiety by avoiding situations that require emotional expression.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating emotions due to fear of vulnerability",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability can hinder emotional expression, which is crucial for receiving emotional support in relationships.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection can undermine self-worth, especially if trust in a partner is perceived as low, leading to a cycle of avoidance and insecurity.",
+      "pair_label": 359
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of rejection can amplify feelings of self-doubt, which in turn heightens the fear of abandonment, creating a cycle that reinforces both processes.",
+      "pair_label": 348
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of rejection can inhibit the ability to articulate emotions, as vulnerability is often perceived as a risk in intimate relationships.",
+      "pair_label": 345
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between wanting closeness and fearing rejection can amplify the struggle to integrate past experiences into current relationships, as unresolved fears may hinder reconciliation.",
+      "pair_label": 360
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of rejection may lead individuals to suppress their desire for intimacy, using distraction as a coping mechanism to avoid emotional pain.",
+      "pair_label": 343
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension can lead to emotional expression, which in turn influences how one perceives themselves.",
+      "pair_label": 351
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The desire for intimacy can lead to a need for trust, as overcoming fear of rejection often requires a foundation of trust to foster emotional closeness.",
+      "pair_label": 361
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the fear of rejection, allowing for a healthier pursuit of intimacy.",
+      "pair_label": 356
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of rejection can amplify fears of being replaced or cheated on, as both stem from insecurities related to intimacy and attachment.",
+      "pair_label": 349
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between wanting closeness and fearing rejection can motivate individuals to communicate more openly, thereby enhancing relationship dynamics.",
+      "pair_label": 352
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help individuals manage the tension by providing insights that reduce fear of rejection, thus aiding emotional regulation.",
+      "pair_label": 347
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences can heighten the tension between wanting closeness and fearing rejection, as previous negative outcomes may amplify current anxieties.",
+      "pair_label": 355
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between wanting closeness and fearing rejection can amplify self-doubt and fears of abandonment, as these fears often stem from concerns about being unworthy of intimacy.",
+      "pair_label": 357
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of rejection can inhibit emotional expression, as individuals may avoid vulnerability to protect themselves from potential judgment.",
+      "pair_label": 346
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help individuals navigate their conflicting desires for intimacy and fears of rejection, thereby enhancing relational dynamics.",
+      "pair_label": 354
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of emotional intimacy stemming from past traumas can inhibit the desire for intimacy, creating a tension that reflects the struggle between wanting closeness and fearing rejection.",
+      "pair_label": 350
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The tension between wanting closeness and fearing rejection can significantly impact how one perceives their self-worth based on their partner's behavior.",
+      "pair_label": 358
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of rejection can lead to avoidance behaviors, which serve as a coping mechanism for anxiety related to intimacy.",
+      "pair_label": 344
+    },
+    {
+      "input_processes": [
+        "Tension between desire for intimacy and fear of rejection",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection can inhibit the ability to seek or provide emotional support, impacting relationship dynamics.",
+      "pair_label": 353
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in reconciling past experiences can lead to doubts about trustworthiness, which may negatively impact self-worth.",
+      "pair_label": 340
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with past experiences can amplify fears of abandonment, as unresolved issues may lead to increased self-doubt.",
+      "pair_label": 329
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to reconcile past experiences can lead to a fear of vulnerability, which inhibits the ability to articulate emotions.",
+      "pair_label": 326
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to reconcile past experiences can amplify the tension between wanting intimacy and fearing rejection, as unresolved issues may heighten anxiety about closeness.",
+      "pair_label": 341
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The struggle to reconcile past experiences can lead individuals to employ suppression and distraction as coping mechanisms, which may inhibit the processing of those experiences.",
+      "pair_label": 324
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can help individuals process past experiences, thereby improving their self-perception in the context of current relationships.",
+      "pair_label": 332
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in reconciling past experiences can hinder the development of trust, which is essential for emotional intimacy.",
+      "pair_label": 342
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals process past experiences, thereby improving their current relationships and enhancing self-worth.",
+      "pair_label": 337
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in reconciling past experiences can heighten anxiety about current relationships, leading to fears of betrayal or replacement.",
+      "pair_label": 330
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help individuals address and integrate past experiences, thereby improving their current relationships.",
+      "pair_label": 333
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with past experiences can prompt self-reflection, which may enhance emotional regulation.",
+      "pair_label": 328
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The difficulty in reconciling past experiences often amplifies their influence on current relationship dynamics.",
+      "pair_label": 336
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to reconcile past experiences can amplify self-doubt and fear of abandonment, as unresolved issues often lead to heightened insecurities in current relationships.",
+      "pair_label": 338
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved past experiences can lead to fear of judgment, inhibiting emotional expression.",
+      "pair_label": 327
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness helps individuals understand how past experiences influence current relationships, facilitating reconciliation.",
+      "pair_label": 335
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The struggle to reconcile past experiences often amplifies the fear of emotional intimacy, as unresolved traumas can lead to heightened anxiety about forming close relationships.",
+      "pair_label": 331
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with past experiences can lead to heightened sensitivity to a partner's actions, thereby influencing self-worth.",
+      "pair_label": 339
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to reconcile past experiences can lead to avoidance behaviors as a coping mechanism for anxiety, suggesting that unresolved issues may inhibit direct engagement with present relationships.",
+      "pair_label": 325
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences with present relationships",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with past experiences can heighten the need for emotional support in current relationships, as individuals seek validation and understanding.",
+      "pair_label": 334
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can inhibit the ability to assess and reflect on trustworthiness, potentially impacting self-worth.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can mitigate the emotional impact of fear of abandonment, but their effectiveness may vary depending on individual circumstances.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Suppression and distraction can inhibit the ability to articulate emotions, as they prevent individuals from fully engaging with and expressing their feelings.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms like suppression and distraction can inhibit the expression of desires for intimacy, as they may lead to avoidance of situations that trigger fear of rejection.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can hinder the ability to process and reconcile past experiences, leading to ongoing struggles in present relationships.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can inhibit emotional expression, which may negatively affect self-perception.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can inhibit the development of self-compassion, as they may prevent individuals from fully processing their emotions and fostering a positive self-view.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms like suppression and distraction can help manage the emotional distress associated with fears of being replaced or cheated on, thereby reducing the intensity of those fears.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can inhibit self-reflection, as they divert attention away from emotional processing.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can inhibit the processing of past experiences, affecting how they influence current relationships.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can reduce awareness of self-doubt and fear of abandonment, but their effectiveness may vary based on individual circumstances.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Suppression and distraction can inhibit emotional expression, as individuals may avoid expressing feelings due to fear of judgment.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can hinder self-awareness, affecting the ability to engage meaningfully in relationships.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms like suppression and distraction can inhibit the ability to engage emotionally, contributing to a fear of intimacy.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can inhibit the awareness of self-worth fluctuations based on partner's actions, leading to a less direct impact on self-esteem.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Suppression and distraction can inhibit the direct confrontation of anxiety, leading to avoidance behaviors.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Coping mechanisms of suppression and distraction",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Coping mechanisms like suppression and distraction can inhibit the expression of emotions, which may reduce the perceived need for emotional support in relationships.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can influence how individuals perceive themselves, which may in turn affect their self-worth based on their partner's trustworthiness.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, which may reduce self-doubt and mitigate fears of abandonment.",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can hinder emotional expression, negatively affecting self-perception.",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, which may influence how individuals navigate their desires for intimacy and fears of rejection.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can influence how individuals perceive themselves, which may affect their ability to reconcile past experiences with current relationships.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, while suppression and distraction may inhibit this process by avoiding emotional engagement.",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, which in turn fosters trust, facilitating emotional intimacy.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, which in turn may foster self-compassion and contribute to a stronger sense of self-worth.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can influence self-perception, which may reduce anxiety and insecurity related to fears of being replaced or cheated on.",
+      "pair_label": 159
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-awareness and self-acceptance, which in turn fosters more effective communication in relationships.",
+      "pair_label": 161
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-awareness, which in turn aids in regulating emotions through reflective practices.",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can shape self-perception, which in turn influences how past experiences are interpreted in current relationships.",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, which may reduce self-doubt and fear of abandonment, creating a supportive feedback loop.",
+      "pair_label": 166
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit emotional expression, which in turn negatively affects self-perception.",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, which in turn fosters greater self-awareness, positively influencing interpersonal relationships.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, but fear of intimacy may inhibit this expression, creating a conflict.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, which in turn may influence how one interprets and values their partner's actions, affecting self-worth.",
+      "pair_label": 167
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-awareness, which may reduce the tendency to avoid anxiety-provoking situations.",
+      "pair_label": 154
+    },
+    {
+      "input_processes": [
+        "Impact of emotional expression on self-perception",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can enhance self-perception, which in turn may lead individuals to seek and value emotional support in relationships.",
+      "pair_label": 162
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trust enhances emotional intimacy, which in turn reinforces self-worth through the perception of being trustworthy.",
+      "pair_label": 378
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trust can mitigate fears of abandonment, while self-doubt may hinder the development of trust, creating a complex interplay.",
+      "pair_label": 367
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of trust can lead to fear of vulnerability, making it difficult to articulate emotions.",
+      "pair_label": 364
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trust can reduce the tension between the desire for intimacy and the fear of rejection, as it fosters a sense of safety in relationships.",
+      "pair_label": 380
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trust can enhance emotional intimacy, which may help individuals better navigate and reconcile their past experiences within current relationships.",
+      "pair_label": 379
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 362
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trust facilitates emotional intimacy, which in turn encourages emotional expression, positively influencing self-perception.",
+      "pair_label": 370
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trust can enhance emotional intimacy, which may foster self-compassion and subsequently improve self-worth.",
+      "pair_label": 375
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High levels of trust reduce fears of betrayal, while low trust amplifies fears, creating a strong inhibitory relationship.",
+      "pair_label": 368
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trust enhances open communication, which is essential for developing emotional intimacy.",
+      "pair_label": 371
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trust fosters a safe environment that encourages self-reflection, enhancing emotional regulation.",
+      "pair_label": 366
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trust built from past experiences fosters emotional intimacy, creating a strong link between these processes.",
+      "pair_label": 374
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High levels of self-doubt and fear of abandonment can undermine trust, which is essential for developing emotional intimacy.",
+      "pair_label": 376
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of trust can inhibit emotional expression, as fear of judgment may arise when intimacy is not established.",
+      "pair_label": 365
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trust fosters emotional intimacy, and self-awareness enhances understanding and communication, reinforcing the trust needed for deeper connections.",
+      "pair_label": 373
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trust is essential for emotional intimacy, and fear stemming from past traumas can significantly inhibit the ability to develop that trust.",
+      "pair_label": 369
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Trust fosters emotional intimacy, which can enhance self-worth through positive partner interactions.",
+      "pair_label": 377
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 363
+    },
+    {
+      "input_processes": [
+        "Trust as a prerequisite for emotional intimacy",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Trust fosters emotional intimacy, which enhances the perception and provision of emotional support in relationships.",
+      "pair_label": 372
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-worth, which may influence how individuals perceive the trustworthiness of their partner.",
+      "pair_label": 263
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce self-doubt and fear of abandonment by fostering a more positive self-view.",
+      "pair_label": 253
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the fear of vulnerability, making it easier to articulate emotions.",
+      "pair_label": 250
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the fear of rejection by fostering a sense of self-worth, which may alleviate the tension between the desire for intimacy and the fear of being hurt.",
+      "pair_label": 265
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals process past experiences more positively, aiding in the reconciliation with present relationships.",
+      "pair_label": 264
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the reliance on suppression and distraction by fostering acceptance and understanding of one's feelings.",
+      "pair_label": 248
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance emotional expression, leading to a more positive self-perception.",
+      "pair_label": 256
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-worth, which in turn fosters trust, facilitating emotional intimacy.",
+      "pair_label": 266
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce feelings of insecurity and fear of loss, thereby mitigating the fear of being replaced or cheated on.",
+      "pair_label": 254
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-worth, which may lead to more open and effective communication in relationships.",
+      "pair_label": 257
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-worth, which in turn supports better emotional regulation through reflective practices.",
+      "pair_label": 252
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help individuals reinterpret past experiences, fostering healthier relationship dynamics.",
+      "pair_label": 260
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce self-doubt and fear of abandonment by fostering a more positive self-view and emotional resilience.",
+      "pair_label": 261
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the fear of judgment, thereby facilitating emotional expression.",
+      "pair_label": 251
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-awareness, which in turn fosters healthier relationships.",
+      "pair_label": 259
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate the fear of emotional intimacy by fostering a sense of self-worth, which may reduce the impact of past traumas.",
+      "pair_label": 255
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-worth, which may make individuals less reliant on their partner's actions for validation.",
+      "pair_label": 262
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can reduce the tendency to avoid anxiety-provoking situations by fostering a more accepting and resilient mindset.",
+      "pair_label": 249
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a means to build self-worth",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-worth, which may lead individuals to seek and value emotional support in relationships.",
+      "pair_label": 258
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being replaced or cheated on can significantly amplify concerns about self-worth, particularly when it is linked to the perceived trustworthiness of a partner.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being replaced or cheated on can amplify feelings of abandonment and self-doubt, as individuals may perceive threats to their relationships that heighten their insecurities.",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of being replaced or cheated on can lead to a heightened fear of vulnerability, causing individuals to struggle with expressing their emotions.",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being replaced or cheated on can intensify the tension between wanting closeness and fearing rejection, as the anxiety about potential loss amplifies the struggle for intimacy.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can amplify the struggle to reconcile past experiences, as unresolved issues may heighten anxiety about current relationships.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of being replaced or cheated on can lead individuals to employ coping mechanisms like suppression and distraction to manage their anxiety, thereby inhibiting the emotional impact of their fears.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can lead to suppressed emotional expression, which in turn negatively affects self-perception.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being replaced or cheated on undermines trust, which is essential for emotional intimacy.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can undermine self-compassion, as individuals may struggle to accept themselves when feeling insecure.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can lead to avoidance of open communication, which is essential for healthy relationships.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can lead to heightened anxiety, which may inhibit effective emotional regulation through self-reflection.",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being replaced or cheated on often stems from past experiences, which can amplify insecurities and affect current relationship dynamics.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being replaced or cheated on can significantly amplify self-doubt and fear of abandonment, as these fears often stem from insecurities about one's worth and relationships.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can lead to emotional suppression, as individuals may avoid expressing feelings to prevent vulnerability and potential rejection.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can lead to a lack of self-awareness, as individuals may become overly focused on their insecurities rather than reflecting on their own behaviors and needs in the relationship.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can inhibit emotional intimacy, as the individual may avoid closeness to prevent potential betrayal.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being replaced or cheated on can significantly amplify concerns about self-worth, as individuals may tie their value to their partner's fidelity and actions.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can lead to anxiety, which may result in avoidance behaviors as a coping mechanism.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Fear of being replaced or cheated on",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being replaced can heighten the perceived need for emotional support, as individuals seek reassurance and validation in their relationships.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can enhance trust, which in turn can positively influence self-worth.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can alleviate fears of abandonment by fostering trust and reducing self-doubt.",
+      "pair_label": 177
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication is essential for healthy relationships, and fear of vulnerability significantly hinders the ability to express emotions, thereby suppressing relational dynamics.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help mitigate fears of rejection, thereby reducing tension and fostering intimacy.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help individuals address and integrate past experiences, thereby reducing struggles in current relationships.",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can reduce the reliance on suppression and distraction as coping mechanisms, as open dialogue often addresses issues directly.",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication enhances emotional expression, which can positively influence how individuals perceive themselves.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication fosters trust, which is essential for developing emotional intimacy.",
+      "pair_label": 190
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can enhance self-compassion by fostering understanding and support, which in turn builds self-worth.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can alleviate fears of infidelity by fostering trust and understanding.",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can enhance self-reflection, leading to better emotional regulation.",
+      "pair_label": 176
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can help individuals navigate and reinterpret past experiences, thereby influencing current relationship dynamics.",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can alleviate self-doubt and fear of abandonment by fostering trust and understanding in relationships.",
+      "pair_label": 185
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment can significantly hinder effective communication, which is crucial for healthy relationships.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication often requires self-awareness to understand one's own feelings and perspectives, thereby enhancing relational dynamics.",
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can be hindered by fear of intimacy, as past traumas may lead individuals to avoid open emotional exchanges.",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication can enhance feelings of self-worth by fostering understanding and validation in relationships.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Importance of communication in relationships",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication enhances emotional support, fostering stronger relational bonds.",
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can enhance emotional regulation, which may positively influence self-worth by fostering a sense of trust and security in relationships.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help mitigate self-doubt, thereby reducing fear of abandonment.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can enhance emotional regulation, which may reduce the fear of vulnerability, thereby facilitating better articulation of emotions.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help individuals manage their emotions, potentially reducing the tension between wanting intimacy and fearing rejection.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can enhance emotional regulation, which may help individuals better understand and reconcile their past experiences in the context of current relationships.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can lead to better emotional understanding, which may reduce the reliance on suppression and distraction as coping mechanisms.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can enhance emotional regulation, which in turn positively influences how one perceives their emotional expressions.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection enhances emotional regulation, which can foster trust, thereby facilitating emotional intimacy.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can enhance emotional regulation, which in turn fosters self-compassion, contributing to a stronger sense of self-worth.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help individuals manage their emotions, potentially reducing anxiety related to fears of replacement or infidelity.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection enhances emotional regulation, which can improve communication skills and relationship dynamics.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can enhance emotional regulation, which in turn helps individuals process past experiences, thereby influencing their current relationship dynamics.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help mitigate self-doubt and fear of abandonment by fostering greater emotional awareness and understanding.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help individuals manage their emotions, potentially reducing the fear of judgment that hinders emotional expression.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-reflection enhances emotional regulation, which in turn fosters greater self-awareness, crucial for maintaining healthy relationships.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help individuals process past traumas, potentially reducing fear of intimacy.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help individuals manage their emotions, which may reduce the impact of external factors, such as a partner's actions, on their self-worth.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help individuals confront and process emotions, potentially reducing the reliance on avoidance strategies for coping with anxiety.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Emotional regulation through self-reflection",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection enhances emotional regulation, which can lead to a greater appreciation and need for emotional support in relationships.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape how individuals perceive their partner's trustworthiness, which in turn affects their self-worth.",
+      "pair_label": 244
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences can shape an individual's fear of abandonment and self-doubt, creating a cycle where negative experiences amplify these fears in current relationships.",
+      "pair_label": 234
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can create barriers to expressing emotions, as individuals may fear vulnerability based on previous relational outcomes.",
+      "pair_label": 231
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape how individuals perceive intimacy and rejection, often amplifying the tension between wanting closeness and fearing negative outcomes.",
+      "pair_label": 246
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape perceptions and behaviors in current relationships, leading to difficulties in reconciling those experiences with present dynamics.",
+      "pair_label": 245
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can lead individuals to employ suppression and distraction as coping mechanisms, which may inhibit the processing of those experiences in current relationships.",
+      "pair_label": 229
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape how individuals express emotions, which in turn affects their self-perception.",
+      "pair_label": 237
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape perceptions and behaviors in relationships, significantly impacting the development of trust, which is essential for emotional intimacy.",
+      "pair_label": 247
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape how individuals perceive themselves and their worth, and self-compassion can help mitigate negative influences from those experiences, thereby enhancing self-worth.",
+      "pair_label": 241
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences can shape perceptions and fears in relationships, leading to heightened anxiety about being replaced or cheated on.",
+      "pair_label": 235
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences shape how individuals communicate in relationships, affecting their dynamics.",
+      "pair_label": 238
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape how individuals reflect on their emotions, thereby enhancing their ability to regulate feelings in current relationships.",
+      "pair_label": 233
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences often shape self-perception and attachment styles, leading to heightened self-doubt and fear of abandonment in relationships.",
+      "pair_label": 242
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative past experiences can lead to a fear of judgment, which inhibits emotional expression in current relationships.",
+      "pair_label": 232
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness helps individuals recognize how past experiences shape their current relationship dynamics, enhancing understanding and communication.",
+      "pair_label": 240
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences, particularly traumas, can significantly shape current relationship dynamics, often leading to heightened fears of emotional intimacy.",
+      "pair_label": 236
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape how individuals perceive and react to their partner's actions, significantly impacting their self-worth.",
+      "pair_label": 243
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can shape how individuals respond to anxiety, often leading to avoidance behaviors that inhibit healthy relationship dynamics.",
+      "pair_label": 230
+    },
+    {
+      "input_processes": [
+        "Past experiences influencing current relationship dynamics",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape expectations and perceptions of emotional support, enhancing its significance in current relationships.",
+      "pair_label": 239
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can significantly undermine self-worth, particularly in the context of trusting relationships, leading to a cycle where perceived trustworthiness directly impacts self-esteem.",
+      "pair_label": 282
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can amplify the fear of abandonment, as individuals may feel unworthy of love or support, leading to heightened anxiety about being abandoned.",
+      "pair_label": 272
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can lead to a heightened fear of vulnerability, which inhibits the ability to articulate emotions.",
+      "pair_label": 269
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can amplify the tension between wanting closeness and fearing rejection, as these insecurities heighten emotional vulnerability.",
+      "pair_label": 284
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can intensify the struggle to reconcile past experiences with present relationships, as these feelings often stem from unresolved issues that affect current interactions.",
+      "pair_label": 283
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can lead individuals to employ suppression and distraction as coping mechanisms, which may inhibit the processing of these underlying fears.",
+      "pair_label": 267
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional expression can influence self-perception, which may amplify self-doubt and fear of abandonment, creating a feedback loop.",
+      "pair_label": 275
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can undermine trust, making it difficult to achieve emotional intimacy.",
+      "pair_label": 285
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help mitigate self-doubt and fear of abandonment by fostering a sense of self-worth, thus reducing the negative impact of these intertwined issues.",
+      "pair_label": 280
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can amplify fears of being replaced or cheated on, as individuals may feel insecure in their relationships.",
+      "pair_label": 273
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can hinder effective communication, leading to misunderstandings and emotional distance in relationships.",
+      "pair_label": 276
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can hinder effective emotional regulation, as these issues may lead to avoidance of self-reflection.",
+      "pair_label": 271
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment often stem from past experiences, which can significantly shape current relationship dynamics, reinforcing feelings of insecurity.",
+      "pair_label": 279
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can lead to a heightened fear of judgment, which inhibits emotional expression.",
+      "pair_label": 270
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can hinder self-awareness, as these issues may lead individuals to focus more on their insecurities rather than understanding their emotions and behaviors in relationships.",
+      "pair_label": 278
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can amplify the fear of emotional intimacy, as individuals may feel unworthy of love or fear being hurt again, leading to avoidance of close relationships.",
+      "pair_label": 274
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can significantly lower self-worth, especially when influenced by a partner's actions, creating a reinforcing cycle.",
+      "pair_label": 281
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can lead to avoidance behaviors as a means of coping with anxiety, suggesting an inhibitory relationship where one process suppresses the other.",
+      "pair_label": 268
+    },
+    {
+      "input_processes": [
+        "Self-doubt and fear of abandonment as intertwined issues",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt and fear of abandonment can amplify the perceived need for emotional support, as individuals may seek reassurance and validation from others to mitigate their insecurities.",
+      "pair_label": 277
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit emotional expression, which may lead to difficulties in building trust and thus affect self-worth in relationships.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit emotional expression, which may exacerbate self-doubt and contribute to fears of abandonment.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Both processes stem from a fear of negative evaluation, reinforcing each other and leading to compounded difficulties in emotional expression.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment can lead to difficulty in expressing emotions, which amplifies the tension between wanting intimacy and fearing rejection.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit emotional expression, which may complicate the reconciliation of past experiences with current relationships.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment leads to emotional suppression and distraction as coping strategies, inhibiting emotional expression.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment significantly inhibits emotional expression, which in turn negatively affects self-perception.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment inhibits the ability to express emotions, which undermines the development of trust necessary for emotional intimacy.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit emotional expression, which may limit the development of self-compassion and self-worth.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit emotional expression, which may contribute to insecurity and fear of being replaced or cheated on.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment significantly hinders emotional expression, which is crucial for effective communication in relationships.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can hinder the ability to self-reflect effectively, thus impacting emotional regulation.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment can stem from past experiences, which may inhibit emotional expression and negatively affect current relationships.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment can exacerbate self-doubt and fear of abandonment, as individuals may internalize negative perceptions, leading to heightened emotional distress.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can hinder emotional expression, which may limit self-awareness and understanding in relationships.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment can exacerbate fear of intimacy, as both processes stem from a concern about vulnerability and negative evaluation.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can lead to emotional suppression, which may negatively impact self-worth, especially in relational contexts.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can lead to avoidance behaviors, as individuals may cope with anxiety by avoiding situations where they might have to express emotions.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Difficulty in expressing emotions due to fear of judgment",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment can hinder emotional expression, which is crucial for receiving emotional support in relationships.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can enhance understanding of one's own needs and values, which may influence perceptions of a partner's trustworthiness, thereby affecting self-worth.",
+      "pair_label": 225
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help individuals recognize and manage their fears of abandonment, thereby reducing self-doubt.",
+      "pair_label": 215
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help individuals recognize and manage their fear of vulnerability, thereby reducing difficulties in articulating emotions.",
+      "pair_label": 212
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help individuals navigate their fears and desires, potentially reducing tension in relationships.",
+      "pair_label": 227
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can enhance understanding of past experiences, aiding in their reconciliation with current relationships.",
+      "pair_label": 226
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can reduce reliance on suppression and distraction by promoting healthier emotional processing.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness enhances emotional expression, which in turn can positively influence self-perception.",
+      "pair_label": 218
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances understanding of one's emotions and behaviors, which fosters trust and deepens emotional intimacy in relationships.",
+      "pair_label": 228
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness enhances understanding of one's emotions and needs, which can foster self-compassion and improve self-worth.",
+      "pair_label": 222
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help individuals recognize and manage their fears, potentially reducing anxiety about being replaced or cheated on.",
+      "pair_label": 216
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances communication by allowing individuals to express their thoughts and feelings more clearly, fostering better understanding in relationships.",
+      "pair_label": 219
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances the ability to reflect on emotions, leading to better emotional regulation.",
+      "pair_label": 214
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness helps individuals recognize how past experiences shape their current relationship dynamics, enhancing understanding and communication.",
+      "pair_label": 221
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help mitigate self-doubt and fear of abandonment by fostering a better understanding of one's emotions and needs.",
+      "pair_label": 223
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help individuals recognize and manage their fear of judgment, potentially reducing emotional expression difficulties.",
+      "pair_label": 213
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help individuals recognize and address their fears, potentially reducing the impact of past traumas on emotional intimacy.",
+      "pair_label": 217
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can enhance understanding of one's self-worth, which may be affected by a partner's actions.",
+      "pair_label": 224
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 211
+    },
+    {
+      "input_processes": [
+        "Importance of self-awareness in relationships",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances the ability to provide and receive emotional support, fostering healthier relationships.",
+      "pair_label": 220
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of intimacy can lead to doubts about trustworthiness, impacting self-worth.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy can amplify fear of abandonment, as past traumas may lead to self-doubt and increased anxiety about being left.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy can lead to avoidance of vulnerability, making it difficult to articulate emotions.",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of emotional intimacy stemming from past traumas significantly inhibits the ability to pursue intimacy, creating a strong tension between the desire for closeness and the fear of rejection.",
+      "pair_label": 151
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy can hinder the ability to process and integrate past experiences, making it difficult to reconcile them with current relationships.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of intimacy often leads individuals to employ suppression and distraction as coping mechanisms to avoid confronting emotional vulnerability.",
+      "pair_label": 134
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of intimacy can lead to avoidance of emotional expression, negatively affecting self-perception.",
+      "pair_label": 141
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear stemming from past traumas significantly undermines the ability to trust, which is essential for developing emotional intimacy.",
+      "pair_label": 152
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional intimacy can hinder the development of self-compassion, as past traumas may lead to negative self-perceptions that obstruct self-worth.",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional intimacy can amplify fears of being replaced or cheated on, as past traumas may lead to heightened sensitivity to perceived threats in relationships.",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy can significantly hinder effective communication, as individuals may avoid sharing feelings or vulnerabilities.",
+      "pair_label": 142
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of intimacy can hinder effective self-reflection, limiting emotional regulation.",
+      "pair_label": 138
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy often stems from past traumas, which significantly shape how individuals interact in current relationships.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy can amplify self-doubt and fear of abandonment, as past traumas create a heightened sensitivity to perceived threats in relationships.",
+      "pair_label": 147
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of intimacy often leads to heightened anxiety about expressing emotions, reinforcing the difficulty in emotional expression.",
+      "pair_label": 137
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional intimacy can hinder self-awareness, as individuals may avoid reflecting on their feelings to protect themselves from vulnerability.",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of intimacy can lead to avoidance of close relationships, which in turn negatively impacts self-worth as it may result in less validation from partners.",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy often leads individuals to avoid situations that may trigger anxiety, reinforcing the coping mechanism of avoidance.",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy due to past traumas",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy can significantly hinder the ability to seek and receive emotional support, creating a barrier to forming supportive relationships.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive actions from a partner can enhance self-worth, especially when the partner is perceived as trustworthy, creating a reinforcing cycle.",
+      "pair_label": 301
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Partner's actions can enhance self-worth, which may reduce fear of abandonment, but the relationship is influenced by individual self-doubt.",
+      "pair_label": 291
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth can lead to fear of vulnerability, making it difficult to express emotions.",
+      "pair_label": 288
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth can heighten fear of rejection, creating tension in the desire for intimacy.",
+      "pair_label": 303
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A partner's actions can impact self-worth, which may complicate the reconciliation of past experiences with current relationships.",
+      "pair_label": 302
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "When self-worth is heavily influenced by a partner's actions, individuals may resort to suppression and distraction as coping mechanisms to manage negative feelings, thereby inhibiting their emotional processing.",
+      "pair_label": 286
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Positive or negative actions from a partner can enhance or diminish emotional expression, which in turn affects self-perception and self-worth.",
+      "pair_label": 294
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A partner's actions can enhance self-worth, which in turn fosters trust, facilitating emotional intimacy.",
+      "pair_label": 304
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance self-worth, especially when influenced by external validation, creating a supportive feedback loop.",
+      "pair_label": 299
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A partner's actions can significantly impact self-worth, which in turn can heighten fears of infidelity or abandonment.",
+      "pair_label": 292
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective communication can enhance self-worth by fostering understanding and support in a relationship.",
+      "pair_label": 295
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Partner's actions can impact self-worth, which may hinder effective self-reflection and emotional regulation.",
+      "pair_label": 290
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The way a partner acts can shape self-worth, which may be informed by past experiences, creating a feedback loop that influences current dynamics.",
+      "pair_label": 298
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The perception of self-worth can significantly amplify feelings of self-doubt and fear of abandonment, as individuals often tie their self-esteem to their partner's behavior.",
+      "pair_label": 300
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth from a partner's actions can lead to fear of judgment, inhibiting emotional expression.",
+      "pair_label": 289
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can enhance understanding of how a partner's actions affect self-worth, thereby reinforcing the importance of self-worth in the relationship.",
+      "pair_label": 297
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth can lead to avoidance of emotional intimacy, as individuals may fear rejection or further emotional pain.",
+      "pair_label": 293
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Low self-worth from a partner's actions may lead to avoidance as a coping mechanism for anxiety.",
+      "pair_label": 287
+    },
+    {
+      "input_processes": [
+        "Self-worth influenced by partner's actions",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive actions from a partner can enhance self-worth, highlighting the critical role of emotional support in fostering healthy self-esteem.",
+      "pair_label": 296
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can suppress the confrontation of self-doubt and fears of abandonment, leading to a cycle of increased anxiety and insecurity.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can inhibit emotional expression, as individuals may avoid situations that require vulnerability.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can suppress the desire for intimacy due to fear of rejection, creating tension.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can hinder the processing of past experiences, making it difficult to reconcile them with current relationships.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can enhance the effectiveness of suppression and distraction as coping strategies, as individuals may rely on these mechanisms to manage anxiety.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can limit emotional expression, which may negatively affect self-perception.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can hinder the development of self-compassion, as it prevents individuals from confronting their feelings and fostering self-acceptance.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can suppress the awareness of fears, such as being replaced or cheated on, but this relationship may vary based on individual circumstances.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance can hinder self-reflection, limiting emotional regulation.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can suppress the processing of past experiences, which may hinder the ability to address current relationship dynamics.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can suppress the confrontation of self-doubt and fear of abandonment, leading to a cycle of unresolved issues.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance as a coping mechanism can reinforce the difficulty in expressing emotions, as it prevents individuals from confronting situations that may lead to emotional expression.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can inhibit the ability to engage emotionally, leading to fears of intimacy.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can lead to reduced engagement in relationships, which may negatively impact self-worth based on partner's actions.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety through avoidance",
+        "Importance of emotional support in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance coping can limit the seeking of emotional support, which is crucial for healthy relationships.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Self-worth tied to perceived trustworthiness of partner"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can enhance feelings of self-worth, especially when trust in a partner is perceived positively.",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Fear of abandonment linked to self-doubt"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can mitigate fears of abandonment, while self-doubt may heighten the need for support.",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Difficulty articulating emotions due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can hinder the ability to seek or provide emotional support, impacting relationship quality.",
+      "pair_label": 193
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Tension between desire for intimacy and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can alleviate fears of rejection, thereby reducing tension and promoting intimacy.",
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Struggle to reconcile past experiences with present relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can help individuals process and integrate past experiences, thereby reducing struggles in current relationships.",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Coping mechanisms of suppression and distraction"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can reduce the reliance on suppression and distraction as coping mechanisms, promoting healthier emotional processing.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Impact of emotional expression on self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support enhances emotional expression, which can positively influence self-perception.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Trust as a prerequisite for emotional intimacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional support fosters trust, which is essential for developing emotional intimacy.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Self-compassion as a means to build self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can enhance self-compassion, which in turn fosters a greater sense of self-worth.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Fear of being replaced or cheated on"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can mitigate feelings of insecurity and fear of betrayal, suggesting a protective role.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Importance of communication in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective communication enhances emotional support, fostering stronger relational bonds.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Emotional regulation through self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can enhance self-reflection, leading to better emotional regulation.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Past experiences influencing current relationship dynamics"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can shape how past experiences are interpreted and integrated into current relationship dynamics.",
+      "pair_label": 202
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Self-doubt and fear of abandonment as intertwined issues"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional support can significantly reduce self-doubt and fear of abandonment, reinforcing the stability and security in relationships.",
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Difficulty in expressing emotions due to fear of judgment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment can inhibit the ability to seek or provide emotional support, affecting relationship dynamics.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Importance of self-awareness in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can enhance self-awareness by providing feedback and validation, fostering deeper understanding of oneself in the context of relationships.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Fear of emotional intimacy due to past traumas"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional support is crucial for healthy relationships, but fear of intimacy can significantly hinder the ability to receive or provide such support.",
+      "pair_label": 198
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Self-worth influenced by partner's actions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional support enhances self-worth, as positive partner actions reinforce feelings of value.",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Importance of emotional support in relationships",
+        "Coping with anxiety through avoidance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional support can reduce the need for avoidance as individuals feel more secure and capable of facing anxiety-provoking situations.",
+      "pair_label": 192
+    }
+  ]
+}

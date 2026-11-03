@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Process Network</title>
+    <script src="https://unpkg.com/cytoscape@3.21.1/dist/cytoscape.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #cy {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        .legend {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 14px;
+            z-index: 10;
+        }
+        .tooltip {
+            position: absolute;
+            background: #fefefe;
+            border: 1px solid #aaa;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 13px;
+            max-width: 300px;
+            z-index: 20;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            cursor: default;
+        }
+        .tooltip .close-btn {
+            float: right;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="cy"></div>
+    <div class="legend">
+        <b>Legend</b><br>
+        <span style="color:#e74c3c;">Red</span>: Inhibitory<br>
+        <span style="color:#3498db;">Blue</span>: Excitatory<br>
+        <hr style="border-top: 1px dashed #aaa; margin: 4px 0;">
+        Dashed line = Weak<br>
+        Solid thin = Moderate<br>
+        Solid thick = Strong<br>
+        <hr>
+        <b>Dimensions</b><br>
+        🔴 Cognition<br>
+        🟠 Attention<br>
+        🟡 Motivation<br>
+        🟢 (Overt) Behaviour<br>
+        🔵 Sense of Self<br>
+        🟣 Context/Moderators<br>
+        🟤 Affect<br>
+        ⚪ Sociocultural<br>
+        ⚫ Biophysiological
+    </div>
+    <script>
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            layout: { name: 'cose' },
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'text-wrap': 'wrap',
+                        'text-max-width': 100,
+                        'text-valign': 'center',
+                        'text-halign': 'center',
+                        'background-color': '#ffffff',
+                        'border-color': '#000000',
+                        'border-width': 1,
+                        'color': '#000',
+                        'font-size': 10,
+                        'width': 'label',
+                        'height': 'label',
+                        'padding': 10
+                    }
+                },
+                {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'target-arrow-shape': 'triangle',
+                        'arrow-scale': 1.2,
+                        'label': '',
+                        'font-size': 9,
+                        'text-rotation': 'autorotate',
+                        'text-margin-y': -10,
+                        'line-color': 'data(color)',
+                        'target-arrow-color': 'data(color)',
+                        'width': 'data(width)',
+                        'line-style': 'data(lineStyle)'
+                    }
+                }
+            ],
+            elements: [{"data": {"id": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.", "label": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udfe0\nFrequency: 19"}}, {"data": {"id": "Tension between the value of personal growth and relationship obligations.", "label": "Tension between the value of personal growth and relationship obligations.\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udfe0\nFrequency: 19"}}, {"data": {"id": "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.", "label": "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udfe0\nFrequency: 19"}}, {"data": {"id": "Assessing the role of thoughts in emotional experiences and developing self-compassion.", "label": "Assessing the role of thoughts in emotional experiences and developing self-compassion.\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udfe0\nFrequency: 19"}}, {"data": {"id": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.", "label": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udfe0\nFrequency: 19"}}, {"data": {"id": "Evaluating the effectiveness of emotional regulation strategies in relationships.", "label": "Evaluating the effectiveness of emotional regulation strategies in relationships.\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udfe0\nFrequency: 19"}}, {"data": {"id": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past._Tension between the value of personal growth and relationship obligations._25", "source": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.", "target": "Tension between the value of personal growth and relationship obligations.", "pair_label": "25", "info": "<b>Pair:</b> 25<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Unresolved past emotions fuel current value conflicts.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past._Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety._24", "source": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.", "target": "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.", "pair_label": "24", "info": "<b>Pair:</b> 24<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-blame can reinforce avoidance of emotional expression.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past._Assessing the role of thoughts in emotional experiences and developing self-compassion._21", "source": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.", "target": "Assessing the role of thoughts in emotional experiences and developing self-compassion.", "pair_label": "21", "info": "<b>Pair:</b> 21<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Facilitates emotional awareness and expression.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences._Struggling to articulate feelings as a manifestation of unexpressed emotions from the past._9", "source": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.", "target": "Struggling to articulate feelings as a manifestation of unexpressed emotions from the past.", "pair_label": "9", "info": "<b>Pair:</b> 9<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reframed thoughts can influence emotional experiences, which\nin turn can affect the ability to articulate feelings\nrelated to unexpressed emotions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences._Evaluating the effectiveness of emotional regulation strategies in relationships._7", "source": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.", "target": "Evaluating the effectiveness of emotional regulation strategies in relationships.", "pair_label": "7", "info": "<b>Pair:</b> 7<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Recognizing reframed thoughts may influence the\neffectiveness of emotional regulation strategies.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences._Assessing the role of thoughts in emotional experiences and developing self-compassion._6", "source": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.", "target": "Assessing the role of thoughts in emotional experiences and developing self-compassion.", "pair_label": "6", "info": "<b>Pair:</b> 6<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Difficulty in recognizing impact limits self-compassion.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tension between the value of personal growth and relationship obligations._Evaluating the effectiveness of emotional regulation strategies in relationships._28", "source": "Tension between the value of personal growth and relationship obligations.", "target": "Evaluating the effectiveness of emotional regulation strategies in relationships.", "pair_label": "28", "info": "<b>Pair:</b> 28<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Tension between personal growth and relationship obligations\ncan motivate the evaluation of emotional regulation\nstrategies.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety._Difficulty in recognizing the impact of reframed thoughts on emotional experiences._17", "source": "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.", "target": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.", "pair_label": "17", "info": "<b>Pair:</b> 17<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-blame can hinder recognition of reframed thoughts", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety._Assessing the role of thoughts in emotional experiences and developing self-compassion._16", "source": "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.", "target": "Assessing the role of thoughts in emotional experiences and developing self-compassion.", "pair_label": "16", "info": "<b>Pair:</b> 16<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-blame can hinder self-compassion.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Evaluating the effectiveness of emotional regulation strategies in relationships._Difficulty in recognizing the impact of reframed thoughts on emotional experiences._12", "source": "Evaluating the effectiveness of emotional regulation strategies in relationships.", "target": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.", "pair_label": "12", "info": "<b>Pair:</b> 12<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Ineffective evaluation of emotional regulation strategies\ncan hinder the recognition of reframed thoughts' impact on\nemotional experiences.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Evaluating the effectiveness of emotional regulation strategies in relationships._Assessing the role of thoughts in emotional experiences and developing self-compassion._11", "source": "Evaluating the effectiveness of emotional regulation strategies in relationships.", "target": "Assessing the role of thoughts in emotional experiences and developing self-compassion.", "pair_label": "11", "info": "<b>Pair:</b> 11<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual enhancement through cognitive reappraisal.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Assessing the role of thoughts in emotional experiences and developing self-compassion._Difficulty in recognizing the impact of reframed thoughts on emotional experiences._1", "source": "Assessing the role of thoughts in emotional experiences and developing self-compassion.", "target": "Difficulty in recognizing the impact of reframed thoughts on emotional experiences.", "pair_label": "1", "info": "<b>Pair:</b> 1<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-compassion development hinders recognition of reframed\nthoughts impact.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Assessing the role of thoughts in emotional experiences and developing self-compassion._Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety._3", "source": "Assessing the role of thoughts in emotional experiences and developing self-compassion.", "target": "Impact of self-blame as a coping mechanism for feelings of overwhelm and anxiety.", "pair_label": "3", "info": "<b>Pair:</b> 3<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-compassion counters self-blame.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Assessing the role of thoughts in emotional experiences and developing self-compassion._Evaluating the effectiveness of emotional regulation strategies in relationships._2", "source": "Assessing the role of thoughts in emotional experiences and developing self-compassion.", "target": "Evaluating the effectiveness of emotional regulation strategies in relationships.", "pair_label": "2", "info": "<b>Pair:</b> 2<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-compassion enhances emotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}]
+        });
+
+        let tooltipCounter = 0;
+
+        cy.on('tap', 'edge', function(evt) {
+            var edge = evt.target;
+            var pos = evt.renderedPosition;
+            var tooltipId = "tooltip-" + (++tooltipCounter);
+
+            var tooltip = document.createElement("div");
+            tooltip.className = "tooltip";
+            tooltip.id = tooltipId;
+            tooltip.style.left = (pos.x + 20) + "px";
+            tooltip.style.top = (pos.y + 20) + "px";
+
+            var closeBtn = document.createElement("span");
+            closeBtn.className = "close-btn";
+            closeBtn.innerHTML = "&times;";
+            closeBtn.onclick = function () {
+                tooltip.remove();
+            };
+
+            tooltip.innerHTML = "";
+            tooltip.appendChild(closeBtn);
+            var content = document.createElement("div");
+            content.innerHTML = edge.data("info");
+            tooltip.appendChild(content);
+
+            document.body.appendChild(tooltip);
+            makeDraggable(tooltip);
+        });
+
+        function makeDraggable(elmnt) {
+            let offset = { x: 0, y: 0 };
+            let isDragging = false;
+
+            elmnt.addEventListener("mousedown", function (e) {
+                if (e.target.classList.contains("close-btn")) return;
+                isDragging = true;
+                offset.x = e.clientX - elmnt.offsetLeft;
+                offset.y = e.clientY - elmnt.offsetTop;
+                elmnt.style.cursor = "move";
+                e.preventDefault();
+            });
+
+            document.addEventListener("mousemove", function (e) {
+                if (isDragging) {
+                    elmnt.style.left = (e.clientX - offset.x) + "px";
+                    elmnt.style.top = (e.clientY - offset.y) + "px";
+                }
+            });
+
+            document.addEventListener("mouseup", function () {
+                isDragging = false;
+                elmnt.style.cursor = "default";
+            });
+        }
+    </script>
+</body>
+</html>

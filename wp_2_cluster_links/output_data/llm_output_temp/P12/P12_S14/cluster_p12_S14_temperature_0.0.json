@@ -1,0 +1,939 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Maintaining self-motivation through incremental progress",
+        "Emotional validation of anger as a catalyst for change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anger can fuel motivation.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Maintaining self-motivation through incremental progress",
+        "Reframing powerlessness through self-empowerment strategies"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowerment fosters motivation.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Maintaining self-motivation through incremental progress",
+        "Coping with self-doubt through self-compassion and goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Maintaining self-motivation through incremental progress",
+        "Building resilience through past experiences of overcoming adversity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Progress reinforces resilience.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Maintaining self-motivation through incremental progress",
+        "Transforming negative self-talk into constructive self-encouragement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive self-talk reinforces motivation.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Maintaining self-motivation through incremental progress",
+        "Finding meaning in adversity through personal growth and goal-orientation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces resilience",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Maintaining self-motivation through incremental progress",
+        "Self-regulation of emotions through mindfulness and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Progress fosters emotional balance.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Emotional validation of anger as a catalyst for change",
+        "Maintaining self-motivation through incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anger can fuel motivation",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Emotional validation of anger as a catalyst for change",
+        "Reframing powerlessness through self-empowerment strategies"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Validation of anger can motivate self-empowerment.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Emotional validation of anger as a catalyst for change",
+        "Coping with self-doubt through self-compassion and goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional validation of anger can facilitate self-compassion and goal-setting by acknowledging and working through underlying emotions.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Emotional validation of anger as a catalyst for change",
+        "Building resilience through past experiences of overcoming adversity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validating anger can motivate overcoming adversity.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Emotional validation of anger as a catalyst for change",
+        "Transforming negative self-talk into constructive self-encouragement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validation of anger can motivate self-reflection and improvement.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Emotional validation of anger as a catalyst for change",
+        "Finding meaning in adversity through personal growth and goal-orientation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anger validation fuels growth-oriented meaning-making.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Emotional validation of anger as a catalyst for change",
+        "Self-regulation of emotions through mindfulness and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Validation of anger can motivate self-reflection.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Reframing powerlessness through self-empowerment strategies",
+        "Maintaining self-motivation through incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowerment fosters motivation.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Reframing powerlessness through self-empowerment strategies",
+        "Emotional validation of anger as a catalyst for change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowerment fosters emotional validation.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Reframing powerlessness through self-empowerment strategies",
+        "Coping with self-doubt through self-compassion and goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing strategies for self-improvement.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Reframing powerlessness through self-empowerment strategies",
+        "Building resilience through past experiences of overcoming adversity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowerment fosters resilience.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Reframing powerlessness through self-empowerment strategies",
+        "Transforming negative self-talk into constructive self-encouragement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing positive self-perception",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Reframing powerlessness through self-empowerment strategies",
+        "Finding meaning in adversity through personal growth and goal-orientation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowerment fosters growth.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Reframing powerlessness through self-empowerment strategies",
+        "Self-regulation of emotions through mindfulness and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowerment enhances emotional regulation.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Coping with self-doubt through self-compassion and goal-setting",
+        "Maintaining self-motivation through incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion and goal-setting enhance motivation by fostering a sense of control and progress.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Coping with self-doubt through self-compassion and goal-setting",
+        "Emotional validation of anger as a catalyst for change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion and goal-setting can facilitate emotional validation by acknowledging and accepting anger as a valid emotion, thereby fostering a catalyst for change.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Coping with self-doubt through self-compassion and goal-setting",
+        "Reframing powerlessness through self-empowerment strategies"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing personal growth strategies.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Coping with self-doubt through self-compassion and goal-setting",
+        "Building resilience through past experiences of overcoming adversity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing strategies for personal growth.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Coping with self-doubt through self-compassion and goal-setting",
+        "Transforming negative self-talk into constructive self-encouragement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing strategies for positive self-regulation.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Coping with self-doubt through self-compassion and goal-setting",
+        "Self-regulation of emotions through mindfulness and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing strategies for emotional resilience.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Building resilience through past experiences of overcoming adversity",
+        "Maintaining self-motivation through incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past successes enhance motivation.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Building resilience through past experiences of overcoming adversity",
+        "Emotional validation of anger as a catalyst for change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Resilience fosters emotional awareness and validation.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Building resilience through past experiences of overcoming adversity",
+        "Reframing powerlessness through self-empowerment strategies"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying mechanisms of personal growth and self-efficacy.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Building resilience through past experiences of overcoming adversity",
+        "Coping with self-doubt through self-compassion and goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Resilience fosters self-compassion and goal-setting.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Building resilience through past experiences of overcoming adversity",
+        "Transforming negative self-talk into constructive self-encouragement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Resilience fosters positive self-talk.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Building resilience through past experiences of overcoming adversity",
+        "Finding meaning in adversity through personal growth and goal-orientation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Resilience fosters growth",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Building resilience through past experiences of overcoming adversity",
+        "Self-regulation of emotions through mindfulness and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Resilience fosters emotional regulation.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Transforming negative self-talk into constructive self-encouragement",
+        "Maintaining self-motivation through incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive self-talk reinforces motivation.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Transforming negative self-talk into constructive self-encouragement",
+        "Emotional validation of anger as a catalyst for change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Constructive self-talk can facilitate emotional validation by acknowledging and reframing negative emotions like anger.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Transforming negative self-talk into constructive self-encouragement",
+        "Reframing powerlessness through self-empowerment strategies"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing positive self-perception",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Transforming negative self-talk into constructive self-encouragement",
+        "Coping with self-doubt through self-compassion and goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing strategies for self-improvement.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Transforming negative self-talk into constructive self-encouragement",
+        "Building resilience through past experiences of overcoming adversity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive self-talk enhances resilience.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Transforming negative self-talk into constructive self-encouragement",
+        "Finding meaning in adversity through personal growth and goal-orientation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive self-talk fosters resilience and goal-oriented mindset.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Transforming negative self-talk into constructive self-encouragement",
+        "Self-regulation of emotions through mindfulness and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive self-talk enhances emotional regulation.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Finding meaning in adversity through personal growth and goal-orientation",
+        "Maintaining self-motivation through incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces resilience",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Finding meaning in adversity through personal growth and goal-orientation",
+        "Emotional validation of anger as a catalyst for change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anger fuels growth",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Finding meaning in adversity through personal growth and goal-orientation",
+        "Reframing powerlessness through self-empowerment strategies"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing personal growth and empowerment.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Finding meaning in adversity through personal growth and goal-orientation",
+        "Coping with self-doubt through self-compassion and goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing processes that foster resilience.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Finding meaning in adversity through personal growth and goal-orientation",
+        "Building resilience through past experiences of overcoming adversity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Finding meaning in adversity through personal growth and goal-orientation",
+        "Transforming negative self-talk into constructive self-encouragement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters resilience and positive mindset.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Finding meaning in adversity through personal growth and goal-orientation",
+        "Self-regulation of emotions through mindfulness and self-reflection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement through self-awareness and goal-directed behavior.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Self-regulation of emotions through mindfulness and self-reflection",
+        "Maintaining self-motivation through incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional balance enhances motivation.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Self-regulation of emotions through mindfulness and self-reflection",
+        "Emotional validation of anger as a catalyst for change"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness enhances emotional awareness, facilitating recognition and validation of anger.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Self-regulation of emotions through mindfulness and self-reflection",
+        "Reframing powerlessness through self-empowerment strategies"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances personal control",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Self-regulation of emotions through mindfulness and self-reflection",
+        "Coping with self-doubt through self-compassion and goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing strategies for emotional resilience.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Self-regulation of emotions through mindfulness and self-reflection",
+        "Building resilience through past experiences of overcoming adversity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional regulation enhances resilience.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Self-regulation of emotions through mindfulness and self-reflection",
+        "Transforming negative self-talk into constructive self-encouragement"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness and self-reflection enhance self-awareness, facilitating the recognition and transformation of negative self-talk.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Self-regulation of emotions through mindfulness and self-reflection",
+        "Finding meaning in adversity through personal growth and goal-orientation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional regulation enhances resilience and facilitates growth.",
+      "pair_label": 46
+    }
+  ]
+}

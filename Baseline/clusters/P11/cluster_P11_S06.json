@@ -1,0 +1,216 @@
+{
+  "clusters": {
+    "classified_processes": {
+      "Theme 1": {
+        "Title": "Embracing Courage in Self-Expression",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 2": {
+        "Title": "Persistent Effort Towards Goals",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 3": {
+        "Title": "Navigating Vulnerability and Trust",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 4": {
+        "Title": "Embracing Open-Mindedness and New Experiences",
+        "Processes": [
+          "private data"
+        ]
+      },
+      "Theme 5": {
+        "Title": "Self-Reflection and Personal Growth",
+        "Processes": [
+          "private data"
+        ]
+      }
+    },
+    "theme_relationships": [
+      {
+        "input_themes": [
+          "Embracing Courage in Self-Expression",
+          "Persistent Effort Towards Goals"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Courage in self-expression fuels persistent effort"
+      },
+      {
+        "input_themes": [
+          "Persistent Effort Towards Goals",
+          "Embracing Courage in Self-Expression"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Persistent effort reinforces courage in self-expression"
+      },
+      {
+        "input_themes": [
+          "Embracing Courage in Self-Expression",
+          "Navigating Vulnerability and Trust"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Courage in self-expression facilitates vulnerability and trust"
+      },
+      {
+        "input_themes": [
+          "Navigating Vulnerability and Trust",
+          "Embracing Courage in Self-Expression"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "inhibitory"
+        ],
+        "strength_of_relationship": [
+          "weak"
+        ],
+        "explanation": "Vulnerability and trust can hinder courage in self-expression"
+      },
+      {
+        "input_themes": [
+          "Embracing Open-Mindedness and New Experiences",
+          "Self-Reflection and Personal Growth"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Open-mindedness and new experiences foster self-reflection and growth"
+      },
+      {
+        "input_themes": [
+          "Self-Reflection and Personal Growth",
+          "Embracing Open-Mindedness and New Experiences"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "strong"
+        ],
+        "explanation": "Self-reflection and growth promote open-mindedness and new experiences"
+      },
+      {
+        "input_themes": [
+          "Embracing Courage in Self-Expression",
+          "Embracing Open-Mindedness and New Experiences"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Courage in self-expression encourages open-mindedness and new experiences"
+      },
+      {
+        "input_themes": [
+          "Embracing Open-Mindedness and New Experiences",
+          "Embracing Courage in Self-Expression"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Open-mindedness and new experiences support courage in self-expression"
+      },
+      {
+        "input_themes": [
+          "Persistent Effort Towards Goals",
+          "Navigating Vulnerability and Trust"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Navigating Vulnerability and Trust",
+          "Persistent Effort Towards Goals"
+        ],
+        "connection": [
+          0
+        ]
+      },
+      {
+        "input_themes": [
+          "Self-Reflection and Personal Growth",
+          "Navigating Vulnerability and Trust"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Self-reflection and growth facilitate navigating vulnerability and trust"
+      },
+      {
+        "input_themes": [
+          "Navigating Vulnerability and Trust",
+          "Self-Reflection and Personal Growth"
+        ],
+        "connection": [
+          1
+        ],
+        "relationship_type": [
+          "excitatory"
+        ],
+        "strength_of_relationship": [
+          "moderate"
+        ],
+        "explanation": "Navigating vulnerability and trust promotes self-reflection and growth"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Process Network</title>
+    <script src="https://unpkg.com/cytoscape@3.21.1/dist/cytoscape.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #cy {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        .legend {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 14px;
+            z-index: 10;
+        }
+        .tooltip {
+            position: absolute;
+            background: #fefefe;
+            border: 1px solid #aaa;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 13px;
+            max-width: 300px;
+            z-index: 20;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            cursor: default;
+        }
+        .tooltip .close-btn {
+            float: right;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="cy"></div>
+    <div class="legend">
+        <b>Legend</b><br>
+        <span style="color:#e74c3c;">Red</span>: Inhibitory<br>
+        <span style="color:#3498db;">Blue</span>: Excitatory<br>
+        <hr style="border-top: 1px dashed #aaa; margin: 4px 0;">
+        Dashed line = Weak<br>
+        Solid thin = Moderate<br>
+        Solid thick = Strong<br>
+        <hr>
+        <b>Dimensions</b><br>
+        🔴 Cognition<br>
+        🟠 Attention<br>
+        🟡 Motivation<br>
+        🟢 (Overt) Behaviour<br>
+        🔵 Sense of Self<br>
+        🟣 Context/Moderators<br>
+        🟤 Affect<br>
+        ⚪ Sociocultural<br>
+        ⚫ Biophysiological
+    </div>
+    <script>
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            layout: { name: 'cose' },
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'text-wrap': 'wrap',
+                        'text-max-width': 100,
+                        'text-valign': 'center',
+                        'text-halign': 'center',
+                        'background-color': '#ffffff',
+                        'border-color': '#000000',
+                        'border-width': 1,
+                        'color': '#000',
+                        'font-size': 10,
+                        'width': 'label',
+                        'height': 'label',
+                        'padding': 10
+                    }
+                },
+                {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'target-arrow-shape': 'triangle',
+                        'arrow-scale': 1.2,
+                        'label': '',
+                        'font-size': 9,
+                        'text-rotation': 'autorotate',
+                        'text-margin-y': -10,
+                        'line-color': 'data(color)',
+                        'target-arrow-color': 'data(color)',
+                        'width': 'data(width)',
+                        'line-style': 'data(lineStyle)'
+                    }
+                }
+            ],
+            elements: [{"data": {"id": "Maintaining self-motivation through incremental progress", "label": "Maintaining self-motivation through incremental progress\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udfe0\nFrequency: 13"}}, {"data": {"id": "Reframing powerlessness through self-empowerment strategies", "label": "Reframing powerlessness through self-empowerment strategies\n\ud83d\udfe0 \ud83d\udd34 \ud83d\udd35\nFrequency: 6"}}, {"data": {"id": "Coping with self-doubt through self-compassion and goal-setting", "label": "Coping with self-doubt through self-compassion and goal-setting\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udd34\nFrequency: 5"}}, {"data": {"id": "Building resilience through past experiences of overcoming adversity", "label": "Building resilience through past experiences of overcoming adversity\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udd34\nFrequency: 5"}}, {"data": {"id": "Transforming negative self-talk into constructive self-encouragement", "label": "Transforming negative self-talk into constructive self-encouragement\n\ud83d\udfe0 \ud83d\udd34 \ud83d\udd35\nFrequency: 5"}}, {"data": {"id": "Finding meaning in adversity through personal growth and goal-orientation", "label": "Finding meaning in adversity through personal growth and goal-orientation\n\ud83d\udfe2 \ud83d\udd34 \ud83d\udfe3\nFrequency: 5"}}, {"data": {"id": "Self-regulation of emotions through mindfulness and self-reflection", "label": "Self-regulation of emotions through mindfulness and self-reflection\n\ud83d\udfe2 \ud83d\udd34 \ud83d\udfe3\nFrequency: 5"}}, {"data": {"id": "Emotional validation of anger as a catalyst for change", "label": "Emotional validation of anger as a catalyst for change\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udd34\nFrequency: 5"}}, {"data": {"id": "Maintaining self-motivation through incremental progress_Reframing powerlessness through self-empowerment strategies_33", "source": "Maintaining self-motivation through incremental progress", "target": "Reframing powerlessness through self-empowerment strategies", "pair_label": "33", "info": "<b>Pair:</b> 33<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Empowerment enhances motivation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Maintaining self-motivation through incremental progress_Coping with self-doubt through self-compassion and goal-setting_30", "source": "Maintaining self-motivation through incremental progress", "target": "Coping with self-doubt through self-compassion and goal-setting", "pair_label": "30", "info": "<b>Pair:</b> 30<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Incremental progress boosts self-efficacy, reducing self-\ndoubt.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Maintaining self-motivation through incremental progress_Building resilience through past experiences of overcoming adversity_29", "source": "Maintaining self-motivation through incremental progress", "target": "Building resilience through past experiences of overcoming adversity", "pair_label": "29", "info": "<b>Pair:</b> 29<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Progress reinforces resilience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Maintaining self-motivation through incremental progress_Transforming negative self-talk into constructive self-encouragement_35", "source": "Maintaining self-motivation through incremental progress", "target": "Transforming negative self-talk into constructive self-encouragement", "pair_label": "35", "info": "<b>Pair:</b> 35<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Positive reinforcement", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Maintaining self-motivation through incremental progress_Finding meaning in adversity through personal growth and goal-orientation_32", "source": "Maintaining self-motivation through incremental progress", "target": "Finding meaning in adversity through personal growth and goal-orientation", "pair_label": "32", "info": "<b>Pair:</b> 32<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Maintaining self-motivation through incremental progress_Self-regulation of emotions through mindfulness and self-reflection_34", "source": "Maintaining self-motivation through incremental progress", "target": "Self-regulation of emotions through mindfulness and self-reflection", "pair_label": "34", "info": "<b>Pair:</b> 34<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Progress fosters emotional balance.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Emotional validation of anger as a catalyst for change_Reframing powerlessness through self-empowerment strategies_19", "source": "Emotional validation of anger as a catalyst for change", "target": "Reframing powerlessness through self-empowerment strategies", "pair_label": "19", "info": "<b>Pair:</b> 19<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Validation of anger can motivate self-empowerment.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Emotional validation of anger as a catalyst for change_Finding meaning in adversity through personal growth and goal-orientation_17", "source": "Emotional validation of anger as a catalyst for change", "target": "Finding meaning in adversity through personal growth and goal-orientation", "pair_label": "17", "info": "<b>Pair:</b> 17<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional validation of anger as a catalyst for change\nfosters a sense of purpose, thereby enhancing finding\nmeaning in adversity through personal growth and goal-\norientation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Emotional validation of anger as a catalyst for change_Self-regulation of emotions through mindfulness and self-reflection_20", "source": "Emotional validation of anger as a catalyst for change", "target": "Self-regulation of emotions through mindfulness and self-reflection", "pair_label": "20", "info": "<b>Pair:</b> 20<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional validation is a precursor to self-regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Reframing powerlessness through self-empowerment strategies_Maintaining self-motivation through incremental progress_40", "source": "Reframing powerlessness through self-empowerment strategies", "target": "Maintaining self-motivation through incremental progress", "pair_label": "40", "info": "<b>Pair:</b> 40<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Empowerment fosters motivation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Reframing powerlessness through self-empowerment strategies_Emotional validation of anger as a catalyst for change_38", "source": "Reframing powerlessness through self-empowerment strategies", "target": "Emotional validation of anger as a catalyst for change", "pair_label": "38", "info": "<b>Pair:</b> 38<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Empowerment increases emotional validation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Reframing powerlessness through self-empowerment strategies_Coping with self-doubt through self-compassion and goal-setting_37", "source": "Reframing powerlessness through self-empowerment strategies", "target": "Coping with self-doubt through self-compassion and goal-setting", "pair_label": "37", "info": "<b>Pair:</b> 37<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing strategies for self-improvement.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Reframing powerlessness through self-empowerment strategies_Building resilience through past experiences of overcoming adversity_36", "source": "Reframing powerlessness through self-empowerment strategies", "target": "Building resilience through past experiences of overcoming adversity", "pair_label": "36", "info": "<b>Pair:</b> 36<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Empowerment fosters resilience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Reframing powerlessness through self-empowerment strategies_Transforming negative self-talk into constructive self-encouragement_42", "source": "Reframing powerlessness through self-empowerment strategies", "target": "Transforming negative self-talk into constructive self-encouragement", "pair_label": "42", "info": "<b>Pair:</b> 42<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive restructuring", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Reframing powerlessness through self-empowerment strategies_Finding meaning in adversity through personal growth and goal-orientation_39", "source": "Reframing powerlessness through self-empowerment strategies", "target": "Finding meaning in adversity through personal growth and goal-orientation", "pair_label": "39", "info": "<b>Pair:</b> 39<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Empowerment fosters growth", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Reframing powerlessness through self-empowerment strategies_Self-regulation of emotions through mindfulness and self-reflection_41", "source": "Reframing powerlessness through self-empowerment strategies", "target": "Self-regulation of emotions through mindfulness and self-reflection", "pair_label": "41", "info": "<b>Pair:</b> 41<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Empowerment enhances emotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Coping with self-doubt through self-compassion and goal-setting_Maintaining self-motivation through incremental progress_11", "source": "Coping with self-doubt through self-compassion and goal-setting", "target": "Maintaining self-motivation through incremental progress", "pair_label": "11", "info": "<b>Pair:</b> 11<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-compassion and goal-setting enhance motivation by\nfostering a sense of control and progress.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Coping with self-doubt through self-compassion and goal-setting_Reframing powerlessness through self-empowerment strategies_12", "source": "Coping with self-doubt through self-compassion and goal-setting", "target": "Reframing powerlessness through self-empowerment strategies", "pair_label": "12", "info": "<b>Pair:</b> 12<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing personal growth strategies.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Coping with self-doubt through self-compassion and goal-setting_Building resilience through past experiences of overcoming adversity_8", "source": "Coping with self-doubt through self-compassion and goal-setting", "target": "Building resilience through past experiences of overcoming adversity", "pair_label": "8", "info": "<b>Pair:</b> 8<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Enhances capacity to handle future challenges.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Coping with self-doubt through self-compassion and goal-setting_Transforming negative self-talk into constructive self-encouragement_14", "source": "Coping with self-doubt through self-compassion and goal-setting", "target": "Transforming negative self-talk into constructive self-encouragement", "pair_label": "14", "info": "<b>Pair:</b> 14<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reciprocal reinforcement", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Coping with self-doubt through self-compassion and goal-setting_Self-regulation of emotions through mindfulness and self-reflection_13", "source": "Coping with self-doubt through self-compassion and goal-setting", "target": "Self-regulation of emotions through mindfulness and self-reflection", "pair_label": "13", "info": "<b>Pair:</b> 13<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing strategies for emotional resilience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Building resilience through past experiences of overcoming adversity_Maintaining self-motivation through incremental progress_4", "source": "Building resilience through past experiences of overcoming adversity", "target": "Maintaining self-motivation through incremental progress", "pair_label": "4", "info": "<b>Pair:</b> 4<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past successes in overcoming adversity reinforce motivation", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Building resilience through past experiences of overcoming adversity_Reframing powerlessness through self-empowerment strategies_5", "source": "Building resilience through past experiences of overcoming adversity", "target": "Reframing powerlessness through self-empowerment strategies", "pair_label": "5", "info": "<b>Pair:</b> 5<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Amplifies self-efficacy", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Building resilience through past experiences of overcoming adversity_Coping with self-doubt through self-compassion and goal-setting_1", "source": "Building resilience through past experiences of overcoming adversity", "target": "Coping with self-doubt through self-compassion and goal-setting", "pair_label": "1", "info": "<b>Pair:</b> 1<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Resilience fosters self-compassion and goal-setting.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Building resilience through past experiences of overcoming adversity_Transforming negative self-talk into constructive self-encouragement_7", "source": "Building resilience through past experiences of overcoming adversity", "target": "Transforming negative self-talk into constructive self-encouragement", "pair_label": "7", "info": "<b>Pair:</b> 7<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Resilience fosters positive self-talk", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Building resilience through past experiences of overcoming adversity_Finding meaning in adversity through personal growth and goal-orientation_3", "source": "Building resilience through past experiences of overcoming adversity", "target": "Finding meaning in adversity through personal growth and goal-orientation", "pair_label": "3", "info": "<b>Pair:</b> 3<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Resilience fosters growth", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Building resilience through past experiences of overcoming adversity_Self-regulation of emotions through mindfulness and self-reflection_6", "source": "Building resilience through past experiences of overcoming adversity", "target": "Self-regulation of emotions through mindfulness and self-reflection", "pair_label": "6", "info": "<b>Pair:</b> 6<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Resilience fosters emotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Transforming negative self-talk into constructive self-encouragement_Maintaining self-motivation through incremental progress_54", "source": "Transforming negative self-talk into constructive self-encouragement", "target": "Maintaining self-motivation through incremental progress", "pair_label": "54", "info": "<b>Pair:</b> 54<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Constructive self-encouragement promotes self-motivation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Transforming negative self-talk into constructive self-encouragement_Reframing powerlessness through self-empowerment strategies_55", "source": "Transforming negative self-talk into constructive self-encouragement", "target": "Reframing powerlessness through self-empowerment strategies", "pair_label": "55", "info": "<b>Pair:</b> 55<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Encourages personal control", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Transforming negative self-talk into constructive self-encouragement_Coping with self-doubt through self-compassion and goal-setting_51", "source": "Transforming negative self-talk into constructive self-encouragement", "target": "Coping with self-doubt through self-compassion and goal-setting", "pair_label": "51", "info": "<b>Pair:</b> 51<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing strategies for self-improvement.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Transforming negative self-talk into constructive self-encouragement_Building resilience through past experiences of overcoming adversity_50", "source": "Transforming negative self-talk into constructive self-encouragement", "target": "Building resilience through past experiences of overcoming adversity", "pair_label": "50", "info": "<b>Pair:</b> 50<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Positive self-talk enhances resilience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Transforming negative self-talk into constructive self-encouragement_Finding meaning in adversity through personal growth and goal-orientation_53", "source": "Transforming negative self-talk into constructive self-encouragement", "target": "Finding meaning in adversity through personal growth and goal-orientation", "pair_label": "53", "info": "<b>Pair:</b> 53<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Enhances resilience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Transforming negative self-talk into constructive self-encouragement_Self-regulation of emotions through mindfulness and self-reflection_56", "source": "Transforming negative self-talk into constructive self-encouragement", "target": "Self-regulation of emotions through mindfulness and self-reflection", "pair_label": "56", "info": "<b>Pair:</b> 56<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Positive self-talk enhances emotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Finding meaning in adversity through personal growth and goal-orientation_Maintaining self-motivation through incremental progress_25", "source": "Finding meaning in adversity through personal growth and goal-orientation", "target": "Maintaining self-motivation through incremental progress", "pair_label": "25", "info": "<b>Pair:</b> 25<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reinforces resilience", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Finding meaning in adversity through personal growth and goal-orientation_Reframing powerlessness through self-empowerment strategies_26", "source": "Finding meaning in adversity through personal growth and goal-orientation", "target": "Reframing powerlessness through self-empowerment strategies", "pair_label": "26", "info": "<b>Pair:</b> 26<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing personal empowerment", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Finding meaning in adversity through personal growth and goal-orientation_Coping with self-doubt through self-compassion and goal-setting_23", "source": "Finding meaning in adversity through personal growth and goal-orientation", "target": "Coping with self-doubt through self-compassion and goal-setting", "pair_label": "23", "info": "<b>Pair:</b> 23<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing processes that foster resilience.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Finding meaning in adversity through personal growth and goal-orientation_Building resilience through past experiences of overcoming adversity_22", "source": "Finding meaning in adversity through personal growth and goal-orientation", "target": "Building resilience through past experiences of overcoming adversity", "pair_label": "22", "info": "<b>Pair:</b> 22<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing growth", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Finding meaning in adversity through personal growth and goal-orientation_Transforming negative self-talk into constructive self-encouragement_28", "source": "Finding meaning in adversity through personal growth and goal-orientation", "target": "Transforming negative self-talk into constructive self-encouragement", "pair_label": "28", "info": "<b>Pair:</b> 28<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fosters resilience and self-awareness.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Finding meaning in adversity through personal growth and goal-orientation_Self-regulation of emotions through mindfulness and self-reflection_27", "source": "Finding meaning in adversity through personal growth and goal-orientation", "target": "Self-regulation of emotions through mindfulness and self-reflection", "pair_label": "27", "info": "<b>Pair:</b> 27<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing processes.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-regulation of emotions through mindfulness and self-reflection_Maintaining self-motivation through incremental progress_47", "source": "Self-regulation of emotions through mindfulness and self-reflection", "target": "Maintaining self-motivation through incremental progress", "pair_label": "47", "info": "<b>Pair:</b> 47<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional stability fosters motivation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-regulation of emotions through mindfulness and self-reflection_Emotional validation of anger as a catalyst for change_45", "source": "Self-regulation of emotions through mindfulness and self-reflection", "target": "Emotional validation of anger as a catalyst for change", "pair_label": "45", "info": "<b>Pair:</b> 45<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mindfulness enhances emotional awareness, facilitating\nrecognition and validation of anger.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-regulation of emotions through mindfulness and self-reflection_Reframing powerlessness through self-empowerment strategies_48", "source": "Self-regulation of emotions through mindfulness and self-reflection", "target": "Reframing powerlessness through self-empowerment strategies", "pair_label": "48", "info": "<b>Pair:</b> 48<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Enhances personal control", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-regulation of emotions through mindfulness and self-reflection_Coping with self-doubt through self-compassion and goal-setting_44", "source": "Self-regulation of emotions through mindfulness and self-reflection", "target": "Coping with self-doubt through self-compassion and goal-setting", "pair_label": "44", "info": "<b>Pair:</b> 44<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Regulation of emotions through mindfulness and self-\nreflection can facilitate effective coping with self-doubt\nby fostering a more realistic and compassionate self-image.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-regulation of emotions through mindfulness and self-reflection_Building resilience through past experiences of overcoming adversity_43", "source": "Self-regulation of emotions through mindfulness and self-reflection", "target": "Building resilience through past experiences of overcoming adversity", "pair_label": "43", "info": "<b>Pair:</b> 43<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional regulation facilitates learning from adversity", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-regulation of emotions through mindfulness and self-reflection_Transforming negative self-talk into constructive self-encouragement_49", "source": "Self-regulation of emotions through mindfulness and self-reflection", "target": "Transforming negative self-talk into constructive self-encouragement", "pair_label": "49", "info": "<b>Pair:</b> 49<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mindfulness and self-reflection enhance self-awareness,\nfacilitating the recognition and transformation of negative\nself-talk.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-regulation of emotions through mindfulness and self-reflection_Finding meaning in adversity through personal growth and goal-orientation_46", "source": "Self-regulation of emotions through mindfulness and self-reflection", "target": "Finding meaning in adversity through personal growth and goal-orientation", "pair_label": "46", "info": "<b>Pair:</b> 46<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional regulation facilitates meaning-making and goal-\noriented behavior amidst adversity.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Coping with self-doubt through self-compassion and goal-setting_Finding meaning in adversity through personal growth and goal-orientation_10", "source": "Coping with self-doubt through self-compassion and goal-setting", "target": "Finding meaning in adversity through personal growth and goal-orientation", "pair_label": "10", "info": "<b>Pair:</b> 10<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing resilience", "color": "#3498db", "width": 4, "lineStyle": "solid"}}]
+        });
+
+        let tooltipCounter = 0;
+
+        cy.on('tap', 'edge', function(evt) {
+            var edge = evt.target;
+            var pos = evt.renderedPosition;
+            var tooltipId = "tooltip-" + (++tooltipCounter);
+
+            var tooltip = document.createElement("div");
+            tooltip.className = "tooltip";
+            tooltip.id = tooltipId;
+            tooltip.style.left = (pos.x + 20) + "px";
+            tooltip.style.top = (pos.y + 20) + "px";
+
+            var closeBtn = document.createElement("span");
+            closeBtn.className = "close-btn";
+            closeBtn.innerHTML = "&times;";
+            closeBtn.onclick = function () {
+                tooltip.remove();
+            };
+
+            tooltip.innerHTML = "";
+            tooltip.appendChild(closeBtn);
+            var content = document.createElement("div");
+            content.innerHTML = edge.data("info");
+            tooltip.appendChild(content);
+
+            document.body.appendChild(tooltip);
+            makeDraggable(tooltip);
+        });
+
+        function makeDraggable(elmnt) {
+            let offset = { x: 0, y: 0 };
+            let isDragging = false;
+
+            elmnt.addEventListener("mousedown", function (e) {
+                if (e.target.classList.contains("close-btn")) return;
+                isDragging = true;
+                offset.x = e.clientX - elmnt.offsetLeft;
+                offset.y = e.clientY - elmnt.offsetTop;
+                elmnt.style.cursor = "move";
+                e.preventDefault();
+            });
+
+            document.addEventListener("mousemove", function (e) {
+                if (isDragging) {
+                    elmnt.style.left = (e.clientX - offset.x) + "px";
+                    elmnt.style.top = (e.clientY - offset.y) + "px";
+                }
+            });
+
+            document.addEventListener("mouseup", function () {
+                isDragging = false;
+                elmnt.style.cursor = "default";
+            });
+        }
+    </script>
+</body>
+</html>

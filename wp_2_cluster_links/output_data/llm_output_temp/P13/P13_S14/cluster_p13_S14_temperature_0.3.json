@@ -1,0 +1,1316 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension between spontaneity and control may lead to overcommitting and rigid scheduling, leaving little time for self-care.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "Impact of past relationships on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past relationship experiences may influence how one balances spontaneity and control, but the connection is indirect and context-dependent.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Control needs suppress emotional expression",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "Cognitive distortions influencing self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension between spontaneity and control can foster cognitive distortions as individuals rationalize their behavior to justify their desires or needs.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "Emotional intimacy and relationships as a source of comfort and validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Tension between spontaneity and control may lead to difficulties in forming intimate relationships due to conflicting needs for freedom and security.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can mitigate the tension by accepting the need for control as a natural aspect of self-care.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness reduces tension by promoting flexibility and acceptance.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "Navigating the balance between structure and flexibility in daily routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing as both processes involve finding a balance between opposing forces.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tension between desire for spontaneity and need for control in daily activities",
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Dynamic interaction influences daily experiences.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "Tension between desire for spontaneity and need for control in daily activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care can reduce tension by providing a sense of control.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "Impact of past relationships on current emotional regulation"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglect of self-care can exacerbate emotional repression.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "Cognitive distortions influencing self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Perceived lack of time for self-care can lead to increased stress, which may exacerbate cognitive distortions.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "Emotional intimacy and relationships as a source of comfort and validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can strain emotional intimacy.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care can be hindered by a lack of self-compassion.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Increasing mindfulness can help individuals recognize and challenge their time management perceptions, leading to better prioritization of self-care.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "Navigating the balance between structure and flexibility in daily routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Prioritizing self-care can inform and enhance daily routine balance",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty prioritizing self-care due to perceived lack of time",
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Neglecting self-care can disrupt emotional balance and cognitive functioning, affecting daily experiences.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current emotional regulation",
+        "Tension between desire for spontaneity and need for control in daily activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape emotional responses to situations requiring spontaneity or control, influencing tension levels.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current emotional regulation",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past relationship patterns can subtly influence current emotional needs, indirectly affecting self-care prioritization.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current emotional regulation",
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship patterns can influence current emotional expression.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current emotional regulation",
+        "Cognitive distortions influencing self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape cognitive biases.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current emotional regulation",
+        "Emotional intimacy and relationships as a source of comfort and validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationships shape expectations and attachment styles, influencing current emotional intimacy.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current emotional regulation",
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences shape emotional regulation, influencing self-compassion and self-forgiveness.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current emotional regulation",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationship experiences can shape emotional regulation strategies, and mindfulness can be a tool to enhance these strategies.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Impact of past relationships on current emotional regulation",
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past relationship experiences influence emotional regulation, which in turn affects the interplay of thoughts, emotions, and behaviors in daily life.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions",
+        "Tension between desire for spontaneity and need for control in daily activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inability to express emotions may lead to rigidity in daily activities as a compensatory mechanism.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can lead to emotional overwhelm, making it harder to prioritize self-care due to the perceived lack of time to address emotional needs.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions",
+        "Impact of past relationships on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships can shape emotional expression.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions",
+        "Cognitive distortions influencing self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can lead to biased thinking.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions",
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help alleviate the struggle to articulate feelings by creating a safe space for emotional expression.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness can help individuals articulate their feelings by increasing awareness of unexpressed emotions.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions",
+        "Navigating the balance between structure and flexibility in daily routines"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions",
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unexpressed emotions can intensify the interplay between thoughts, emotions, and behaviors.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions influencing self-perception and behavior",
+        "Tension between desire for spontaneity and need for control in daily activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive distortions can amplify the tension between spontaneity and control by creating unrealistic expectations or biases towards one aspect over the other.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions influencing self-perception and behavior",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-view can lead to neglect of self-care.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions influencing self-perception and behavior",
+        "Impact of past relationships on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships shape cognitive distortions.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions influencing self-perception and behavior",
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Distorted self-perception can lead to difficulty in recognizing and expressing emotions.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions influencing self-perception and behavior",
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Counteracts negative self-talk.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions influencing self-perception and behavior",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness counteracts cognitive distortions.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions influencing self-perception and behavior",
+        "Navigating the balance between structure and flexibility in daily routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Distorted self-perception can hinder adaptability.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Cognitive distortions influencing self-perception and behavior",
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cognitive distortions amplify negative thought patterns, influencing emotional states and behavioral responses.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy and relationships as a source of comfort and validation",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social support can reduce self-care neglect.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy and relationships as a source of comfort and validation",
+        "Impact of past relationships on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape expectations.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy and relationships as a source of comfort and validation",
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing emotions can hinder the formation of intimate relationships",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy and relationships as a source of comfort and validation",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional intimacy can enhance mindfulness practice by providing a sense of security and support, allowing for deeper self-reflection and emotional regulation.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy and relationships as a source of comfort and validation",
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional intimacy influences emotional regulation.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings",
+        "Tension between desire for spontaneity and need for control in daily activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion and self-forgiveness can reduce the tension between desire for spontaneity and need for control by allowing individuals to be more accepting of their imperfections and less rigid in their expectations.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion and self-forgiveness can help alleviate the guilt and stress that often accompany perceived lack of time, thereby facilitating prioritization of self-care.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings",
+        "Impact of past relationships on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion and self-forgiveness can facilitate healthier emotional regulation by reducing the negative impact of past relationships.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings",
+        "Cognitive distortions influencing self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reduces negative self-talk.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Practicing self-compassion and self-forgiveness can enhance mindfulness by fostering a more accepting and non-judgmental attitude towards oneself, which in turn can improve emotional regulation.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings",
+        "Navigating the balance between structure and flexibility in daily routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Promotes adaptability",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings",
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Promotes adaptive emotional regulation and resilience.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Exploring the role of mindfulness in emotional regulation and daily life",
+        "Tension between desire for spontaneity and need for control in daily activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness can heighten awareness of conflicting desires.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Exploring the role of mindfulness in emotional regulation and daily life",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness practice can help individuals recognize and challenge their perceived lack of time, leading to better prioritization of self-care.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Exploring the role of mindfulness in emotional regulation and daily life",
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness may help reduce struggles with articulating feelings by increasing emotional awareness.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Exploring the role of mindfulness in emotional regulation and daily life",
+        "Cognitive distortions influencing self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness can reduce cognitive distortions.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Exploring the role of mindfulness in emotional regulation and daily life",
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases self-awareness and acceptance.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Exploring the role of mindfulness in emotional regulation and daily life",
+        "Navigating the balance between structure and flexibility in daily routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness enhances adaptability.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Exploring the role of mindfulness in emotional regulation and daily life",
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness enhances emotional regulation by influencing thoughts, emotions, and behaviors.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Navigating the balance between structure and flexibility in daily routines",
+        "Tension between desire for spontaneity and need for control in daily activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually influencing forces in daily planning.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Navigating the balance between structure and flexibility in daily routines",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inflexible daily routines can lead to neglect of self-care activities.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Navigating the balance between structure and flexibility in daily routines",
+        "Impact of past relationships on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Rigidity in daily routines may suppress emotional awareness",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Navigating the balance between structure and flexibility in daily routines",
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Rigidity in daily routines can suppress emotional awareness and expression.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Navigating the balance between structure and flexibility in daily routines",
+        "Cognitive distortions influencing self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Structure can counteract distortions",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Navigating the balance between structure and flexibility in daily routines",
+        "Emotional intimacy and relationships as a source of comfort and validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexibility in routines allows for emotional support and validation from others.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Navigating the balance between structure and flexibility in daily routines",
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexibility in routines allows for self-compassion when faced with shortcomings.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Navigating the balance between structure and flexibility in daily routines",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness enhances flexibility.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Tension between desire for spontaneity and need for control in daily activities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Influences decision-making.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Difficulty prioritizing self-care due to perceived lack of time"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thought patterns reinforce neglect of self-care.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Impact of past relationships on current emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past relationships influence emotional regulation, which in turn affects daily experiences through thoughts, emotions, and behaviors.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Struggle to articulate feelings as a manifestation of unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Interplay amplifies struggle",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Cognitive distortions influencing self-perception and behavior"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Emotional intimacy and relationships as a source of comfort and validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Positive reinforcement and emotional support.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Self-compassion and self-forgiveness in the face of perceived shortcomings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Promotes adaptive coping.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Exploring the role of mindfulness in emotional regulation and daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness enhances emotional regulation by influencing the interplay between thoughts, emotions, and behaviors.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "The interplay between thoughts, emotions, and behaviors in shaping daily experiences",
+        "Navigating the balance between structure and flexibility in daily routines"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Influences adaptive daily functioning",
+      "pair_label": 87
+    }
+  ]
+}

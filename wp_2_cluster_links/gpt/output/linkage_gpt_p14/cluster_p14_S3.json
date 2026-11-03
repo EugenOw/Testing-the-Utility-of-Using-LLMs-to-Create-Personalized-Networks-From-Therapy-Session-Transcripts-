@@ -1,0 +1,956 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-perceived competence and anxiety about an upcoming event",
+        "Difficulty in articulating and rating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension and anxiety can hinder emotional clarity, making it difficult to articulate and rate emotions.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived competence and anxiety about an upcoming event",
+        "Catastrophizing and overgeneralizing in response to uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension and anxiety can lead to heightened negative thinking patterns, such as catastrophizing and overgeneralizing, particularly in uncertain situations.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived competence and anxiety about an upcoming event",
+        "Minimizing the impact of anxiety on daily functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension and anxiety can lead to strategies aimed at minimizing anxiety's impact, suggesting a counteractive relationship.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived competence and anxiety about an upcoming event",
+        "Fear of not meeting expectations and its relation to self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension and anxiety can amplify fears of not meeting expectations, as both processes are linked to self-evaluation and perceived competence.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived competence and anxiety about an upcoming event",
+        "Tendency to focus on negative possibilities and discount positive experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety can lead to a heightened focus on negative outcomes, which may suppress feelings of competence.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived competence and anxiety about an upcoming event",
+        "Struggling with labeling and self-identification in the context of relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety about competence can hinder self-identification, leading to difficulties in labeling oneself in relationships.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Tension between self-perceived competence and anxiety about an upcoming event",
+        "Balancing negative thoughts with more realistic and positive alternatives"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Managing anxiety and tension can help in reframing negative thoughts, leading to a more balanced perspective.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and rating emotions",
+        "Tension between self-perceived competence and anxiety about an upcoming event"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to articulate emotions can amplify feelings of anxiety and self-doubt, contributing to tension regarding perceived competence in stressful situations.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and rating emotions",
+        "Catastrophizing and overgeneralizing in response to uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can lead to heightened anxiety and negative thinking patterns, such as catastrophizing and overgeneralizing.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and rating emotions",
+        "Minimizing the impact of anxiety on daily functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to articulate emotions can hinder effective coping strategies, which may exacerbate anxiety and its impact on daily life.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and rating emotions",
+        "Fear of not meeting expectations and its relation to self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to express emotions can amplify fears about not meeting expectations, as individuals may feel inadequate or uncertain about their emotional responses.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and rating emotions",
+        "Tendency to focus on negative possibilities and discount positive experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to articulate emotions can lead to a heightened focus on negative experiences, as individuals may become more aware of their distress without the ability to express or process positive emotions.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and rating emotions",
+        "Struggling with labeling and self-identification in the context of relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in articulating emotions can lead to challenges in labeling feelings, which in turn affects self-identification in relationships.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty in articulating and rating emotions",
+        "Balancing negative thoughts with more realistic and positive alternatives"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to articulate emotions can hinder the ability to effectively balance negative thoughts, as unclear emotional awareness may limit the recognition of positive alternatives.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Catastrophizing and overgeneralizing in response to uncertainty",
+        "Tension between self-perceived competence and anxiety about an upcoming event"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing and overgeneralizing can amplify feelings of anxiety, leading to increased tension between perceived competence and anxiety.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Catastrophizing and overgeneralizing in response to uncertainty",
+        "Difficulty in articulating and rating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can amplify emotional distress, making it harder to articulate and rate emotions accurately.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Catastrophizing and overgeneralizing in response to uncertainty",
+        "Minimizing the impact of anxiety on daily functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing and overgeneralizing can lead to heightened anxiety, which may inhibit the ability to minimize its impact on daily functioning.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Catastrophizing and overgeneralizing in response to uncertainty",
+        "Fear of not meeting expectations and its relation to self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing can amplify fears about not meeting expectations, which in turn can negatively impact self-worth.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Catastrophizing and overgeneralizing in response to uncertainty",
+        "Tendency to focus on negative possibilities and discount positive experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing and overgeneralizing can amplify the focus on negative outcomes, leading to a heightened tendency to overlook positive experiences.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Catastrophizing and overgeneralizing in response to uncertainty",
+        "Struggling with labeling and self-identification in the context of relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing and overgeneralizing can lead to heightened anxiety and confusion, which may hinder one's ability to label emotions and identify oneself in relationships.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Catastrophizing and overgeneralizing in response to uncertainty",
+        "Balancing negative thoughts with more realistic and positive alternatives"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing and overgeneralizing can hinder the ability to balance negative thoughts with more realistic and positive alternatives, as they create a cognitive bias towards negativity.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Minimizing the impact of anxiety on daily functioning",
+        "Tension between self-perceived competence and anxiety about an upcoming event"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Minimizing anxiety can reduce the tension experienced between self-perceived competence and anxiety, as effective coping strategies may alleviate the impact of anxiety on self-assessment.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Minimizing the impact of anxiety on daily functioning",
+        "Difficulty in articulating and rating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in articulating and rating emotions can hinder effective coping strategies, which may exacerbate anxiety and impact daily functioning.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Minimizing the impact of anxiety on daily functioning",
+        "Catastrophizing and overgeneralizing in response to uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Minimizing anxiety's impact can reduce the tendency to catastrophize and overgeneralize, as it promotes more adaptive responses to uncertainty.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Minimizing the impact of anxiety on daily functioning",
+        "Fear of not meeting expectations and its relation to self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Minimizing anxiety can reduce the fear of not meeting expectations, thereby protecting self-worth.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Minimizing the impact of anxiety on daily functioning",
+        "Tendency to focus on negative possibilities and discount positive experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Minimizing anxiety can reduce the tendency to focus on negatives, as it promotes a more balanced perspective.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Minimizing the impact of anxiety on daily functioning",
+        "Struggling with labeling and self-identification in the context of relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Managing anxiety can reduce difficulties in self-identification, as anxiety often complicates interpersonal perceptions.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Minimizing the impact of anxiety on daily functioning",
+        "Balancing negative thoughts with more realistic and positive alternatives"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing negative thoughts can help reduce anxiety, thereby improving daily functioning.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and its relation to self-worth",
+        "Tension between self-perceived competence and anxiety about an upcoming event"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations can heighten anxiety about performance, leading to increased tension between self-perceived competence and anxiety.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations",
+        "Difficulty in articulating and rating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not meeting expectations can inhibit the ability to articulate and rate emotions due to anxiety and self-criticism.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations",
+        "Catastrophizing and overgeneralizing in response to uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not meeting expectations can lead to heightened anxiety, which may trigger catastrophizing and overgeneralizing as coping mechanisms in uncertain situations.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and its relation to self-worth",
+        "Minimizing the impact of anxiety on daily functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not meeting expectations can lead to heightened anxiety, which may hinder effective coping strategies, thus impacting daily functioning.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations",
+        "Tendency to focus on negative possibilities and discount positive experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of not meeting expectations can amplify the tendency to focus on negative outcomes, leading to a heightened perception of threats and a diminished ability to recognize positive experiences.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations and its relation to self-worth",
+        "Struggling with labeling and self-identification in the context of relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not meeting expectations can undermine self-worth, leading to difficulties in self-identification and labeling in relationships.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Fear of not meeting expectations",
+        "Balancing negative thoughts with more realistic and positive alternatives"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of not meeting expectations can lead to negative thoughts, which may be counteracted by the process of balancing those thoughts with more realistic and positive alternatives.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on negative possibilities and discount positive experiences",
+        "Tension between self-perceived competence and anxiety about an upcoming event"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on negative possibilities can heighten anxiety and tension regarding self-competence in upcoming events.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on negative possibilities and discount positive experiences",
+        "Difficulty in articulating and rating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on negative possibilities can lead to emotional confusion, making it harder to articulate and rate emotions accurately.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on negative possibilities and discount positive experiences",
+        "Catastrophizing and overgeneralizing in response to uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Focusing on negative possibilities can amplify the tendency to catastrophize and overgeneralize, as both processes involve a negative interpretation of uncertain situations.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on negative possibilities and discount positive experiences",
+        "Minimizing the impact of anxiety on daily functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on negative possibilities can hinder effective anxiety management, as it may exacerbate feelings of anxiety and limit coping strategies.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on negative possibilities and discount positive experiences",
+        "Fear of not meeting expectations and its relation to self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Focusing on negative possibilities can heighten fear of failure, directly impacting self-worth.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on negative possibilities and discount positive experiences",
+        "Struggling with labeling and self-identification in the context of relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Focusing on negative possibilities can hinder self-identification by fostering a negative self-view, making it difficult to label oneself positively in relationships.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Tendency to focus on negative possibilities and discount positive experiences",
+        "Balancing negative thoughts with more realistic and positive alternatives"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tendency to focus on negative possibilities can inhibit the ability to balance those thoughts with positive alternatives, leading to a less realistic perspective.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Struggling with labeling and self-identification in the context of relationships",
+        "Tension between self-perceived competence and anxiety about an upcoming event"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-identification can amplify feelings of anxiety and tension regarding perceived competence in social situations, especially before events.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Struggling with labeling and self-identification in the context of relationships",
+        "Difficulty in articulating and rating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with self-identification can hinder the ability to articulate emotions, as a clear sense of self is often necessary for emotional expression.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Struggling with labeling and self-identification in the context of relationships",
+        "Catastrophizing and overgeneralizing in response to uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in self-identification can lead to heightened anxiety and uncertainty, which may trigger catastrophizing and overgeneralizing as coping mechanisms.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Struggling with labeling and self-identification in the context of relationships",
+        "Minimizing the impact of anxiety on daily functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in self-identification can lead to increased anxiety, which may hinder effective coping strategies, thus impacting daily functioning.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Struggling with labeling and self-identification in the context of relationships",
+        "Fear of not meeting expectations and its relation to self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in self-identification can amplify fears about meeting expectations, as unclear self-concepts may lead to heightened anxiety regarding perceived failures.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Struggling with labeling and self-identification in the context of relationships",
+        "Tendency to focus on negative possibilities and discount positive experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in self-identification can lead to a negative bias, as individuals may struggle to see positive aspects of themselves or their relationships.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Struggling with labeling and self-identification in the context of relationships",
+        "Balancing negative thoughts with more realistic and positive alternatives"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with self-identification can lead to negative thoughts, and balancing these thoughts can help improve self-perception.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Balancing negative thoughts with more realistic and positive alternatives",
+        "Tension between self-perceived competence and anxiety about an upcoming event"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing negative thoughts can help reduce anxiety and improve self-perception, thereby influencing the tension experienced regarding competence.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Balancing negative thoughts with more realistic and positive alternatives",
+        "Difficulty in articulating and rating emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing negative thoughts can help reduce the difficulty in articulating and rating emotions by promoting clearer emotional understanding.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Balancing negative thoughts with more realistic and positive alternatives",
+        "Catastrophizing and overgeneralizing in response to uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing negative thoughts can effectively counteract the tendency to catastrophize and overgeneralize, reducing the impact of these cognitive distortions.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Balancing negative thoughts with more realistic and positive alternatives",
+        "Minimizing the impact of anxiety on daily functioning"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing negative thoughts can enhance coping strategies, thereby reducing anxiety's impact on daily life.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Balancing negative thoughts with more realistic and positive alternatives",
+        "Fear of not meeting expectations and its relation to self-worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing negative thoughts can reduce fear of not meeting expectations by fostering a more positive self-view, thus mitigating its impact on self-worth.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Balancing negative thoughts with more realistic and positive alternatives",
+        "Tendency to focus on negative possibilities and discount positive experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing negative thoughts counteracts the tendency to focus on negatives, promoting a more positive outlook.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Balancing negative thoughts with more realistic and positive alternatives",
+        "Struggling with labeling and self-identification in the context of relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing negative thoughts can enhance self-identification by fostering a more positive self-view, which may alleviate struggles in relationships.",
+      "pair_label": 5
+    }
+  ]
+}

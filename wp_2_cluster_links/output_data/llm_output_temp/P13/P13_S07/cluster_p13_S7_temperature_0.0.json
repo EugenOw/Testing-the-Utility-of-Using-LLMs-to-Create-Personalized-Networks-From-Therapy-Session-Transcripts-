@@ -1,0 +1,106 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-worth and perceived judgment from others",
+        "Difficulty in acknowledging and accepting relief from anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-worth tension may hinder relief acceptance.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Tension between self-worth and perceived judgment from others",
+        "Habitual self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame reinforces perceived judgment.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting relief from anxiety",
+        "Tension between self-worth and perceived judgment from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety relief can be perceived as a threat to self-worth if others judge it as weakness.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting relief from anxiety",
+        "Habitual self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can be a way to maintain a sense of control over anxiety, thereby making it harder to accept relief.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Habitual self-blame as a coping mechanism for feelings of overwhelm",
+        "Tension between self-worth and perceived judgment from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame reinforces negative self-worth, increasing tension with perceived judgment.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Habitual self-blame as a coping mechanism for feelings of overwhelm",
+        "Difficulty in acknowledging and accepting relief from anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder recognition of relief.",
+      "pair_label": 3
+    }
+  ]
+}

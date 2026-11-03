@@ -1,0 +1,1391 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Difficulty with emotional intimacy due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past unexpressed emotions can lead to difficulty articulating feelings, which in turn, can foster fear of vulnerability, making emotional intimacy challenging.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Tension between desire for self-expression and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past unexpressed emotions fuel fear of rejection.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Impact of past bullying on current self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can lead to unexpressed emotions, which in turn can cause difficulties in articulating feelings.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unexpressed emotions can intensify the need for external validation.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unexpressed emotions can fuel inner conflict.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Fear of emotional connection hindering personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past unexpressed emotions can lead to fear of emotional connection.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past unexpressed emotions can intensify nostalgia.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Desire for empowerment and self-advocacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can fuel a desire for empowerment.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Struggling to articulate feelings due to past unexpressed emotions",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past unexpressed emotions can intensify the struggle.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to fear of vulnerability",
+        "Struggling to articulate feelings due to past unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability can lead to unexpressed emotions.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to fear of vulnerability",
+        "Tension between desire for self-expression and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mutual reinforcement of fear-driven avoidance.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to fear of vulnerability",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability may lead to a deeper desire for validation.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to fear of vulnerability",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability can prevent individuals from reconciling past and present selves.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to fear of vulnerability",
+        "Fear of emotional connection hindering personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing fears.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to fear of vulnerability",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional intimacy due to fear of vulnerability may lead to nostalgia for past comfort as a coping mechanism.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to fear of vulnerability",
+        "Desire for empowerment and self-advocacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability hinders self-advocacy.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty with emotional intimacy due to fear of vulnerability",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of vulnerability can lead to avoidance of emotional experiences.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-expression and fear of rejection",
+        "Struggling to articulate feelings due to past unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection can intensify past emotional suppression.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-expression and fear of rejection",
+        "Difficulty with emotional intimacy due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection fuels fear of vulnerability.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-expression and fear of rejection",
+        "Impact of past bullying on current self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past negative experiences can suppress self-expression.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-expression and fear of rejection",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual influence in seeking acceptance.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-expression and fear of rejection",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-expression vs. past identity",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-expression and fear of rejection",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Fear of rejection may lead to a longing for past comfort.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Tension between desire for self-expression and fear of rejection",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of rejection can suppress emotional expression.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Struggling to articulate feelings due to past unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can lead to suppressed emotions.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Difficulty with emotional intimacy due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can lead to negative self-perception, increasing fear of vulnerability and thereby, difficulty with emotional intimacy.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Tension between desire for self-expression and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can intensify fear of rejection, thereby heightening tension between self-expression and fear of rejection.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can lead to negative self-perception, increasing the need for external validation.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can intensify inner conflict by creating a disconnect between the past and current self.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Fear of emotional connection hindering personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past bullying can lead to fear of emotional connection as a self-protective mechanism.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past bullying can lead to a longing for a past time when one felt safer and more secure.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Desire for empowerment and self-advocacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can lead to a strong desire for empowerment.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Impact of past bullying on current self-perception",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can lead to emotional numbing as a defense mechanism.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Yearning for validation and understanding from others",
+        "Difficulty with emotional intimacy due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability hinders the expression of yearning for validation.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Yearning for validation and understanding from others",
+        "Tension between desire for self-expression and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters vulnerability.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Yearning for validation and understanding from others",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking external validation can exacerbate self-doubt and inner conflict.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Yearning for validation and understanding from others",
+        "Fear of emotional connection hindering personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional connection can hinder the desire for validation and understanding.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Yearning for validation and understanding from others",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences of security and comfort can fuel current desires for validation.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Yearning for validation and understanding from others",
+        "Desire for empowerment and self-advocacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking external validation can hinder self-advocacy.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Yearning for validation and understanding from others",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved past emotions hinder seeking validation.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Inner conflict between current and past selves",
+        "Struggling to articulate feelings due to past unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved past emotions can fuel inner conflict.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Inner conflict between current and past selves",
+        "Tension between desire for self-expression and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past self-concepts influence current self-expression",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Inner conflict between current and past selves",
+        "Impact of past bullying on current self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past bullying can exacerbate inner conflict by creating a disconnect between past and present self-perceptions.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Inner conflict between current and past selves",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking validation may alleviate self-doubt.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Inner conflict between current and past selves",
+        "Fear of emotional connection hindering personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past self perceptions can evoke fear of emotional connection.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Inner conflict between current and past selves",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Yearning for past comfort can fuel inner conflict.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Inner conflict between current and past selves",
+        "Desire for empowerment and self-advocacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Resolving inner conflict can lead to self-empowerment.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Inner conflict between current and past selves",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional experiences contribute to inner conflict.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Struggling to articulate feelings due to past unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional connection can intensify struggles with articulating feelings.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Difficulty with emotional intimacy due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional connection reinforces fear of vulnerability.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Tension between desire for self-expression and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing fears",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Impact of past bullying on current self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can instill a fear of emotional connection.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional connection can suppress the desire for validation and understanding from others.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional connection can fuel inner conflict by preventing reconciliation with past selves.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past comfort may hinder emotional connection.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Desire for empowerment and self-advocacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional connection can suppress self-advocacy by preventing individuals from forming supportive relationships that foster empowerment.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Fear of emotional connection hindering personal growth",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance of emotional connection can reinforce suppression of past emotions.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Nostalgia for a past sense of security and comfort",
+        "Struggling to articulate feelings due to past unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Nostalgia can intensify emotional complexity, making it harder to articulate feelings.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Nostalgia for a past sense of security and comfort",
+        "Tension between desire for self-expression and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Nostalgia may temporarily distract from or reduce anxiety about self-expression, but does not fundamentally address the underlying fear of rejection.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Nostalgia for a past sense of security and comfort",
+        "Impact of past bullying on current self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Nostalgia may serve as a coping mechanism to counteract negative self-perceptions stemming from past bullying.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Nostalgia for a past sense of security and comfort",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Nostalgia can heighten the desire for validation and understanding from others.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Nostalgia for a past sense of security and comfort",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Nostalgia can trigger self-reflection and comparison.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Nostalgia for a past sense of security and comfort",
+        "Fear of emotional connection hindering personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Nostalgia may indirectly reduce fear by providing comfort.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Nostalgia for a past sense of security and comfort",
+        "Desire for empowerment and self-advocacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Nostalgia may hinder self-advocacy by focusing on past comfort rather than current empowerment.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Nostalgia for a past sense of security and comfort",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Nostalgia may serve as a defense mechanism, blocking the confrontation with painful past emotions.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Desire for empowerment and self-advocacy",
+        "Struggling to articulate feelings due to past unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past unexpressed emotions hinder current self-advocacy efforts.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Desire for empowerment and self-advocacy",
+        "Difficulty with emotional intimacy due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability hinders self-advocacy.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Desire for empowerment and self-advocacy",
+        "Impact of past bullying on current self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowerment often arises as a response to past victimization.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Desire for empowerment and self-advocacy",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Contradictory needs",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Desire for empowerment and self-advocacy",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-advocacy may challenge past self-perceptions.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Desire for empowerment and self-advocacy",
+        "Fear of emotional connection hindering personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Conflicting goals.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Desire for empowerment and self-advocacy",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Desire for empowerment and self-advocacy",
+        "Difficulty in accessing and expressing emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional unavailability can hinder self-advocacy efforts.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Struggling to articulate feelings due to past unexpressed emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past unexpressed emotions intensify the struggle to articulate current feelings.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Difficulty with emotional intimacy due to fear of vulnerability"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional unavailability fosters fear of vulnerability.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Tension between desire for self-expression and fear of rejection"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional repression fuels current self-expression fears.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Impact of past bullying on current self-perception"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past bullying can lead to suppressed emotions.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Yearning for validation and understanding from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved emotional experiences can fuel a desire for external validation.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Inner conflict between current and past selves"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional suppression can fuel inner conflict.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Fear of emotional connection hindering personal growth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional repression",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Nostalgia for a past sense of security and comfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional unavailability can lead to a longing for comfort.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in accessing and expressing emotions from the past",
+        "Desire for empowerment and self-advocacy"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased emotional awareness can enhance self-advocacy skills.",
+      "pair_label": 10
+    }
+  ]
+}

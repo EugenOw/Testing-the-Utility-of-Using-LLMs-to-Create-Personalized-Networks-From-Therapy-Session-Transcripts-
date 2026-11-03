@@ -1,0 +1,3200 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influencing emotional intimacy fear can amplify tension between self-acceptance and perceived partner expectations.",
+      "pair_label": 202
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension may hinder emotional processing.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Interpersonal stress can exacerbate self-doubt.",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened self-acceptance tension amplifies fear of judgment.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension may lead to negative self-talk.",
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "Inhibitory"
+      ],
+      "strength_of_relationship": [
+        "Moderate"
+      ],
+      "explanation": "Tension between self-acceptance and perceived partner expectations can suppress the ability to differentiate between past and present experiences due to the stress and emotional turmoil that can blur the lines between past traumas and current relationship dynamics.",
+      "pair_label": 198
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased tension between self-acceptance and perceived partner expectations can heighten feelings of inadequacy, thus amplifying fear of missing out and feeling left behind.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened sensitivity to perceived partner expectations can amplify the tendency to personalize.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Influences self-doubt and passivity.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance tension may reduce openness due to perceived judgment from partner.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurities about meeting partner expectations can exacerbate trust issues",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Tension between self-acceptance and perceived partner expectations",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases negative self-talk.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences fuel fear, which heightens tension between self and perceived expectations.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional experiences can reinforce avoidance of emotional processing.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Experiencing fear of emotional intimacy may lead to avoidance of social media interactions that could deepen relationships, or alter self-perception in a way that reinforces fear",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing anxiety patterns.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional pain amplifies fear",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional intimacy can exacerbate difficulty in differentiating between past and present experiences, as past traumas are more likely to be relived in the present.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional experiences reinforcing negative self-perception.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of intimacy may be motivated by a desire to avoid feelings of left out.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional wounds can heighten sensitivity to perceived slights.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past fear can hinder assertiveness.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences shape vulnerability",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Fear of emotional intimacy tied to past experiences",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past emotional pain fuels ruminations.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional unawareness exacerbates self-acceptance issues.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past emotional pain.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked cognitive and emotional pathways",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional avoidance and unprocessed emotions can intensify feelings of vulnerability leading to increased fear of social rejection.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional avoidance can intensify self-criticism",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional dysregulation can contribute to confusion between past and present.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unprocessed emotions can reinforce negative self-perception.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Unprocessed emotions may heighten sensitivity to FOMO.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unprocessed emotions can amplify personalization.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Linked through self-awareness and self-regulation.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoiding emotional acknowledgment maintains a barrier to vulnerability.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotions can lead to unresolved conflicts and difficulties in forming healthy relationships.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and processing emotions",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoiding emotions fuels rumination.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media's impact can amplify tensions by presenting unrealistic standards and comparisons, making self-acceptance more challenging.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Publicly curated online personas may exacerbate fears of intimacy due to the disparity between projected and genuine emotions.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media use can hinder emotional processing by creating unrealistic comparisons and distractions.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media comparison can amplify self-criticism and decrease self-compassion.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social media exposure can heighten fear of judgment and rejection.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Social media can blur the lines between past and present experiences, making it harder for individuals to differentiate between the two.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social media fosters unrealistic comparisons that exacerbate feelings of inadequacy.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social media perpetuates unrealistic comparisons and curated highlight reels.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media exposure can enhance self-referential thoughts.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media exposure can lead to unrealistic comparisons, increasing pressure to present an idealized persona, thus potentially hindering authentic expression of needs and boundaries.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media can create unrealistic expectations and promote jealousy, diminishing trust and loyalty.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Impact of social media on self-perception and relationships",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social media can foster comparison and criticism, fueling rumination and negative thoughts.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Influences self-perception in relationships.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences can intensify struggles with emotional regulation and self-compassion, thereby fueling fears of emotional intimacy.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inhibits emotional awareness",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media can exacerbate emotional regulation struggles and diminish self-compassion.",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Lack of self-compassion can amplify fear of judgment from others.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "One intensifies other.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Impaired emotional regulation hinders cognitive clarity.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked in self-criticism and negative self-talk.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of self-compassion can increase anxiety of being left behind.",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked through heightened sensitivity.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Overwhelmed by emotions, less assertive.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compounded fear and shame",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Dysregulation of emotions can lead to difficulty in forming and maintaining healthy relationships.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and self-compassion",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases anxiety about meeting expectations",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional recognition as a defense against perceived rejection.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies and reinforces.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened fear of judgment can trigger intense emotional responses, making self-regulation and self-compassion more challenging.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear fuels catastrophic thinking.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past rejection experiences exacerbate the fear, making it hard to differentiate past from present.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative self-perception.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Both fears can mutually reinforce each other in social situations, but their core motivations differ.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Amplifies self-referential thinking.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of being judged and rejected can inhibit assertive behavior, making it difficult for individuals to set healthy boundaries and express their needs.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters Hypervigilance",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Fear of being judged and rejected by others",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear triggers rumination",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can fuel anxiety about meeting partner expectations.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared roots in negative past experiences.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing and negative self-talk can exacerbate emotional avoidance",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk can be exacerbated by unrealistic comparisons on social media, intensifying self-perception issues.",
+      "pair_label": 162
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Catastrophizing and negative self-talk amplify struggles with emotional regulation and reduce self-compassion.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reinforces fear",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past traumas",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative self-talk may reinforce self-doubt, making it harder to assert needs and set boundaries.",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability triggers self-criticism.",
+      "pair_label": 159
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Catastrophizing and negative self-talk can amplify insecurities and fears, leading to increased difficulties with trust and loyalty.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Tendency to catastrophize and engage in negative self-talk",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforcing cycle of negative thought patterns",
+      "pair_label": 167
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences can influence current self-perception and acceptance, potentially impacting the tension between self-acceptance and perceived partner expectations.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences influence fear of emotional intimacy",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Overlapping cognitive and emotional challenges.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Influenced self-perception through curated online profiles might help some individuals better differentiate past from present experiences.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked through traumatic memory recall and re-experiencing.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past rejection experiences can contribute to fear of future judgments.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Due to the blurring of past and present experiences, the individual may be more prone to replay past traumas or negative events, leading to increased catastrophizing and negative self-talk.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influence current self-perception",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past experiences can influence perception and anxiety about present.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences influence perception of current events.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma blurs boundaries.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences of being hurt or betrayed can make one associate openness with vulnerability, leading to fear of being open with others.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma, unresolved emotions, and blurred past-present boundaries can lead to difficulties in forming trusting and loyal relationships.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in differentiating between past and present experiences",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences may become the content of rumination, perpetuating negative thinking.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-doubt",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional struggles can amplify difficulties in emotional processing.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social media can exacerbate and perpetuate feelings of inadequacy and low self-esteem.",
+      "pair_label": 134
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Inadequate self-perception exacerbates emotional dysregulation.",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt fuels fear",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative self-perception.",
+      "pair_label": 137
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past failures and negative experiences can reinforce low self-esteem, blurring the line between past and present.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Insecurity fuels anxiety about being left behind.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability to negative feedback",
+      "pair_label": 138
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and low self-confidence can lead to an inability to assert oneself.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Amplifies fear.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Inadequate self-perceptions can amplify difficulties in trusting others and forming secure attachments.",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Struggle with feelings of inadequacy and low self-esteem",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces self-doubt and negative self-view.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety and self-doubt",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past emotional experiences may exacerbate fear of missing out.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Social media amplifies fear by presenting curated highlight reels.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "FOMO fuels emotional dysregulation.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases anxiety",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Anxiety and perceived loss",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past experiences of missing out may be used to justify current FOMO and difficulties in distinguishing past from present.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social comparison and perceived exclusion.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "FOMO can amplify personalization of events",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear drives overcommitting.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of openness for fear of exclusion.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecurity fuels distrust.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Fear of missing out and feeling left behind",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Anxiety about being left behind fuels rumination",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past experiences may have led to a heightened sense of personal vulnerability, increasing fear of emotional intimacy as a defense mechanism.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases emotional reactivity.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Taking things personally can intensify emotional reactivity, making self-regulation and self-compassion more challenging.",
+      "pair_label": 177
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened sensitivity and emotional reactivity.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Linked through emotional reactivity and time perspective",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Tendency to take things personally amplifies negative self-talk and reinforces self-doubt.",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased sensitivity to others' opinions and actions.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Excessive personalization can lead to an inability to set healthy boundaries.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Heightened sensitivity",
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased sensitivity to others",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Tendency to personalize and take things too personally",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Personalization can lead to rumination",
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in setting boundaries can intensify self-doubt.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past trauma",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked through self-awareness and expression",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media can amplify the struggle to set boundaries by creating unrealistic expectations and pressures to conform.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment and rejection can maintain difficulty in asserting needs.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Permissive behavior can lead to feelings of overwhelm and self-blame.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Unasserted needs can lead to emotional residues lingering from past experiences.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Perpetuates feelings of inadequacy",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Lack of clear boundaries can lead to over-involvement and taking on others' emotions and perspectives excessively.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Boundary difficulties can lead to overaccommodation and inconsistent relational patterns, which in turn create uncertainty and challenges in establishing trust and loyalty.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and asserting needs",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frustration from unmet needs amplifies negative thinking.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability fear can amplify tension between self-acceptance and perceived expectations.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual Reinforcement",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance of emotional expression due to fear of vulnerability.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability fears may limit social media engagement.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Heightened fear of vulnerability can lead to avoidance of emotional expression, exacerbating difficulties in emotional regulation and self-compassion.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing fears.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability fears fuel catastrophic thinking and self-criticism.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Difficulty in differentiating between past and present experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past experiences of being hurt or betrayed can lead to a heightened fear of vulnerability, causing difficulties in differentiating past from present experiences.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability and openness may expose one to experiences that mitigate FOMO.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-protection mechanism",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability fosters trust.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Fear of being vulnerable and open with others",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of vulnerability may lead to increased negative thinking.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt and perceived partner expectations can undermine trust and loyalty.",
+      "pair_label": 154
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past betrayals or emotional harm",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional unavailability in relationships exacerbates difficulty in emotional processing.",
+      "pair_label": 141
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social media can amplify struggles with trust and loyalty.",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past betrayals and difficulties in trusting others can exacerbate emotional dysregulation.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Distrust fuels fear",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Insecure attachment patterns fuel negative self-talk and catastrophizing.",
+      "pair_label": 151
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Struggle with feelings of inadequacy and low self-esteem"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative self-view can exacerbate trust issues.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Distrust in relationships can stem from unresolved fears of abandonment.",
+      "pair_label": 147
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Linked through emotional sensitivity and vulnerability.",
+      "pair_label": 152
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Difficulty in setting boundaries and asserting needs"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Interpersonal vulnerability.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of defensive mechanisms.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Struggle with trust and loyalty in relationships",
+        "Tendency to ruminate and engage in negative thinking patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thoughts about others' trustworthiness",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Tension between self-acceptance and perceived partner expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increases self-doubt and perceived criticism from partner.",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Fear of emotional intimacy tied to past experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thinking fuels fear of emotional intimacy",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Difficulty in acknowledging and processing emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thinking patterns can impede emotional processing.",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Impact of social media on self-perception and relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exposure to curated content can exacerbate rumination.",
+      "pair_label": 190
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Struggle with emotional regulation and self-compassion"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reinforces negative emotional responses",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Fear of being judged and rejected by others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Rumination and negative thinking can intensify fear of judgment and rejection by perpetuating self-doubt and catastrophic thinking about social interactions.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Tendency to catastrophize and engage in negative self-talk"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Fear of missing out and feeling left behind"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thinking patterns can amplify fears of missing out.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Tendency to personalize and take things too personally"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fosters self-referential thinking.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Fear of being vulnerable and open with others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Negative thinking can reinforce fear of vulnerability.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Tendency to ruminate and engage in negative thinking patterns",
+        "Struggle with trust and loyalty in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Negative thinking can fuel mistrust.",
+      "pair_label": 193
+    }
+  ]
+}

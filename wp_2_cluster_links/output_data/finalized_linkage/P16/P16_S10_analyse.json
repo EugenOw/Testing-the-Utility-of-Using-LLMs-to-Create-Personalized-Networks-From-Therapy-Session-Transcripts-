@@ -1,0 +1,602 @@
+[
+  {
+    "input_processes": [
+      "Tension between desire for intellectual connection and dissatisfaction with current social circle",
+      "Difficulty navigating relationships with people who have different values or intellectual levels"
+    ],
+    "pair_label": 17,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Increased tension fuels difficulty navigating relationships.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Tension between desire for intellectual connection and dissatisfaction with current social circle",
+      "Struggle to balance self-care and productivity"
+    ],
+    "pair_label": 19,
+    "total_votes": 3,
+    "connected_votes": 2,
+    "disconnected_votes": 1,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "weak": 1,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Increased social dissatisfaction may lead to increased focus on self-care activities as a substitute for lacking intellectual connection.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Tension between desire for intellectual connection and dissatisfaction with current social circle",
+      "Fear of settling for less in relationships and life choices"
+    ],
+    "pair_label": 18,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Mutual reinforcement of high standards",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Tension between desire for intellectual connection and dissatisfaction with current social circle",
+      "Tendency to prioritize others' needs over own needs"
+    ],
+    "pair_label": 20,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 3,
+      "excitatory": 0
+    },
+    "strength_of_relationship_votes": {
+      "weak": 3,
+      "strong": 0,
+      "moderate": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "weak"
+    ],
+    "sample_explanation": "Self-sacrifice may suppress desire for intellectual connection.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Difficulty navigating relationships with people who have different values or intellectual levels",
+      "Tension between desire for intellectual connection and dissatisfaction with current social circle"
+    ],
+    "pair_label": 4,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Navigating relationships with people of different values or intellectual levels can fuel tension between the desire for intellectual connection and dissatisfaction with the current social circle.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Difficulty navigating relationships with people who have different values or intellectual levels",
+      "Struggle to balance self-care and productivity"
+    ],
+    "pair_label": 2,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 1,
+      "excitatory": 1
+    },
+    "strength_of_relationship_votes": {
+      "weak": 1,
+      "moderate": 1,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Social stress from navigating diverse relationships may indirectly reduce motivation for self-care.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Difficulty navigating relationships with people who have different values or intellectual levels",
+      "Fear of settling for less in relationships and life choices"
+    ],
+    "pair_label": 1,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 3,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Navigating relationships with diverse values or intellect can heighten the fear of settling for less.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Difficulty navigating relationships with people who have different values or intellectual levels",
+      "Tendency to prioritize others' needs over own needs"
+    ],
+    "pair_label": 3,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 1
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "weak": 1,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Compromising own values to accommodate others",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggle to balance self-care and productivity",
+      "Tension between desire for intellectual connection and dissatisfaction with current social circle"
+    ],
+    "pair_label": 12,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "weak": 2,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Increased stress from self-care and productivity imbalance can heighten dissatisfaction with social connections.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggle to balance self-care and productivity",
+      "Difficulty navigating relationships with people who have different values or intellectual levels"
+    ],
+    "pair_label": 9,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 2,
+      "excitatory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "weak": 1,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Self-care neglect can lead to emotional exhaustion, making it harder to navigate complex relationships.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggle to balance self-care and productivity",
+      "Fear of settling for less in relationships and life choices"
+    ],
+    "pair_label": 10,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 3,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Overemphasis on productivity can exacerbate fear of settling.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggle to balance self-care and productivity",
+      "Tendency to prioritize others' needs over own needs"
+    ],
+    "pair_label": 11,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 1,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Self-neglect.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Fear of settling for less in relationships and life choices",
+      "Tension between desire for intellectual connection and dissatisfaction with current social circle"
+    ],
+    "pair_label": 8,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Heightened standards fuel dissatisfaction.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Fear of settling for less in relationships and life choices",
+      "Difficulty navigating relationships with people who have different values or intellectual levels"
+    ],
+    "pair_label": 5,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Heightened standards",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Fear of settling for less in relationships and life choices",
+      "Struggle to balance self-care and productivity"
+    ],
+    "pair_label": 6,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 3,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "High expectations can lead to overexertion.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Fear of settling for less in relationships and life choices",
+      "Tendency to prioritize others' needs over own needs"
+    ],
+    "pair_label": 7,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 2,
+      "excitatory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Fear of settling may lead to self-prioritization.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Tendency to prioritize others' needs over own needs",
+      "Tension between desire for intellectual connection and dissatisfaction with current social circle"
+    ],
+    "pair_label": 16,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 2,
+      "excitatory": 1
+    },
+    "strength_of_relationship_votes": {
+      "weak": 2,
+      "moderate": 1,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Over-involvement may lead to social dissatisfaction.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Tendency to prioritize others' needs over own needs",
+      "Difficulty navigating relationships with people who have different values or intellectual levels"
+    ],
+    "pair_label": 13,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Overemphasizing others' needs can lead to struggles in setting boundaries and asserting one's own values in diverse relationships.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Tendency to prioritize others' needs over own needs",
+      "Struggle to balance self-care and productivity"
+    ],
+    "pair_label": 15,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Overemphasizing others' needs can lead to neglect of one's own, thereby exacerbating the struggle to balance self-care and productivity.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Tendency to prioritize others' needs over own needs",
+      "Fear of settling for less in relationships and life choices"
+    ],
+    "pair_label": 14,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 3,
+      "excitatory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "weak": 2,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Self-sacrifice may indirectly reduce fear by avoiding conflict.",
+    "total_files": 3
+  }
+]

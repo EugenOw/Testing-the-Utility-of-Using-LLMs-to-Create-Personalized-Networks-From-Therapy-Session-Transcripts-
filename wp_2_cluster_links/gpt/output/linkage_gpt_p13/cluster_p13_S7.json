@@ -1,0 +1,106 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Tension between self-worth and perceived judgment from others",
+        "Difficulty in acknowledging and accepting relief from anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension from perceived judgment can inhibit the ability to accept relief from anxiety, as self-worth issues may lead to a reluctance to embrace positive emotional states.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Tension between self-worth and perceived judgment from others",
+        "Habitual self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between self-worth and perceived judgment can lead to self-blame as a way to manage feelings of inadequacy, but this relationship is not always direct or consistent.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting relief from anxiety",
+        "Tension between self-worth and perceived judgment from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to accept relief from anxiety can lead to increased sensitivity to external judgments, impacting self-worth.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Difficulty in acknowledging and accepting relief from anxiety",
+        "Habitual self-blame as a coping mechanism for feelings of overwhelm"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in accepting relief from anxiety may lead to self-blame, as individuals struggle to reconcile their feelings, which can inhibit their ability to cope effectively.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Habitual self-blame as a coping mechanism for feelings of overwhelm",
+        "Tension between self-worth and perceived judgment from others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to a diminished sense of self-worth, which may create tension when individuals perceive judgment from others.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Habitual self-blame as a coping mechanism for feelings of overwhelm",
+        "Difficulty in acknowledging and accepting relief from anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder the ability to accept relief from anxiety, as it may create a cycle of negative self-perception that prevents recognition of positive emotional changes.",
+      "pair_label": 3
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Emotional intimacy is tied to vulnerability and openness in relationships.",
+        "Embarrassment and shame can serve as barriers to emotional intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional intimacy requires openness, which is hindered by feelings of shame and embarrassment.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy is tied to vulnerability and openness in relationships.",
+        "Fear of emotional hurt can lead to self-protective behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability in relationships can trigger fear of emotional hurt.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Self-protection mechanisms hinder emotional connection and intimacy.",
+        "The need for control can interfere with emotional vulnerability."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of defensive strategies.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Self-protection mechanisms hinder emotional connection and intimacy.",
+        "Fear of emotional hurt can lead to self-protective behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame can serve as barriers to emotional intimacy.",
+        "Emotional intimacy is tied to vulnerability and openness in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embarrassment and shame can impede emotional intimacy by discouraging vulnerability and openness.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame can serve as barriers to emotional intimacy.",
+        "Self-protection mechanisms hinder emotional connection and intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing defensive strategies.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame can serve as barriers to emotional intimacy.",
+        "The need for control can interfere with emotional vulnerability."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes hinder openness.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame can serve as barriers to emotional intimacy.",
+        "Emotional vulnerability is a prerequisite for deeper connection and intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embarrassment and shame can suppress emotional vulnerability.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame can serve as barriers to emotional intimacy.",
+        "Emotional intimacy requires a willingness to be vulnerable and open."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Embarrassment and shame can prevent openness.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame can serve as barriers to emotional intimacy.",
+        "Unaddressed emotional needs can create distance in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Emotional barriers can exacerbate unmet needs.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Embarrassment and shame can serve as barriers to emotional intimacy.",
+        "Emotional connection is facilitated by mutual vulnerability and openness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Barriers to intimacy hinder openness",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "The need for control can interfere with emotional vulnerability.",
+        "Self-protection mechanisms hinder emotional connection and intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of defensive strategies",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "The need for control can interfere with emotional vulnerability.",
+        "Fear of emotional hurt can lead to self-protective behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of defensive strategies.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "The need for control can interfere with emotional vulnerability.",
+        "Emotional connection is facilitated by mutual vulnerability and openness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Control needs can suppress openness.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Emotional vulnerability is a prerequisite for deeper connection and intimacy.",
+        "Embarrassment and shame can serve as barriers to emotional intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional vulnerability is hindered by feelings of shame and embarrassment.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Emotional vulnerability is a prerequisite for deeper connection and intimacy.",
+        "Fear of emotional hurt can lead to self-protective behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can trigger fear of hurt, leading to protective behaviors.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Fear of emotional hurt can lead to self-protective behaviors.",
+        "Emotional intimacy is tied to vulnerability and openness in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of hurt can prevent openness.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Fear of emotional hurt can lead to self-protective behaviors.",
+        "Self-protection mechanisms hinder emotional connection and intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-protective behaviors reinforce self-protection mechanisms.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Fear of emotional hurt can lead to self-protective behaviors.",
+        "Embarrassment and shame can serve as barriers to emotional intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional hurt can lead to self-protective behaviors that may manifest as embarrassment and shame, which in turn serve as barriers to emotional intimacy.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Fear of emotional hurt can lead to self-protective behaviors.",
+        "The need for control can interfere with emotional vulnerability."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of defensive strategies.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Fear of emotional hurt can lead to self-protective behaviors.",
+        "Emotional vulnerability is a prerequisite for deeper connection and intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional hurt can suppress emotional vulnerability.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Fear of emotional hurt can lead to self-protective behaviors.",
+        "Emotional intimacy requires a willingness to be vulnerable and open."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of hurt can prevent openness.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Fear of emotional hurt can lead to self-protective behaviors.",
+        "Unaddressed emotional needs can create distance in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-protection can exacerbate unmet emotional needs.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Fear of emotional hurt can lead to self-protective behaviors.",
+        "Emotional connection is facilitated by mutual vulnerability and openness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of hurt can prevent openness.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy requires a willingness to be vulnerable and open.",
+        "Embarrassment and shame can serve as barriers to emotional intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional intimacy is hindered by feelings of shame and embarrassment.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Emotional intimacy requires a willingness to be vulnerable and open.",
+        "Fear of emotional hurt can lead to self-protective behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability triggers fear.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Unaddressed emotional needs can create distance in relationships.",
+        "Embarrassment and shame can serve as barriers to emotional intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying emotional dynamics.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Unaddressed emotional needs can create distance in relationships.",
+        "Fear of emotional hurt can lead to self-protective behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unmet emotional needs can heighten fear of hurt.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Emotional connection is facilitated by mutual vulnerability and openness.",
+        "Self-protection mechanisms hinder emotional connection and intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual exclusivity",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Emotional connection is facilitated by mutual vulnerability and openness.",
+        "Embarrassment and shame can serve as barriers to emotional intimacy."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability and openness are hindered by feelings of shame and embarrassment.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Emotional connection is facilitated by mutual vulnerability and openness.",
+        "The need for control can interfere with emotional vulnerability."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Control needs can suppress openness",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Emotional connection is facilitated by mutual vulnerability and openness.",
+        "Fear of emotional hurt can lead to self-protective behaviors."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability and openness can be hindered by fear of emotional hurt.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Emotional connection is facilitated by mutual vulnerability and openness.",
+        "Unaddressed emotional needs can create distance in relationships."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual vulnerability and openness can address emotional needs.",
+      "pair_label": 17
+    }
+  ]
+}

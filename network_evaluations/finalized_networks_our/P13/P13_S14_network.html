@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Process Network</title>
+    <script src="https://unpkg.com/cytoscape@3.21.1/dist/cytoscape.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #cy {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        .legend {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 14px;
+            z-index: 10;
+        }
+        .tooltip {
+            position: absolute;
+            background: #fefefe;
+            border: 1px solid #aaa;
+            padding: 10px;
+            font-family: sans-serif;
+            font-size: 13px;
+            max-width: 300px;
+            z-index: 20;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            cursor: default;
+        }
+        .tooltip .close-btn {
+            float: right;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="cy"></div>
+    <div class="legend">
+        <b>Legend</b><br>
+        <span style="color:#e74c3c;">Red</span>: Inhibitory<br>
+        <span style="color:#3498db;">Blue</span>: Excitatory<br>
+        <hr style="border-top: 1px dashed #aaa; margin: 4px 0;">
+        Dashed line = Weak<br>
+        Solid thin = Moderate<br>
+        Solid thick = Strong<br>
+        <hr>
+        <b>Dimensions</b><br>
+        🔴 Cognition<br>
+        🟠 Attention<br>
+        🟡 Motivation<br>
+        🟢 (Overt) Behaviour<br>
+        🔵 Sense of Self<br>
+        🟣 Context/Moderators<br>
+        🟤 Affect<br>
+        ⚪ Sociocultural<br>
+        ⚫ Biophysiological
+    </div>
+    <script>
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            layout: { name: 'cose' },
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'text-wrap': 'wrap',
+                        'text-max-width': 100,
+                        'text-valign': 'center',
+                        'text-halign': 'center',
+                        'background-color': '#ffffff',
+                        'border-color': '#000000',
+                        'border-width': 1,
+                        'color': '#000',
+                        'font-size': 10,
+                        'width': 'label',
+                        'height': 'label',
+                        'padding': 10
+                    }
+                },
+                {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'target-arrow-shape': 'triangle',
+                        'arrow-scale': 1.2,
+                        'label': '',
+                        'font-size': 9,
+                        'text-rotation': 'autorotate',
+                        'text-margin-y': -10,
+                        'line-color': 'data(color)',
+                        'target-arrow-color': 'data(color)',
+                        'width': 'data(width)',
+                        'line-style': 'data(lineStyle)'
+                    }
+                }
+            ],
+            elements: [{"data": {"id": "Tension between desire for spontaneity and need for control in daily activities", "label": "Tension between desire for spontaneity and need for control in daily activities\n\ud83d\udfe2 \u26ab \ud83d\udd34\nFrequency: 10"}}, {"data": {"id": "Navigating the balance between structure and flexibility in daily routines", "label": "Navigating the balance between structure and flexibility in daily routines\n\ud83d\udfe2 \u26ab \ud83d\udd34\nFrequency: 10"}}, {"data": {"id": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "label": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udd34\nFrequency: 12"}}, {"data": {"id": "Difficulty prioritizing self-care due to perceived lack of time", "label": "Difficulty prioritizing self-care due to perceived lack of time\n\ud83d\udfe2 \ud83d\udfe4 \ud83d\udd34\nFrequency: 12"}}, {"data": {"id": "Cognitive distortions influencing self-perception and behavior", "label": "Cognitive distortions influencing self-perception and behavior\n\ud83d\udfe2 \ud83d\udd34 \ud83d\udfe3\nFrequency: 9"}}, {"data": {"id": "Impact of past relationships on current emotional regulation", "label": "Impact of past relationships on current emotional regulation\n\ud83d\udd34 \ud83d\udfe3\nFrequency: 3"}}, {"data": {"id": "Struggle to articulate feelings as a manifestation of unexpressed emotions", "label": "Struggle to articulate feelings as a manifestation of unexpressed emotions\n\ud83d\udfe2 \ud83d\udfe0 \ud83d\udd34\nFrequency: 11"}}, {"data": {"id": "Emotional intimacy and relationships as a source of comfort and validation", "label": "Emotional intimacy and relationships as a source of comfort and validation\n\ud83d\udfe2 \ud83d\udfe0 \ud83d\udd34\nFrequency: 11"}}, {"data": {"id": "Exploring the role of mindfulness in emotional regulation and daily life", "label": "Exploring the role of mindfulness in emotional regulation and daily life\n\ud83d\udfe2 \ud83d\udd34 \ud83d\udfe3\nFrequency: 9"}}, {"data": {"id": "Self-compassion and self-forgiveness in the face of perceived shortcomings", "label": "Self-compassion and self-forgiveness in the face of perceived shortcomings\n\ud83d\udfe2 \ud83d\udd34\nFrequency: 7"}}, {"data": {"id": "Tension between desire for spontaneity and need for control in daily activities_Navigating the balance between structure and flexibility in daily routines_78", "source": "Tension between desire for spontaneity and need for control in daily activities", "target": "Navigating the balance between structure and flexibility in daily routines", "pair_label": "78", "info": "<b>Pair:</b> 78<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing as both processes serve as\ncomplementary strategies for managing daily routines.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Tension between desire for spontaneity and need for control in daily activities_The interplay between thoughts, emotions, and behaviors in shaping daily experiences_81", "source": "Tension between desire for spontaneity and need for control in daily activities", "target": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "pair_label": "81", "info": "<b>Pair:</b> 81<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Dynamic interaction influences daily experiences.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Difficulty prioritizing self-care due to perceived lack of time_Cognitive distortions influencing self-perception and behavior_10", "source": "Difficulty prioritizing self-care due to perceived lack of time", "target": "Cognitive distortions influencing self-perception and behavior", "pair_label": "10", "info": "<b>Pair:</b> 10<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Perceived lack of time for self-care can lead to increased\nstress, which may exacerbate cognitive distortions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of past relationships on current emotional regulation_Struggle to articulate feelings as a manifestation of unexpressed emotions_43", "source": "Impact of past relationships on current emotional regulation", "target": "Struggle to articulate feelings as a manifestation of unexpressed emotions", "pair_label": "43", "info": "<b>Pair:</b> 43<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past relationship patterns can reinforce emotional\nsuppression.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of past relationships on current emotional regulation_Cognitive distortions influencing self-perception and behavior_37", "source": "Impact of past relationships on current emotional regulation", "target": "Cognitive distortions influencing self-perception and behavior", "pair_label": "37", "info": "<b>Pair:</b> 37<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past relationship experiences can shape cognitive biases.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of past relationships on current emotional regulation_Emotional intimacy and relationships as a source of comfort and validation_39", "source": "Impact of past relationships on current emotional regulation", "target": "Emotional intimacy and relationships as a source of comfort and validation", "pair_label": "39", "info": "<b>Pair:</b> 39<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past relationships shape expectations and attachment styles,\ninfluencing current emotional intimacy.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Impact of past relationships on current emotional regulation_The interplay between thoughts, emotions, and behaviors in shaping daily experiences_45", "source": "Impact of past relationships on current emotional regulation", "target": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "pair_label": "45", "info": "<b>Pair:</b> 45<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past relationship experiences influence emotional\nregulation, which in turn affects the interplay of thoughts,\nemotions, and behaviors in daily life.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggle to articulate feelings as a manifestation of unexpressed emotions_Impact of past relationships on current emotional regulation_68", "source": "Struggle to articulate feelings as a manifestation of unexpressed emotions", "target": "Impact of past relationships on current emotional regulation", "pair_label": "68", "info": "<b>Pair:</b> 68<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past relationships can shape emotional expression.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggle to articulate feelings as a manifestation of unexpressed emotions_Exploring the role of mindfulness in emotional regulation and daily life_67", "source": "Struggle to articulate feelings as a manifestation of unexpressed emotions", "target": "Exploring the role of mindfulness in emotional regulation and daily life", "pair_label": "67", "info": "<b>Pair:</b> 67<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mindfulness can help individuals articulate their feelings\nby increasing awareness of unexpressed emotions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Struggle to articulate feelings as a manifestation of unexpressed emotions_The interplay between thoughts, emotions, and behaviors in shaping daily experiences_72", "source": "Struggle to articulate feelings as a manifestation of unexpressed emotions", "target": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "pair_label": "72", "info": "<b>Pair:</b> 72<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Unexpressed emotions can intensify the interplay between\nthoughts, emotions, and behaviors.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Cognitive distortions influencing self-perception and behavior_Difficulty prioritizing self-care due to perceived lack of time_1", "source": "Cognitive distortions influencing self-perception and behavior", "target": "Difficulty prioritizing self-care due to perceived lack of time", "pair_label": "1", "info": "<b>Pair:</b> 1<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive distortions can lead to an exaggerated sense of\nbusyness, reinforcing the belief that there is not enough\ntime for self-care.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Cognitive distortions influencing self-perception and behavior_Struggle to articulate feelings as a manifestation of unexpressed emotions_7", "source": "Cognitive distortions influencing self-perception and behavior", "target": "Struggle to articulate feelings as a manifestation of unexpressed emotions", "pair_label": "7", "info": "<b>Pair:</b> 7<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Distorted self-perception can lead to difficulty in\nrecognizing and expressing emotions.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Cognitive distortions influencing self-perception and behavior_The interplay between thoughts, emotions, and behaviors in shaping daily experiences_9", "source": "Cognitive distortions influencing self-perception and behavior", "target": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "pair_label": "9", "info": "<b>Pair:</b> 9<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Cognitive distortions amplify negative thought patterns,\ninfluencing emotional states and behavioral responses.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Emotional intimacy and relationships as a source of comfort and validation_Impact of past relationships on current emotional regulation_22", "source": "Emotional intimacy and relationships as a source of comfort and validation", "target": "Impact of past relationships on current emotional regulation", "pair_label": "22", "info": "<b>Pair:</b> 22<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Past experiences shape current emotional responses.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Emotional intimacy and relationships as a source of comfort and validation_Self-compassion and self-forgiveness in the face of perceived shortcomings_24", "source": "Emotional intimacy and relationships as a source of comfort and validation", "target": "Self-compassion and self-forgiveness in the face of perceived shortcomings", "pair_label": "24", "info": "<b>Pair:</b> 24<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional intimacy fosters self-compassion.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Emotional intimacy and relationships as a source of comfort and validation_The interplay between thoughts, emotions, and behaviors in shaping daily experiences_27", "source": "Emotional intimacy and relationships as a source of comfort and validation", "target": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "pair_label": "27", "info": "<b>Pair:</b> 27<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Emotional intimacy influences emotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion and self-forgiveness in the face of perceived shortcomings_Cognitive distortions influencing self-perception and behavior_55", "source": "Self-compassion and self-forgiveness in the face of perceived shortcomings", "target": "Cognitive distortions influencing self-perception and behavior", "pair_label": "55", "info": "<b>Pair:</b> 55<br><b>Type:</b> Inhibitory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Self-compassion and self-forgiveness mitigate negative self-\ntalk and biased thinking patterns.", "color": "#e74c3c", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion and self-forgiveness in the face of perceived shortcomings_Emotional intimacy and relationships as a source of comfort and validation_57", "source": "Self-compassion and self-forgiveness in the face of perceived shortcomings", "target": "Emotional intimacy and relationships as a source of comfort and validation", "pair_label": "57", "info": "<b>Pair:</b> 57<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fosters deeper connections", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion and self-forgiveness in the face of perceived shortcomings_Exploring the role of mindfulness in emotional regulation and daily life_58", "source": "Self-compassion and self-forgiveness in the face of perceived shortcomings", "target": "Exploring the role of mindfulness in emotional regulation and daily life", "pair_label": "58", "info": "<b>Pair:</b> 58<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Practicing self-compassion and self-forgiveness can enhance\nmindfulness by fostering a non-judgmental attitude towards\noneself, thereby improving emotional regulation.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Self-compassion and self-forgiveness in the face of perceived shortcomings_The interplay between thoughts, emotions, and behaviors in shaping daily experiences_63", "source": "Self-compassion and self-forgiveness in the face of perceived shortcomings", "target": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "pair_label": "63", "info": "<b>Pair:</b> 63<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Fosters positive feedback loop.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Exploring the role of mindfulness in emotional regulation and daily life_Self-compassion and self-forgiveness in the face of perceived shortcomings_33", "source": "Exploring the role of mindfulness in emotional regulation and daily life", "target": "Self-compassion and self-forgiveness in the face of perceived shortcomings", "pair_label": "33", "info": "<b>Pair:</b> 33<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Increases self-awareness and acceptance.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Exploring the role of mindfulness in emotional regulation and daily life_The interplay between thoughts, emotions, and behaviors in shaping daily experiences_36", "source": "Exploring the role of mindfulness in emotional regulation and daily life", "target": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "pair_label": "36", "info": "<b>Pair:</b> 36<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mindfulness enhances emotional regulation, influencing\nthoughts, emotions, and behaviors.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Navigating the balance between structure and flexibility in daily routines_Tension between desire for spontaneity and need for control in daily activities_53", "source": "Navigating the balance between structure and flexibility in daily routines", "target": "Tension between desire for spontaneity and need for control in daily activities", "pair_label": "53", "info": "<b>Pair:</b> 53<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutually reinforcing", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "Navigating the balance between structure and flexibility in daily routines_The interplay between thoughts, emotions, and behaviors in shaping daily experiences_54", "source": "Navigating the balance between structure and flexibility in daily routines", "target": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "pair_label": "54", "info": "<b>Pair:</b> 54<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Structure and flexibility in routines influence emotional\nregulation and behavioral responses.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences_Struggle to articulate feelings as a manifestation of unexpressed emotions_89", "source": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "target": "Struggle to articulate feelings as a manifestation of unexpressed emotions", "pair_label": "89", "info": "<b>Pair:</b> 89<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Unexpressed emotions can intensify the interplay between\nthoughts, emotions, and behaviors.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences_Cognitive distortions influencing self-perception and behavior_82", "source": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "target": "Cognitive distortions influencing self-perception and behavior", "pair_label": "82", "info": "<b>Pair:</b> 82<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Reinforces negative self-perception", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences_Emotional intimacy and relationships as a source of comfort and validation_84", "source": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "target": "Emotional intimacy and relationships as a source of comfort and validation", "pair_label": "84", "info": "<b>Pair:</b> 84<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mutual influence and reinforcement.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences_Self-compassion and self-forgiveness in the face of perceived shortcomings_88", "source": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "target": "Self-compassion and self-forgiveness in the face of perceived shortcomings", "pair_label": "88", "info": "<b>Pair:</b> 88<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Positive feedback loop", "color": "#3498db", "width": 4, "lineStyle": "solid"}}, {"data": {"id": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences_Exploring the role of mindfulness in emotional regulation and daily life_85", "source": "The interplay between thoughts, emotions, and behaviors in shaping daily experiences", "target": "Exploring the role of mindfulness in emotional regulation and daily life", "pair_label": "85", "info": "<b>Pair:</b> 85<br><b>Type:</b> Excitatory<br><b>Strength:</b> Strong<br><b>Explanation:</b><br>Mindfulness can influence thoughts, emotions, and behaviors,\nenhancing their interplay.", "color": "#3498db", "width": 4, "lineStyle": "solid"}}]
+        });
+
+        let tooltipCounter = 0;
+
+        cy.on('tap', 'edge', function(evt) {
+            var edge = evt.target;
+            var pos = evt.renderedPosition;
+            var tooltipId = "tooltip-" + (++tooltipCounter);
+
+            var tooltip = document.createElement("div");
+            tooltip.className = "tooltip";
+            tooltip.id = tooltipId;
+            tooltip.style.left = (pos.x + 20) + "px";
+            tooltip.style.top = (pos.y + 20) + "px";
+
+            var closeBtn = document.createElement("span");
+            closeBtn.className = "close-btn";
+            closeBtn.innerHTML = "&times;";
+            closeBtn.onclick = function () {
+                tooltip.remove();
+            };
+
+            tooltip.innerHTML = "";
+            tooltip.appendChild(closeBtn);
+            var content = document.createElement("div");
+            content.innerHTML = edge.data("info");
+            tooltip.appendChild(content);
+
+            document.body.appendChild(tooltip);
+            makeDraggable(tooltip);
+        });
+
+        function makeDraggable(elmnt) {
+            let offset = { x: 0, y: 0 };
+            let isDragging = false;
+
+            elmnt.addEventListener("mousedown", function (e) {
+                if (e.target.classList.contains("close-btn")) return;
+                isDragging = true;
+                offset.x = e.clientX - elmnt.offsetLeft;
+                offset.y = e.clientY - elmnt.offsetTop;
+                elmnt.style.cursor = "move";
+                e.preventDefault();
+            });
+
+            document.addEventListener("mousemove", function (e) {
+                if (isDragging) {
+                    elmnt.style.left = (e.clientX - offset.x) + "px";
+                    elmnt.style.top = (e.clientY - offset.y) + "px";
+                }
+            });
+
+            document.addEventListener("mouseup", function () {
+                isDragging = false;
+                elmnt.style.cursor = "default";
+            });
+        }
+    </script>
+</body>
+</html>

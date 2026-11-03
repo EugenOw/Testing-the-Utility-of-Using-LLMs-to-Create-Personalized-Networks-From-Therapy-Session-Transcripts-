@@ -1,0 +1,820 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Loss of sense of home and belonging can intensify feelings of disconnection, leading to increased difficulty in articulating and sharing personal experiences and emotions.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing.",
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying theme of disconnection and longing for a sense of belonging.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing.",
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Disconnection fuels exploration.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing.",
+        "Fear of passing on emotional pain and 'darkness' to future children."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of perpetuating pain.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing.",
+        "Longing for a sense of community and shared traditions, while feeling like an outsider."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared feelings of disconnection and longing drive the desire for community and shared traditions.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others.",
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can lead to feelings of disconnection.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others.",
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being a burden may limit exploration of new experiences.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others.",
+        "Fear of passing on emotional pain and 'darkness' to future children."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional impact on others.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others.",
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional expression can hinder emotional processing and integration.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others.",
+        "Sense of disconnection from others due to differing life experiences and emotional struggles."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of burdening others with personal struggles can lead to social withdrawal and feelings of isolation.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others.",
+        "Longing for a sense of community and shared traditions, while feeling like an outsider."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being a burden inhibits desire for community.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others.",
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of emotional burden may exacerbate feelings of disconnection and isolation.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past.",
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared feelings of disconnection and longing.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of burdening others with one's emotional struggles can suppress the expression of yearning for roots and tradition.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past.",
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes reflect conflicting desires for stability and exploration, fueling each other in a cycle of tension and yearning.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past.",
+        "Fear of passing on emotional pain and 'darkness' to future children."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of perpetuating pain may hinder the desire to connect with one's roots.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past.",
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Intensifies emotional conflict.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past.",
+        "Sense of disconnection from others due to differing life experiences and emotional struggles."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared feelings of disconnection.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past.",
+        "Longing for a sense of community and shared traditions, while feeling like an outsider."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared sense of disconnection and desire for belonging.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past.",
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying desire for stability and connection.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences.",
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exploration can lead to disconnection from familiar environments.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being a burden may suppress exploration of new experiences.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences.",
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve conflicting desires, with one seeking stability and the other seeking roots, indicating a common underlying theme of seeking balance between opposing needs.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences.",
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Exploration and new experiences can trigger unresolved past issues.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences.",
+        "Longing for a sense of community and shared traditions, while feeling like an outsider."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The tension between stability and exploration can suppress the longing for community due to fear of being tied down.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences.",
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frequent changes can fuel the desire for exploration, yet hinder the sense of stability and comfort, creating a cycle.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Fear of passing on emotional pain and 'darkness' to future children.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of emotional contagion.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Fear of passing on emotional pain and 'darkness' to future children.",
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of passing on emotional pain may hinder the desire to connect with one's past, creating a sense of disconnection.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Fear of passing on emotional pain and 'darkness' to future children.",
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of passing on emotional pain may suppress the desire for exploration and new experiences due to the perceived risk of instability and potential harm to future children.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations.",
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved past experiences can exacerbate feelings of disconnection and disorientation, contributing to a sense of not belonging.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of burdening others suppresses emotional expression.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations.",
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying theme of grappling with past and present.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations.",
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Past unresolved issues fuel current conflicting desires.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations.",
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unresolved past experiences can exacerbate feelings of displacement and disconnection, making it harder to establish a sense of home and belonging.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Desire for authenticity and vulnerability in relationships, while fearing judgment or rejection.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of judgment or rejection inhibits the expression of personal experiences and emotions.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to differing life experiences and emotional struggles.",
+        "Loss of sense of home and belonging tied to feelings of disconnection and longing."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared feelings of disconnection.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to differing life experiences and emotional struggles.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being a burden amplifies disconnection.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to differing life experiences and emotional struggles.",
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared feelings of disconnection",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to differing life experiences and emotional struggles.",
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Divergent life experiences and emotional struggles can fuel a desire for exploration and new experiences as a means to cope with feelings of disconnection.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Sense of disconnection from others due to differing life experiences and emotional struggles.",
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shared feelings of disconnection and instability.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Longing for a sense of community and shared traditions, while feeling like an outsider.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling like an outsider can lead to fear of burdening others with one's emotions.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Longing for a sense of community and shared traditions, while feeling like an outsider.",
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared sense of disconnection and desire for roots.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Longing for a sense of community and shared traditions, while feeling like an outsider.",
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling like an outsider can fuel the desire for exploration and new experiences.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Longing for a sense of community and shared traditions, while feeling like an outsider.",
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Feeling disconnected from a community can intensify the struggle to reconcile past and present.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life.",
+        "Difficulty articulating and sharing personal experiences and emotions due to fear of being a 'rain cloud' over others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased sense of isolation and disconnection from others due to lack of a stable sense of home and belonging may amplify the fear of burdening others with personal emotions.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life.",
+        "Yearning for a sense of roots and tradition, while struggling with feelings of disconnection from one's past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying desire for stability and connection.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life.",
+        "Tension between desire for stability and comfort, and the need for exploration and new experiences."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Frequent moves and changes in life can fuel the tension between stability and exploration.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty finding a sense of home and belonging due to frequent moves and changes in life.",
+        "Struggle to reconcile past experiences and emotions with present desires and aspirations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Frequent moves and changes can lead to unresolved past experiences and emotions, making it harder to reconcile them with present desires and aspirations.",
+      "pair_label": 25
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Balancing productivity and self-care through flexible goal-setting",
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexible goal-setting can mitigate the negative effects of all-or-nothing thinking, promoting motivation and task initiation.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Balancing productivity and self-care through flexible goal-setting",
+        "Developing self-awareness of emotional needs and limits"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexible goal-setting encourages individuals to reflect on their emotional needs and limits, enhancing self-awareness.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Balancing productivity and self-care through flexible goal-setting",
+        "Shifting from perfectionism to incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexible goal-setting encourages a focus on progress rather than perfection, promoting a healthier mindset.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Balancing productivity and self-care through flexible goal-setting",
+        "Integrating new coping mechanisms and skills into daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexible goal-setting can enhance the ability to incorporate new coping mechanisms, as it allows for adaptability in managing both productivity and self-care.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Balancing productivity and self-care through flexible goal-setting",
+        "Managing stress and anxiety through mindfulness and self-regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexible goal-setting can enhance self-care practices, which in turn can reduce stress and anxiety through improved mindfulness and self-regulation.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Balancing productivity and self-care through flexible goal-setting",
+        "Adapting to changing circumstances and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexible goal-setting enhances the ability to adapt by allowing adjustments based on changing circumstances.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Balancing productivity and self-care through flexible goal-setting",
+        "Cultivating a growth mindset in the face of challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Flexible goal-setting can enhance resilience and adaptability, fostering a growth mindset when facing challenges.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Balancing productivity and self-care through flexible goal-setting",
+        "Navigating the interplay between motivation, self-care, and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Flexible goal-setting enhances motivation and self-care, leading to improved productivity.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation",
+        "Balancing productivity and self-care through flexible goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can hinder flexible goal-setting, as rigid beliefs about success may suppress the ability to balance productivity with self-care.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation",
+        "Developing self-awareness of emotional needs and limits"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can hinder self-awareness by creating rigid perceptions, which may suppress the recognition of emotional needs and limits.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation",
+        "Shifting from perfectionism to incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing all-or-nothing thinking can help inhibit perfectionistic tendencies, promoting a focus on incremental progress.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation",
+        "Integrating new coping mechanisms and skills into daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can hinder the adoption of new coping mechanisms by creating a rigid mindset, which may suppress motivation to integrate these skills.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation",
+        "Managing stress and anxiety through mindfulness and self-regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can lead to increased stress and anxiety, which mindfulness and self-regulation can help mitigate.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation",
+        "Adapting to changing circumstances and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can hinder flexibility in adapting to new situations, as it may lead to rigid responses and decreased motivation to adjust.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation",
+        "Cultivating a growth mindset in the face of challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can hinder the development of a growth mindset by promoting a fixed perspective on abilities, which may suppress motivation to embrace challenges.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation",
+        "Navigating the interplay between motivation, self-care, and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can hinder motivation and task initiation, which in turn affects self-care and productivity.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Developing self-awareness of emotional needs and limits",
+        "Balancing productivity and self-care through flexible goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness of emotional needs can enhance the ability to set flexible goals that prioritize self-care, thereby improving overall balance.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Developing self-awareness of emotional needs and limits",
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help mitigate the negative effects of all-or-nothing thinking, leading to more balanced motivation and task engagement.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Developing self-awareness of emotional needs and limits",
+        "Shifting from perfectionism to incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can help individuals recognize the unrealistic standards of perfectionism, promoting a shift towards valuing incremental progress.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Developing self-awareness of emotional needs and limits",
+        "Integrating new coping mechanisms and skills into daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased self-awareness enhances the ability to effectively apply and integrate coping mechanisms into daily life.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Developing self-awareness of emotional needs and limits",
+        "Managing stress and anxiety through mindfulness and self-regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased self-awareness of emotional needs enhances the ability to manage stress and anxiety effectively through mindfulness and self-regulation.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Developing self-awareness of emotional needs and limits",
+        "Adapting to changing circumstances and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness of emotional needs can enhance one's ability to adapt to changing circumstances by informing better decision-making.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Developing self-awareness of emotional needs and limits",
+        "Cultivating a growth mindset in the face of challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness of emotional needs can enhance resilience and adaptability, which are key components of a growth mindset.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Developing self-awareness of emotional needs and limits",
+        "Navigating the interplay between motivation, self-care, and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness of emotional needs enhances the ability to balance motivation, self-care, and productivity, leading to more effective management of these areas.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Shifting from perfectionism to incremental progress",
+        "Balancing productivity and self-care through flexible goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adopting an incremental progress mindset can enhance flexible goal-setting, allowing for better balance between productivity and self-care.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Shifting from perfectionism to incremental progress",
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shifting from perfectionism can help reduce all-or-nothing thinking, which in turn enhances motivation and task initiation.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Shifting from perfectionism to incremental progress",
+        "Developing self-awareness of emotional needs and limits"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Moving away from perfectionism encourages individuals to recognize and accept their emotional needs and limits, fostering greater self-awareness.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Shifting from perfectionism to incremental progress",
+        "Integrating new coping mechanisms and skills into daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adopting an incremental progress mindset encourages the use of new coping mechanisms, facilitating their integration into daily life.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Shifting from perfectionism to incremental progress",
+        "Managing stress and anxiety through mindfulness and self-regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reducing perfectionism can enhance mindfulness and self-regulation, leading to better stress and anxiety management.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Shifting from perfectionism to incremental progress",
+        "Adapting to changing circumstances and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Embracing incremental progress encourages flexibility and responsiveness to new situations, facilitating adaptation.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Shifting from perfectionism to incremental progress",
+        "Cultivating a growth mindset in the face of challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Transitioning from a perfectionist mindset to valuing incremental progress fosters resilience and adaptability, which are key components of a growth mindset.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Shifting from perfectionism to incremental progress",
+        "Navigating the interplay between motivation, self-care, and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adopting an incremental progress mindset can enhance motivation and self-care, leading to improved productivity.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Integrating new coping mechanisms and skills into daily life",
+        "Balancing productivity and self-care through flexible goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "New coping mechanisms can enhance the ability to set and adjust goals, promoting a healthier balance between productivity and self-care.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Integrating new coping mechanisms and skills into daily life",
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Integrating coping mechanisms can help mitigate the negative effects of all-or-nothing thinking, thereby enhancing motivation and task initiation.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Integrating new coping mechanisms and skills into daily life",
+        "Developing self-awareness of emotional needs and limits"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Integrating coping mechanisms can enhance self-awareness by providing tools to better understand and articulate emotional needs.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Integrating new coping mechanisms and skills into daily life",
+        "Shifting from perfectionism to incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adopting new coping strategies can help individuals focus on gradual improvement rather than unattainable perfection.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Integrating new coping mechanisms and skills into daily life",
+        "Managing stress and anxiety through mindfulness and self-regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Integrating new coping mechanisms enhances the ability to manage stress and anxiety, as these skills provide effective strategies for mindfulness and self-regulation.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Integrating new coping mechanisms and skills into daily life",
+        "Adapting to changing circumstances and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective coping mechanisms enhance an individual's ability to adapt to new situations and changing priorities.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Integrating new coping mechanisms and skills into daily life",
+        "Cultivating a growth mindset in the face of challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adopting new coping strategies can enhance resilience and promote a growth mindset, especially when facing challenges.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Integrating new coping mechanisms and skills into daily life",
+        "Navigating the interplay between motivation, self-care, and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "New coping mechanisms can enhance motivation and self-care, thereby improving productivity.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Managing stress and anxiety through mindfulness and self-regulation",
+        "Balancing productivity and self-care through flexible goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-regulation can enhance the ability to set and adjust goals flexibly, promoting a balance between productivity and self-care.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Managing stress and anxiety through mindfulness and self-regulation",
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-regulation can help mitigate the negative effects of all-or-nothing thinking, promoting a more balanced perspective that enhances motivation.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Managing stress and anxiety through mindfulness and self-regulation",
+        "Developing self-awareness of emotional needs and limits"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness and self-regulation enhance self-awareness by promoting reflection on emotional states and personal boundaries.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Managing stress and anxiety through mindfulness and self-regulation",
+        "Shifting from perfectionism to incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-regulation can help reduce the pressure of perfectionism, promoting a focus on incremental progress.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Managing stress and anxiety through mindfulness and self-regulation",
+        "Integrating new coping mechanisms and skills into daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mindfulness and self-regulation enhance the ability to adopt and apply new coping mechanisms effectively.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Managing stress and anxiety through mindfulness and self-regulation",
+        "Adapting to changing circumstances and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-regulation can enhance adaptability by promoting emotional resilience and flexibility in response to change.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Managing stress and anxiety through mindfulness and self-regulation",
+        "Cultivating a growth mindset in the face of challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-regulation can enhance resilience and adaptability, fostering a growth mindset when facing challenges.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Managing stress and anxiety through mindfulness and self-regulation",
+        "Navigating the interplay between motivation, self-care, and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Mindfulness and self-regulation can enhance motivation and self-care, leading to improved productivity.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Adapting to changing circumstances and priorities",
+        "Balancing productivity and self-care through flexible goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to changes enhances the ability to set flexible goals, which supports both productivity and self-care.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Adapting to changing circumstances and priorities",
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to changing circumstances can help mitigate the negative effects of all-or-nothing thinking, which may otherwise hinder motivation and task initiation.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Adapting to changing circumstances and priorities",
+        "Developing self-awareness of emotional needs and limits"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to changes can enhance self-awareness by prompting reflection on emotional needs and limits.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Adapting to changing circumstances and priorities",
+        "Shifting from perfectionism to incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to changing circumstances encourages a focus on progress rather than perfection, facilitating a shift towards incremental improvements.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Adapting to changing circumstances and priorities",
+        "Integrating new coping mechanisms and skills into daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Adapting to changes often necessitates the integration of new coping mechanisms, as individuals must develop and apply new skills to effectively manage their evolving circumstances.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Adapting to changing circumstances and priorities",
+        "Managing stress and anxiety through mindfulness and self-regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to changes can enhance mindfulness and self-regulation, helping to manage stress and anxiety.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Adapting to changing circumstances and priorities",
+        "Cultivating a growth mindset in the face of challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to new situations can enhance the ability to maintain a growth mindset, as flexibility in thinking supports resilience and learning from challenges.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Adapting to changing circumstances and priorities",
+        "Navigating the interplay between motivation, self-care, and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adapting to changes can enhance motivation and self-care, thereby improving productivity.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Cultivating a growth mindset in the face of challenges",
+        "Balancing productivity and self-care through flexible goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A growth mindset encourages adaptability and resilience, which can enhance the ability to set flexible goals that balance productivity and self-care.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Cultivating a growth mindset in the face of challenges",
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A growth mindset can help counteract all-or-nothing thinking, thereby enhancing motivation and task initiation.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Cultivating a growth mindset in the face of challenges",
+        "Developing self-awareness of emotional needs and limits"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A growth mindset encourages individuals to reflect on their emotional needs and limits, fostering greater self-awareness.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Cultivating a growth mindset in the face of challenges",
+        "Shifting from perfectionism to incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A growth mindset encourages viewing challenges as opportunities for learning, which directly supports the shift from perfectionism to valuing incremental progress.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Cultivating a growth mindset in the face of challenges",
+        "Integrating new coping mechanisms and skills into daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A growth mindset encourages individuals to embrace challenges, which can facilitate the adoption of new coping mechanisms and skills.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Cultivating a growth mindset in the face of challenges",
+        "Managing stress and anxiety through mindfulness and self-regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A growth mindset can enhance resilience, leading to better stress management and self-regulation.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Cultivating a growth mindset in the face of challenges",
+        "Adapting to changing circumstances and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A growth mindset fosters resilience and flexibility, enabling better adaptation to new challenges and shifting priorities.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Cultivating a growth mindset in the face of challenges",
+        "Navigating the interplay between motivation, self-care, and productivity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A growth mindset enhances motivation and resilience, positively influencing self-care and productivity.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Navigating the interplay between motivation, self-care, and productivity",
+        "Balancing productivity and self-care through flexible goal-setting"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Motivation enhances self-care and productivity, which in turn supports effective goal-setting.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Navigating the interplay between motivation, self-care, and productivity",
+        "Recognizing the impact of all-or-nothing thinking on motivation and task initiation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "All-or-nothing thinking can undermine motivation and self-care, leading to decreased productivity.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Navigating the interplay between motivation, self-care, and productivity",
+        "Developing self-awareness of emotional needs and limits"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness of emotional needs can enhance motivation and self-care, leading to improved productivity.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Navigating the interplay between motivation, self-care, and productivity",
+        "Shifting from perfectionism to incremental progress"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased motivation and self-care can facilitate a shift from perfectionism to valuing incremental progress, as individuals become more focused on achievable goals.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Navigating the interplay between motivation, self-care, and productivity",
+        "Integrating new coping mechanisms and skills into daily life"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased motivation and self-care can enhance the ability to adopt and utilize new coping mechanisms effectively.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Navigating the interplay between motivation, self-care, and productivity",
+        "Managing stress and anxiety through mindfulness and self-regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Effective self-care and motivation can enhance mindfulness practices, leading to better stress and anxiety management.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Navigating the interplay between motivation, self-care, and productivity",
+        "Adapting to changing circumstances and priorities"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Motivation and self-care can enhance one's ability to adapt to changes, as they provide the necessary energy and resilience to manage shifting priorities.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Navigating the interplay between motivation, self-care, and productivity",
+        "Cultivating a growth mindset in the face of challenges"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A strong motivation and effective self-care can enhance resilience and the ability to adopt a growth mindset when facing challenges.",
+      "pair_label": 51
+    }
+  ]
+}

@@ -1,0 +1,999 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment.",
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Adaptive personality utilization can enhance confidence.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment.",
+        "Empowerment through self-definition and refusal to accept negative labels from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of self-worth",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment.",
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence from competence can enhance assertiveness.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment.",
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment.",
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Competence fosters self-reflection.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment.",
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment.",
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing mechanisms",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Using knowledge as a tool to assert power and gain respect.",
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of assertiveness and self-efficacy.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Using knowledge as a tool to assert power and gain respect.",
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Asserting power through knowledge can facilitate recognition of personality aspects.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Using knowledge as a tool to assert power and gain respect.",
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Knowledge used to navigate social situations effectively.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Using knowledge as a tool to assert power and gain respect.",
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Asserting power through knowledge may suppress recognition of others' boundaries.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Using knowledge as a tool to assert power and gain respect.",
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Using knowledge as a tool to assert power and gain respect.",
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Using knowledge as a tool to assert power and gain respect.",
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Knowledge assertion can enhance self-efficacy.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Using knowledge as a tool to assert power and gain respect.",
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations.",
+        "Using knowledge as a tool to assert power and gain respect."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Knowledgeable navigation",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations.",
+        "Empowerment through self-definition and refusal to accept negative labels from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Utilizing aspects of personality to navigate challenges can foster self-definition and resilience against negative external influences.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations.",
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective utilization of personality aspects enhances social navigation.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations.",
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Navigating challenging situations effectively requires an understanding of when to assert oneself and when to consider others' feelings.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations.",
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances growth.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations.",
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Flexibility in personality utilization fosters resilience and self-compassion.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations.",
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Recognizing personality aspects enhances coping.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Empowerment through self-definition and refusal to accept negative labels from others.",
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increases self-efficacy",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Empowerment through self-definition and refusal to accept negative labels from others.",
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-defined empowerment enhances recognition and utilization of different personality aspects.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Empowerment through self-definition and refusal to accept negative labels from others.",
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Empowerment fosters assertive boundary-setting.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Empowerment through self-definition and refusal to accept negative labels from others.",
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-definition fosters a mindset open to growth through acknowledging past mistakes.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Empowerment through self-definition and refusal to accept negative labels from others.",
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Promotes self-efficacy",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Empowerment through self-definition and refusal to accept negative labels from others.",
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-definition and refusal to accept negative labels fosters a strong foundation for integrating past experiences and emotions into a cohesive sense of self.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries.",
+        "Using knowledge as a tool to assert power and gain respect."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Asserting power through knowledge may undermine social sensitivity.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries.",
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Effective social navigation is enhanced by recognizing and utilizing personality traits.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries.",
+        "Empowerment through self-definition and refusal to accept negative labels from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness in social situations fosters assertiveness and confidence, which in turn empowers individuals to define themselves authentically.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries.",
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "effective navigation of social situations can facilitate self-reflection through feedback and personal growth",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries.",
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Awareness of impact and assertiveness fosters self-compassion.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries.",
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Asserting boundaries and being aware of social impact can foster self-efficacy and confidence.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries.",
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The process of navigating social situations with self-awareness and assertiveness can foster personal growth by facilitating the integration of experiences and emotions into a cohesive sense of self.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries.",
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing self-expression with empathy aids in building respectful relationships, which reinforces confidence and respect at work.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries.",
+        "Using knowledge as a tool to assert power and gain respect."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries.",
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing self-expression with others' feelings enhances adaptability.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries.",
+        "Empowerment through self-definition and refusal to accept negative labels from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Balancing self-expression with others' needs can foster a strong sense of self, enhancing empowerment.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries.",
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing self-expression with consideration for others can enhance self-efficacy by fostering a sense of responsibility and respect for boundaries, which in turn supports anxiety management through effective planning and confidence building.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries.",
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Recognizing the need to balance self-expression with others' feelings promotes a deeper understanding of oneself and facilitates emotional healing.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement.",
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past mistakes and learning from them can enhance competence, which in turn boosts confidence.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement.",
+        "Empowerment through self-definition and refusal to accept negative labels from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness and learning from past mistakes fosters a sense of control and confidence, leading to empowered self-definition and resilience against negative external influences.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement.",
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Acknowledge past mistakes can foster empathy and understanding for others' feelings.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement.",
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances self-compassion",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement.",
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Learning from past mistakes can enhance planning and preparation by providing valuable insights and promoting self-efficacy",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement.",
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing processes of learning and healing.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others.",
+        "Using knowledge as a tool to assert power and gain respect."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others.",
+        "Empowerment through self-definition and refusal to accept negative labels from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of self-worth",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others.",
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances assertiveness",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others.",
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Enhances social sensitivity",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Development of self-compassion and grace in response to perceived mistakes or negative feedback from others.",
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters a culture of constructive self-criticism.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence.",
+        "Confidence tied to competence in work role as a means of regaining power and respect in a previously difficult environment."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement of confidence",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence.",
+        "Using knowledge as a tool to assert power and gain respect."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Preparation and self-efficacy can reduce the need to assert power through knowledge.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence.",
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Preparation and planning for uncertain situations can enhance self-awareness and confidence in utilizing different personality aspects.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence.",
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Balancing self-expression can temper overplanning.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence.",
+        "Growth through self-reflection and acknowledgment of past mistakes, with a focus on learning and improvement."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Preparation and self-efficacy can enhance reflection and learning.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Coping with anxiety and uncertainty through preparation and planning, while also cultivating a sense of self-efficacy and confidence.",
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Preparation and planning facilitate emotional regulation, which can enhance the integration process.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth.",
+        "Ability to recognize and utilize different aspects of personality to navigate challenging situations."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth.",
+        "Navigating social situations with awareness of the impact of one's actions on others, while also asserting one's own needs and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Emotional awareness and self-integration enhance social navigation and empathy.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Integration of past experiences and emotions into a cohesive sense of self, with a focus on healing and personal growth.",
+        "Recognition of the need to balance self-expression with consideration for others' feelings and boundaries."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness and healing foster empathy and consideration.",
+      "pair_label": 62
+    }
+  ]
+}

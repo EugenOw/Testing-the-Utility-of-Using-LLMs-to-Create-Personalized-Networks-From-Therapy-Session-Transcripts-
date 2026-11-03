@@ -1,0 +1,897 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness.",
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection amplifies anxiety and self-doubt.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness.",
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory",
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying fear mechanism.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness.",
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear inhibits assertiveness",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness.",
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can help mitigate fear of social rejection.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness.",
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness.",
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection inhibits exploration of new experiences.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior.",
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying fear of negative social judgment.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior.",
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of confrontation and judgment.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior.",
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoiding hurt feelings can suppress assertiveness and boundary-setting.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior.",
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding hurting others might limit self-reflection.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior.",
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying empathetic motivations.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior.",
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Social anxiety influences fear of hurting others.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions.",
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing fears",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions.",
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying fear of negative evaluation",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions.",
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions.",
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection can reduce uncertainty and increase self-awareness.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions.",
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compassion towards others can mitigate anxiety and self-doubt.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions.",
+        "A past experience of taking swing dancing lessons has created a lasting sense of discomfort and anxiety around physical touch and intimacy with strangers."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Uncertainty about others' opinions can exacerbate discomfort with physical touch.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others.",
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared underlying fear of judgment and rejection.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others.",
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment and rejection may suppress the client's ability to assertively express their political beliefs online.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others.",
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others.",
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Observation and reflection facilitate authenticity.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others.",
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of negative evaluation, common in both processes, suppresses self-expression.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces.",
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "The fear of rejection and disapproval inhibits the client's ability to assert themselves.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces.",
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of hurting others' feelings suppresses the ability to assert oneself.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces.",
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Uncertainty in online spaces exacerbates self-doubt.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces.",
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of judgment limits assertion of beliefs and boundaries.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces.",
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces.",
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness fosters boundary setting.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces.",
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Selfless concern for others may hinder assertiveness.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces.",
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Social anxiety and self-consciousness can inhibit assertiveness and boundary-setting.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection.",
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection.",
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection.",
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past trauma triggers increased anxiety due to self-protection concerns",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection.",
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection.",
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "The past hearing damage experience may make the client more cautious.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection.",
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Increased self-awareness and introspection can enhance the protective mechanism",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth.",
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-observation may lead to recognition of personal areas needing improvement, which may be hindered by the fear of social rejection.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth.",
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may mitigate anxiety and self-doubt by increasing awareness of others' behaviors and understanding of their opinions and reactions.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth.",
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection may help the client avoid loud situations.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth.",
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection fosters empathy and understanding.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth.",
+        "A past experience of taking swing dancing lessons has created a lasting sense of discomfort and anxiety around physical touch and intimacy with strangers."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflection on past behavior can heighten awareness of anxiety, potentially exacerbating the issue.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior.",
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shared empathetic concern.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior.",
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compassion may temper anxiety through selfless focus.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior.",
+        "A desire for authenticity and openness in political beliefs is constrained by fear of judgment and rejection from others."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Social constraints and fears of others' perceptions can indirectly influence our sense of responsibility and compassion by limiting our expression of true beliefs and feelings.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior.",
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior.",
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Compassion enhances self-reflection.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior.",
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Inhibits exploration due to prioritizing others over personal desires.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior.",
+        "A past experience of taking swing dancing lessons has created a lasting sense of discomfort and anxiety around physical touch and intimacy with strangers."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness.",
+        "Fear of social rejection and disapproval from others is a significant barrier to self-expression and assertiveness."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of rejection reinforces hesitation.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness.",
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of negative evaluation",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness.",
+        "A past experience of hearing damage has created a lasting sensitivity to loud noises and a need for self-protection."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness.",
+        "The client observes and reflects on their own behavior and the behavior of others, recognizing patterns and areas for personal growth."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-reflection helps reduce hesitation.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "The client is hesitant to engage in new experiences, such as dancing or skipping, due to feelings of awkwardness and self-consciousness.",
+        "A sense of responsibility and compassion towards others, particularly a kind ex-partner, influences decision-making and behavior."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "A past experience of taking swing dancing lessons has created a lasting sense of discomfort and anxiety around physical touch and intimacy with strangers.",
+        "The need to avoid hurting others' feelings, particularly those of a kind and non-confrontational ex-partner, drives decision-making and behavior."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past trauma may not directly influence but can indirectly shape the way one navigates social interactions, including those related to avoiding hurting others' feelings, by heightening sensitivity and caution in relationships.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "A past experience of taking swing dancing lessons has created a lasting sense of discomfort and anxiety around physical touch and intimacy with strangers.",
+        "Anxiety and self-doubt are fueled by uncertainty about others' opinions and reactions."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past trauma and anxiety about intimacy can generalize to uncertainty about others' opinions.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "A past experience of taking swing dancing lessons has created a lasting sense of discomfort and anxiety around physical touch and intimacy with strangers.",
+        "The client struggles with assertiveness and setting boundaries, particularly in online spaces."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Past physical discomfort may subtly affect online assertiveness.",
+      "pair_label": 26
+    }
+  ]
+}

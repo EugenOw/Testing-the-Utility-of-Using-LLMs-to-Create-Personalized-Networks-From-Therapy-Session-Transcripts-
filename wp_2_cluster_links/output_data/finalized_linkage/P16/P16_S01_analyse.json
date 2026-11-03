@@ -1,0 +1,2010 @@
+[
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Struggling to change behavior is linked to procrastination and self-blame."
+    ],
+    "pair_label": 87,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 1,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Reinforcing self-blame",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+    ],
+    "pair_label": 88,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 1
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "weak": 1,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared underlying issues of self-perception and negative self-talk.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+    ],
+    "pair_label": 89,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying factors of low self-esteem and body image issues.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+      "Worthlessness and self-blame are key factors in the client's emotional distress."
+    ],
+    "pair_label": 17,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying self-devaluation.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+    ],
+    "pair_label": 16,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared body image difficulties",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Procrastination and self-blame are interconnected, forming a vicious cycle.",
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+    ],
+    "pair_label": 24,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying mechanisms",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Procrastination and self-blame are interconnected, forming a vicious cycle.",
+      "Worthlessness and self-blame are key factors in the client's emotional distress."
+    ],
+    "pair_label": 26,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 2,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared self-blame component.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+    ],
+    "pair_label": 45,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying mechanisms of self-perpetuating negative self-concept",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+    ],
+    "pair_label": 37,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying self-perception mechanisms.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+    ],
+    "pair_label": 42,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Self-blame reinforces negative self-criticism, which can lead to struggling to do good.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Worthlessness and self-blame are key factors in the client's emotional distress."
+    ],
+    "pair_label": 44,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared self-blame component.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+    ],
+    "pair_label": 43,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 3,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Reinforced self-blame and negative self-criticism can exacerbate body dissatisfaction, leading to unhealthy eating and exercise habits.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+    ],
+    "pair_label": 63,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 1,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying issues of self-perception and body image.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+    ],
+    "pair_label": 59,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 1
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Negative self-talk can exacerbate self-blame.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+      "Worthlessness and self-blame are key factors in the client's emotional distress."
+    ],
+    "pair_label": 62,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Self-blame is a common thread.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+    ],
+    "pair_label": 61,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 1
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 3,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared negative self-concept and body image issues can create a vicious cycle.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness and self-blame are key factors in the client's emotional distress.",
+      "Struggling to change behavior is linked to procrastination and self-blame."
+    ],
+    "pair_label": 78,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared self-blame component.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness and self-blame are key factors in the client's emotional distress.",
+      "Negative self-criticism fuels unhealthy eating and body image difficulties."
+    ],
+    "pair_label": 74,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying negative self-perception.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness and self-blame are key factors in the client's emotional distress.",
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+    ],
+    "pair_label": 77,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Reinforcing cycle of self-blame",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness and self-blame are key factors in the client's emotional distress.",
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+    ],
+    "pair_label": 79,
+    "total_votes": 3,
+    "connected_votes": 3,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 3,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 3,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared self-blame component",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness and self-blame are key factors in the client's emotional distress.",
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+    ],
+    "pair_label": 80,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Negative self-perception can lead to unhealthy behaviors.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem.",
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+    ],
+    "pair_label": 68,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Negative self-perception from body image issues can lead to self-blame and negative self-criticism.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem.",
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+    ],
+    "pair_label": 70,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 2,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared underlying issue of body image issues.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to change behavior is linked to procrastination and self-blame.",
+      "Procrastination and self-blame are interconnected, forming a vicious cycle."
+    ],
+    "pair_label": 48,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared components reinforce each other.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to change behavior is linked to procrastination and self-blame.",
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+    ],
+    "pair_label": 50,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Self-blame in Process A reinforces negative self-criticism in Process B.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to change behavior is linked to procrastination and self-blame.",
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+    ],
+    "pair_label": 51,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying factors of procrastination and self-blame",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Negative self-criticism fuels unhealthy eating and body image difficulties."
+    ],
+    "pair_label": 83,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying mechanisms of self-deprecation.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Procrastination and self-blame are interconnected, forming a vicious cycle."
+    ],
+    "pair_label": 84,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 1
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "weak": 1,
+      "strong": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Negative self-talk associated with worthlessness can lead to avoidance behaviors like procrastination.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+      "Struggling to change behavior is linked to procrastination and self-blame."
+    ],
+    "pair_label": 14,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying self-blame mechanism",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+    ],
+    "pair_label": 18,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared self-devaluation mechanisms",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Negative self-criticism fuels unhealthy eating and body image difficulties.",
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+    ],
+    "pair_label": 10,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying self-perception issues.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Relationship distress is tied to feelings of worthlessness and self-blame.",
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+    ],
+    "pair_label": 28,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared underlying mechanisms of negative self-perception",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Relationship distress is tied to feelings of worthlessness and self-blame.",
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+    ],
+    "pair_label": 31,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 1,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying self-negative schema and cognitive patterns.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Procrastination and self-blame are interconnected, forming a vicious cycle.",
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+    ],
+    "pair_label": 27,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "weak": 1,
+      "strong": 0,
+      "moderate": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "weak"
+    ],
+    "sample_explanation": "Both processes involve negative self-perception and self-criticism, which can indirectly reinforce each other.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Procrastination and self-blame are interconnected, forming a vicious cycle.",
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+    ],
+    "pair_label": 19,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "inhibitory": 1,
+      "excitatory": 0
+    },
+    "strength_of_relationship_votes": {
+      "weak": 1,
+      "strong": 0,
+      "moderate": 0
+    },
+    "most_common_relationship_type": [
+      "inhibitory"
+    ],
+    "most_common_strength_of_relationship": [
+      "weak"
+    ],
+    "sample_explanation": "Negative self-talk.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+    ],
+    "pair_label": 4,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Reinforcing cycle of self-deprecation.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+      "Worthlessness and self-blame are key factors in the client's emotional distress."
+    ],
+    "pair_label": 8,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying construct of negative self-perception.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem."
+    ],
+    "pair_label": 7,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying factors.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Negative self-criticism fuels unhealthy eating and body image difficulties."
+    ],
+    "pair_label": 38,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying mechanism of negative self-criticism.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Relationship distress is tied to feelings of worthlessness and self-blame."
+    ],
+    "pair_label": 40,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying self-blame mechanism.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+      "Struggling to change behavior is linked to procrastination and self-blame."
+    ],
+    "pair_label": 60,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying mechanisms of procrastination and self-blame.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+    ],
+    "pair_label": 55,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 1,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying negative self-perception.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness and self-blame are key factors in the client's emotional distress.",
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+    ],
+    "pair_label": 81,
+    "total_votes": 2,
+    "connected_votes": 2,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 2,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 2,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying self-concept.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness and self-blame are key factors in the client's emotional distress.",
+      "Relationship distress is tied to feelings of worthlessness and self-blame."
+    ],
+    "pair_label": 76,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying emotional mechanisms.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to change behavior is linked to procrastination and self-blame.",
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues."
+    ],
+    "pair_label": 54,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Negative self-talk.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to change behavior is linked to procrastination and self-blame.",
+      "Negative self-criticism fuels unhealthy eating and body image difficulties."
+    ],
+    "pair_label": 47,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Self-blame and procrastination often accompany negative self-criticism, reinforcing unhealthy behaviors.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to change behavior is linked to procrastination and self-blame.",
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+    ],
+    "pair_label": 46,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "weak": 1,
+      "strong": 0,
+      "moderate": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "weak"
+    ],
+    "sample_explanation": "Procrastination and self-blame often stem from deeper self-esteem issues, which can manifest as body image issues.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Relationship distress is tied to feelings of worthlessness and self-blame."
+    ],
+    "pair_label": 85,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Reciprocal reinforcement of negative self-perception.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem."
+    ],
+    "pair_label": 82,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Mutually reinforcing cycle.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+    ],
+    "pair_label": 86,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Reinforces self-criticism",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Worthlessness is a self-reinforcing pattern that exacerbates body image issues.",
+      "Worthlessness and self-blame are key factors in the client's emotional distress."
+    ],
+    "pair_label": 90,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying construct of worthlessness.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Relationship distress is tied to feelings of worthlessness and self-blame.",
+      "Procrastination and self-blame are interconnected, forming a vicious cycle."
+    ],
+    "pair_label": 30,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared self-blame component",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Relationship distress is tied to feelings of worthlessness and self-blame.",
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues."
+    ],
+    "pair_label": 33,
+    "total_votes": 0,
+    "connected_votes": 0,
+    "disconnected_votes": 0,
+    "connection": [
+      0
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Self-blame overlap",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Relationship distress is tied to feelings of worthlessness and self-blame.",
+      "Worthlessness and self-blame are key factors in the client's emotional distress."
+    ],
+    "pair_label": 35,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Interconnected causes of emotional distress",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Procrastination and self-blame are interconnected, forming a vicious cycle.",
+      "Struggling to change behavior is linked to procrastination and self-blame."
+    ],
+    "pair_label": 23,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying mechanisms",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Procrastination and self-blame are interconnected, forming a vicious cycle.",
+      "Negative self-criticism fuels unhealthy eating and body image difficulties."
+    ],
+    "pair_label": 20,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Negative self-criticism can exacerbate procrastination and self-blame.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Procrastination and self-blame are interconnected, forming a vicious cycle.",
+      "Relationship distress is tied to feelings of worthlessness and self-blame."
+    ],
+    "pair_label": 21,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared self-blame mechanism.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Procrastination and self-blame are interconnected, forming a vicious cycle.",
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other."
+    ],
+    "pair_label": 22,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Mutual Reinforcement",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+      "Struggling to change behavior is linked to procrastination and self-blame."
+    ],
+    "pair_label": 5,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Negative self-perceptions fuel self-criticism and hinder behavioral change.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Body image issues are closely related to feelings of worthlessness and low self-esteem.",
+      "Negative self-criticism fuels unhealthy eating and body image difficulties."
+    ],
+    "pair_label": 1,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Reinforcing cycle.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Struggling to change behavior is linked to procrastination and self-blame."
+    ],
+    "pair_label": 41,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Self-blame from Process A reinforces procrastination in Process B, making behavior change more difficult.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Self-blame and negative self-criticism are bi-directionally related, reinforcing each other.",
+      "Procrastination and self-blame are interconnected, forming a vicious cycle."
+    ],
+    "pair_label": 39,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared underlying self-blame",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Struggling to do good is connected to procrastination, self-blame, and body image issues.",
+      "Relationship distress is tied to feelings of worthlessness and self-blame."
+    ],
+    "pair_label": 58,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Shared underlying self-blame.",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem.",
+      "Negative self-criticism fuels unhealthy eating and body image difficulties."
+    ],
+    "pair_label": 65,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "strong"
+    ],
+    "sample_explanation": "Shared underlying mechanisms",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem.",
+      "Relationship distress is tied to feelings of worthlessness and self-blame."
+    ],
+    "pair_label": 67,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Negative self-perception",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem.",
+      "Procrastination and self-blame are interconnected, forming a vicious cycle."
+    ],
+    "pair_label": 66,
+    "total_votes": 1,
+    "connected_votes": 0,
+    "disconnected_votes": 1,
+    "connection": [
+      0
+    ],
+    "relationship_type_votes": {
+      "excitatory": 0,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": null,
+    "sample_explanation": "",
+    "total_files": 3
+  },
+  {
+    "input_processes": [
+      "Unhealthy eating and lack of exercise are linked to body image issues and low self-esteem.",
+      "Worthlessness and self-blame are key factors in the client's emotional distress."
+    ],
+    "pair_label": 71,
+    "total_votes": 1,
+    "connected_votes": 1,
+    "disconnected_votes": 0,
+    "connection": [
+      1
+    ],
+    "relationship_type_votes": {
+      "excitatory": 1,
+      "inhibitory": 0
+    },
+    "strength_of_relationship_votes": {
+      "moderate": 1,
+      "strong": 0,
+      "weak": 0
+    },
+    "most_common_relationship_type": [
+      "excitatory"
+    ],
+    "most_common_strength_of_relationship": [
+      "moderate"
+    ],
+    "sample_explanation": "Negative self-perception.",
+    "total_files": 3
+  }
+]

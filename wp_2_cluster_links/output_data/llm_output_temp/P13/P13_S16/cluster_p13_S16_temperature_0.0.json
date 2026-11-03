@@ -1,0 +1,1520 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cognitive flexibility enables reframing negative thoughts, fostering a compassionate mindset.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive flexibility can facilitate vulnerability by enabling individuals to reframe negative thoughts and emotions, making them more open to forming deeper connections with others.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive flexibility can help reduce avoidance by reframing negative emotions.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Reframing negative thoughts enhances emotional regulation.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive flexibility can help mitigate the struggle to articulate emotions by providing a means to reframe and process unexpressed emotions.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive flexibility can help mitigate self-criticism by reframing negative thoughts, promoting self-compassion.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cognitive flexibility enables the generation of novel perspectives, facilitating the use of creative outlets for emotional expression and regulation.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Facilitates adaptive thinking patterns.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Enhances reframing",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fosters openness and trust.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion encourages emotional acceptance, which counters avoidance of emotional expression.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion enhances self-awareness by fostering a non-judgmental attitude towards one's thoughts and emotions.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion facilitates cognitive restructuring by promoting a non-judgmental mindset, enhancing emotional acceptance and reducing self-criticism, which in turn improves emotional regulation.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can help alleviate the struggle to articulate emotions by creating a safe space for emotional expression and acceptance.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-compassion directly counters self-criticism.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fosters emotional expression and acceptance.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Compassion facilitates openness to challenging negative thoughts.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can facilitate cognitive flexibility by allowing individuals to confront and reframe negative thoughts and emotions, leading to deeper interpersonal connections.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability fosters self-compassion.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can counteract avoidance by promoting openness.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can facilitate vulnerability.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can facilitate cognitive restructuring by increasing openness to new perspectives and emotional experiences.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Vulnerability facilitates emotional expression.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can foster self-compassion.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability facilitates openness, which can enhance creative expression.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Vulnerability as a key factor in reducing interpersonal relationship walls",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Vulnerability can facilitate openness to challenging negative thought patterns.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional expression can limit the ability to engage in cognitive flexibility by not confronting and reframing negative thoughts and emotions.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional expression can hinder self-compassion by preventing acknowledgment and acceptance of emotions.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional expression can hinder self-awareness of negative thought patterns.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional expression can hinder cognitive restructuring by preventing the acknowledgment and processing of emotions necessary for restructuring.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoidance reinforces struggle to articulate.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional expression can suppress the natural oscillation between self-criticism and self-compassion.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional expression may suppress the use of creative outlets as a means of emotional regulation.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional expression as a coping mechanism",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional expression can hinder the recognition of thinking traps.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enables recognition of negative patterns, facilitating cognitive flexibility to reframe them.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enables recognition of negative patterns, facilitating self-compassion to counteract them.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness fosters vulnerability.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness can help individuals recognize the need to express emotions, thereby reducing avoidance.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enables identification of negative patterns, facilitating cognitive restructuring.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can facilitate the recognition and articulation of previously unexpressed emotions.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances recognition of self-criticism, facilitating a shift towards self-compassion.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-awareness enhances creative expression.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "The role of self-awareness in recognizing and challenging negative thought patterns",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing mechanisms.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cognitive restructuring can enhance self-compassion by reframing negative self-talk.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive restructuring can facilitate emotional regulation, which in turn can increase willingness to be vulnerable, thereby reducing interpersonal relationship walls.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive restructuring can reduce avoidance by reframing negative thoughts.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cognitive restructuring relies on self-awareness to identify and challenge negative thought patterns, thereby enhancing emotional regulation.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive restructuring can facilitate articulation of unexpressed emotions.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive restructuring can influence self-criticism and self-compassion by reframing negative self-talk.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive restructuring can enhance emotional regulation, which in turn can facilitate the use of creative outlets as a means of emotional expression.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "The impact of cognitive restructuring on emotional regulation",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cognitive restructuring's effectiveness in emotional regulation is amplified by recognizing and challenging thinking traps.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Facilitates reframing",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Facilitates emotional expression and healing.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Opening up about past unexpressed emotions can foster vulnerability, which in turn can help reduce walls in interpersonal relationships.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Past unexpressed emotions can lead to avoidance of emotional expression.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-awareness can facilitate the expression of previously unexpressed emotions.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Cognitive restructuring can help articulate and process unexpressed emotions.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can fuel self-criticism, while the struggle to articulate them can hinder self-compassion.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Creative expression facilitates articulation of past emotions.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can lead to distorted thinking patterns, making it essential to recognize and challenge these patterns to articulate and process emotions effectively.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion fosters cognitive flexibility.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutually reinforcing",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion fosters vulnerability.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can lead to avoidance of emotional expression.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-awareness enhances recognition of self-criticism, facilitating self-compassion.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can facilitate cognitive restructuring by reducing self-criticism.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-criticism can exacerbate the struggle to articulate emotions, as it may lead to increased emotional suppression and avoidance.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion fosters creative expression.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "The tension between self-criticism and self-compassion in emotional experiences",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can facilitate recognizing and challenging thinking traps.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can facilitate cognitive flexibility by allowing individuals to explore and reframe negative thoughts and emotions in a constructive manner.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Creative expression fosters self-acceptance.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can facilitate vulnerability by providing a safe space for emotional release and authenticity.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can enhance self-awareness by providing an outlet for emotions and thoughts, facilitating recognition and challenge of negative patterns.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can facilitate cognitive restructuring by providing an outlet for emotions, thereby enhancing emotional regulation.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can help process and release pent-up emotions, reducing the struggle to articulate them.",
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can foster self-compassion, reducing self-criticism.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "The use of creative outlets as a means of emotional expression and regulation",
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Creative expression can facilitate recognition of distorted thinking patterns.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "Cognitive flexibility as a means to reframe negative thoughts and emotions"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Facilitates reframing",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "Self-compassion as a tool to reduce self-criticism and increase emotional acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Challenging thinking traps can foster self-compassion by reducing self-criticism.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "Vulnerability as a key factor in reducing interpersonal relationship walls"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Challenging thinking traps can lead to increased self-awareness, which may facilitate vulnerability in relationships.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "Avoidance of emotional expression as a coping mechanism"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging thinking traps can reduce avoidance of emotional expression.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "The role of self-awareness in recognizing and challenging negative thought patterns"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Mutual reinforcement in cognitive restructuring",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "The impact of cognitive restructuring on emotional regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Cognitive restructuring's effectiveness in emotional regulation is enhanced by recognizing and challenging thinking traps.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "The struggle to articulate emotions as a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging thinking traps can facilitate emotional awareness and expression.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "The tension between self-criticism and self-compassion in emotional experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging thinking traps can enhance self-compassion by reducing self-criticism.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "The importance of recognizing and challenging thinking traps in cognitive restructuring",
+        "The use of creative outlets as a means of emotional expression and regulation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Creative expression can facilitate cognitive restructuring by providing an alternative means of processing and reframing negative thoughts.",
+      "pair_label": 44
+    }
+  ]
+}

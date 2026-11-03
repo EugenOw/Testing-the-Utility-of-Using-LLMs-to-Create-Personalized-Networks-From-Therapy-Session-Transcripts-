@@ -1,0 +1,3676 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame can hinder the ability to process grief, as individuals may struggle to accept loss due to feelings of unworthiness.",
+      "pair_label": 156
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame can inhibit self-compassion and exacerbate self-blame, creating tension between these processes.",
+      "pair_label": 167
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can lead to a diminished sense of self-worth, which may increase the fear of being alone and the need for external validation to compensate for that lack of self-acceptance.",
+      "pair_label": 159
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can significantly amplify a negative self-image, as feelings of shame often lead individuals to internalize negative beliefs about themselves, thereby reinforcing a poor self-concept.",
+      "pair_label": 162
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can significantly impair emotional regulation and acceptance, as feelings of inadequacy often lead to heightened emotional distress.",
+      "pair_label": 166
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame can lead individuals to develop unrealistic expectations and engage in fantasy relationships as a coping mechanism, which may inhibit their ability to form genuine connections.",
+      "pair_label": 168
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can significantly amplify self-doubt, leading individuals to question their personal worth more intensely.",
+      "pair_label": 165
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame often leads individuals to avoid situations that may trigger emotional pain, as they seek to protect their self-worth and identity.",
+      "pair_label": 155
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame can lead individuals to compare themselves to others, fostering feelings of envy when they perceive others as having higher self-worth.",
+      "pair_label": 158
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can lead to a diminished sense of self-worth, making it difficult for individuals to assert their needs and set boundaries.",
+      "pair_label": 157
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Shame can lead to a fear of change and uncertainty as individuals may avoid new situations that threaten their self-worth.",
+      "pair_label": 161
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can lead to negative self-evaluation, which may inhibit the ability to process and reflect on past relationships constructively.",
+      "pair_label": 163
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can amplify feelings of self-blame and guilt, as individuals may internalize their perceived failures, linking their self-worth to past choices.",
+      "pair_label": 164
+    },
+    {
+      "input_processes": [
+        "Shame tied to self-worth and identity",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Shame can significantly impact self-worth, leading to heightened fears of abandonment and feelings of unlovability.",
+      "pair_label": 160
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with loss can lead to feelings of shame about one's emotional responses, impacting self-worth.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with loss can lead to increased self-blame, which may inhibit self-compassion.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with loss can lead to increased fear of loneliness, prompting a desire for external validation.",
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with loss can lead to negative self-perceptions, as individuals may blame themselves for the loss or feel unworthy of happiness.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in accepting loss and grief often leads to heightened emotional responses, making emotional regulation and acceptance more challenging.",
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with loss can lead individuals to create unrealistic expectations and engage in fantasy relationships as a coping mechanism.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with loss can lead to feelings of inadequacy and self-doubt as individuals may question their worth or ability to cope.",
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to accept loss often leads to a heightened tendency to avoid emotional pain, as individuals may seek to escape the discomfort associated with grief.",
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in accepting loss can lead to feelings of envy and comparison as individuals may struggle to cope with their grief, leading them to compare their situation with others.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with grief can lead to neglecting personal needs and boundaries, as individuals may become overwhelmed by their emotions.",
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with loss often heightens fear of change, as individuals may feel uncertain about their future without the lost entity.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to accept loss often leads to persistent thoughts about past relationships, reinforcing ruminative patterns.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to accept loss often leads to self-blame and guilt, as individuals may ruminate on perceived failures or choices related to the loss.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Difficulty in accepting loss and grief",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with loss can heighten fears of abandonment and loneliness, as individuals may feel more vulnerable and insecure in their relationships.",
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can exacerbate feelings of shame, while self-compassion may help mitigate those feelings, indicating a moderate inhibitory relationship.",
+      "pair_label": 194
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder the ability to accept loss and grief, while self-compassion may facilitate acceptance.",
+      "pair_label": 184
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can inhibit self-compassion, leading to increased fear of being alone and a greater need for external validation.",
+      "pair_label": 187
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "High self-blame can significantly contribute to a negative self-image, while self-compassion can counteract this effect.",
+      "pair_label": 190
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-blame can hinder emotional regulation and acceptance, while self-compassion may facilitate these processes.",
+      "pair_label": 195
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to unrealistic expectations, which may inhibit self-compassion and foster reliance on fantasy relationships as coping mechanisms.",
+      "pair_label": 196
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased self-blame can lead to heightened self-doubt, while self-compassion may mitigate feelings of worthlessness.",
+      "pair_label": 193
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to avoidance behaviors as individuals may seek to escape emotional pain, while self-compassion may reduce the need for avoidance.",
+      "pair_label": 183
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Higher self-blame can lead to increased feelings of envy and comparison, while self-compassion may mitigate these feelings.",
+      "pair_label": 186
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "High self-blame can inhibit the ability to set boundaries, as individuals may feel undeserving of self-care.",
+      "pair_label": 185
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can heighten fear of change and uncertainty, while self-compassion may help mitigate these fears.",
+      "pair_label": 189
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to ruminations, while self-compassion may reduce the tendency to dwell on negative past experiences.",
+      "pair_label": 191
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame often inhibits self-compassion, leading to increased feelings of guilt for past choices.",
+      "pair_label": 192
+    },
+    {
+      "input_processes": [
+        "Tension between self-compassion and self-blame",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can exacerbate feelings of loneliness and unworthiness, while self-compassion may mitigate these fears.",
+      "pair_label": 188
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can lead to seeking external validation, which may suppress feelings of shame related to self-worth and identity.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can amplify the difficulty in accepting loss, as the need for external validation may hinder the grieving process.",
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can drive individuals to seek external validation, as they may look for reassurance and acceptance from others to alleviate their anxiety.",
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone can amplify the need for external validation, which in turn reinforces a negative self-image when that validation is not received.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone often drives individuals to seek external validation, as they may rely on others' approval to mitigate their anxiety about loneliness.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation",
+        "Acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling with emotional regulation can hinder one's ability to accept emotions, as difficulty managing feelings may lead to avoidance or denial.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can drive individuals to seek external validation, as they may rely on others' approval to alleviate their anxiety about loneliness.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations",
+        "Fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Unrealistic expectations often lead individuals to create fantasy relationships, as they may idealize partners and situations that fulfill their desires without acknowledging reality.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Unrealistic expectations"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can contribute to unrealistic expectations in relationships, as individuals may overlook flaws in partners to avoid solitude.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Seeking external validation",
+        "Fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Seeking external validation can lead to the development of fantasy relationships, where individuals project their desires onto idealized versions of others.",
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone can amplify self-doubt, as individuals may question their worthiness of connection and validation.",
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone can drive individuals to avoid emotional pain, as they may seek to escape feelings of loneliness by avoiding situations that could lead to discomfort.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can lead individuals to seek external validation, which may in turn foster feelings of envy and comparison with others in relationships.",
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone can drive individuals to seek external validation, which often leads to challenges in establishing personal boundaries and prioritizing their own needs.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can amplify the fear of change and uncertainty, as individuals may cling to familiar situations to avoid isolation.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can drive individuals to seek external validation, as they may look for reassurance and acceptance from others to alleviate their anxiety.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past relationships can lead to a heightened need for external validation, as individuals may seek affirmation to cope with unresolved feelings and insecurities.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can drive individuals to seek external validation, as they may feel that approval from others alleviates their anxiety about loneliness.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Self-blame",
+        "Guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame often intensifies feelings of guilt for past choices, as individuals may ruminate on their perceived failures and shortcomings.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Fear of being alone",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of being alone can amplify the fear of being unloved, as both processes stem from a deep-seated anxiety about social isolation and lack of connection.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image often amplifies feelings of shame, as individuals may perceive themselves as unworthy or flawed, directly impacting their sense of identity.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A negative self-image can hinder the ability to process and accept grief, as individuals may struggle with feelings of worthlessness or guilt.",
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image often leads to increased self-blame, which can inhibit self-compassion.",
+      "pair_label": 111
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image can lead to increased fear of abandonment and a heightened need for external validation to compensate for low self-worth.",
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image can lead to heightened emotional distress, making it difficult to regulate emotions and accept one's feelings.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "A negative self-image can lead individuals to develop unrealistic expectations and engage in fantasy relationships as a coping mechanism to escape their perceived inadequacies.",
+      "pair_label": 112
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image often leads to increased self-doubt and questioning of one's worth, reinforcing feelings of inadequacy.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image often leads individuals to avoid situations that may trigger emotional pain, reinforcing the cycle of avoidance.",
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image can lead to feelings of inadequacy, prompting individuals to compare themselves unfavorably to others, which can intensify feelings of envy.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image can lead to feelings of unworthiness, making it difficult to assert personal needs and set boundaries.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image can lead to heightened anxiety about change, as individuals may fear that change will exacerbate their perceived flaws.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image often leads to persistent ruminations about past experiences, reinforcing feelings of inadequacy and regret.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image often leads to increased self-blame and guilt, as individuals may internalize their perceived failures and shortcomings.",
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Internalized negative self-image",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "A negative self-image can amplify feelings of loneliness and unworthiness, leading to a heightened fear of being alone and unloved.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in regulating emotions can lead to heightened feelings of shame, which negatively impacts self-worth and identity.",
+      "pair_label": 180
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with emotional regulation can amplify difficulties in accepting loss and grief, as unresolved emotions may hinder the grieving process.",
+      "pair_label": 170
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in regulating emotions can lead to increased self-blame, which inhibits self-compassion.",
+      "pair_label": 181
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in managing emotions can lead to heightened fear of loneliness, prompting a stronger need for external validation.",
+      "pair_label": 173
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in regulating emotions often leads to negative self-perceptions, reinforcing a negative self-image.",
+      "pair_label": 176
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in managing emotions can lead individuals to create unrealistic expectations and engage in fantasy relationships as a coping mechanism.",
+      "pair_label": 182
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in managing emotions can lead to increased self-doubt and feelings of worthlessness, as individuals may interpret their emotional struggles as personal failures.",
+      "pair_label": 179
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with emotional regulation often leads to increased avoidance of emotional pain, as individuals may seek to escape discomfort rather than confront it.",
+      "pair_label": 169
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in managing emotions can lead to heightened feelings of envy and comparison, as individuals may react more intensely to perceived threats in relationships.",
+      "pair_label": 172
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling with emotional regulation often leads to challenges in asserting boundaries, as individuals may prioritize others' emotions over their own needs.",
+      "pair_label": 171
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in managing emotions can heighten anxiety about change, leading to increased fear of uncertainty.",
+      "pair_label": 175
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in regulating emotions often leads to increased ruminations, as unresolved feelings can cause individuals to dwell on past experiences.",
+      "pair_label": 177
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in regulating emotions often leads to heightened self-blame and guilt, as individuals may struggle to accept their feelings and past decisions.",
+      "pair_label": 178
+    },
+    {
+      "input_processes": [
+        "Struggle with emotional regulation and acceptance",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in regulating emotions can amplify fears of abandonment, leading to heightened anxiety about being alone or unloved.",
+      "pair_label": 174
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to disappointment and shame, negatively impacting self-worth and identity.",
+      "pair_label": 208
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can hinder the acceptance of loss, as individuals may cling to idealized fantasies instead of confronting reality.",
+      "pair_label": 198
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to self-blame when those expectations are not met, which may inhibit self-compassion.",
+      "pair_label": 210
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to a heightened fear of being alone, as individuals may rely on fantasy relationships for validation, thus amplifying the need for external approval.",
+      "pair_label": 201
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to disappointment and reinforce a negative self-image when fantasies are not met.",
+      "pair_label": 204
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to difficulties in accepting reality, which may inhibit effective emotional regulation.",
+      "pair_label": 209
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to self-doubt when individuals feel they cannot meet those expectations, thereby questioning their worth.",
+      "pair_label": 207
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead individuals to engage in fantasy relationships as a means to escape or avoid confronting emotional pain and discomfort.",
+      "pair_label": 197
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead individuals to compare their relationships to idealized fantasies, fostering feelings of envy when reality does not match those expectations.",
+      "pair_label": 200
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to a lack of clarity in personal boundaries, making it difficult to prioritize one's own needs.",
+      "pair_label": 199
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to avoidance of real-life changes, as individuals may prefer the comfort of fantasy over facing uncertainties.",
+      "pair_label": 203
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to ruminating on past relationships as individuals compare their fantasies to real experiences, amplifying their focus on what went wrong.",
+      "pair_label": 205
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to self-blame and guilt when individuals feel they have failed to meet those expectations, creating a cycle of negative self-assessment.",
+      "pair_label": 206
+    },
+    {
+      "input_processes": [
+        "Unrealistic expectations and fantasy relationships",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unrealistic expectations can lead to fantasy relationships, which may amplify fears of loneliness and unlovability, as individuals may struggle to reconcile their fantasies with reality.",
+      "pair_label": 202
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can amplify feelings of shame, as questioning one's worth often leads to negative self-evaluations that are closely tied to identity.",
+      "pair_label": 151
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can hinder the ability to process grief, as questioning one's worth may lead to avoidance of emotional acceptance.",
+      "pair_label": 142
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead to increased self-blame, which may inhibit self-compassion, creating a tension between these two processes.",
+      "pair_label": 153
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can lead to a heightened fear of being alone, as individuals may seek external validation to compensate for their perceived lack of worth.",
+      "pair_label": 145
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt often leads to a questioning of personal worth, which can reinforce and contribute to the development of an internalized negative self-image.",
+      "pair_label": 148
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can lead to difficulties in managing emotions and accepting oneself, creating a cycle of emotional struggle.",
+      "pair_label": 152
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead individuals to set unrealistic expectations as a way to compensate for their perceived inadequacies, which may manifest in fantasy relationships.",
+      "pair_label": 154
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt often leads individuals to avoid situations that may challenge their self-worth, thereby suppressing emotional experiences that could be painful.",
+      "pair_label": 141
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can lead individuals to compare themselves unfavorably to others, fostering feelings of envy.",
+      "pair_label": 144
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can lead to a lack of confidence in asserting one's needs, making it difficult to set boundaries.",
+      "pair_label": 143
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-doubt can amplify fear of change, as questioning one's worth may lead to increased anxiety about uncertain outcomes.",
+      "pair_label": 147
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt often leads individuals to ruminate on past experiences, particularly those related to their self-worth, reinforcing negative thought patterns.",
+      "pair_label": 149
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can lead to increased self-blame and guilt, as individuals may question their worth and decisions, amplifying feelings of regret.",
+      "pair_label": 150
+    },
+    {
+      "input_processes": [
+        "Self-doubt and questioning of personal worth",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-doubt can lead to feelings of unworthiness, which may amplify fears of abandonment and loneliness.",
+      "pair_label": 146
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoidance of emotional pain can lead to the suppression of feelings associated with shame, impacting one's self-worth and identity.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoiding emotional pain can hinder the acceptance of loss, leading to prolonged grief.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain can lead to increased self-blame, creating tension with self-compassion.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain can lead to a heightened fear of loneliness, prompting a greater need for external validation.",
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoiding emotional pain often leads to the reinforcement of a negative self-image, as individuals may suppress feelings that contribute to self-acceptance.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoiding emotional pain often leads to difficulties in regulating and accepting emotions, as it prevents individuals from fully experiencing and processing their feelings.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain can lead individuals to create unrealistic expectations and engage in fantasy relationships as a coping mechanism.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain can lead to increased self-doubt as individuals may question their worth when they fail to confront their feelings.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain may lead to a lack of engagement in relationships, which can inhibit feelings of envy and comparison.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain can lead to challenges in asserting boundaries, as individuals may prioritize others' needs to evade discomfort.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain can reinforce the fear of change, as individuals may perceive change as a potential source of discomfort.",
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Avoiding emotional pain often leads to ruminating on past experiences as a way to cope, creating a strong inhibitory relationship.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain can lead to self-blame and guilt being suppressed, but this avoidance may also exacerbate feelings of guilt when past choices are confronted.",
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Avoidance of emotional pain and discomfort",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Avoiding emotional pain can lead to increased fear of loneliness, as individuals may withdraw from relationships to escape discomfort.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to feelings of inadequacy, which may trigger shame related to self-worth and identity.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to feelings of inadequacy, which may inhibit the ability to process and accept loss, complicating grief.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to self-blame, which may inhibit self-compassion.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to a heightened fear of being alone, as individuals may seek external validation to mitigate feelings of inadequacy.",
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Envy and comparison can lead to a negative self-image as individuals often measure their worth against others, amplifying feelings of inadequacy.",
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to difficulties in accepting one's emotions, thereby inhibiting emotional regulation.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to unrealistic expectations, as individuals may fantasize about idealized relationships based on perceived shortcomings in their own.",
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to self-doubt by highlighting perceived deficiencies in one's own worth relative to others.",
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead individuals to avoid confronting emotional pain by focusing on others' perceived advantages, thus suppressing their own feelings.",
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to feelings of inadequacy, which may inhibit one's ability to set boundaries and prioritize self-care.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy can lead to comparisons that heighten feelings of uncertainty about one's own situation, which may amplify fear of change.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can trigger ruminations about past relationships, as individuals reflect on perceived inadequacies or losses.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can lead to self-blame and guilt, as individuals may feel inadequate or regretful about their past choices in light of perceived shortcomings.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Envy and comparison in relationships",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Envy and comparison can amplify feelings of inadequacy, leading to a heightened fear of being alone and unloved.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to set boundaries can lead to feelings of shame, as individuals may feel unworthy or inadequate when they prioritize others over themselves.",
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to set boundaries can lead to unresolved grief, as individuals may avoid processing loss to prioritize others' needs.",
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to set boundaries can lead to increased self-blame and reduced self-compassion, creating tension between these two processes.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to set boundaries often leads to a heightened fear of abandonment, driving the need for external validation.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to set boundaries often leads to neglecting one's own needs, which can reinforce a negative self-image.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Difficulty in setting boundaries often leads to emotional overwhelm, making it harder to regulate emotions and accept feelings.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to set boundaries can lead to unrealistic expectations and the creation of fantasy relationships as a coping mechanism.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to set boundaries often leads to feelings of inadequacy and self-doubt, as individuals may feel they are not deserving of respect or care.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to set boundaries often leads to avoidance of emotional pain, as individuals may prioritize others' needs over their own, resulting in emotional discomfort.",
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to set boundaries can lead to feelings of inadequacy and comparison with others, fostering envy.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to set boundaries can lead to increased anxiety about change, as individuals may feel overwhelmed by external demands and fear the consequences of asserting themselves.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to set boundaries can lead to increased ruminations as individuals may dwell on past interactions and unresolved issues.",
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggling to set boundaries can lead to feelings of self-blame and guilt when individuals feel they have failed to prioritize their own needs.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Difficulty in setting boundaries and prioritizing self",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Struggling to set boundaries often leads to increased fear of abandonment, as individuals may feel they must please others to avoid loneliness.",
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change can inhibit self-worth by fostering shame when individuals feel inadequate in adapting to new situations.",
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change and uncertainty can amplify the difficulty in accepting loss and grief, as both involve confronting the unknown and the emotional distress associated with transitions.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change and uncertainty can lead to increased self-blame, which may inhibit self-compassion, creating a tension between these two processes.",
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change and uncertainty can amplify the fear of being alone, as individuals may seek external validation to cope with their anxiety about change.",
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change and uncertainty can amplify negative self-perceptions, as individuals may internalize their fears as personal inadequacies.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of change and uncertainty can lead to heightened emotional distress, making it difficult to regulate emotions and accept situations.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change can lead individuals to create unrealistic expectations and engage in fantasy relationships as a coping mechanism to avoid confronting their anxieties.",
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of change and uncertainty can amplify self-doubt and questioning of personal worth, as individuals may feel inadequate or insecure when faced with unfamiliar situations.",
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of change and uncertainty often leads individuals to avoid situations that may cause emotional pain or discomfort, reinforcing the avoidance behavior.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change can lead individuals to compare themselves to others, fostering feelings of envy when they perceive others as having more stable or desirable situations.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change and uncertainty can lead to difficulties in setting boundaries and prioritizing self, as individuals may avoid making decisions that could disrupt their comfort.",
+      "pair_label": 87
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change and uncertainty can lead to ruminating on past experiences as a way to avoid confronting new situations.",
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change and uncertainty can lead individuals to engage in self-blame and guilt for past choices, as they may ruminate on previous decisions that contributed to their current discomfort.",
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Fear of change and uncertainty",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of change and uncertainty can amplify feelings of loneliness and unworthiness, as individuals may avoid social situations due to anxiety about change, leading to increased fear of being alone.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past relationships often amplifies feelings of shame, as individuals may dwell on perceived failures or shortcomings that affect their self-worth.",
+      "pair_label": 123
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past relationships can intensify feelings of loss and hinder the acceptance of grief.",
+      "pair_label": 114
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ruminating on past experiences can lead to increased self-blame, which may inhibit self-compassion.",
+      "pair_label": 125
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past relationships can intensify feelings of loneliness and the need for external validation, as individuals may dwell on their perceived inadequacies and fear of abandonment.",
+      "pair_label": 117
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past relationships often reinforces negative beliefs about oneself, leading to a more entrenched negative self-image.",
+      "pair_label": 120
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past experiences often intensifies emotional distress, making it harder to regulate emotions and accept feelings.",
+      "pair_label": 124
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ruminating on past relationships can lead to the development of unrealistic expectations and fantasies about future relationships, as individuals may idealize past experiences.",
+      "pair_label": 126
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past relationships often leads to negative self-assessment, amplifying feelings of self-doubt and questioning personal worth.",
+      "pair_label": 122
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past experiences often leads to increased emotional pain, which can trigger avoidance behaviors as a coping mechanism.",
+      "pair_label": 113
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Ruminating on past relationships can lead to feelings of envy and comparison, as individuals may reflect on what they perceive as shortcomings in their current relationships.",
+      "pair_label": 116
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past experiences can lead to a lack of clarity and confidence in setting boundaries, thereby inhibiting the ability to prioritize oneself.",
+      "pair_label": 115
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past experiences can amplify fears about change and uncertainty, as individuals may dwell on negative outcomes or unresolved issues, reinforcing their anxiety.",
+      "pair_label": 119
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past experiences often leads to increased self-blame and guilt, as individuals may focus on perceived mistakes and negative outcomes.",
+      "pair_label": 121
+    },
+    {
+      "input_processes": [
+        "Ruminations on past relationships and experiences",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Ruminating on past relationships can intensify feelings of loneliness and fear of being unloved, as it often leads to negative self-reflection and anxiety about social connections.",
+      "pair_label": 118
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt can intensify feelings of shame, as individuals may perceive their past choices as reflections of their worth, thereby reinforcing a negative self-identity.",
+      "pair_label": 137
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and guilt can amplify feelings of grief, making it harder to accept loss.",
+      "pair_label": 128
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt can create significant tension with self-compassion, as the former often suppresses the ability to be kind to oneself.",
+      "pair_label": 139
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and guilt can lead to increased fear of abandonment and a heightened need for external validation as individuals seek reassurance to alleviate their negative feelings.",
+      "pair_label": 131
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt can significantly contribute to the development of a negative self-image, as individuals may internalize their perceived failures and shortcomings.",
+      "pair_label": 134
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt can intensify emotional distress, making it harder to regulate emotions and accept experiences.",
+      "pair_label": 138
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and guilt can lead individuals to develop unrealistic expectations and engage in fantasy relationships as a coping mechanism to escape from their feelings of inadequacy.",
+      "pair_label": 140
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt can lead to increased self-doubt and questioning of personal worth, as individuals may internalize their perceived failures.",
+      "pair_label": 136
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt often lead individuals to avoid confronting their emotional pain, as they may feel overwhelmed by negative feelings associated with their past choices.",
+      "pair_label": 127
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and guilt can lead to feelings of inadequacy, which may inhibit the ability to engage in healthy comparisons and foster envy in relationships.",
+      "pair_label": 130
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt can lead to a diminished sense of self-worth, making it challenging to assert boundaries and prioritize personal needs.",
+      "pair_label": 129
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and guilt can lead to a reluctance to embrace change, as individuals may fear repeating past mistakes.",
+      "pair_label": 133
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-blame and guilt often lead to persistent ruminations about past relationships and experiences, reinforcing negative thought patterns.",
+      "pair_label": 135
+    },
+    {
+      "input_processes": [
+        "Self-blame and guilt for past choices",
+        "Fear of being alone and unloved"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame and guilt can amplify feelings of fear regarding abandonment and unworthiness, leading to increased anxiety about being alone.",
+      "pair_label": 132
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Shame tied to self-worth and identity"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can amplify feelings of shame, as individuals may associate their loneliness with a lack of self-worth.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Difficulty in accepting loss and grief"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone and unloved can amplify the difficulty in accepting loss and grief, as the fear may hinder emotional processing and acceptance.",
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Tension between self-compassion and self-blame"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone and unloved can lead to increased self-blame, which may inhibit self-compassion, creating tension between these processes.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Fear of being alone and seeking external validation"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of being alone and unloved can amplify the fear of being alone and seeking external validation, as both fears stem from a deep-seated anxiety about social rejection and the need for acceptance.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Internalized negative self-image"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone and unloved can amplify negative self-perceptions, leading to a more pronounced internalized negative self-image.",
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Struggle with emotional regulation and acceptance"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone and unloved can heighten emotional distress, leading to difficulties in regulating emotions and accepting one's feelings.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Unrealistic expectations and fantasy relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone can lead individuals to develop unrealistic expectations and engage in fantasy relationships as a coping mechanism.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Self-doubt and questioning of personal worth"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone and unloved can amplify self-doubt and questioning of personal worth, as individuals may feel inadequate or unworthy of love.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Avoidance of emotional pain and discomfort"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "The fear of being alone and unloved can lead to a heightened desire to avoid emotional pain, as individuals may seek to prevent feelings of rejection or abandonment.",
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Envy and comparison in relationships"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone and unloved can lead to feelings of envy and comparison in relationships, as individuals may feel inadequate or threatened by others' connections.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Difficulty in setting boundaries and prioritizing self"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone and unloved can lead to difficulty in setting boundaries, as individuals may prioritize others' needs over their own to avoid rejection.",
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Fear of change and uncertainty"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of being alone and unloved can amplify the fear of change and uncertainty, as individuals may perceive changes as potential threats to their social connections and emotional security.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Ruminations on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Fear of being alone and unloved can lead to increased ruminations on past relationships, as individuals may obsessively reflect on previous connections to alleviate their anxiety.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Fear of being alone and unloved",
+        "Self-blame and guilt for past choices"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Fear of abandonment can lead to self-blame and guilt, as individuals may internalize their fears and attribute their loneliness to personal failures.",
+      "pair_label": 79
+    }
+  ]
+}

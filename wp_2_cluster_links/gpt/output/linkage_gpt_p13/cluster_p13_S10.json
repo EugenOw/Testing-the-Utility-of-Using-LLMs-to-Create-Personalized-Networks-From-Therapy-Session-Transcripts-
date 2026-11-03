@@ -1,0 +1,1594 @@
+{
+  "relationships": [
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 29
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence in recognizing issues may inhibit effective self-regulation, as overconfidence can lead to underestimating the need for moderation.",
+      "pair_label": 25
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence in recognizing issues may reduce indecision and rumination, thereby decreasing procrastination.",
+      "pair_label": 27
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased confidence in recognizing issues may reduce self-critical thoughts, as individuals feel more capable and less prone to negative self-assessment.",
+      "pair_label": 23
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 30
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence in recognizing issues can enhance the ability to challenge thoughts and accept emotions, facilitating exposure and anxiety reduction.",
+      "pair_label": 22
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Confidence in recognizing issues may lead to a tendency to overlook personal limitations, which can increase self-blame; accepting limitations can counteract this.",
+      "pair_label": 21
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 24
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 26
+    },
+    {
+      "input_processes": [
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria.",
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Increased confidence in recognizing issues can enhance the ability to reflect on past experiences, leading to better pattern recognition in relationships.",
+      "pair_label": 28
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 93
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Establishing control through restriction may help mitigate broader self-regulation issues, but the effectiveness can vary.",
+      "pair_label": 96
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 98
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 94
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 100
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 92
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Establishing control over eating can enhance self-acceptance and reduce self-blame, fostering self-compassion.",
+      "pair_label": 91
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 95
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 97
+    },
+    {
+      "input_processes": [
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating.",
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 99
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Confidence in recognizing something wrong in the moment"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-regulation may undermine confidence in recognizing issues, as lack of control can lead to uncertainty in judgment.",
+      "pair_label": 53
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Restricting oneself to one dessert a day"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-regulation can lead to attempts to impose control through restrictions, such as limiting dessert intake.",
+      "pair_label": 59
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Procrastination"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-regulation may lead to procrastination as both involve challenges in self-control and decision-making.",
+      "pair_label": 57
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Critical thoughts about oneself and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-regulation may lead to critical self-reflection, which can perpetuate negative thoughts and hinder self-control.",
+      "pair_label": 54
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Self-blame"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 60
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Challenging thoughts and accepting uncomfortable emotions"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 52
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Accepting one's limitations and imperfections"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-regulation may lead to increased self-blame, while accepting limitations can mitigate this self-criticism, promoting self-compassion.",
+      "pair_label": 51
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Difficulty articulating feelings"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Struggles with self-regulation may inhibit the ability to articulate feelings, as both involve challenges in managing impulses and expressing emotions.",
+      "pair_label": 55
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Exploring the impact of surprises on relationships"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 56
+    },
+    {
+      "input_processes": [
+        "Difficulty with self-regulation of sugar intake",
+        "Reflecting on past relationships and experiences"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 58
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Confidence in recognizing something wrong in the moment"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 73
+    },
+    {
+      "input_processes": [
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 79
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Difficulty with self-regulation of sugar intake"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination may lead to difficulties in self-regulation, as indecision and rumination can undermine self-control efforts.",
+      "pair_label": 76
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Critical thoughts about oneself and others"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination can lead to critical thoughts as individuals may ruminate on their indecision, reinforcing a self-critical cycle.",
+      "pair_label": 74
+    },
+    {
+      "input_processes": [
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall.",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination and rumination can lead to feelings of overwhelm, which may trigger self-blame as a coping strategy, thereby inhibiting proactive problem-solving.",
+      "pair_label": 80
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Challenging thoughts and accepting uncomfortable emotions"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 72
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Accepting one's limitations and imperfections"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 71
+    },
+    {
+      "input_processes": [
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall.",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination and rumination can lead to avoidance of emotional expression, inhibiting the ability to articulate feelings.",
+      "pair_label": 75
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Exploring the impact of surprises on relationships"
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 77
+    },
+    {
+      "input_processes": [
+        "Procrastination",
+        "Reflecting on past relationships and experiences"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Procrastination can lead to avoidance of reflection, which may inhibit the ability to identify patterns that contribute to the interpersonal wall.",
+      "pair_label": 78
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 33
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 39
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-critical thoughts can undermine self-control, making it harder to regulate behaviors like sugar intake.",
+      "pair_label": 35
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-critical thoughts can lead to rumination and indecision, which may contribute to procrastination, thereby reinforcing the interpersonal wall.",
+      "pair_label": 37
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-critical thoughts can lead to self-blame, which may inhibit healthier coping strategies and reinforce feelings of overwhelm.",
+      "pair_label": 40
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-critical thoughts can inhibit the ability to challenge negative beliefs and accept emotions, which are necessary for reducing anxiety.",
+      "pair_label": 32
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Self-critical thoughts can hinder acceptance of limitations, while acceptance promotes self-compassion, counteracting the self-critical cycle.",
+      "pair_label": 31
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-critical thoughts can inhibit the ability to express feelings, as they may lead to emotional suppression and difficulty in articulating emotions.",
+      "pair_label": 34
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 36
+    },
+    {
+      "input_processes": [
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall.",
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Critical thoughts can hinder the ability to reflect on past experiences, making it difficult to identify and address underlying patterns.",
+      "pair_label": 38
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 103
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "weak"
+      ],
+      "explanation": "Self-blame may lead to feelings of guilt that inhibit the ability to maintain control over eating behaviors.",
+      "pair_label": 110
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame may lead to negative emotions that hinder effective self-regulation and exacerbate struggles with moderation.",
+      "pair_label": 106
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can lead to increased anxiety and overwhelm, which may contribute to procrastination as a way to avoid confronting these feelings, thus inhibiting decision-making.",
+      "pair_label": 108
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can reinforce critical thoughts, perpetuating a cycle of self-criticism and emotional distress.",
+      "pair_label": 104
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame can hinder the ability to challenge negative thoughts and accept uncomfortable emotions, which are essential for effective anxiety management.",
+      "pair_label": 102
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Accepting limitations can counteract self-blame, promoting self-compassion and reducing anxiety.",
+      "pair_label": 101
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame may inhibit the ability to articulate feelings, as it can lead to avoidance of deeper emotional expression.",
+      "pair_label": 105
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 107
+    },
+    {
+      "input_processes": [
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety.",
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-blame may hinder effective reflection on past experiences by fostering negative emotions, which can obstruct the identification of patterns.",
+      "pair_label": 109
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging thoughts and accepting emotions can enhance confidence in recognizing issues, as it fosters self-awareness and critical evaluation of situations.",
+      "pair_label": 12
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 19
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 15
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging thoughts and accepting emotions can reduce anxiety, which may help mitigate procrastination driven by indecision and rumination.",
+      "pair_label": 17
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Challenging negative thoughts and accepting emotions can disrupt the self-critical cycle, reducing anxiety and promoting healthier interpersonal interactions.",
+      "pair_label": 13
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging thoughts and accepting emotions can reduce anxiety, which may inhibit the tendency to self-blame as a coping mechanism.",
+      "pair_label": 20
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Both processes involve acceptance and cognitive restructuring, which can enhance emotional resilience and reduce anxiety.",
+      "pair_label": 11
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Challenging thoughts and accepting emotions can help individuals process and articulate feelings, potentially reducing the manifestation of unexpressed emotions.",
+      "pair_label": 14
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 16
+    },
+    {
+      "input_processes": [
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety.",
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 18
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion can enhance confidence in one's judgment by reducing fear of failure, thereby facilitating better recognition of issues.",
+      "pair_label": 2
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 9
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may reduce the negative emotions associated with failure in self-regulation, potentially leading to better self-control.",
+      "pair_label": 5
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-acceptance may reduce the tendency to procrastinate by alleviating the fear of failure and indecision, thus counteracting rumination.",
+      "pair_label": 7
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "strong"
+      ],
+      "explanation": "Accepting limitations reduces self-blame, which counteracts critical thoughts and the self-critical cycle.",
+      "pair_label": 3
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Accepting limitations can reduce the tendency to self-blame, which is often a response to anxiety.",
+      "pair_label": 10
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Accepting limitations fosters self-compassion, which can enhance the ability to challenge negative thoughts and accept emotions, thereby facilitating anxiety reduction.",
+      "pair_label": 1
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 4
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 6
+    },
+    {
+      "input_processes": [
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion.",
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Self-compassion may facilitate a more open reflection on past experiences, allowing for better understanding of interpersonal patterns.",
+      "pair_label": 8
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 43
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 49
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can hinder self-regulation, leading to difficulties in controlling impulses such as sugar intake.",
+      "pair_label": 45
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can lead to indecision and rumination, contributing to procrastination and reinforcing emotional barriers.",
+      "pair_label": 47
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can lead to self-criticism, which inhibits emotional expression and reinforces the interpersonal wall.",
+      "pair_label": 44
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing emotions can lead to self-blame as a way to cope with the resulting anxiety, suggesting a suppressive relationship.",
+      "pair_label": 50
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Unexpressed emotions can hinder the ability to challenge thoughts and accept uncomfortable emotions, which are necessary for effective anxiety reduction.",
+      "pair_label": 42
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Difficulty in expressing feelings may hinder acceptance of limitations, leading to increased self-blame, while acceptance can promote emotional expression.",
+      "pair_label": 41
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 46
+    },
+    {
+      "input_processes": [
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past.",
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can facilitate the expression of previously unarticulated emotions, thereby reducing the interpersonal wall.",
+      "pair_label": 48
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Building resilience and trust through managing surprises can enhance confidence in recognizing issues, as both processes involve adaptive responses to uncertainty.",
+      "pair_label": 63
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 69
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 66
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Surprises can disrupt the flow of relationships, potentially leading to procrastination as individuals may ruminate on unexpected events, thereby inhibiting relationship development.",
+      "pair_label": 67
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Surprises can challenge critical thoughts, promoting resilience and trust, which may counteract the self-critical cycle.",
+      "pair_label": 64
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 70
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Surprises can challenge existing beliefs and emotional responses, promoting resilience and facilitating the acceptance of uncomfortable emotions, which in turn aids in reducing anxiety.",
+      "pair_label": 62
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Building resilience through understanding surprises can enhance self-compassion by fostering acceptance of imperfections.",
+      "pair_label": 61
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Surprises can challenge emotional expression, leading to difficulties in articulating feelings, especially if past emotions remain unaddressed.",
+      "pair_label": 65
+    },
+    {
+      "input_processes": [
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust.",
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Surprises can prompt reflection on past experiences, enhancing understanding of relationship dynamics and fostering resilience.",
+      "pair_label": 68
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall",
+        "Confidence in recognizing something wrong in the moment is linked to trusting one's ability to identify all relevant criteria"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can enhance self-awareness, which in turn boosts confidence in recognizing current issues.",
+      "pair_label": 83
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall.",
+        "Restricting oneself to one dessert a day is a way to establish a sense of control over overeating."
+      ],
+      "connection": [
+        0
+      ],
+      "pair_label": 89
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall.",
+        "Difficulty with self-regulation of sugar intake is connected to broader struggles with self-control and moderation."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences may reveal patterns that inhibit self-regulation by highlighting emotional triggers related to sugar intake.",
+      "pair_label": 86
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall.",
+        "Procrastination is linked to indecision and rumination, which in turn strengthens the interpersonal wall."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences may reduce procrastination by clarifying decisions, thereby weakening the interpersonal wall.",
+      "pair_label": 88
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall",
+        "Critical thoughts about oneself and others are part of a self-critical cycle that maintains the interpersonal wall"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences may lead to insights that counteract self-critical thoughts, thereby weakening the self-critical cycle.",
+      "pair_label": 84
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall",
+        "Self-blame is a coping mechanism for feelings of overwhelm and anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "inhibitory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences may reduce self-blame by providing insights into patterns, thus alleviating feelings of overwhelm and anxiety.",
+      "pair_label": 90
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall",
+        "Challenging thoughts and accepting uncomfortable emotions are crucial for behavioral exposures and reducing anxiety"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can enhance the ability to challenge negative thoughts and accept emotions, facilitating anxiety reduction.",
+      "pair_label": 82
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall.",
+        "Accepting one's limitations and imperfections can help reduce self-blame and increase self-compassion."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can lead to greater self-awareness, which may facilitate acceptance of limitations and foster self-compassion.",
+      "pair_label": 81
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall",
+        "Difficulty articulating feelings is a manifestation of unexpressed emotions from the past"
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Reflecting on past experiences can enhance awareness of unexpressed emotions, potentially aiding in the articulation of feelings.",
+      "pair_label": 85
+    },
+    {
+      "input_processes": [
+        "Reflecting on past relationships and experiences can help identify patterns and themes that contribute to the formation of the interpersonal wall.",
+        "Exploring the impact of surprises on relationships is essential for building resilience and trust."
+      ],
+      "connection": [
+        1
+      ],
+      "relationship_type": [
+        "excitatory"
+      ],
+      "strength_of_relationship": [
+        "moderate"
+      ],
+      "explanation": "Understanding past experiences can enhance the ability to navigate surprises, fostering resilience and trust in relationships.",
+      "pair_label": 87
+    }
+  ]
+}
